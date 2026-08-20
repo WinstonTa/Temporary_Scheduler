@@ -1,3 +1,23 @@
+"""
+ From my Own Branch how to push to main:
+ git push --set-upstream origin jason
+
+ git status -> check if any commits unpushed 
+
+ Go to Main:
+ git checkout main
+
+ Then Pull in main
+ git pull origin main -> pulling from other branches
+
+ Then Go back to your branch:
+ git checkout jason
+
+ Merge with Main 
+ git merge main
+
+"""
+
 import requests
 import base64
 
