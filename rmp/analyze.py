@@ -36,33 +36,69 @@ Required sections:
 
 
 def analyze_professor(payload: dict[str, Any], *, skip_llm: bool = False) -> str:
-    if skip_llm or not os.getenv("GEMINI_API_KEY"):
+    if skip_llm or not _load_api_key():
         return _stats_briefing(payload)
     return _gemini_briefing(payload)
 
 
 def llm_configured(skip_llm: bool = False) -> bool:
-    return (not skip_llm) and bool(os.getenv("GEMINI_API_KEY"))
+    return (not skip_llm) and bool(_load_api_key())
+
+
+def _load_api_key() -> str:
+    return (os.getenv("GEMINI_API_KEY") or "").strip().strip('"').strip("'")
 
 
 def _gemini_briefing(payload: dict[str, Any]) -> str:
     from google import genai
+    from google.genai.errors import ClientError
 
+    api_key = _load_api_key()
     model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
-    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
     compact = _compact_for_llm(payload)
-    response = client.models.generate_content(
-        model=model,
-        contents=(
-            SYSTEM_PROMPT
-            + "\n\nHere is the extracted RateMyProfessors data as JSON:\n\n"
-            + json.dumps(compact, ensure_ascii=False, indent=2)
-        ),
+    contents = (
+        SYSTEM_PROMPT
+        + "\n\nHere is the extracted RateMyProfessors data as JSON:\n\n"
+        + json.dumps(compact, ensure_ascii=False, indent=2)
     )
-    text = (response.text or "").strip()
-    if not text:
-        raise RuntimeError("Gemini returned an empty response.")
-    return text + "\n"
+
+    last_error: Exception | None = None
+    for vertexai in (False, True):
+        try:
+            client = genai.Client(api_key=api_key, vertexai=vertexai)
+            response = client.models.generate_content(model=model, contents=contents)
+            text = (response.text or "").strip()
+            if not text:
+                raise RuntimeError("Gemini returned an empty response.")
+            return text + "\n"
+        except ClientError as exc:
+            last_error = exc
+            if not _is_auth_error(exc):
+                raise RuntimeError(f"Gemini request failed: {exc}") from exc
+            continue
+
+    raise RuntimeError(_gemini_auth_help(last_error, api_key)) from last_error
+
+
+def _is_auth_error(exc: Exception) -> bool:
+    text = str(exc)
+    return (
+        "401" in text
+        or "UNAUTHENTICATED" in text
+        or "ACCESS_TOKEN_TYPE_UNSUPPORTED" in text
+        or "API_KEY_INVALID" in text
+    )
+
+
+def _gemini_auth_help(exc: Exception | None, api_key: str) -> str:
+    kind = "new AI Studio auth key (AQ.)" if api_key.startswith("AQ.") else "API key"
+    return (
+        "Gemini rejected this API key. "
+        f"The value in GEMINI_API_KEY looks like a {kind}. "
+        "Put a Gemini API key from https://aistudio.google.com/apikey into `.env`, "
+        "then restart the Flask server. "
+        f"Details: {exc}"
+    )
 
 
 def _compact_for_llm(payload: dict[str, Any], max_reviews: int = 80) -> dict[str, Any]:

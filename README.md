@@ -1,6 +1,6 @@
 # Temporary Scheduler
 
-Proof-of-concept slice of a larger course-recommendation project. This round only handles **one RateMyProfessors professor URL**: scrape public GraphQL data, write a JSON dump, then write a markdown briefing. A later step will add Gemini analysis of that JSON (and a real UI after that).
+Proof-of-concept slice of a larger course-recommendation project. This round only handles **one RateMyProfessors professor URL**: scrape public GraphQL data, write a JSON dump, then write a markdown briefing with Gemini.
 
 ## What you get
 
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 copy .env.example .env
 ```
 
-Gemini is optional right now. Leave `GEMINI_API_KEY` empty to test scraping. When you are ready, put a key from [Google AI Studio](https://aistudio.google.com/apikey) in `.env`.
+Put a Gemini API key from [Google AI Studio](https://aistudio.google.com/apikey) into `.env` as `GEMINI_API_KEY`. Then restart `python app.py`. Leave the key empty to test scraping only.
 
 ## Run the tiny UI
 
@@ -46,4 +46,4 @@ This is an unofficial API and can change without notice. Be gentle with request 
 
 ## LLM hook
 
-`rmp/analyze.py` is the file we will iterate on next. It already calls Gemini when `GEMINI_API_KEY` is set and otherwise writes a stats-only markdown file so the rest of the pipeline can be tested now.
+`rmp/analyze.py` calls Gemini when `GEMINI_API_KEY` is set. The default model is `gemini-2.5-flash`; override it with `GEMINI_MODEL` in `.env` if you want a different Gemini model.

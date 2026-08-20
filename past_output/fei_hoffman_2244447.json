@@ -1,0 +1,1155 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2244447",
+    "scraped_at": "2026-08-20T07:01:43.335382+00:00",
+    "graphql_id": "VGVhY2hlci0yMjQ0NDQ3",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2244447,
+    "first_name": "Fei",
+    "last_name": "Hoffman",
+    "full_name": "Fei Hoffman",
+    "department": "Computer Engineering  Computer Science",
+    "avg_rating": 1.5,
+    "avg_difficulty": 3.1,
+    "num_ratings_listed": 32,
+    "would_take_again_percent": 17.6,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 11,
+        "courseName": "491A"
+      },
+      {
+        "courseCount": 8,
+        "courseName": "491B"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS174"
+      },
+      {
+        "courseCount": 4,
+        "courseName": "CECS343"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS453"
+      },
+      {
+        "courseCount": 7,
+        "courseName": "CECS491"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 34,
+    "avg_quality": 1.53,
+    "avg_difficulty": 3.03,
+    "would_take_again_percent": 46.2,
+    "online_percent": 2.9,
+    "tag_counts": [
+      {
+        "name": "Group projects",
+        "count": 17
+      },
+      {
+        "name": "Tough grader",
+        "count": 10
+      },
+      {
+        "name": "Participation matters",
+        "count": 7
+      },
+      {
+        "name": "Get ready to read",
+        "count": 4
+      },
+      {
+        "name": "Lots of homework",
+        "count": 3
+      },
+      {
+        "name": "Graded by few things",
+        "count": 3
+      },
+      {
+        "name": "So many papers",
+        "count": 2
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 2
+      },
+      {
+        "name": "TEST HEAVY",
+        "count": 2
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 1
+      },
+      {
+        "name": "Caring",
+        "count": 1
+      },
+      {
+        "name": "Skip class? You won't pass.",
+        "count": 1
+      },
+      {
+        "name": "Test heavy",
+        "count": 1
+      },
+      {
+        "name": "GRADED BY FEW THINGS",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 16
+      },
+      {
+        "name": "A+",
+        "count": 3
+      },
+      {
+        "name": "B+",
+        "count": 2
+      },
+      {
+        "name": "B",
+        "count": 2
+      },
+      {
+        "name": "A-",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 4,
+      "2": 10,
+      "3": 9,
+      "4": 3,
+      "5": 8
+    },
+    "attendance": {
+      "mandatory": 28,
+      "non mandatory": 5
+    },
+    "courses": [
+      {
+        "course": "491A",
+        "review_count": 11,
+        "avg_quality": 1.64,
+        "avg_difficulty": 3.09,
+        "would_take_again_percent": 66.7,
+        "top_tags": [
+          {
+            "name": "Group projects",
+            "count": 9
+          },
+          {
+            "name": "Tough grader",
+            "count": 3
+          },
+          {
+            "name": "So many papers",
+            "count": 2
+          },
+          {
+            "name": "Participation matters",
+            "count": 2
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          },
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "491B",
+        "review_count": 8,
+        "avg_quality": 1.25,
+        "avg_difficulty": 3.5,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Tough grader",
+            "count": 6
+          },
+          {
+            "name": "Group projects",
+            "count": 3
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS491",
+        "review_count": 7,
+        "avg_quality": 2.14,
+        "avg_difficulty": 2.71,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Group projects",
+            "count": 3
+          },
+          {
+            "name": "Participation matters",
+            "count": 3
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS343",
+        "review_count": 4,
+        "avg_quality": 1.25,
+        "avg_difficulty": 2.75,
+        "would_take_again_percent": 0.0,
+        "top_tags": [
+          {
+            "name": "TEST HEAVY",
+            "count": 2
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          },
+          {
+            "name": "Group projects",
+            "count": 1
+          },
+          {
+            "name": "Get ready to read",
+            "count": 1
+          },
+          {
+            "name": "GRADED BY FEW THINGS",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS453",
+        "review_count": 2,
+        "avg_quality": 1.0,
+        "avg_difficulty": 2.5,
+        "would_take_again_percent": null,
+        "top_tags": [
+          {
+            "name": "Get ready to read",
+            "count": 2
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          },
+          {
+            "name": "Group projects",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS174",
+        "review_count": 2,
+        "avg_quality": 1.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 0.0,
+        "top_tags": [
+          {
+            "name": "Participation matters",
+            "count": 2
+          },
+          {
+            "name": "Test heavy",
+            "count": 1
+          },
+          {
+            "name": "Tough grader",
+            "count": 1
+          },
+          {
+            "name": "Get ready to read",
+            "count": 1
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQzMDczNDM5",
+      "legacy_id": 43073439,
+      "date": "2026-05-08 19:49:52 +0000 UTC",
+      "course": "491B",
+      "comment": "easy to pass so long as you take time to read the instructions and ask clarifying questions. very nitpicky tho, so follow instructions closely and ask qs abt anything vague. attendance is mandatory, but once u get a certain amount of points you can skip as much as u want, so its not a huge deal. just be proactive w/ questions and ull be fine",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Tough grader",
+        "Group projects"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQzMDcxODc3",
+      "legacy_id": 43071877,
+      "date": "2026-05-08 17:25:05 +0000 UTC",
+      "course": "491B",
+      "comment": "nice prof but grades things arbitrarily. changes up the guidelines for her grading on a whim and marks points off for things as small as the size of text on ur work report. made us watch prerecorded lectures and doesn't really teach. has a weird attendance grading system, so def be there for attendance as much as possible.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Tough grader",
+        "Group projects"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyOTgyMTIw",
+      "legacy_id": 42982120,
+      "date": "2026-04-30 15:53:52 +0000 UTC",
+      "course": "491B",
+      "comment": "Makes 3 groups participate in a contest at the school. She says it's optional, but it doesn't seem like it. The whole semester she doesn't help any group. Everyone learns on their own. In the contest though, she attempts to take credit for your project even though she didn't do anything to help you.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Group projects"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyODY3OTE4",
+      "legacy_id": 42867918,
+      "date": "2026-04-19 00:12:04 +0000 UTC",
+      "course": "491B",
+      "comment": "You will pass as long as you follow her directions. However those directions are super complicated and she never is willing to change your grade no matter what. 40% of your grade is determined by a Work Report where she has her own complicated formula to see what grade you deserve. Too much work for a project she wont stay awake to even listen too",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Tough grader",
+        "Lots of homework"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyODM4MTY2",
+      "legacy_id": 42838166,
+      "date": "2026-04-14 23:24:48 +0000 UTC",
+      "course": "491B",
+      "comment": "The class isn't hard it's just annoying. She makes arbitrary decisions about grades and doesn't change her mind even when she's wrong, doesn't pay attention during mandatory group presentations, plays pre-recorded lectures during class, and the content is 90% common sense. Attendance is mandatory even though most lectures are over in 10-20 minutes.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Tough grader"
+      ],
+      "grade": "A+",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyNzkxMzg1",
+      "legacy_id": 42791385,
+      "date": "2026-04-07 15:46:32 +0000 UTC",
+      "course": "491A",
+      "comment": "After placing a grade in Canvas, if she thinks it is correct, you will never get it changed regardless of how detailed your explanation is proving that she is incorrect. Has no empathy towards students, very opinionated.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyNzE1ODk1",
+      "legacy_id": 42715895,
+      "date": "2026-03-19 17:34:48 +0000 UTC",
+      "course": "491A",
+      "comment": "This is my first rating on RMP, thats how not good she is. Assigns a lot of tedious assignments, and takes away huge points for pointless things like \"font too small\" and not the work itself. Like zoom in? She's doesn't care and doesn't listen to student's reasoning behind their work. She should honestly be retire bc her behavior is not it fr fr",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Group projects"
+      ],
+      "grade": "A-",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyNzE1ODg4",
+      "legacy_id": 42715888,
+      "date": "2026-03-19 17:32:52 +0000 UTC",
+      "course": "491B",
+      "comment": "Avoid her at all costs. Belittles everything you do and is disrespectful. Literally ate chips as we presented our progress. A lot of tedious work that she doesn't look at, and grades are based on whatever she feels like atm. Argues with students and shows pre-recorded lecture videos only in the first two weeks of school.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyNjkyOTU0",
+      "legacy_id": 42692954,
+      "date": "2026-03-12 19:09:00 +0000 UTC",
+      "course": "491B",
+      "comment": "Probably one of the worse professors i've ever experienced. Doesn't lecture at all, just sits at her desk and plays old record videos. ALL instructions or any assignments are unclear and confusing. You have to argue the work that you did for every assignment and she belittles all the work you do. Saying your struggles arent relevant. AVOID!",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Graded by few things"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyNjY3MDY0",
+      "legacy_id": 42667064,
+      "date": "2026-03-04 21:59:54 +0000 UTC",
+      "course": "491B",
+      "comment": "Raises her voice when speaking to groups about their monthly reports. Gets angry and upset, unwilling to understand the students perspective of what they're trying to achieve. Either you do something she understands, or she will raise her voice at your group. All her directions posted on canvas is extremely complicated to follow.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyNjUwNTI3",
+      "legacy_id": 42650527,
+      "date": "2026-02-27 05:29:07 +0000 UTC",
+      "course": "CECS491",
+      "comment": "This has got to be one of the worst professors on the planet. Plays prerecorded lectures, doesn't pay attention to your presentation about your project. At times shes falling asleep too. She doesn't help you at all with her own Ai generated rubrics and claims she knows better because she had &#8220;30 years&#8221;experience as a software dev, 20 years ago.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Group projects"
+      ],
+      "grade": "B+",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyMzkzOTIx",
+      "legacy_id": 42393921,
+      "date": "2025-12-24 21:38:32 +0000 UTC",
+      "course": "491A",
+      "comment": "Do not go with this professor at all cost. She uses her own recorded videos of presentation slides as lecture instead of actually providing any lecture. Most of the time, she is not even talking in class, and once her video ends which she plays in class, you will be dismissed. \n\nHer grading rubric is also very complex and easy to be misunderstood",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyMzg4NzA5",
+      "legacy_id": 42388709,
+      "date": "2025-12-24 00:20:44 +0000 UTC",
+      "course": "491A",
+      "comment": "I'm not sure if it was different in previous semesters, but the prof was pretty chill in this one. Yes the lectures are pre-recorded, attendance is mandatory, and most of the work consists of writing documentation and doing presentations. However, the work isn't that hard and the exams are easy. If you built projects before, this isn't difficult.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Group projects",
+        "Lots of homework"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxNzI3OTI2",
+      "legacy_id": 41727926,
+      "date": "2025-10-17 18:47:51 +0000 UTC",
+      "course": "CECS491",
+      "comment": "I recommend taking another professor for your senior project course who will respect your time. She puts pre-recorded lectures that are unedited with her making mistakes/repeating herself. Based on other reviews, she's played these pre-recorded lectures for a while now. Couldn't she have at least edited them for the next school year/semester?",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5OTIyNzM3",
+      "legacy_id": 39922737,
+      "date": "2024-11-11 10:12:19 +0000 UTC",
+      "course": "491A",
+      "comment": "This professor is honestly embarrassing. Makes rude remarks to students, unclear grading criteria while marking off for pretty much anything she wants, and does nothing except play a pre-recorded video of herself and sits in silence after attendance. She makes 95k a year (check Transparent California) doing below bare minimum as a professor. Sad.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Group projects"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5MjQzMzMz",
+      "legacy_id": 39243333,
+      "date": "2024-04-23 22:04:54 +0000 UTC",
+      "course": "CECS491",
+      "comment": "All this woman does is critique students on things she wouldn't be able to do herself given the circumstance. She is a horrible professor who grades based on which side of the bed she woke up on in the morning. Avoid her at all costs unless you want to have a verbal battle twice a week against a brick wall.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5MDQ1MDQz",
+      "legacy_id": 39045043,
+      "date": "2024-03-12 19:02:28 +0000 UTC",
+      "course": "491A",
+      "comment": "Does not know what she is talking about most of the time. All lectures are just pre-recored videos and usually a waste of time.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Group projects",
+        "Amazing lectures",
+        "So many papers"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5MDQ1MDI2",
+      "legacy_id": 39045026,
+      "date": "2024-03-12 18:56:12 +0000 UTC",
+      "course": "491A",
+      "comment": "She doesn't understand what she's talking about most of the time. All lectures are just pre-recorded videos.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Group projects",
+        "So many papers"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3OTM5ODgy",
+      "legacy_id": 37939882,
+      "date": "2023-05-16 22:59:47 +0000 UTC",
+      "course": "CECS491",
+      "comment": "Finished B, she's really not that bad. This course is as hard as you/your group make it. Want an easy project? Make a simple CRUD app/web app. Want to go all out on a complex and impressive project? Go for it. Hoffman is just there as a manager. You won't learn anything from her, but you will get an A as long as you do your work.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 3,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3NjQ1NTc0",
+      "legacy_id": 37645574,
+      "date": "2023-04-17 16:54:34 +0000 UTC",
+      "course": "491A",
+      "comment": "I won't give Hoffman a lower rating because I simply can't. Did not teach a single thing, played videos in class. Extremely unclear grading. Makes things up as she goes along. Mandatory attendance but you can leave after a 5 min Youtube video. Waste of time. The fact she's one of the better professors for 491 really shows how bad department is.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Group projects"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3MTE0NzA0",
+      "legacy_id": 37114704,
+      "date": "2022-12-14 14:08:39 +0000 UTC",
+      "course": "491A",
+      "comment": "All she does is take attendance, give very short lectures, and introduce assignments. Other than that, she will stay out of the way and let your group work. Mandatory attendance (30%) and lots of presentations (they are all easy though).\n\nShe's probably a lot worse for other courses. But 491A with Hoffman was a very easy and stress free A.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Group projects"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2NTk1MTE1",
+      "legacy_id": 36595115,
+      "date": "2022-08-18 17:04:35 +0000 UTC",
+      "course": "CECS453",
+      "comment": "Class was a joke. Entire class centralizes on the Zybook. Homework, readings, quizzes, and in-class programs are verbatim from the Zybook. Mobile app class project was unorganized and no one was held accountable to do actual work. Grade is mostly determined by midterm (20%) and final (30%). You could easily just buy the zybook and skip the class.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Get ready to read",
+        "Lecture heavy",
+        "Graded by few things"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2NTcxMTEx",
+      "legacy_id": 36571111,
+      "date": "2022-08-08 15:15:58 +0000 UTC",
+      "course": "CECS453",
+      "comment": "She never made a mobile app but is teaching mobile app development.\n\nReads the book verbatim for 4 hours straight. \n\nVague homework assignments come up on the fly.\n\nConstantly mismanaging grade inputs on beach board.\n\nLazy",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Get ready to read",
+        "Group projects",
+        "Caring"
+      ],
+      "grade": "A+",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2NDE0MDc2",
+      "legacy_id": 36414076,
+      "date": "2022-05-27 11:04:13 +0000 UTC",
+      "course": "491A",
+      "comment": "If you're taking Hoffman you better show up. 30% for attendance marked at the start AND end of class. Instructions are not clear, she doesn't explain her criteria very well, and it's easy to get marked down. Debating over lost attendance or assignment points is unfortunately common.\nAlso, DON'T make a game. She may allow it but will be very strict.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Tough grader",
+        "Participation matters",
+        "Group projects"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2MDYwNDgw",
+      "legacy_id": 36060480,
+      "date": "2022-04-12 07:12:08 +0000 UTC",
+      "course": "CECS491",
+      "comment": "Getting an A in Hoffmans class is easy. Make sure that whatever you turn in has 15 pages of stuff on it on it. All she looks at is the length and wow big words. She doesn't actually read anything. \n\nOnce you get that, her class is actually easy. I see 491 as a \"how to deal with your stupid bureaucratic boss\" class. \n\nQuantity over quality gets an A",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Participation matters",
+        "Group projects",
+        "Lots of homework"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM1NTkwNDA3",
+      "legacy_id": 35590407,
+      "date": "2021-12-18 20:21:52 +0000 UTC",
+      "course": "491A",
+      "comment": "Review for 491A&amp;B. 491A is an easy A. You choose your own project if she approves it. Documentation and presentations are easy. 491B is easy . Presentations once a month. She sucks at teaching but since the senior project is your own group work its excusable. Only real negative is mandatory attendance. 30% of your grade for both sections. Show up.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Participation matters",
+        "Skip class? You won't pass.",
+        "Group projects"
+      ],
+      "grade": "A",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM0MDk1MjYx",
+      "legacy_id": 34095261,
+      "date": "2020-12-16 05:07:27 +0000 UTC",
+      "course": "CECS491",
+      "comment": "Not a terrible professor but not great either. She's very flexible compared to other 491 professors. She lets you work on any project you want with the group. For lecture she reads straight from the powerpoint. Sometimes I have trouble understanding her. Attendance is mandatory. She will dock points if you come late and leave early.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Participation matters",
+        "Group projects"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyMTg4ODUy",
+      "legacy_id": 32188852,
+      "date": "2019-08-21 20:52:57 +0000 UTC",
+      "course": "CECS343",
+      "comment": "By far the worst lecturer Ive ever seen. Struggled to read off basic slides, very soft spoken, &amp; cant effectively help or explain concepts. Most of the class was building a calendar app w/ 1 other person. Tests were pretty hard but she curved. Oh, &amp; she forgot to show up for our final! We found her in her office after like an hour of waiting!",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Graded by few things",
+        "Group projects"
+      ],
+      "grade": "A",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTMxOTg3MDc0",
+      "legacy_id": 31987074,
+      "date": "2019-06-02 20:54:23 +0000 UTC",
+      "course": "CECS491",
+      "comment": "Attendance is worth 30% of your grade. She needs to approve your project but you have the freedom to create whatever project you want. The first semester is documentation and the second semester is building the project. During class, she doesn't lecture so you basically have that time to work with your group in person. You present multiple times.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Participation matters"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxNzA4NDA1",
+      "legacy_id": 31708405,
+      "date": "2019-04-29 19:26:26 +0000 UTC",
+      "course": "CECS174",
+      "comment": "Only knows how to read off the slides. She has no idea how to teach a class without zybooks. Her homework are super long and the instructions are horrible. Do not pick her as a teacher if you're trying to learn how to program.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Participation matters",
+        "Test heavy",
+        "Tough grader"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxNzA4Mzkz",
+      "legacy_id": 31708393,
+      "date": "2019-04-29 19:25:10 +0000 UTC",
+      "course": "CECS174",
+      "comment": "Do not take her. She reads the online textbook for the entire class. She assigns labs and homework and doesn't know how to do them. Very hard to understand and is not helpful when you have questions.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Get ready to read",
+        "Participation matters",
+        "Lecture heavy"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMTYzMjEw",
+      "legacy_id": 31163210,
+      "date": "2018-12-27 17:34:51 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Class was 75% for Exams and 25% for project/labs. The project was assigned. We did not get to choose what we wanted to make. Groups of 2 and had to basically make Google Calendar. She gave no help at all. Read off slides. The exams were multiple choice, but had to memorize from powerpoints that were over 100 slides long. Which was near impossible.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Get ready to read",
+        "TEST HEAVY",
+        "GRADED BY FEW THINGS"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwOTAwMjEx",
+      "legacy_id": 30900211,
+      "date": "2018-12-06 18:47:52 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Just reads off powerpoint slides. Very thick accent. Nobody pays attention because it's hard to understand. Everybody just do their own thing while professor reads lecture slide very slowly. Very very nice person though. Final cumulative, but everybody will fail anyways so it'll be curve base on the highest F, due to nobody understanding anything.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "B+",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwNjgzMTcz",
+      "legacy_id": 30683173,
+      "date": "2018-11-08 03:00:31 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Reads word for word from the powerpoint. Can't pronounce a lot of words. 3 Exams worth 25% each. Semester project worth 25%. As long as your project looks good you will get a decent grade even if it isn't functional. Docks off points with no explanation.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 1.0,
+      "tags": [
+        "TEST HEAVY"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}
