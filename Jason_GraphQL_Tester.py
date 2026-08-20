@@ -16,6 +16,12 @@
  Merge with Main 
  git merge main
 
+ Step By Step:
+ git checkout main
+ git pull origin main
+ git merge jason
+ git push origin main
+ 
 """
 
 import requests
