@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>RMP Insights PoC</title>
+  <style>
+    body { font-family: sans-serif; max-width: 720px; margin: 40px auto; padding: 0 16px; }
+    input[type="url"] { width: 100%; padding: 8px; box-sizing: border-box; }
+    button { margin-top: 8px; padding: 8px 16px; }
+    .error { color: #a40000; }
+    .ok { color: #0b6b0b; }
+    code { font-size: 0.95em; }
+  </style>
+</head>
+<body>
+  <h1>RateMyProfessors insights (PoC)</h1>
+  <p>Paste the exact professor URL. This pulls public GraphQL data and writes JSON + markdown files locally.</p>
+  <p>
+    Gemini:
+    {% if llm_ready %}
+      API key detected. Insights markdown will include LLM analysis.
+    {% else %}
+      no API key yet. Scraping still works; markdown will be stats-only until you add <code>GEMINI_API_KEY</code> to <code>.env</code>.
+    {% endif %}
+  </p>
+
+  <form method="post">
+    <label for="url">Professor URL</label><br>
+    <input
+      id="url"
+      name="url"
+      type="url"
+      required
+      placeholder="https://www.ratemyprofessors.com/professor/12345"
+      value="{{ url }}"
+    >
+    <button type="submit">Scrape and analyze</button>
+  </form>
+  <p>This can take a little while if the professor has many reviews.</p>
+
+  {% if error %}
+    <p class="error">{{ error }}</p>
+  {% endif %}
+
+  {% if result %}
+    <div class="ok">
+      <p>Done: <strong>{{ result.professor_name }}</strong> ({{ result.review_count }} reviews)</p>
+      <ul>
+        <li>JSON: <code>{{ result.json_path }}</code></li>
+        <li>Markdown: <code>{{ result.markdown_path }}</code></li>
+        <li>Gemini used: {{ result.used_llm }}</li>
+      </ul>
+    </div>
+  {% endif %}
+</body>
+</html>
