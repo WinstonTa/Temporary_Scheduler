@@ -6,3 +6,6 @@ base64
 supabase
 python-dotenv
 sentence-transformers
+
+fastapi
+uvicorn
