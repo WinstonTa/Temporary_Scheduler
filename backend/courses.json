@@ -1,0 +1,746 @@
+[
+  {
+    "code": "MATH 122",
+    "title": "Calculus I",
+    "units": "4",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=42941",
+    "prerequisite_text": "Prerequisite: A grade of “C” or better in MATH 111 and either MATH 112B or MATH 113, or appropriate CSULB Algebra and Calculus Placement.",
+    "prerequisite_rule": null,
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Continuous functions. Derivatives and applications including graphing, related rates, and optimization. Transcendental functions. L’Hospital’s Rule. Antiderivatives. Definite integrals. Area under a curve."
+  },
+  {
+    "code": "MATH 123",
+    "title": "Calculus II",
+    "units": "4",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=42942",
+    "prerequisite_text": "Prerequisite: A grade of “C” or better in MATH 122.",
+    "prerequisite_rule": "MATH 122",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Applications of the integral. Techniques of integration. Infinite series including convergence tests and Taylor series. Parametric equations. Polar coordinates. Introduces differential equations."
+  },
+  {
+    "code": "PHYS 151",
+    "title": "Mechanics and Heat",
+    "units": "4",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=43489",
+    "prerequisite_text": "Prerequisite(s)Corequisite(s): MATH 122 or MATH 123 or MATH 224.",
+    "prerequisite_rule": {
+      "any": [
+        "MATH 122",
+        "MATH 123",
+        "MATH 224"
+      ]
+    },
+    "corequisite_text": "Prerequisite(s)Corequisite(s): MATH 122 or MATH 123 or MATH 224.",
+    "corequisite_rule": {
+      "any": [
+        "MATH 122",
+        "MATH 123",
+        "MATH 224"
+      ]
+    },
+    "description": "Kinematics, Newton’s Laws, rotational motion, conservation laws, mechanical waves, and laws of thermodynamics."
+  },
+  {
+    "code": "CECS 100",
+    "title": "Critical Thinking in the Digital Information Age",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39965",
+    "prerequisite_text": "Prerequisite/Corequisite: ENGL 100B or GE Written Communication (Area A2).",
+    "prerequisite_rule": "ENGL 100B",
+    "corequisite_text": "Prerequisite/Corequisite: ENGL 100B or GE Written Communication (Area A2).",
+    "corequisite_rule": "ENGL 100B",
+    "description": "Help students develop critical thinking skills using technical software. Main topics include: identifying engineering issues for investigation, developing planning and problem solving strategies, locating pertinent information and examples, critically analyzing these sources, forming and testing hypotheses, synthesizing and organizing results for effective communication, and developing transferable problem solving skills."
+  },
+  {
+    "code": "CECS 105",
+    "title": "Introduction to Computer Engineering and Computer Science",
+    "units": "1",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39966",
+    "prerequisite_text": null,
+    "prerequisite_rule": null,
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Introduction to the fields of computer engineering and computer science. Current and future trends and challenges in various fields of computing. Social, ethical and economical issues related to computing technology. Exploration of career and professional development opportunities."
+  },
+  {
+    "code": "CECS 174",
+    "title": "Introduction to Programming and Problem Solving",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39968",
+    "prerequisite_text": "Prerequisite(s): CECS 100 and MATH 122, all with a grade of ”C” or better.",
+    "prerequisite_rule": {
+      "all": [
+        "CECS 100",
+        "MATH 122"
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Introduction to basic concepts of computer science and fundamental techniques for solving problems using the Python programming language. Variables, data types, conditional statements, loops and arrays. Programming style. Applications to numerical and non-numerical problems."
+  },
+  {
+    "code": "CECS 225",
+    "title": "Digital Logic and Assembly Programming",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39973",
+    "prerequisite_text": null,
+    "prerequisite_rule": null,
+    "corequisite_text": "Corequisite: CECS 174",
+    "corequisite_rule": "CECS 174",
+    "description": "An introductory course in Digital Logic and Assembly Programming covering number representation, digital codes, Boolean Algebra, combinatorial logic design, sequential logic design, programmable logic devices, internal organization of microprocessor and microcontroller systems and programming in assembly language."
+  },
+  {
+    "code": "CECS 228",
+    "title": "Discrete Structures with Computing Applications",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39974",
+    "prerequisite_text": "Prerequisites: CECS 174 and MATH 113 or equivalent all with a grade of “C” or better.",
+    "prerequisite_rule": {
+      "all": [
+        "CECS 174",
+        "MATH 113"
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "An introduction to discrete mathematics with applications towards computing. Topics include sets, functions, logic, relations, graphs, trees, recursion, combinatorics, and mathematical reasoning."
+  },
+  {
+    "code": "CECS 229",
+    "title": "Discrete Structures with Computing Applications II",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39975",
+    "prerequisite_text": "Prerequisites: MATH 123 and CECS 228 both with a Grade of “C” or better",
+    "prerequisite_rule": {
+      "all": [
+        "MATH 123",
+        "CECS 228"
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "This is the second course in a two-course sequence in computing applications of discrete structures. Topics include applications of computer arithmetic and matrices in computer systems. Programming assignments in Python will be provided."
+  },
+  {
+    "code": "CECS 274",
+    "title": "Data Structures",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39978",
+    "prerequisite_text": "Prerequisite: CECS 174 with a grade of “C” or better.",
+    "prerequisite_rule": "CECS 174",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Data Structures. Topics include lists, hash tables, binary trees, balanced trees, heaps, sorting-algorithms, graphs, external memory searching."
+  },
+  {
+    "code": "CECS 277",
+    "title": "Object Oriented Application Development",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39980",
+    "prerequisite_text": "Prerequisite: CECS 174 with a grade of “C” or better.",
+    "prerequisite_rule": "CECS 174",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Disciplined methods of design, coding and testing using the Java programming language. Topics include the structure and semantics of Java classes, data abstraction, encapsulation, cohesion, coupling, information hiding, object-oriented design, inheritance, interfaces, composition, delegation, polymorphism and design patterns."
+  },
+  {
+    "code": "CECS 282",
+    "title": "Advanced C++",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39982",
+    "prerequisite_text": "Prerequisites: CECS 274 and CECS 277  with a grade of “C” or better.",
+    "prerequisite_rule": {
+      "all": [
+        "CECS 274",
+        "CECS 277"
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Structured and Object Oriented Programming in C++. Common features and differences between Java and C++. Pointers, references, and memory management, stream I/O, classes, operator overloading, exception handling, STL."
+  },
+  {
+    "code": "ENGR 101",
+    "title": "Introduction to the Engineering Profession",
+    "units": "1",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=41479",
+    "prerequisite_text": "Prerequisite/Corequisite: MATH 111 or MATH 113 or MATH 122",
+    "prerequisite_rule": {
+      "any": [
+        "MATH 111",
+        "MATH 113",
+        "MATH 122"
+      ]
+    },
+    "corequisite_text": "Prerequisite/Corequisite: MATH 111 or MATH 113 or MATH 122",
+    "corequisite_rule": {
+      "any": [
+        "MATH 111",
+        "MATH 113",
+        "MATH 122"
+      ]
+    },
+    "description": "Freshman orientation seminar on careers in engineering. Speakers from various fields illustrate opportunities and challenges in the engineering profession."
+  },
+  {
+    "code": "ENGR 102",
+    "title": "Academic Success Skills",
+    "units": "1",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=41480",
+    "prerequisite_text": "Prerequisite: ENGR 101 with a grade of “C” or better.",
+    "prerequisite_rule": "ENGR 101",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Development of skills and identification of strengths and weaknesses for success in a COE major."
+  },
+  {
+    "code": "CHEM 111A",
+    "title": "General Chemistry",
+    "units": "5",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40229",
+    "prerequisite_text": "Prerequisite(s)/Corequisite(s): Appropriate score on the chemistry placement test or other measures, or department consent. Students in need of additional support will be required to enroll concurrently in CHEM 95.",
+    "prerequisite_rule": "CHEM 95",
+    "corequisite_text": "Prerequisite(s)/Corequisite(s): Appropriate score on the chemistry placement test or other measures, or department consent. Students in need of additional support will be required to enroll concurrently in CHEM 95.",
+    "corequisite_rule": "CHEM 95",
+    "description": "One year of high school chemistry is strongly recommended. (This course is recommended for those intending to pursue careers in science or engineering.). First semester of a two-semester sequence (CHEM 111A and CHEM 111B). Introduction to principles of chemistry including chemical reactions, stoichiometry, thermochemistry, electronic structure, bonding, and properties of solids, liquids, gases, and solutions."
+  },
+  {
+    "code": "BIOL 153",
+    "title": "Introduction to Marine Biology",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39572",
+    "prerequisite_text": "Prerequisites/Corequisites: Courses that fulfill the A2 and B4 GE requirements.",
+    "prerequisite_rule": null,
+    "corequisite_text": "Prerequisites/Corequisites: Courses that fulfill the A2 and B4 GE requirements.",
+    "corequisite_rule": null,
+    "description": "Scientific approach to the study of marine organisms and their relationships to the environment. Emphasis on human interaction with marine ecosystems."
+  },
+  {
+    "code": "BIOL 200",
+    "title": "General Biology",
+    "units": "4",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39573",
+    "prerequisite_text": "Prerequisite: GE Foundation requirements.",
+    "prerequisite_rule": null,
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Brief survey of major areas of biology including cell biology, genetics, evolution, phylogeny, plant and animal anatomy and physiology, ecology, and behavior. Specially designed for non-science majors."
+  },
+  {
+    "code": "BIOL 205",
+    "title": "Human Biology",
+    "units": "4",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39574",
+    "prerequisite_text": "Prerequisites: GE Foundation requirements.",
+    "prerequisite_rule": null,
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Brief survey of human biology focusing on anatomy, physiology, and development of cells, tissues, organs, and organ systems; including molecular biology, genetics, ecology, evolution, and diversity. Specially designed for non-science majors."
+  },
+  {
+    "code": "BIOL 207",
+    "title": "Human Physiology",
+    "units": "4",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39575",
+    "prerequisite_text": "Prerequisites: GE Foundation requirements.",
+    "prerequisite_rule": null,
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "General introduction to the functional integration of human body systems. Designed for majors in biomedical engineering, physical education, and the allied health fields."
+  },
+  {
+    "code": "CECS 323",
+    "title": "Database Fundamentals",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39988",
+    "prerequisite_text": "Prerequisites: CECS 228 and (CECS 277 or CECS 282) all with a grade of C or better.",
+    "prerequisite_rule": {
+      "all": [
+        "CECS 228",
+        {
+          "any": [
+            "CECS 277",
+            "CECS 282"
+          ]
+        }
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Fundamental topics on database management. Topics include entity-relationship models, database design, data definition language, the relational model, data manipulation language, database application programming and normalization."
+  },
+  {
+    "code": "CECS 326",
+    "title": "Operating Systems",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39989",
+    "prerequisite_text": "Prerequisites: CECS 275 or CECS 282 and CECS 341 or CECS 346 all with a grade of “C” or better.",
+    "prerequisite_rule": {
+      "all": [
+        {
+          "any": [
+            "CECS 275",
+            "CECS 282"
+          ]
+        },
+        {
+          "any": [
+            "CECS 341",
+            "CECS 346"
+          ]
+        }
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "The structure and functions of operating systems. Interrupt handling, processes and interprocess communication, memory management, resource scheduling, information sharing and protection. Project implementation in C/C++."
+  },
+  {
+    "code": "CECS 327",
+    "title": "Introduction to Networks and Distributed Computing",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39990",
+    "prerequisite_text": "Prerequisite: CECS 326 with a grade of “C” or better.",
+    "prerequisite_rule": "CECS 326",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Introduction to Distributed Computing and Interprocess Communication. Networking Protocols. Client Server Paradigm. Peer to Peer Networking. Sockets and the Socket API. Distributed Objects. Coordination, Agreements and Distributed Transactions."
+  },
+  {
+    "code": "CECS 328",
+    "title": "Algorithms",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39991",
+    "prerequisite_text": "Prerequisite: CECS 228 and (CECS 274 or CECS 275), all with a grade of “C” or better.",
+    "prerequisite_rule": {
+      "all": [
+        "CECS 228",
+        {
+          "any": [
+            "CECS 274",
+            "CECS 275"
+          ]
+        }
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Greedy algorithms, dynamic programming, divide and conquer, network flow, approximation algorithms, NP-complete problems. Programming projects to exemplify these concepts."
+  },
+  {
+    "code": "CECS 329",
+    "title": "Concepts of Computer Science Theory",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=53069",
+    "prerequisite_text": "Prerequisite: CECS 328 with a grade of “C” or better.",
+    "prerequisite_rule": "CECS 328",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Fundamental topics in theoretical computer science. Topics include regular languages, finite automata, context-free languages. Turing machine, computability theory, computational complexity, NP-completeness."
+  },
+  {
+    "code": "CECS 341",
+    "title": "Computer Architecture and Organization",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39992",
+    "prerequisite_text": "Prerequisites: CECS 225 or CECS 285 with a grade of “C” or better.",
+    "prerequisite_rule": {
+      "any": [
+        "CECS 225",
+        "CECS 285"
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Review of logic design. Instruction set architecture. Arithmetic logic units. Data path and control. Pipelining and performance. Memory system organization and design. Virtual memory and paging. I/O interfacing. Vector and array processing. Distributed computing and supercomputing. Contemporary computer designs."
+  },
+  {
+    "code": "CECS 342",
+    "title": "Principles of Programming Languages",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=53070",
+    "prerequisite_text": "Prerequisite: CECS 328 with a grade of “C” or better.",
+    "prerequisite_rule": "CECS 328",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Fundamental topics in the design and implementation of programming languages. Programing language paradigms. Comparison of languages in type systems, data types, control flow, subroutines, concurrency, and exception handling."
+  },
+  {
+    "code": "CECS 343",
+    "title": "Introduction to Software Engineering",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39993",
+    "prerequisite_text": "Prerequisites: CECS 277 or CECS 282 or CECS 275 all with a grade of “C” or better.",
+    "prerequisite_rule": {
+      "any": [
+        "CECS 277",
+        "CECS 282",
+        "CECS 275"
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Principles of software engineering, UML, modeling large software systems, requirements elicitation, object oriented analysis and design using UML, introduction to design patterns, implementation of large systems, software testing, project management, the software lifecycle. Semester long programming project."
+  },
+  {
+    "code": "CECS 378",
+    "title": "Introduction to Computer Security Principles",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39997",
+    "prerequisite_text": "Prerequisites: CECS 229 and CECS 274 or CECS 275 all with a grade of “C” or better.",
+    "prerequisite_rule": {
+      "all": [
+        "CECS 229",
+        {
+          "any": [
+            "CECS 274",
+            "CECS 275"
+          ]
+        }
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "An introduction to the fundamentals of cryptography and information and computer security. Basic concepts, theories and protocols in computer security. Basic cryptography, software security, operating system security, database security, network security, human factors, social engineering, digital forensics, privacy and anonymity."
+  },
+  {
+    "code": "ENGR 350",
+    "title": "Computers, Ethics and Society",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=41489",
+    "prerequisite_text": "Prerequisites: 3 units from GE Area A2 (Written Communication) and 3 units from GE Area D (Social Sciences).",
+    "prerequisite_rule": null,
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Examination of the social impact of information technologies. Topics include a survey of the technology (software, hardware and key applications), ethical obligations of specialists, the computer in the workplace, shifts of power, privacy, and legal issues related to computing."
+  },
+  {
+    "code": "CECS 491A",
+    "title": "Computer Science Senior Project I",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40089",
+    "prerequisite_text": "Prerequisites: CECS 343 and ENGR 350, all with a grade of “C” or better.",
+    "prerequisite_rule": {
+      "all": [
+        "CECS 343",
+        "ENGR 350"
+      ]
+    },
+    "corequisite_text": "Corequisite: CECS 323  and CECS 328",
+    "corequisite_rule": {
+      "all": [
+        "CECS 323",
+        "CECS 328"
+      ]
+    },
+    "description": "First course in a two-course capstone design sequence that fulfills integrative learning. Design of a commercial grade software application including requirements analysis, functional, architectural and detailed design, emphasizing written communication, teamwork and the Object-Oriented Methodology."
+  },
+  {
+    "code": "CECS 491B",
+    "title": "Computer Science Senior Project II",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40090",
+    "prerequisite_text": "Prerequisite: CECS 491A with a grade of “C” or better.",
+    "prerequisite_rule": "CECS 491A",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Second course in a two-course capstone design sequence that fulfills integrative learning. Implementation, testing, packaging and deployment of the system designed in CECS 491A emphasizing written communication, teamwork and the Object- Oriented Methodology."
+  },
+  {
+    "code": "ENGR 390",
+    "title": "Information and Communication Technology for Sustainability",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=41493",
+    "prerequisite_text": "Prerequisite: Completion of GE Foundation requirements and upper-division standing. Students must have scored 11 or higher on the GWAR Placement Examination or completed the necessary portfolio course that is a prerequisite for a GWAR Writing Intensive Capstone.",
+    "prerequisite_rule": null,
+    "corequisite_text": "Corequisites: ENGR 350 or other ethics course, or consent of instructor",
+    "corequisite_rule": "ENGR 350",
+    "description": "Information and communication technology and Sustainability. Concepts for understanding and analyzing the sustainability of a given engineering context. Application domains relevant for sustainability engineering such as climate change, smart systems, and gamification. Systems thinking approaches and development of feasible future scenarios."
+  },
+  {
+    "code": "CECS 419",
+    "title": "Theory of Computation",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40001",
+    "prerequisite_text": "Prerequisite: CECS 328 with a grade of “C” or better.",
+    "prerequisite_rule": "CECS 328",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Finite Automata and regular expressions. Pushdown automata and context-free languages. Turing machines and computability. Computational complexity."
+  },
+  {
+    "code": "CECS 428",
+    "title": "Analysis of Algorithms",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40003",
+    "prerequisite_text": "Prerequisite: CECS 328 with a grade of “C” or better.",
+    "prerequisite_rule": "CECS 328",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Applications of standard combinatorial techniques to applied programming problems. Rigorous analysis of correctness/complexity of algorithms. Advanced graph algorithms are emphasized. Topics include shortest paths on graphs, sorting, string matching, union find problem, divide-and-conquer technique, and weighted-edge problem."
+  },
+  {
+    "code": "CECS 429",
+    "title": "Search Engine Technology",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40004",
+    "prerequisite_text": "Prerequisites: CECS 323 and CECS 328, MATH 380 or E E 381 all with a grade of “C” or better.",
+    "prerequisite_rule": null,
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Models, algorithms, and evaluation of the retrieval of information from a collection of documents. Document preprocessing. Indexing and searching. Retrieval evaluation. Search engines."
+  },
+  {
+    "code": "CECS 444",
+    "title": "Compiler Construction",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40006",
+    "prerequisite_text": "Prerequisites: CECS 328 and CECS 341, all with a grade of “C” or better.",
+    "prerequisite_rule": {
+      "all": [
+        "CECS 328",
+        "CECS 341"
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Syntax directed compiler study. Organization of a compiler and overall design: parsing, semantic analysis, optimization and code generation."
+  },
+  {
+    "code": "CECS 445",
+    "title": "Software Design and Architecture",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40007",
+    "prerequisite_text": "Prerequisites: CECS 343 with a grade of “C” or better and senior standing.",
+    "prerequisite_rule": "CECS 343",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "In-depth look at software design, design patterns, frameworks, architectures and middleware architectures. Component based design including COM, Corba, and .Net. Fundamentals of software metrics, measuring software qualities. Basics of software evolution, reengineering, and reverse engineering. A semester long team project."
+  },
+  {
+    "code": "CECS 448",
+    "title": "User Interface Design",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40009",
+    "prerequisite_text": "Prerequisite: CECS 343 with a grade of “C” or better or consent of instructor.",
+    "prerequisite_rule": "CECS 343",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Evaluation, design and programming of user interface systems. Fundamentals of human cognition, system characteristics, and the interaction between humans and systems. Usability methods and user/task-centered design. Tools for designing and building user interfaces, with emphasis on rapid applications development."
+  },
+  {
+    "code": "CECS 449",
+    "title": "Computer Graphics",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40010",
+    "prerequisite_text": "Prerequisites: CECS 328 and CECS 229 or MATH 247 all with a grade of “C” or better.",
+    "prerequisite_rule": {
+      "all": [
+        "CECS 328",
+        {
+          "any": [
+            "CECS 229",
+            "MATH 247"
+          ]
+        }
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Introduction to the theory and practice of computer graphics, Graphics systems, 2-D and 3-D modeling, transformations, viewing transformations, projections, rendering techniques."
+  },
+  {
+    "code": "CECS 451",
+    "title": "Artificial Intelligence",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40011",
+    "prerequisite_text": "Prerequisites: CECS 328 with a grade of “C” or better.",
+    "prerequisite_rule": "CECS 328",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Introduction to the history and implementation of artificial intelligence agents. Topics include search, constraint satisfaction, game-playing, logical agents, belief networks, optimal sequential decision systems. Project implementation."
+  },
+  {
+    "code": "CECS 455",
+    "title": "Introduction to Game Programming",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40013",
+    "prerequisite_text": "Prerequisite: CECS 328 with a grade of “C” or better or consent of instructor.",
+    "prerequisite_rule": "CECS 328",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Introduction to game programming and graphics. “Slow” games. Realtime games with no adversary. Adversarial real-time games in 2-D."
+  },
+  {
+    "code": "CECS 456",
+    "title": "Machine Learning",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=44683",
+    "prerequisite_text": "Prerequisites: E E 381 or STAT 381 with a grade of “C” or better.",
+    "prerequisite_rule": {
+      "any": [
+        "E E 381",
+        "STAT 381"
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "An introduction to machine learning and its applications, including supervised, unsupervised learning and deep learning. Main topics include regression, classification and neural networks. Programming assignments."
+  },
+  {
+    "code": "CECS 474",
+    "title": "Computer Network Interoperability",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40018",
+    "prerequisite_text": "Prerequisite: CECS 326 with a grade of “C” or better.",
+    "prerequisite_rule": "CECS 326",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Overview of computer network theory and practice from a systems perspective. Topics include network infrastructure, local area network (LAN) protocols, wide area network (WAN) protocols, switching technologies, Internet Protocol (IP), Transmission Control Protocol (TCP), network security, and network configuration, design, and performance."
+  },
+  {
+    "code": "CECS 478",
+    "title": "Introduction to Computer Security",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40021",
+    "prerequisite_text": "Prerequisite: CECS 328 or CECS 346 with a grade of “C” or better.",
+    "prerequisite_rule": {
+      "any": [
+        "CECS 328",
+        "CECS 346"
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Controlling the risk of computer security. Security threats and vulnerabilities in the development and use of computer systems. Tools and controls that can reduce or block these threats. Law, privacy and ethics."
+  },
+  {
+    "code": "CECS 495",
+    "title": "Computational Physiology",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40022",
+    "prerequisite_text": "Prerequisite: E E 381 with a grade of “C” or better.",
+    "prerequisite_rule": "E E 381",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "This course will introduce students to cardiovascular (heart) and cerebrovascular (brain) systems and signals, and the computational methods to analyze related signals, and detect/predict a physiological event of interest."
+  },
+  {
+    "code": "CECS 497",
+    "title": "Directed Studies",
+    "units": "1-3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40024",
+    "prerequisite_text": "Prerequisite: Consent of instructor.",
+    "prerequisite_rule": null,
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Assigned study in topics in current computer literature or computer-related projects with a final report."
+  },
+  {
+    "code": "MATH 323",
+    "title": "Introduction to Numerical Analysis",
+    "units": "4",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=42952",
+    "prerequisite_text": "Prerequisites: MATH 224, and a course in computer programming.",
+    "prerequisite_rule": "MATH 224",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Numerical solution of nonlinear equations, systems of linear equations, and ordinary differential equations. Interpolating polynomials, numerical differentiation, and numerical integration. Computer implementation of these methods."
+  },
+  {
+    "code": "CECS 303",
+    "title": "Networks and Network Security",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=39986",
+    "prerequisite_text": "Prerequisite: either CECS 278 or CECS 378 ,  with a grade of “C” or better",
+    "prerequisite_rule": {
+      "any": [
+        "CECS 278",
+        "CECS 378"
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "An examination of common computer security threats; fundamental techniques for implementing secure software systems and networks; practical experience in attacking and defending networked systems."
+  },
+  {
+    "code": "CECS 450",
+    "title": "Data Visualization",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=44679",
+    "prerequisite_text": "Prerequisite: CECS 343 with a grade of “C” or better",
+    "prerequisite_rule": "CECS 343",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Introduction to various techniques in data visualization supporting the analytical process of turning data into wisdom. Introduction to general concepts, principles, and practices with specific visualization designs. Overview of analytical techniques, analytical interaction, and navigation design. Programming assignments. Letter grading only (A-F). (Lecture 2 hours, laboratory 3 hours)."
+  },
+  {
+    "code": "CECS 453",
+    "title": "Mobile Application Development",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40012",
+    "prerequisite_text": "Prerequisite: CECS 328 with a grade of “C” or better or consent of the instructor.",
+    "prerequisite_rule": "CECS 328",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Languages and application programming interfaces for mobile device platforms. Development of thick and thin client applications for mobile devices."
+  },
+  {
+    "code": "CECS 461",
+    "title": "Hardware/Software Co-design",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40015",
+    "prerequisite_text": "Prerequisite: CECS 341 or CECS 440 all with a grade of “C” or better.",
+    "prerequisite_rule": {
+      "any": [
+        "CECS 341",
+        "CECS 440"
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Introduction to top-down methods for hardware/software system-on-chip co-design. Design flow - system specification, software implementation, hardware synthesis, system design, and verification. Process optimization with various design decisions emphasized. Projects/case studies using system-level design methods and tools."
+  },
+  {
+    "code": "CECS 470",
+    "title": "Web Programming and Accessibility",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40017",
+    "prerequisite_text": "Prerequisites: CECS 323 and CECS 343 all with a grade of “C” or better.",
+    "prerequisite_rule": {
+      "all": [
+        "CECS 323",
+        "CECS 343"
+      ]
+    },
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Introduction to World-Wide Web development. Accessibility issues. Web architecture, standards, and programming, emphasizing XML technologies and cascading style sheets. Visual design principles and information architecture. Client-side and server-side programming and protocols. Development for adaptive technologies and mobile devices."
+  },
+  {
+    "code": "CECS 475",
+    "title": "Software Development with Frameworks",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40019",
+    "prerequisite_text": "Prerequisite: CECS 343 with a grade of “C” or better.",
+    "prerequisite_rule": "CECS 343",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Introduction to enterprise application development utilizing a modern software framework. Topics include large-scale software design, framework components, data management, events, extensibility, user interfaces, web services, and web applications. Includes programming projects."
+  },
+  {
+    "code": "CECS 476",
+    "title": "System and Network Administration",
+    "units": "3",
+    "course_url": "https://csulb.catalog.acalog.com/preview_course_nopop.php?catoid=5&coid=40020",
+    "prerequisite_text": "Prerequisites: CECS 326 with a grade of “C” or better.",
+    "prerequisite_rule": "CECS 326",
+    "corequisite_text": null,
+    "corequisite_rule": null,
+    "description": "Introduction to the management and administration of Unix systems and TCP/IP networks. Managing users, local and network file systems, electronic mail, print queues. Establishing and managing a network."
+  }
+]
