@@ -3,7 +3,7 @@
 // env var injection (no Vite/webpack) — these are just globals.
 
 const CONFIG = {
-  SUPABASE_URL: "https://your-project.supabase.co",
+  SUPABASE_URL: "https://supabase.com/dashboard/project/cfwswtlludbqmwmqaqqq",
   SUPABASE_ANON_KEY: "your-anon-key",   // safe for the browser; RLS restricts access
   API_BASE_URL: "http://localhost:8000", // your FastAPI backend
 
