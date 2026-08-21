@@ -28,7 +28,6 @@ load_dotenv(ROOT / ".env")
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 
-
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 def normalize_tag_name(tag_name:str) -> str:
@@ -42,7 +41,7 @@ def normalize_course_code(code:str) -> str:
 def parse_review_data(date_str:str):
     #parses RMP date to remove all extra characters
     cleaned = date_str.replace(" UTC", "")
-    return datetime.strptime(cleaned, "%Y-%m-%d %H:%M:%S %z").isforamt() # format the data into Year-Month-date, Hour:Minute:seconds UTC  offset
+    return datetime.strptime(cleaned, "%Y-%m-%d %H:%M:%S %z").isoformat() # format the data into Year-Month-date, Hour:Minute:seconds UTC  offset
 
 
 def get_or_create_school(school_data:dict) -> int:
@@ -111,11 +110,11 @@ def find_course_id(course_code_raw: str):
         return None
     target = normalize_course_code(course_code_raw)
     #Best -Effort, implement course catalouge into this section
-    courses = supabase.schema("raw_data").tables("courses").select("id, course_code").execute().data
+    courses = supabase.schema("raw_data").table("courses").select("id, course_code").execute().data
     for course in courses:
         if normalize_course_code(course["course_code"]) == target:
             return course["id"]
-        return None
+    return None
 
 def load_reviews(prof_row_id:int, ratings:list[dict]):
     #clear old reviews for every prof specific, no duplicates
@@ -129,10 +128,17 @@ def load_reviews(prof_row_id:int, ratings:list[dict]):
                         "course_id": course_id,
                         "source":"rmp",
                         "rating_text":rating.get("comment"),
-                        "created_at":parse_review_data(rating["date"] if rating["date"] else None),
+                        "created_at": parse_review_data(rating["date"]) if rating.get("date") else None,
                     },
-                    on_conflict = "rmp_professor_id" # checking the rmp_prof_id cols to see if it exist already
                 ).execute()
+
+def load_course_file(filepath:str):
+    #loading pre-reqs/ course information
+    with open(filepath) as f:
+        data = json.load(f)
+    course_data = data["course"]
+    course_code = normalize_course_code(data["code"])
+
 def load_prof_file(filepath:str):
     with open(filepath) as f:
         data = json.load(f)
@@ -145,10 +151,9 @@ def load_prof_file(filepath:str):
 
     print(f"Loaded: {prof_data['first_name']} {prof_data['last_name']} "
           f"({len(data.get('ratings', []))} reviews)")
- 
-
+    
 if __name__ == "__main__":
-    files = glob.glob(os.path.join("/past_output", "*.json")) #directory that pulls the .json files
+    files = glob.glob(os.path.join(ROOT.parent, "csulb_cs_professors", "*.json"))
     print(f"found {len(files)} in directory")
 
     for filepath in files:
