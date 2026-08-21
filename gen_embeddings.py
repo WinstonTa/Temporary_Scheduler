@@ -1,8 +1,12 @@
 import os
+from pathlib import Path
 from supabase import create_client
 from sentence_transformers import SentenceTransformer
 from dotenv import load_dotenv
-load_dotenv()
+
+
+ROOT = Path(__file__).resolve().parent
+load_dotenv(ROOT / ".env")
 
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_KEY")
