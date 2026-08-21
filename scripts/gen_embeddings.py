@@ -8,12 +8,18 @@ Embedding all the information into one text blob that says everything about the 
 
 That text blob turns into embeddings and that is what is compared
 
+<<<<<<< HEAD
 <<<<<<< HEAD:scripts/gen_embeddings.py
 The embeddings after this would look like -> type(numpy.ndarray), vector.shape = (384,), vector[:5] = [0.0231, -0.1502,0.0891,0.027]
 
 
 =======
 >>>>>>> b8835a9 (added description to embeddings script):gen_embeddings.py
+=======
+The embeddings after this would look like -> type(numpy.ndarray), vector.shape = (384,), vector[:5] = [0.0231, -0.1502,0.0891,0.027]
+
+
+>>>>>>> d0f62ec (added quiz vector + api)
 """
 
 ROOT = Path(__file__).resolve().parent

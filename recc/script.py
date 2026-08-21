@@ -46,10 +46,13 @@ def get_reccomendations(user_id:str, term:str = None, match_count:int =10):
 if __name__ =="__main__":
     student_id = "Replace with Real ID" # REPLACE WITH CALL FROM USER_TABLE WITH UNIQUE ID
     reccomendations = get_reccomendations(student_id, term="Fall 2026") # MATCH WITH COURSE OFFERINGS TERM
+<<<<<<< HEAD
     student_id = "Replace with Real ID"
     reccomendations = get_reccomendations(student_id, term="Fall 2026")
     student_id = "Replace with Real ID"
     reccomendations = get_reccomendations(student_id, term="Fall 2026")
+=======
+>>>>>>> d0f62ec (added quiz vector + api)
     for rec in reccomendations:
           print(
             f"{rec['course_code']} — {rec['course_title']} "
