@@ -1,0 +1,724 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2966266",
+    "scraped_at": "2026-08-21T07:30:51.954890+00:00",
+    "graphql_id": "VGVhY2hlci0yOTY2MjY2",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2966266,
+    "first_name": "Derek",
+    "last_name": "Hu",
+    "full_name": "Derek Hu",
+    "department": "Computer Science",
+    "avg_rating": 2.9,
+    "avg_difficulty": 4,
+    "num_ratings_listed": 18,
+    "would_take_again_percent": 50.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 13,
+        "courseName": "228"
+      },
+      {
+        "courseCount": 3,
+        "courseName": "301"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "304"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 18,
+    "avg_quality": 2.89,
+    "avg_difficulty": 4.0,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Tough grader",
+        "count": 11
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 9
+      },
+      {
+        "name": "Test heavy",
+        "count": 7
+      },
+      {
+        "name": "Accessible outside class",
+        "count": 6
+      },
+      {
+        "name": "Get ready to read",
+        "count": 3
+      },
+      {
+        "name": "Group projects",
+        "count": 3
+      },
+      {
+        "name": "Caring",
+        "count": 3
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 2
+      },
+      {
+        "name": "EXTRA CREDIT",
+        "count": 2
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 2
+      },
+      {
+        "name": "Participation matters",
+        "count": 2
+      },
+      {
+        "name": "Online Savvy",
+        "count": 1
+      },
+      {
+        "name": "Lots of homework",
+        "count": 1
+      },
+      {
+        "name": "Inspirational",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 3
+      },
+      {
+        "name": "Rather not say",
+        "count": 3
+      },
+      {
+        "name": "B",
+        "count": 2
+      },
+      {
+        "name": "A+",
+        "count": 2
+      },
+      {
+        "name": "B-",
+        "count": 1
+      },
+      {
+        "name": "C+",
+        "count": 1
+      },
+      {
+        "name": "C-",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 1,
+      "2": 1,
+      "3": 3,
+      "4": 5,
+      "5": 8
+    },
+    "attendance": {
+      "non mandatory": 9,
+      "mandatory": 9
+    },
+    "courses": [
+      {
+        "course": "228",
+        "review_count": 13,
+        "avg_quality": 2.77,
+        "avg_difficulty": 4.08,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Tough grader",
+            "count": 8
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 7
+          },
+          {
+            "name": "Test heavy",
+            "count": 5
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 4
+          },
+          {
+            "name": "Get ready to read",
+            "count": 3
+          },
+          {
+            "name": "EXTRA CREDIT",
+            "count": 2
+          },
+          {
+            "name": "Participation matters",
+            "count": 2
+          },
+          {
+            "name": "Caring",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "301",
+        "review_count": 3,
+        "avg_quality": 2.33,
+        "avg_difficulty": 4.33,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Tough grader",
+            "count": 2
+          },
+          {
+            "name": "Test heavy",
+            "count": 2
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 2
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "304",
+        "review_count": 2,
+        "avg_quality": 4.5,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 1
+          },
+          {
+            "name": "Online Savvy",
+            "count": 1
+          },
+          {
+            "name": "Tough grader",
+            "count": 1
+          },
+          {
+            "name": "Group projects",
+            "count": 1
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQzMzYzMDE2",
+      "legacy_id": 43363016,
+      "date": "2026-08-12 23:25:58 +0000 UTC",
+      "course": "304",
+      "comment": "Had him for signal processing, his lectures are easy to follow and he is very good at breaking down the topics to understand WHY we do what we are learning as opposed to just simply solving the questions. He confirms you know why a system works/isn't working and will give you tips often. His exams are very similar to lecture practice problems",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Clear grading criteria",
+        "Accessible outside class",
+        "Online Savvy"
+      ],
+      "grade": "B-",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTQyODkwNDc5",
+      "legacy_id": 42890479,
+      "date": "2026-04-21 19:05:03 +0000 UTC",
+      "course": "228",
+      "comment": "He's a very tough grader and fast paced lectures. One thing I would say I dislike is that he doesn't seem like he knows what he's doing. There's been numerous of times where he mistakenly puts the wrong answer or information up. We all make mistakes but these mistakes should not be happening as much as it does, let alone if he's the one teaching.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "EXTRA CREDIT",
+        "Test heavy"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyNzI4MjQy",
+      "legacy_id": 42728242,
+      "date": "2026-03-23 22:26:21 +0000 UTC",
+      "course": "228",
+      "comment": "I really enjoyed his class. Although his lectures are very fast-paced, he made topics easy to learn. Attendance is only mandatory on group assignment days, but lectures are essential to doing well in his class so I wouldn't skip.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Clear grading criteria",
+        "Gives good feedback",
+        "Lecture heavy"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyNTM4ODEx",
+      "legacy_id": 42538811,
+      "date": "2026-01-23 00:21:26 +0000 UTC",
+      "course": "228",
+      "comment": "might be an all time professor i've had throughout the semester. he's challenging but i am grateful for that because it makes me understand the subject more.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Tough grader",
+        "Get ready to read",
+        "Participation matters"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyMDQyOTgw",
+      "legacy_id": 42042980,
+      "date": "2025-12-04 21:27:25 +0000 UTC",
+      "course": "228",
+      "comment": "Too fast as a lecture",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Get ready to read",
+        "Test heavy"
+      ],
+      "grade": "C+",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxNjg1NTc3",
+      "legacy_id": 41685577,
+      "date": "2025-10-03 16:42:43 +0000 UTC",
+      "course": "304",
+      "comment": "The goat for signal processing, he makes us think about why we are even learning this course in the first place and really pushes us to understand coding in our labs. Even though having no calculators for exams/quizzes is a big of a stretch it does allow us to re-learn simple concepts and math rules. Nice little curve at the end too.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Group projects",
+        "Gives good feedback"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxNjgzNDA3",
+      "legacy_id": 41683407,
+      "date": "2025-10-02 20:25:55 +0000 UTC",
+      "course": "228",
+      "comment": "Grading is very harsh.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Get ready to read",
+        "Lecture heavy"
+      ],
+      "grade": "Rather not say",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxNjc2Njk1",
+      "legacy_id": 41676695,
+      "date": "2025-09-30 20:37:45 +0000 UTC",
+      "course": "228",
+      "comment": "Speak so fast and tough grading",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Lecture heavy"
+      ],
+      "grade": "C-",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxNTEzMzcx",
+      "legacy_id": 41513371,
+      "date": "2025-07-21 06:37:09 +0000 UTC",
+      "course": "301",
+      "comment": "Unfair grader, a lot of Homeworks and useless labs. please avoid him he does not respect students.  Tests are heavy and no calculator !!",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Lots of homework",
+        "Test heavy"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxMzQwMjMw",
+      "legacy_id": 41340230,
+      "date": "2025-05-21 19:25:27 +0000 UTC",
+      "course": "228",
+      "comment": "Absolute terrible professor. Clearly does not care about your success. He is the toughest grader I've had in college. Which is ironic because he doesn't teach great to be grading like he does. Please do not take him--save yourself the struggle.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Lecture heavy",
+        "Test heavy"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxMzAxMzE4",
+      "legacy_id": 41301318,
+      "date": "2025-05-16 04:24:46 +0000 UTC",
+      "course": "228",
+      "comment": "I remember he would host extra review sessions for the exam outside of class and 20+ students would show up. It was cool being part of such a motivated class. The topic isn't easy but he's pretty fair and gives you a lot of resources to help. I'm grateful for teachers like Derek b/c most CS professors here do the bare minimum and it makes me sad",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Inspirational",
+        "Caring",
+        "Accessible outside class"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNzcxNjkz",
+      "legacy_id": 40771693,
+      "date": "2025-03-14 17:36:57 +0000 UTC",
+      "course": "228",
+      "comment": "Worst professor ever avoid him at all cost, makes your life so unfair and putting in all your hard work worth nothing. A*****",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Group projects",
+        "Test heavy"
+      ],
+      "grade": "Rather not say",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNjM2ODE2",
+      "legacy_id": 40636816,
+      "date": "2025-02-04 06:21:19 +0000 UTC",
+      "course": "301",
+      "comment": "Avoid him makes life so hard and unfair grader",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Lecture heavy",
+        "Test heavy"
+      ],
+      "grade": "Rather not say",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNDQ0MDcy",
+      "legacy_id": 40444072,
+      "date": "2024-12-27 05:55:38 +0000 UTC",
+      "course": "228",
+      "comment": "No homework except ZyBooks. Lectures are super fast-paced, making the content hard to digest during class. The class is kinda hard to study for, but I recommend redoing examples from class and group assignments and making sure you thoroughly understand how to do them. Questions on the exams were usually not as complex as some examples from lecture.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Caring",
+        "Lecture heavy",
+        "Accessible outside class"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5NDc4NTUy",
+      "legacy_id": 39478552,
+      "date": "2024-05-16 18:45:54 +0000 UTC",
+      "course": "228",
+      "comment": "Pretty solid professor and teaches discrete structures well. I feel like sometimes he does make the quizzes and exams more difficult for you so just prepare yourself as much as you can if you wanna make a good grade. Overall he stays on schedule, helps as much as he can, and quick with grading.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Participation matters",
+        "Accessible outside class"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5NDY4OTgz",
+      "legacy_id": 39468983,
+      "date": "2024-05-15 16:40:23 +0000 UTC",
+      "course": "228",
+      "comment": "A good lecturer, and always seeking feedback to improve class. Attendance is not required, except during group assignments, but highly recommended if you want an easier time. The exams are pretty reasonable, since the questions are similar to the ones in lectures and group assignments. Small fixed curve, but provides a decent amount of extra credit",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "EXTRA CREDIT",
+        "Lecture heavy",
+        "Accessible outside class"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5MjA2MDI4",
+      "legacy_id": 39206028,
+      "date": "2024-04-18 21:39:04 +0000 UTC",
+      "course": "301",
+      "comment": "Prof. Hu is a good lecturer and tries his best to get feedback from the class to improve all aspects. His tests are very reasonable and if you understand the notes, homework, and especially practice midterm you will do well. He doesn't curve but offers a good amount of extra credit that is applied to the midterm to boost your grade.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Caring",
+        "Lecture heavy",
+        "Accessible outside class"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4ODYzNzM4",
+      "legacy_id": 38863738,
+      "date": "2024-01-10 20:36:50 +0000 UTC",
+      "course": "228",
+      "comment": "The worst prof I've had in math. Says attendance isn't mandatory, but not all notes covered in class are posted online. Marks you wrong on exams and homework but doesn't correct your mistakes (which I believe is pointless). Some questions on the exam were not covered in class. Gives out extra credit. However, very unforgivable.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Group projects",
+        "Lecture heavy",
+        "Test heavy"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 4,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

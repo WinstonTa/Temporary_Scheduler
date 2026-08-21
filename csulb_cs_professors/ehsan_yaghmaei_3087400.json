@@ -1,0 +1,356 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/3087400",
+    "scraped_at": "2026-08-21T07:33:33.136211+00:00",
+    "graphql_id": "VGVhY2hlci0zMDg3NDAw",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 3087400,
+    "first_name": "Ehsan",
+    "last_name": "Yaghmaei",
+    "full_name": "Ehsan Yaghmaei",
+    "department": "Computer Science",
+    "avg_rating": 4.3,
+    "avg_difficulty": 2.1,
+    "num_ratings_listed": 7,
+    "would_take_again_percent": 87.5,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 4,
+        "courseName": "CECS271"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS450"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS456"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 8,
+    "avg_quality": 4.38,
+    "avg_difficulty": 2.0,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Caring",
+        "count": 3
+      },
+      {
+        "name": "Graded by few things",
+        "count": 3
+      },
+      {
+        "name": "Respected",
+        "count": 1
+      },
+      {
+        "name": "Hilarious",
+        "count": 1
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 1
+      },
+      {
+        "name": "Inspirational",
+        "count": 1
+      },
+      {
+        "name": "Test heavy",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 3
+      },
+      {
+        "name": "B",
+        "count": 2
+      },
+      {
+        "name": "A+",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 4,
+      "2": 2,
+      "3": 0,
+      "4": 2,
+      "5": 0
+    },
+    "attendance": {
+      "non mandatory": 8
+    },
+    "courses": [
+      {
+        "course": "CECS271",
+        "review_count": 4,
+        "avg_quality": 5.0,
+        "avg_difficulty": 1.5,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Caring",
+            "count": 3
+          },
+          {
+            "name": "Respected",
+            "count": 1
+          },
+          {
+            "name": "Hilarious",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          },
+          {
+            "name": "Inspirational",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS450",
+        "review_count": 2,
+        "avg_quality": 5.0,
+        "avg_difficulty": 1.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": []
+      },
+      {
+        "course": "CECS456",
+        "review_count": 2,
+        "avg_quality": 2.5,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Graded by few things",
+            "count": 2
+          },
+          {
+            "name": "Test heavy",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQzMzA0MDQ0",
+      "legacy_id": 43304044,
+      "date": "2026-07-14 22:49:06 +0000 UTC",
+      "course": "CECS450",
+      "comment": "The professor is pretty easy! There are no exams for the class. You'll only have to do projects. The projects can be difficult to understand, but ask for clarification and it will be an easy A!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQzMjMyNDYz",
+      "legacy_id": 43232463,
+      "date": "2026-06-08 13:53:30 +0000 UTC",
+      "course": "CECS450",
+      "comment": "No exams, only projects for the class. The projects can be confusing to understand, but it is the only thing you'll have to focus on for the semester!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQzMTk2NDYx",
+      "legacy_id": 43196461,
+      "date": "2026-05-26 22:22:54 +0000 UTC",
+      "course": "CECS271",
+      "comment": "Great professor, definitely take him for 271. He makes the material super easy to learn. Just do all homework assignments and you'll be set for the exams. Everything is very straightforward, just do the work and you will be good.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Caring",
+        "Respected"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyNTU5NTU1",
+      "legacy_id": 42559555,
+      "date": "2026-01-28 18:09:12 +0000 UTC",
+      "course": "CECS271",
+      "comment": "Considerate and fun professor. Sometimes he posts the grades late but overall is a good professor that tries to help you as best he can. He is the goat.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Hilarious",
+        "Caring"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxNjc3ODAw",
+      "legacy_id": 41677800,
+      "date": "2025-10-01 03:43:58 +0000 UTC",
+      "course": "CECS271",
+      "comment": "Honestly if you know numerical methods and want a easy class take him. He taught all the material pretty well and exams were pretty much close to what you do with the homework. And for those that took the class you know hes the goat.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Graded by few things"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxNjA1MTU4",
+      "legacy_id": 41605158,
+      "date": "2025-08-27 20:03:20 +0000 UTC",
+      "course": "CECS271",
+      "comment": "Professor Yaghmaei is one of those professors that allow you to learn at your own pace. He is very nice and easy going as long as you are respectful. Each lecture there are practice problems provided that you can try. Exams are easy as long as you study and do the practice problems. THE GOAT!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Amazing lectures",
+        "Inspirational",
+        "Caring"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwOTA3NTY2",
+      "legacy_id": 40907566,
+      "date": "2025-05-07 03:46:28 +0000 UTC",
+      "course": "CECS456",
+      "comment": "Yaghmaei's class structure is very confusing and unorganized. Currently, we are 75% into the semester, and there is nothing graded. His instructions for assignments are also very vague, causing a good amount of the class to be confused. Exams and homework aren't too difficult though. Overall, not bad, just a pretty confusing",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Test heavy",
+        "Graded by few things"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwOTI5NDIw",
+      "legacy_id": 40929420,
+      "date": "2025-04-13 19:33:31 +0000 UTC",
+      "course": "CECS456",
+      "comment": "Very confusing prof. Canvas is incredibly unorganized. Nothing is graded yet, not even the participation assignments. I can't say if the class is hard or not bc nothing is graded and everyone is confused. The participation assignments are the only thing teaching me (and I'm teaching myself how to do them)",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Graded by few things"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

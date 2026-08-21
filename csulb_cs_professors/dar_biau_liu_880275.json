@@ -1,0 +1,275 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/880275",
+    "scraped_at": "2026-08-21T07:53:11.977846+00:00",
+    "graphql_id": "VGVhY2hlci04ODAyNzU=",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 880275,
+    "first_name": "Dar-Biau",
+    "last_name": "Liu",
+    "full_name": "Dar-Biau Liu",
+    "department": "Computer Science",
+    "avg_rating": 3.5,
+    "avg_difficulty": 3.3,
+    "num_ratings_listed": 7,
+    "would_take_again_percent": null,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 1,
+        "courseName": "CECS343"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS424"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS530"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS531"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS543"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS546"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 7,
+    "avg_quality": 3.5,
+    "avg_difficulty": 3.29,
+    "would_take_again_percent": null,
+    "online_percent": 0.0,
+    "tag_counts": [],
+    "grade_counts": [],
+    "difficulty_histogram": {
+      "1": 1,
+      "2": 0,
+      "3": 3,
+      "4": 2,
+      "5": 1
+    },
+    "attendance": {},
+    "courses": [
+      {
+        "course": "CECS543",
+        "review_count": 2,
+        "avg_quality": 2.5,
+        "avg_difficulty": 4.5,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS424",
+        "review_count": 1,
+        "avg_quality": 1.5,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS343",
+        "review_count": 1,
+        "avg_quality": 4.5,
+        "avg_difficulty": 1.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS546",
+        "review_count": 1,
+        "avg_quality": 4.5,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS531",
+        "review_count": 1,
+        "avg_quality": 4.5,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS530",
+        "review_count": 1,
+        "avg_quality": 4.5,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTE3NTYxNjU2",
+      "legacy_id": 17561656,
+      "date": "2010-08-30 17:29:11 +0000 UTC",
+      "course": "CECS543",
+      "comment": "This teacher is awesome.  He is funny and brilliant and fun to talk to.  However this class is worse than useless, it is actively destructive to your ability to function in the real world.  He teaches methodologies that were state of the art in the 70's when he worked at IBM.  And treat Day One as an interview; a bad group = hell for three months.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTE1MjQyNTAz",
+      "legacy_id": 15242503,
+      "date": "2008-12-26 02:38:18 +0000 UTC",
+      "course": "CECS424",
+      "comment": "This class was such a waste of time. I think or it seems like it's Dr. Liu's first time teaching this class.  He just read off the book's website slides and goes thru unreadable overhead scribblings at times and mentions that this might be on the test. Won't go over problems for tests before them, only after midterm is over...&#63; Screwed us on finals",
+      "quality": 1.5,
+      "helpful": 1.0,
+      "clarity": 2.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTE1MTExMDk4",
+      "legacy_id": 15111098,
+      "date": "2008-12-05 01:24:29 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Good professor",
+      "quality": 4.5,
+      "helpful": 5.0,
+      "clarity": 4.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTE0NTE4NTUz",
+      "legacy_id": 14518553,
+      "date": "2008-05-24 12:59:54 +0000 UTC",
+      "course": "CECS543",
+      "comment": "The exams are easy. The project will work your ass off. Make sure you get in a good group. one or two slackers really increases your workload (20+ hours a week)",
+      "quality": 4.0,
+      "helpful": 5.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTEyNzg2MzU4",
+      "legacy_id": 12786358,
+      "date": "2007-01-17 16:58:13 +0000 UTC",
+      "course": "CECS546",
+      "comment": "No Comments",
+      "quality": 4.5,
+      "helpful": 4.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 4.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTEyNzg2MzE0",
+      "legacy_id": 12786314,
+      "date": "2007-01-17 16:51:06 +0000 UTC",
+      "course": "CECS531",
+      "comment": "No Comments",
+      "quality": 4.5,
+      "helpful": 4.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTEyNzg2MjM1",
+      "legacy_id": 12786235,
+      "date": "2007-01-17 16:41:38 +0000 UTC",
+      "course": "CECS530",
+      "comment": "Great Class.  He will grind you to death.",
+      "quality": 4.5,
+      "helpful": 4.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 4.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

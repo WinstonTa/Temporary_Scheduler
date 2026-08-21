@@ -86,8 +86,8 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--delay",
         type=float,
-        default=30.0,
-        help="Seconds to sleep between scrapes (default: 30).",
+        default=15.0,
+        help="Seconds to sleep between scrapes (default: 15).",
     )
     parser.add_argument(
         "--dry-run",

@@ -1,0 +1,201 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2246802",
+    "scraped_at": "2026-08-21T07:48:24.339569+00:00",
+    "graphql_id": "VGVhY2hlci0yMjQ2ODAy",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2246802,
+    "first_name": "Isabel",
+    "last_name": "Banuelos",
+    "full_name": "Isabel Banuelos",
+    "department": "Computer Science",
+    "avg_rating": 2.3,
+    "avg_difficulty": 2.5,
+    "num_ratings_listed": 4,
+    "would_take_again_percent": 0.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 3,
+        "courseName": "CECS328"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS343"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 4,
+    "avg_quality": 2.25,
+    "avg_difficulty": 2.5,
+    "would_take_again_percent": 0.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "GROUP PROJECTS",
+        "count": 1
+      },
+      {
+        "name": "Get ready to read",
+        "count": 1
+      },
+      {
+        "name": "Hilarious",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "B",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 1,
+      "2": 0,
+      "3": 3,
+      "4": 0,
+      "5": 0
+    },
+    "attendance": {
+      "mandatory": 4
+    },
+    "courses": [
+      {
+        "course": "CECS328",
+        "review_count": 3,
+        "avg_quality": 2.33,
+        "avg_difficulty": 2.33,
+        "would_take_again_percent": 0.0,
+        "top_tags": [
+          {
+            "name": "Get ready to read",
+            "count": 1
+          },
+          {
+            "name": "Hilarious",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS343",
+        "review_count": 1,
+        "avg_quality": 2.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 0.0,
+        "top_tags": [
+          {
+            "name": "GROUP PROJECTS",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTMwMDA3NTM4",
+      "legacy_id": 30007538,
+      "date": "2018-05-07 02:59:18 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Would've given her a 1 if it weren't for her being a really nice lady. She simply reads off of slides for over the class time and doesn't explain anything. Because of this, tests are basically memorizing pages of concepts that you won't actually understand. I put 3 for difficulty because I don't know yet whether or not she curves.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 3.0,
+      "tags": [
+        "GROUP PROJECTS"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4Mzg4OTEx",
+      "legacy_id": 28388911,
+      "date": "2017-05-26 18:15:45 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Everything is off the power point. I couldn't stay awake in the class :(. I had to read sections of the book to learn anything in the class which isn't so bad. She's teaching linear algebra cecs 229 in fall 2017 and I don't advise anyone to take that class. It's a hard class so you need someone that can do linear algebra in their sleep.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Get ready to read"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4MzQ2NzIz",
+      "legacy_id": 28346723,
+      "date": "2017-05-19 03:42:38 +0000 UTC",
+      "course": "CECS328",
+      "comment": "She's  okay, but she's one of those \"read the Powerpoint off the screen projector\", so she doesn't seem to enthusiastic about the material. Homework is fair, but be ready to start learning on your own. Khan Academy and Youtube tutorial videos will be your friend.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4MDQ4MjE3",
+      "legacy_id": 28048217,
+      "date": "2017-04-13 20:33:35 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Instructor is not a full-time professor but an IT staff member.  Her lectures are awkward and often hard to follow. She records attendance, so skipping is not advised. Be prepared to study on your own as usual. The class requires some effort, but is not difficult in comparison to other computer science classes.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Hilarious"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2060011",
+    "scraped_at": "2026-08-21T07:53:59.270057+00:00",
+    "graphql_id": "VGVhY2hlci0yMDYwMDEx",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2060011,
+    "first_name": "Michael",
+    "last_name": "Stephens",
+    "full_name": "Michael Stephens",
+    "department": "Computer Science",
+    "avg_rating": 0,
+    "avg_difficulty": 0,
+    "num_ratings_listed": 0,
+    "would_take_again_percent": null,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": []
+  },
+  "summary": {
+    "review_count_collected": 0,
+    "avg_quality": null,
+    "avg_difficulty": null,
+    "would_take_again_percent": null,
+    "online_percent": null,
+    "tag_counts": [],
+    "grade_counts": [],
+    "difficulty_histogram": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "attendance": {},
+    "courses": []
+  },
+  "ratings": []
+}

@@ -1,0 +1,356 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/1872236",
+    "scraped_at": "2026-08-21T07:43:47.631379+00:00",
+    "graphql_id": "VGVhY2hlci0xODcyMjM2",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 1872236,
+    "first_name": "Nathan",
+    "last_name": "Pickrell",
+    "full_name": "Nathan Pickrell",
+    "department": "Computer Science",
+    "avg_rating": 4.7,
+    "avg_difficulty": 2.3,
+    "num_ratings_listed": 7,
+    "would_take_again_percent": 100.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 1,
+        "courseName": "CECS274"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS472"
+      },
+      {
+        "courseCount": 4,
+        "courseName": "CECS476"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "ENGR101"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 7,
+    "avg_quality": 4.71,
+    "avg_difficulty": 2.29,
+    "would_take_again_percent": 100.0,
+    "online_percent": 14.3,
+    "tag_counts": [
+      {
+        "name": "Hilarious",
+        "count": 2
+      },
+      {
+        "name": "Lots of homework",
+        "count": 2
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 2
+      },
+      {
+        "name": "Inspirational",
+        "count": 1
+      },
+      {
+        "name": "Caring",
+        "count": 1
+      },
+      {
+        "name": "Tough grader",
+        "count": 1
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 1
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 1
+      },
+      {
+        "name": "Would take again",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 4
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 2,
+      "2": 1,
+      "3": 4,
+      "4": 0,
+      "5": 0
+    },
+    "attendance": {
+      "mandatory": 1,
+      "non mandatory": 5,
+      "N": 1
+    },
+    "courses": [
+      {
+        "course": "CECS476",
+        "review_count": 4,
+        "avg_quality": 4.75,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Lots of homework",
+            "count": 2
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 2
+          },
+          {
+            "name": "Tough grader",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "ENGR101",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 1.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Inspirational",
+            "count": 1
+          },
+          {
+            "name": "Hilarious",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS274",
+        "review_count": 1,
+        "avg_quality": 4.0,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Hilarious",
+            "count": 1
+          },
+          {
+            "name": "Would take again",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS472",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 1.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTM1NjA4ODY1",
+      "legacy_id": 35608865,
+      "date": "2021-12-20 19:24:03 +0000 UTC",
+      "course": "ENGR101",
+      "comment": "He is the best professor. If anyone is doubtful to take his class, i highly suggest you to take his class. u will not regret it. He is very hilarious and a caring person. He is literally a gem.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Inspirational",
+        "Hilarious",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": true,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzNDE3NDI3",
+      "legacy_id": 33417427,
+      "date": "2020-06-08 05:23:25 +0000 UTC",
+      "course": "CECS476",
+      "comment": "mr. pickrell was hit with a double whammy this semester in having to move his linux labs from physical machines to to AWS and then having to go fully online due to the pandemic, but he managed things gracefully. tons of assignments, but all are relatively easy so long as you listen in class. exams are harder, but fair. V. good class to take!",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Lots of homework",
+        "Clear grading criteria",
+        "Tough grader"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxOTU1Nzgx",
+      "legacy_id": 31955781,
+      "date": "2019-05-26 04:35:13 +0000 UTC",
+      "course": "CECS476",
+      "comment": "The course content is very useful and a must for both undergrads and grads. The lectures are organized and to the point. He is very knowledgeable and helpful to students. A lot of assignments, which help you learn and also prepare for the exams. He's a fair grader. I strongly recommend taking his class.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Lots of homework",
+        "Clear grading criteria",
+        "Amazing lectures"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI5Mjc0NzYw",
+      "legacy_id": 29274760,
+      "date": "2017-12-19 12:46:26 +0000 UTC",
+      "course": "CECS274",
+      "comment": "He's a laid back guy who is very straight to the point of concepts. Exams are open note and code (papers only, not electronics). You could finish the homework during lab or by the next lecture. One thing that bugged me is just how the exam problems were overlooked every time, there was always something off. However he's quite forgiving on grading.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Gives good feedback",
+        "Hilarious",
+        "Would take again"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1MTM3NjY2",
+      "legacy_id": 25137666,
+      "date": "2015-08-20 16:42:04 +0000 UTC",
+      "course": "CECS472",
+      "comment": "This class has been extremely useful to me. It's a solid course on networking that teaches you practical C knowledge as well as how to provide useful micro services. Also, the networking capabilities in other languages (java, python) are heavily based upon the C ones learned in this class, which has been useful to make other projects at work.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI0ODIyMTUw",
+      "legacy_id": 24822150,
+      "date": "2015-05-13 17:49:58 +0000 UTC",
+      "course": "CECS476",
+      "comment": "Very helpful. Very straight to grades criteria. If you're really sluugish to study anything, then only you can get C or D. Beware of 26 assignments though, they are easy though time consuming. Definitely recommend his class.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyNjk5NjI5",
+      "legacy_id": 22699629,
+      "date": "2014-01-05 16:37:53 +0000 UTC",
+      "course": "CECS476",
+      "comment": "He's straight forward on what he expects.  Always available through email, he actually stays through the duration of lab and will stay with you afterwards if you need extra help.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "N",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

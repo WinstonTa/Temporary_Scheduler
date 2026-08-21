@@ -1,0 +1,160 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2940921",
+    "scraped_at": "2026-08-21T07:42:26.257416+00:00",
+    "graphql_id": "VGVhY2hlci0yOTQwOTIx",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2940921,
+    "first_name": "Ali",
+    "last_name": "Afzali-Kusha",
+    "full_name": "Ali Afzali-Kusha",
+    "department": "Computer Science",
+    "avg_rating": 1,
+    "avg_difficulty": 5,
+    "num_ratings_listed": 3,
+    "would_take_again_percent": 0.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 3,
+        "courseName": "CECS341"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 3,
+    "avg_quality": 1.0,
+    "avg_difficulty": 5.0,
+    "would_take_again_percent": null,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Test heavy",
+        "count": 1
+      },
+      {
+        "name": "Tough grader",
+        "count": 1
+      },
+      {
+        "name": "Graded by few things",
+        "count": 1
+      }
+    ],
+    "grade_counts": [],
+    "difficulty_histogram": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3
+    },
+    "attendance": {
+      "mandatory": 3
+    },
+    "courses": [
+      {
+        "course": "CECS341",
+        "review_count": 3,
+        "avg_quality": 1.0,
+        "avg_difficulty": 5.0,
+        "would_take_again_percent": null,
+        "top_tags": [
+          {
+            "name": "Test heavy",
+            "count": 1
+          },
+          {
+            "name": "Tough grader",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTM4MzgzNjY1",
+      "legacy_id": 38383665,
+      "date": "2023-11-13 21:41:11 +0000 UTC",
+      "course": "CECS341",
+      "comment": "I'd give him a 0 if I could, he's unprepared, quizzes/homework/exams unrelated to each other. Takes forever to grade, doesn't give feedback on missing points. Boring lectures, hard to listen, & note-take. Told us our midterm would be ~40 Q's, but gave us 68qs to do it 90 minutes, & some required a lot of calculation and the test had so many errors",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Test heavy"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4MzExNTk3",
+      "legacy_id": 38311597,
+      "date": "2023-10-26 05:31:32 +0000 UTC",
+      "course": "CECS341",
+      "comment": "He lacks compassion and understanding for his students. He's not flexible when it comes to grading and accessibility. Takes forever to grade and quizzes on material that's assigned for future hw. He relies on video lectures created by a professor from a different university to teach the material he should be teaching in class. I don't recommend.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4MzA4NDcz",
+      "legacy_id": 38308473,
+      "date": "2023-10-25 17:28:43 +0000 UTC",
+      "course": "CECS341",
+      "comment": "The worst, and dullest professor I've ever had. Slides are taken from another school, and are hard to follow. He writes over the slides in real time, cramming more hard-to-follow notes in any available white space. Quizzes are extremely hard. No cheat sheet for the midterm/final. Your attendance counts for 3% of your grade. Avoid him at all cost!",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Graded by few things"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

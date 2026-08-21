@@ -1,0 +1,1019 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2894857",
+    "scraped_at": "2026-08-21T07:33:49.440610+00:00",
+    "graphql_id": "VGVhY2hlci0yODk0ODU3",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2894857,
+    "first_name": "daniel",
+    "last_name": "link",
+    "full_name": "daniel link",
+    "department": "Computer Science",
+    "avg_rating": 2.1,
+    "avg_difficulty": 3.1,
+    "num_ratings_listed": 29,
+    "would_take_again_percent": 26.7,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 5,
+        "courseName": "443"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "455"
+      },
+      {
+        "courseCount": 14,
+        "courseName": "CECS343"
+      },
+      {
+        "courseCount": 9,
+        "courseName": "cecs443"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 30,
+    "avg_quality": 2.07,
+    "avg_difficulty": 3.2,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Group projects",
+        "count": 15
+      },
+      {
+        "name": "Tough grader",
+        "count": 10
+      },
+      {
+        "name": "Beware of pop quizzes",
+        "count": 7
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 5
+      },
+      {
+        "name": "Graded by few things",
+        "count": 4
+      },
+      {
+        "name": "Participation matters",
+        "count": 2
+      },
+      {
+        "name": "EXTRA CREDIT",
+        "count": 2
+      },
+      {
+        "name": "Hilarious",
+        "count": 2
+      },
+      {
+        "name": "Test heavy",
+        "count": 2
+      },
+      {
+        "name": "Caring",
+        "count": 1
+      },
+      {
+        "name": "Online Savvy",
+        "count": 1
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 7
+      },
+      {
+        "name": "B",
+        "count": 5
+      },
+      {
+        "name": "C",
+        "count": 2
+      },
+      {
+        "name": "Rather not say",
+        "count": 1
+      },
+      {
+        "name": "A+",
+        "count": 1
+      },
+      {
+        "name": "Incomplete",
+        "count": 1
+      },
+      {
+        "name": "A-",
+        "count": 1
+      },
+      {
+        "name": "D",
+        "count": 1
+      },
+      {
+        "name": "F",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 5,
+      "2": 5,
+      "3": 5,
+      "4": 9,
+      "5": 6
+    },
+    "attendance": {
+      "mandatory": 8,
+      "non mandatory": 22
+    },
+    "courses": [
+      {
+        "course": "CECS343",
+        "review_count": 14,
+        "avg_quality": 1.43,
+        "avg_difficulty": 3.36,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Group projects",
+            "count": 8
+          },
+          {
+            "name": "Tough grader",
+            "count": 6
+          },
+          {
+            "name": "Beware of pop quizzes",
+            "count": 2
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 2
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "cecs443",
+        "review_count": 9,
+        "avg_quality": 2.11,
+        "avg_difficulty": 3.67,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Beware of pop quizzes",
+            "count": 4
+          },
+          {
+            "name": "Tough grader",
+            "count": 4
+          },
+          {
+            "name": "Group projects",
+            "count": 3
+          },
+          {
+            "name": "Graded by few things",
+            "count": 2
+          },
+          {
+            "name": "Test heavy",
+            "count": 2
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 2
+          },
+          {
+            "name": "Hilarious",
+            "count": 1
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "443",
+        "review_count": 5,
+        "avg_quality": 2.8,
+        "avg_difficulty": 2.6,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Group projects",
+            "count": 2
+          },
+          {
+            "name": "Participation matters",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          },
+          {
+            "name": "Hilarious",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          },
+          {
+            "name": "Online Savvy",
+            "count": 1
+          },
+          {
+            "name": "Beware of pop quizzes",
+            "count": 1
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "455",
+        "review_count": 2,
+        "avg_quality": 4.5,
+        "avg_difficulty": 1.5,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "EXTRA CREDIT",
+            "count": 2
+          },
+          {
+            "name": "Group projects",
+            "count": 2
+          },
+          {
+            "name": "Participation matters",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQzMjk1NTU1",
+      "legacy_id": 43295555,
+      "date": "2026-07-09 19:28:26 +0000 UTC",
+      "course": "443",
+      "comment": "This class was much harder than expected. The lectures were dull and confusing, making it difficult to understand the material. Grading felt tougher than expected, and overall the class was frustrating and not enjoyable.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": "Rather not say",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQzMDgyMjQz",
+      "legacy_id": 43082243,
+      "date": "2026-05-09 23:20:58 +0000 UTC",
+      "course": "443",
+      "comment": "The class is overall pretty easy as long as you do your work, and he's not a harsh grader. Lectures are super monotone, and he has a sarcastic sense of humor; when you present, he'll have comments about everything. Quizzes are extra credit, and the midterm and final are pretty easy.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Participation matters",
+        "Group projects",
+        "Graded by few things"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQzMDczNDgx",
+      "legacy_id": 43073481,
+      "date": "2026-05-08 19:53:01 +0000 UTC",
+      "course": "455",
+      "comment": "funny guy! class is largely one big group proj where u make a video game, which is rly fun! a couple hw assignments that were annoying, but helpful if you made the most of them! quizzes are announced the day before and theyre not difficult as long as you brush up on the content beforehand. attendance is mandatory. cool guy, would recommend!",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [
+        "EXTRA CREDIT",
+        "Group projects"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyMzkyNjY2",
+      "legacy_id": 42392666,
+      "date": "2025-12-24 18:13:53 +0000 UTC",
+      "course": "455",
+      "comment": "Professor Link doesn't get enough credit. His teaching style is different but not difficult, and if you attend class and participate, you'll do well on exams. This was his first semester teaching Intro to Game Programming, and it was one of the most fun classes I've taken. He's passionate about games and has a great sense of humor. Highly recommend",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Participation matters",
+        "EXTRA CREDIT",
+        "Group projects"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyMjczODgz",
+      "legacy_id": 42273883,
+      "date": "2025-12-16 01:58:29 +0000 UTC",
+      "course": "443",
+      "comment": "he gets a lot of dirt for no reason, his class is fairly easy. Yes he will interrupt you during presentations but he does it mainly because he cares. Pretty easy to pass its mainly just a group project, 2 lockdown multi choice exams and quizzes for EC. Super easy A/B",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxODMyODY1",
+      "legacy_id": 41832865,
+      "date": "2025-11-10 07:19:04 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Not the worst prof but not sure why there are so many bad ratings?? Yeah he is unorganized and gives criticism on work but I find it to be fair. Honestly pretty doable class if you put in the effort for an A. Very few assignments to do and super easy midterm (w/ cheatsheet) & some quizzes. There is also a group project but it's not that bad cmon",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Group projects",
+        "Graded by few things"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwOTc0MjUz",
+      "legacy_id": 40974253,
+      "date": "2025-04-18 04:08:55 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Don't recommend. The wording on his exams is insanely confusing and poor, but at least he curved the exam. He is super specific on what he wants for your assignments and if you don't follow each rule step by step as he says he will deduct a ton of points. Lets you use a notesheet for exams and attendance isn't mandatory but random quizzes for EC.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Tough grader",
+        "Group projects"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwODEwNzI3",
+      "legacy_id": 40810727,
+      "date": "2025-03-24 21:48:15 +0000 UTC",
+      "course": "CECS343",
+      "comment": "I dont recommend taking it with this Prof at all",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNzYwMzY0",
+      "legacy_id": 40760364,
+      "date": "2025-03-12 01:04:40 +0000 UTC",
+      "course": "CECS343",
+      "comment": "His average goes down if you ignore the fake reviews he wrote himself near the bottom",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": "Incomplete",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNzU1MjM1",
+      "legacy_id": 40755235,
+      "date": "2025-03-10 22:11:52 +0000 UTC",
+      "course": "cecs443",
+      "comment": "I'm only on week 8 and I can tell you for a fact this is the worst professor I've ever had.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Group projects"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNTgxOTYz",
+      "legacy_id": 40581963,
+      "date": "2025-01-21 19:55:27 +0000 UTC",
+      "course": "CECS343",
+      "comment": "People leaving rlly bad views are prob ones who never showed up to class. He wasn't good but he wasn't the worst, you do assignments + get 2 day grace days. Exams are open note and quizzes are just extra credit. Group project throughout sem that's super easy! It's an easy A/B, even if you don't go. Barely is there assignments too, I say take him!",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNDc1MjIw",
+      "legacy_id": 40475220,
+      "date": "2025-01-03 05:16:03 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Those 5 star reviews at the bottom are 100% fake, no student actually talks like that. Ive never met anyone more incompetent in my entire life. Don't even show up to lectures you won't learn anything as he just reads off the slides with his lisp. He also hides your grade so you won't know how you're performing in the class. Save your time and avoid",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Tough grader",
+        "Group projects"
+      ],
+      "grade": "A-",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwMzYyMDI4",
+      "legacy_id": 40362028,
+      "date": "2024-12-18 11:11:55 +0000 UTC",
+      "course": "CECS343",
+      "comment": "This class has improved a bit since many of the older reviews, still, not great. He doesn't make his own lecture material. Easy assignments, just complete them with effort. Semester long group project is a bulk of the grade. Exams are mostly common sense but will have confusing questions. Take this class if you aren't studious but need to pass.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Group projects",
+        "Beware of pop quizzes"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwMTkxNjIz",
+      "legacy_id": 40191623,
+      "date": "2024-12-10 07:16:00 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Save your semester and don't take this guy.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Group projects"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5NTM2NDg3",
+      "legacy_id": 39536487,
+      "date": "2024-05-30 18:00:45 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Avoid at all costs",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5NTE2NTY5",
+      "legacy_id": 39516569,
+      "date": "2024-05-24 07:00:57 +0000 UTC",
+      "course": "CECS343",
+      "comment": "One semester long project where he gives no help / rubric,2 tests and about 5 writing assignments. He iss a tough grader and will nit pick small details on all assignments. While you will most likely pass his class he adds unnecessary stress and make you panic to the point that you debate dropping his class.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Group projects"
+      ],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5NDc1MTI1",
+      "legacy_id": 39475125,
+      "date": "2024-05-16 04:23:37 +0000 UTC",
+      "course": "CECS343",
+      "comment": "What other reviews said about terrible class time, unclear test questions, late grading etc. Short story, my group received a low score on an early group assignment due to unclear grading structure. Let us resubmit to be regraded. Fast forward after the final, hasn't regraded and sent a message to us confused why we resubmitted. He actually forgot!",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Group projects",
+        "Lecture heavy"
+      ],
+      "grade": "C",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5MzE2ODY0",
+      "legacy_id": 39316864,
+      "date": "2024-04-30 20:13:52 +0000 UTC",
+      "course": "CECS343",
+      "comment": "This man has no teaching skills. He argues with students over trivial matters, grades assignments late and exams are extremely difficult. His class average was extremely low and he said he would curve. Why would you create anxiety for students, then curve!!! Eveyone should email the dept chair and complain about this guy and have him removed.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5MDcwMDQ4",
+      "legacy_id": 39070048,
+      "date": "2024-03-20 22:07:10 +0000 UTC",
+      "course": "cecs443",
+      "comment": "All of those positive reviews at the bottom are total bs, 100% fake. Boring lectures that he reads off of slides he didn't write, will stick you with a team for a semester project, and won't move on in lectures if nobody responds. Allows for one page cheat sheet in exams, and pop quizzes for EC. If you can take anything else than 443 do it.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Group projects",
+        "Beware of pop quizzes",
+        "Graded by few things"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4OTQ4Mzgy",
+      "legacy_id": 38948382,
+      "date": "2024-02-02 23:07:50 +0000 UTC",
+      "course": "CECS343",
+      "comment": "some of the most boring lectures you will ever have to sit through. Class is not worth going to unless you suspect there to be a pop quiz, which are extra credit. During the final presentation he will interrupt every speaker multiple times and if you are not presenting first he will not leave enough time for you to present but make you anyway",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Beware of pop quizzes",
+        "Lecture heavy"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4Nzg3Mzk5",
+      "legacy_id": 38787399,
+      "date": "2023-12-24 04:35:04 +0000 UTC",
+      "course": "CECS343",
+      "comment": "His grading is so unclear. He has no rubric for his assignments. He literally made a presentation explaining how to do an assignment WEEKS AFTER it was due. The only good thing is that the midterm + final are open notes, but his lectures are literally read word-for-word from presentations he didn't even make. Class is a literal snoozefest.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Group projects"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3ODc5ODMx",
+      "legacy_id": 37879831,
+      "date": "2023-05-10 02:06:14 +0000 UTC",
+      "course": "443",
+      "comment": "This professor was the best one I've had! Although I know I got an D on this class, I feel as if I have learned a lifetime worth of knowledge. I definitely enjoyed attending class everyday as I looked forward to all the surprise quizzes and superb lectures. Overall, I would give this professor a 10/10 as the class was very enjoyable.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Hilarious",
+        "Caring",
+        "Online Savvy"
+      ],
+      "grade": "D",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 7,
+      "thumbs_down": 6,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3ODc5Nzkz",
+      "legacy_id": 37879793,
+      "date": "2023-05-10 02:03:07 +0000 UTC",
+      "course": "cecs443",
+      "comment": "The other plebes in this feed don't seem to comprehend the fine art of Professor Link. He is absolutely the funniest professor at CSULB! He is the best professor I've ever had. He is caring and laid back. He shows that your are able to learn while having fun at the same time. I highly recommend this man!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 7,
+      "thumbs_down": 6,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3ODc1Mzgw",
+      "legacy_id": 37875380,
+      "date": "2023-05-09 20:32:36 +0000 UTC",
+      "course": "cecs443",
+      "comment": "learned about the software development cycle. Lets us take the makeup test and letting us reexplain our answers form the midterm 1 for regrading aka best prof ever. As students we are always stressed and have school life as well as home life and various other problems, made  class a happy place with your smiles.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Group projects",
+        "Hilarious",
+        "Beware of pop quizzes"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 6,
+      "thumbs_down": 6,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3ODYxMDIw",
+      "legacy_id": 37861020,
+      "date": "2023-05-08 20:16:55 +0000 UTC",
+      "course": "cecs443",
+      "comment": "Just took the final exam and it was so difficult that I will be failing miserably. I dont know why he has to be so cruel. Now my graduation and and job prospects are all in danger.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": "F",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 5,
+      "thumbs_down": 6,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3ODAxMjEy",
+      "legacy_id": 37801212,
+      "date": "2023-05-03 03:48:35 +0000 UTC",
+      "course": "cecs443",
+      "comment": "worst professor",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Test heavy",
+        "Graded by few things"
+      ],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 6,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3NzMwNDE5",
+      "legacy_id": 37730419,
+      "date": "2023-04-26 21:13:28 +0000 UTC",
+      "course": "cecs443",
+      "comment": "This professor uses slides for lecture which he just reads word for word. Theres a do-able semester project that gets assigned at the beginning of the semester and you get to pick from a list. My group chose the budget manager. He is a very very tough & picky grader. Exam average was 60% and he says he doesn't curve. His assignments have no rubric.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Gives good feedback",
+        "Lecture heavy"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 6,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3NzMwMTY4",
+      "legacy_id": 37730168,
+      "date": "2023-04-26 20:55:20 +0000 UTC",
+      "course": "cecs443",
+      "comment": "don't take this professor, he doesn't even what himself what is he talking about, and his lectures are just him reading the slides. and he doesn't provide no grade rubric, due which it is really difficult to understand what is he asking in the assignment",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Beware of pop quizzes",
+        "Test heavy"
+      ],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 6,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3NzI5NDc2",
+      "legacy_id": 37729476,
+      "date": "2023-04-26 20:12:42 +0000 UTC",
+      "course": "443",
+      "comment": "DO NOT TAKE THIS PROFESSOR!!! The professor just reads off the slides which makes the class a drag to get to. The semester project was introduced late and we had very little time to finish. Any time you ask him a basic question he gives a long, useless answer. He does not specify a clear grading rubric for his assignments until after it is graded.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Group projects",
+        "Beware of pop quizzes",
+        "Lecture heavy"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 6,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3NzI5NDU0",
+      "legacy_id": 37729454,
+      "date": "2023-04-26 20:11:40 +0000 UTC",
+      "course": "cecs443",
+      "comment": "This class is based on software design but designs the entire course horribly. He grades very harshly and is insanely picky. When doing assignments, the PDF/Doc given is not the only thing that should be followed he has notes about assignments within the slides, and failing to check could be used against you. Don't take this professor, not worth it",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Tough grader",
+        "Beware of pop quizzes",
+        "Lecture heavy"
+      ],
+      "grade": "C",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 6,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/3021873",
+    "scraped_at": "2026-08-21T07:41:23.520862+00:00",
+    "graphql_id": "VGVhY2hlci0zMDIxODcz",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 3021873,
+    "first_name": "Iftikhar",
+    "last_name": "Shahnawaz",
+    "full_name": "Iftikhar Shahnawaz",
+    "department": "Computer Science",
+    "avg_rating": 3,
+    "avg_difficulty": 1.5,
+    "num_ratings_listed": 2,
+    "would_take_again_percent": 50.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 2,
+        "courseName": "491A"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 2,
+    "avg_quality": 3.0,
+    "avg_difficulty": 1.5,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [],
+    "grade_counts": [],
+    "difficulty_histogram": {
+      "1": 1,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "attendance": {
+      "mandatory": 1
+    },
+    "courses": [
+      {
+        "course": "491A",
+        "review_count": 2,
+        "avg_quality": 3.0,
+        "avg_difficulty": 1.5,
+        "would_take_again_percent": 100.0,
+        "top_tags": []
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQwMzI4NTIz",
+      "legacy_id": 40328523,
+      "date": "2024-12-16 20:46:00 +0000 UTC",
+      "course": "491A",
+      "comment": "Chill teacher, but very inconsistent. His syllabus was very bare-bone, and we didn't know the grading criteria at all. He mentioned that the attendance is mandatory, but again, no mention if it effects your grade or not. \n\nThere is a status report due every Thursday, but again he doesn't grade the status report and/or provide feedbacks on them.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5NzkzNjk5",
+      "legacy_id": 39793699,
+      "date": "2024-10-08 01:42:30 +0000 UTC",
+      "course": "491A",
+      "comment": "Shahnawaz on top! Hands down best choice for senior project - if you and your team actually get along and do work then its ezpz",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

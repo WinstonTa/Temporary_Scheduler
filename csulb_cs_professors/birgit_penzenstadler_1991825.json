@@ -1,0 +1,498 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/1991825",
+    "scraped_at": "2026-08-21T07:48:08.604959+00:00",
+    "graphql_id": "VGVhY2hlci0xOTkxODI1",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 1991825,
+    "first_name": "Birgit",
+    "last_name": "Penzenstadler",
+    "full_name": "Birgit Penzenstadler",
+    "department": "Computer Science",
+    "avg_rating": 4.2,
+    "avg_difficulty": 2.6,
+    "num_ratings_listed": 11,
+    "would_take_again_percent": 80.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 1,
+        "courseName": "343"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "491A"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS343"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS493"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS493A"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS542"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS590"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "ENG390"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "ENGR390"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 11,
+    "avg_quality": 4.18,
+    "avg_difficulty": 2.55,
+    "would_take_again_percent": 80.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Get ready to read",
+        "count": 3
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 2
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 1
+      },
+      {
+        "name": "Respected",
+        "count": 1
+      },
+      {
+        "name": "Inspirational",
+        "count": 1
+      },
+      {
+        "name": "Tough Grader",
+        "count": 1
+      },
+      {
+        "name": "Skip class? You won't pass.",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 4
+      },
+      {
+        "name": "B+",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 1,
+      "2": 5,
+      "3": 3,
+      "4": 2,
+      "5": 0
+    },
+    "attendance": {
+      "mandatory": 4,
+      "non mandatory": 2
+    },
+    "courses": [
+      {
+        "course": "ENG390",
+        "review_count": 2,
+        "avg_quality": 3.0,
+        "avg_difficulty": 2.5,
+        "would_take_again_percent": 50.0,
+        "top_tags": [
+          {
+            "name": "Get ready to read",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS493A",
+        "review_count": 2,
+        "avg_quality": 4.5,
+        "avg_difficulty": 1.5,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "ENGR390",
+        "review_count": 1,
+        "avg_quality": 4.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Respected",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS542",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Get ready to read",
+            "count": 1
+          },
+          {
+            "name": "Inspirational",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS343",
+        "review_count": 1,
+        "avg_quality": 4.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Tough Grader",
+            "count": 1
+          },
+          {
+            "name": "Get ready to read",
+            "count": 1
+          },
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS590",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "491A",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS493",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "343",
+        "review_count": 1,
+        "avg_quality": 3.0,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTMwMTk1MDUx",
+      "legacy_id": 30195051,
+      "date": "2018-05-26 18:27:47 +0000 UTC",
+      "course": "ENG390",
+      "comment": "She is really arrogant.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Get ready to read"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": null,
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 6,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwMTg0MTU0",
+      "legacy_id": 30184154,
+      "date": "2018-05-24 15:01:02 +0000 UTC",
+      "course": "ENG390",
+      "comment": "If you need to pass two GEs with one class and learn a few things along the way--look no further. She sometimes assigns papers with short due dates but other than that the class is nice. Overall, she's a chill professor.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 3,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwMTcwNjkx",
+      "legacy_id": 30170691,
+      "date": "2018-05-22 16:45:17 +0000 UTC",
+      "course": "ENGR390",
+      "comment": "An inspiring professor! I think this was the 1st time this class was offered, &amp; for a 1st time she did an amazing job! She educated us on important environmental &amp; sustainability issues we're currently facing, &amp; the possible solutions. Several 1500+ word papers; revisions for possible full credit. Other various assignments. Tough&amp;forgiving grader",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "Amazing lectures"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwMTQzMzkx",
+      "legacy_id": 30143391,
+      "date": "2018-05-18 02:37:57 +0000 UTC",
+      "course": "CECS542",
+      "comment": "Professor Penzenstadler is amazing. She is so fun and a great lecturer. Highly recommend taking a class of hers.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Get ready to read",
+        "Inspirational",
+        "Amazing lectures"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3MTYzNzA3",
+      "legacy_id": 27163707,
+      "date": "2016-11-10 14:14:39 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Class was fun, context of exams comes from powerpoints and class discussions. Key word here class discussions. If you're unwilling to participate in class you're going to have a hard time as the exam contains mainly free response questions. Final project is a software you have to create on your own. Takes up about 30% of your grade. Good luck.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough Grader",
+        "Get ready to read",
+        "Skip class? You won't pass."
+      ],
+      "grade": "B+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 3,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2NTc1Njcz",
+      "legacy_id": 26575673,
+      "date": "2016-05-14 17:57:28 +0000 UTC",
+      "course": "CECS590",
+      "comment": "It's an amazing and interactive class. There are assignments to be submitted every 2 weeks. She gives feedback for these and you can work on those feedbacks, re-upload and she'll improve your grades.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2NDU5OTY4",
+      "legacy_id": 26459968,
+      "date": "2016-05-04 02:37:17 +0000 UTC",
+      "course": "491A",
+      "comment": "I'm taking Birgit for 491A. She gives a choice of project, or your own idea if you can pitch it well. The class is well structured and gives realistic view of what a CS students will do in the real world.  Very understanding towards students and is always there to help you. If you are reading this Birgit, thanks for being a great professor!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1NzI0OTg3",
+      "legacy_id": 25724987,
+      "date": "2015-12-16 14:15:07 +0000 UTC",
+      "course": "CECS493A",
+      "comment": "Had Prof. Penzenstadler for CECS 343 and 493A and would take her again for other classes if she taught them! The concepts she taught in 343 carried on into 493 but she goes over everything again in case some of you didn't pay attention. She really cares for her students and always tries to find great opportunity for us. She's super approachable!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 3,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1NzEwMTQx",
+      "legacy_id": 25710141,
+      "date": "2015-12-15 18:27:17 +0000 UTC",
+      "course": "CECS493",
+      "comment": "She really cares about her students and wants them to do well.  Lots of material to study for in 343.  No tests for 493.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1NzA5ODgw",
+      "legacy_id": 25709880,
+      "date": "2015-12-15 18:13:25 +0000 UTC",
+      "course": "CECS493A",
+      "comment": "She is very passionate about what she teaches and tries to make the class fun. Always available for questions.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI0NDczMDk4",
+      "legacy_id": 24473098,
+      "date": "2015-03-18 13:24:51 +0000 UTC",
+      "course": "343",
+      "comment": "I wish she didn't have to make the whole class take an exam a week early because she had to go to a conference.   Her lectures are really dry so be prepared not to fall asleep during class.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 6,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}
