@@ -1,0 +1,2398 @@
+[
+  {
+    "code": "CECS 80",
+    "title": "FOUNDATIONS FOR DATA COMPUTING",
+    "sections": [
+      {
+        "class_number": "9399",
+        "section": "",
+        "type": "ACT",
+        "days": "MW",
+        "time": "4-4:50PM",
+        "location": "ECS-407",
+        "instructor": "Staff",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 100",
+    "title": "CRIT THINK IN DIGITAL INFO AGE",
+    "sections": [
+      {
+        "class_number": "10284",
+        "section": "310",
+        "type": "SEM",
+        "days": "MW",
+        "time": "2-2:50PM",
+        "location": "ECS-405",
+        "instructor": "Golshani F",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10285",
+        "section": "310",
+        "type": "LAB",
+        "days": "MW",
+        "time": "3-4:15PM",
+        "location": "ECS-405",
+        "instructor": "Golshani F",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 105",
+    "title": "INTRO TO COMPUTING DISCIPLINES",
+    "sections": [
+      {
+        "class_number": "7701",
+        "section": "",
+        "type": "SEM",
+        "days": "M",
+        "time": "1-1:50PM",
+        "location": "VEC-330",
+        "instructor": "Nachawati S",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-105H-01"
+      },
+      {
+        "class_number": "7703",
+        "section": "",
+        "type": "SEM",
+        "days": "W",
+        "time": "1-1:50PM",
+        "location": "VEC-330",
+        "instructor": "Nachawati S",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10282",
+        "section": "310",
+        "type": "SEM",
+        "days": "F",
+        "time": "9-9:50AM",
+        "location": "VEC-330",
+        "instructor": "Nachawati S",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 105H",
+    "title": "INTRO TO COMPUTING DISCIPLINES",
+    "sections": [
+      {
+        "class_number": "7702",
+        "section": "",
+        "type": "SEM",
+        "days": "M",
+        "time": "1-1:50PM",
+        "location": "VEC-330",
+        "instructor": "Nachawati S",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-105-01"
+      }
+    ]
+  },
+  {
+    "code": "CECS 174",
+    "title": "INTRO PROG & PROBLEM SOLVING",
+    "sections": [
+      {
+        "class_number": "3024",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "8-8:50AM",
+        "location": "COB-139A",
+        "instructor": "Nachawati S",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "3025",
+        "section": "1",
+        "type": "LAB",
+        "days": "MW",
+        "time": "9:30-10:45AM",
+        "location": "VEC-331",
+        "instructor": "Nachawati S",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "3851",
+        "section": "1",
+        "type": "LAB",
+        "days": "MW",
+        "time": "9:30-10:45AM",
+        "location": "VEC-330",
+        "instructor": "Nguyen P",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 180",
+    "title": "DATA COMPUTING FOR EVERYONE",
+    "sections": [
+      {
+        "class_number": "9398",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "2-3:15PM",
+        "location": "ECS-407",
+        "instructor": "Nguyen K",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 181",
+    "title": "INTRODUCTION TO DATA SCIENCE",
+    "sections": [
+      {
+        "class_number": "10292",
+        "section": "1,310",
+        "type": "SEM",
+        "days": "MW",
+        "time": "3:30-4:45PM",
+        "location": "ECS-403",
+        "instructor": "Nguyen K",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 201",
+    "title": "COMPUTER LOGIC DESIGN I",
+    "sections": [
+      {
+        "class_number": "11757",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "12:30-1:20PM",
+        "location": "FCS-126",
+        "instructor": "Trajkovic J",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "11758",
+        "section": "1",
+        "type": "LAB",
+        "days": "TuTh",
+        "time": "2-3:15PM",
+        "location": "ECS-405",
+        "instructor": "Trajkovic J",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "11759",
+        "section": "1",
+        "type": "LAB",
+        "days": "TuTh",
+        "time": "3:30-4:45PM",
+        "location": "ECS-405",
+        "instructor": "Trajkovic J",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 211",
+    "title": "PRIN OF COMPUTER ENGINEERING I",
+    "sections": [
+      {
+        "class_number": "2768",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "9:30-10:20AM",
+        "location": "ECS-411",
+        "instructor": "Hernandez E",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "2769",
+        "section": "1",
+        "type": "LAB",
+        "days": "TuTh",
+        "time": "10:30-11:45AM",
+        "location": "ECS-411",
+        "instructor": "Hernandez E",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 225",
+    "title": "DIGITAL LOGIC AND ASSEMBLY PRO",
+    "sections": [
+      {
+        "class_number": "4520",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "9:30-10:45AM",
+        "location": "VEC-518",
+        "instructor": "Wu X",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "4521",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "11-12:15PM",
+        "location": "ECS-412",
+        "instructor": "Nachawati S",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "12137",
+        "section": "310",
+        "type": "SEM",
+        "days": "MW",
+        "time": "12:30-1:45PM",
+        "location": "ECS-411",
+        "instructor": "Wu X",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 228",
+    "title": "DISCRETE STRUC-COMPUTING APPL",
+    "sections": [
+      {
+        "class_number": "1129",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "8-9:15AM",
+        "location": "HC-120",
+        "instructor": "Maples T",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-228H-01"
+      },
+      {
+        "class_number": "7689",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "12:30-1:45PM",
+        "location": "ECS-414",
+        "instructor": "Hu D",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 228H",
+    "title": "DISCRETE STRUC-COMPUTING APPL",
+    "sections": [
+      {
+        "class_number": "6485",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "8-9:15AM",
+        "location": "HC-120",
+        "instructor": "Maples T",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-228-02"
+      }
+    ]
+  },
+  {
+    "code": "CECS 229",
+    "title": "DISCRETE STRUCT COMP APPLIC II",
+    "sections": [
+      {
+        "class_number": "4518",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "9:30-10:45AM",
+        "location": "ECS-414",
+        "instructor": "Varela K",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-229H-01"
+      },
+      {
+        "class_number": "4519",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "2-3:15PM",
+        "location": "VEC-518",
+        "instructor": "Varela K",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10416",
+        "section": "1,310",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "12:30-1:45PM",
+        "location": "ECS-416",
+        "instructor": "Cleary S",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10590",
+        "section": "",
+        "type": "SEM",
+        "days": "F",
+        "time": "1-3:45PM",
+        "location": "VEC-330",
+        "instructor": "Link D",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 229H",
+    "title": "DISCRETE STRUCT COMP APPLIC II",
+    "sections": [
+      {
+        "class_number": "9494",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "9:30-10:45AM",
+        "location": "ECS-414",
+        "instructor": "Varela K",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-229-01"
+      }
+    ]
+  },
+  {
+    "code": "CECS 262",
+    "title": "INTRO TO EMBEDDED SYST PROG",
+    "sections": [
+      {
+        "class_number": "10591",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "2-2:50PM",
+        "location": "ECS-411",
+        "instructor": "Hernandez E",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10592",
+        "section": "",
+        "type": "LAB",
+        "days": "TuTh",
+        "time": "3-4:15PM",
+        "location": "ECS-411",
+        "instructor": "Hernandez E",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 271",
+    "title": "INTRO TO NUMERICAL METHODS",
+    "sections": [
+      {
+        "class_number": "2724",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "2-3:15PM",
+        "location": "ECS-412",
+        "instructor": "Yaghmaei E",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 274",
+    "title": "DATA STRUCTURES",
+    "sections": [
+      {
+        "class_number": "3026",
+        "section": "1",
+        "type": "SEM",
+        "days": "F",
+        "time": "8-9:50AM",
+        "location": "ECS-403",
+        "instructor": "Varela K",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "3027",
+        "section": "1",
+        "type": "LAB",
+        "days": "F",
+        "time": "10-12:45PM",
+        "location": "ECS-403",
+        "instructor": "Varela K",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 275",
+    "title": "PROGRAMMING AND DATA STRUCTURE",
+    "sections": [
+      {
+        "class_number": "6042",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "5:30-6:20PM",
+        "location": "ECS-308",
+        "instructor": "Nguyen M",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "6043",
+        "section": "",
+        "type": "LAB",
+        "days": "TuTh",
+        "time": "6:30-7:45PM",
+        "location": "ECS-308",
+        "instructor": "Nguyen M",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 277",
+    "title": "OBJ ORIENTED APPL DEVELOPMENT",
+    "sections": [
+      {
+        "class_number": "2289",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "9:30-10:20AM",
+        "location": "VEC-518",
+        "instructor": "Cleary S",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "2290",
+        "section": "1",
+        "type": "LAB",
+        "days": "TuTh",
+        "time": "11-12:15PM",
+        "location": "ECS-407",
+        "instructor": "Cleary S",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "2462",
+        "section": "1",
+        "type": "LAB",
+        "days": "TuTh",
+        "time": "11-12:15PM",
+        "location": "ECS-416",
+        "instructor": "Staff",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 301",
+    "title": "COMPUTER LOGIC DESIGN II",
+    "sections": [
+      {
+        "class_number": "1130",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "3-3:50PM",
+        "location": "ECS-404",
+        "instructor": "Cregg D",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-301H-01"
+      },
+      {
+        "class_number": "2178",
+        "section": "1",
+        "type": "LAB",
+        "days": "MW",
+        "time": "4-5:15PM",
+        "location": "ECS-404",
+        "instructor": "Cregg D",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-301H-02"
+      }
+    ]
+  },
+  {
+    "code": "CECS 301H",
+    "title": "COMPUTER LOGIC DESIGN II",
+    "sections": [
+      {
+        "class_number": "9496",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "3-3:50PM",
+        "location": "ECS-404",
+        "instructor": "Cregg D",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-301-01"
+      },
+      {
+        "class_number": "9498",
+        "section": "",
+        "type": "LAB",
+        "days": "MW",
+        "time": "4-5:15PM",
+        "location": "ECS-404",
+        "instructor": "Cregg D",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-301-02"
+      }
+    ]
+  },
+  {
+    "code": "CECS 302",
+    "title": "INTRO TO COMPUTER FORENSICS",
+    "sections": [
+      {
+        "class_number": "8732",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "7-7:50PM",
+        "location": "VEC-330",
+        "instructor": "Uuh L",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "8733",
+        "section": "1",
+        "type": "LAB",
+        "days": "MW",
+        "time": "8-9:15PM",
+        "location": "VEC-330",
+        "instructor": "Uuh L",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 303",
+    "title": "NETWORKS AND NETWORK SECURITY",
+    "sections": [
+      {
+        "class_number": "6857",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "5:30-6:20PM",
+        "location": "ECS-414",
+        "instructor": "Uuh L",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "6858",
+        "section": "1",
+        "type": "LAB",
+        "days": "TuTh",
+        "time": "6:30-7:45PM",
+        "location": "ECS-414",
+        "instructor": "Uuh L",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 311",
+    "title": "PRIN OF COMPUTER ENGINEERNG II",
+    "sections": [
+      {
+        "class_number": "3829",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "8-8:50AM",
+        "location": "ECS-411",
+        "instructor": "Hernandez E",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "4204",
+        "section": "1",
+        "type": "LAB",
+        "days": "MW",
+        "time": "9-10:15AM",
+        "location": "ECS-411",
+        "instructor": "Hernandez E",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 323",
+    "title": "DATABASE FUNDAMENTALS",
+    "sections": [
+      {
+        "class_number": "3548",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "3:30-4:45PM",
+        "location": "ECS-413",
+        "instructor": "Brown D",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "3830",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "3:30-4:45PM",
+        "location": "ECS-404",
+        "instructor": "Terrell N",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "3912",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "12:30-1:45PM",
+        "location": "ECS-302",
+        "instructor": "Brown D",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "6045",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "2-3:15PM",
+        "location": "ECS-404",
+        "instructor": "Terrell N",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "6826",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "8-9:15AM",
+        "location": "ECS-414",
+        "instructor": "Brown D",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 325",
+    "title": "SYSTEM PROGRAMMING",
+    "sections": [
+      {
+        "class_number": "6486",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "5:30-6:45PM",
+        "location": "DESN-112",
+        "instructor": "Gold S",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "6489",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "7-8:15PM",
+        "location": "ECS-412",
+        "instructor": "Gold S",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10673",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "11-12:15PM",
+        "location": "ECS-403",
+        "instructor": "Terrell N",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 326",
+    "title": "OPERATING SYSTEMS",
+    "sections": [
+      {
+        "class_number": "1131",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "5:30-6:45PM",
+        "location": "DESN-112",
+        "instructor": "Giacalone A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "3831",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "3:30-4:45PM",
+        "location": "HC-120",
+        "instructor": "Sharifian A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10674",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "3:30-4:45PM",
+        "location": "DESN-112",
+        "instructor": "Giacalone A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 327",
+    "title": "INTRO NETWORKS & DIST COMPUT",
+    "sections": [
+      {
+        "class_number": "3832",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "5:30-6:45PM",
+        "location": "HC-120",
+        "instructor": "Luti M",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "9462",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "5:30-6:45PM",
+        "location": "COB-140",
+        "instructor": "Morales Ponce O",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-327H-01"
+      }
+    ]
+  },
+  {
+    "code": "CECS 327H",
+    "title": "INTRO NETWORKS & DIST COMPUT",
+    "sections": [
+      {
+        "class_number": "6770",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "5:30-6:45PM",
+        "location": "COB-140",
+        "instructor": "Morales Ponce O",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-327-02"
+      }
+    ]
+  },
+  {
+    "code": "CECS 328",
+    "title": "ALGORITHMS",
+    "sections": [
+      {
+        "class_number": "1132",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "2-3:15PM",
+        "location": "VEC-518",
+        "instructor": "Goldstein D",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10929",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "12:30-1:45PM",
+        "location": "VEC-518",
+        "instructor": "Goldstein D",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "6704",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "5:30-6:45PM",
+        "location": "VEC-518",
+        "instructor": "Sharifian A",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-328H-04"
+      }
+    ]
+  },
+  {
+    "code": "CECS 328H",
+    "title": "ALGORITHMS",
+    "sections": [
+      {
+        "class_number": "6705",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "5:30-6:45PM",
+        "location": "VEC-518",
+        "instructor": "Sharifian A",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-328-04"
+      }
+    ]
+  },
+  {
+    "code": "CECS 329",
+    "title": "CONCEPTS COMPUTER SCI THEORY",
+    "sections": [
+      {
+        "class_number": "6046",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "8-9:15AM",
+        "location": "VEC-518",
+        "instructor": "Jurgensen C",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "6047",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "5:30-6:45PM",
+        "location": "ECS-308",
+        "instructor": "Nguyen M",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "8871",
+        "section": "",
+        "type": "SEM",
+        "days": "F",
+        "time": "8-10:45AM",
+        "location": "ECS-416",
+        "instructor": "Ebert T",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "7690",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "9:30-10:45AM",
+        "location": "ECS-412",
+        "instructor": "Ebert T",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "6825",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "12:30-1:45PM",
+        "location": "ECS-308",
+        "instructor": "Nguyen P",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "12740",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "2-3:15PM",
+        "location": "ECS-302",
+        "instructor": "Jurgensen C",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 341",
+    "title": "COMPUTER ARCHITECT ORGANIZATIN",
+    "sections": [
+      {
+        "class_number": "3549",
+        "section": "1",
+        "type": "SEM",
+        "days": "F",
+        "time": "12-2:45PM",
+        "location": "VEC-518",
+        "instructor": "Sayadi H",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10676",
+        "section": "",
+        "type": "SEM",
+        "days": "F",
+        "time": "9-11:45AM",
+        "location": "ECS-302",
+        "instructor": "Wu X",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "9845",
+        "section": "310,1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "3:30-4:45PM",
+        "location": "VEC-330",
+        "instructor": "Ghaforyfard P",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 342",
+    "title": "PRINCPLE PROGRAMMING LANGUAGE",
+    "sections": [
+      {
+        "class_number": "6048",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "12:30-1:45PM",
+        "location": "VEC-330",
+        "instructor": "Gold S",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "6049",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "2-3:15PM",
+        "location": "ECS-302",
+        "instructor": "Cleary S",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "6050",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "11-12:15PM",
+        "location": "VEC-518",
+        "instructor": "Jurgensen C",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "6052",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "9:30-10:45AM",
+        "location": "VEC-330",
+        "instructor": "Jurgensen C",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10376",
+        "section": "1,310",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "5:30-6:45PM",
+        "location": "ECS-407",
+        "instructor": "Gold S",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 343",
+    "title": "INTRO TO SOFTWARE ENGINEERING",
+    "sections": [
+      {
+        "class_number": "2682",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "5:30-6:45PM",
+        "location": "ECS-403",
+        "instructor": "Murgolo F",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10678",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "2-3:15PM",
+        "location": "ECS-416",
+        "instructor": "Zhao Y",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "8757",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "12:30-1:45PM",
+        "location": "ECS-404",
+        "instructor": "Basit A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10677",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "3:30-4:45PM",
+        "location": "VEC-518",
+        "instructor": "Murgolo F",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 346",
+    "title": "EMBEDDED SYSTEMS I",
+    "sections": [
+      {
+        "class_number": "8449",
+        "section": "1",
+        "type": "SEM",
+        "days": "F",
+        "time": "10-11:50AM",
+        "location": "ECS-414",
+        "instructor": "He M",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-346H-03"
+      },
+      {
+        "class_number": "8450",
+        "section": "1",
+        "type": "LAB",
+        "days": "F",
+        "time": "12-2:45PM",
+        "location": "ECS-414",
+        "instructor": "He M",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-346H-04"
+      }
+    ]
+  },
+  {
+    "code": "CECS 346H",
+    "title": "EMBEDDED SYSTEMS I",
+    "sections": [
+      {
+        "class_number": "8451",
+        "section": "",
+        "type": "SEM",
+        "days": "F",
+        "time": "10-11:50AM",
+        "location": "ECS-414",
+        "instructor": "He M",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-346-03"
+      },
+      {
+        "class_number": "8452",
+        "section": "",
+        "type": "LAB",
+        "days": "F",
+        "time": "12-2:45PM",
+        "location": "ECS-414",
+        "instructor": "He M",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-346-04"
+      }
+    ]
+  },
+  {
+    "code": "CECS 347",
+    "title": "EMBEDDED SYSTEMS II",
+    "sections": [
+      {
+        "class_number": "4926",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "11-11:50AM",
+        "location": "ECS-414",
+        "instructor": "He M",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "4927",
+        "section": "1",
+        "type": "LAB",
+        "days": "MW",
+        "time": "12-1:15PM",
+        "location": "ECS-414",
+        "instructor": "He M",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 361",
+    "title": "DIGITAL DESIGN TECH VERIFICATN",
+    "sections": [
+      {
+        "class_number": "10683",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "5:30-6:20PM",
+        "location": "ECS-412",
+        "instructor": "Ghaforyfard P",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10684",
+        "section": "",
+        "type": "LAB",
+        "days": "MW",
+        "time": "6:30-7:45PM",
+        "location": "ECS-412",
+        "instructor": "Ghaforyfard P",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 378",
+    "title": "INTRO TO COMPUTER SECURITY PRI",
+    "sections": [
+      {
+        "class_number": "4785",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "11-12:15PM",
+        "location": "VEC-331",
+        "instructor": "Giacalone A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "5104",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "5:30-6:45PM",
+        "location": "VEC-418",
+        "instructor": "Commey D",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "5856",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "5:30-6:45PM",
+        "location": "VEC-518",
+        "instructor": "Uuh L",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "7700",
+        "section": "1",
+        "type": "SEM",
+        "days": "F",
+        "time": "8-10:45AM",
+        "location": "ECS-404",
+        "instructor": "Addington S",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "12564",
+        "section": "310",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "2-3:15PM",
+        "location": "ECS-407",
+        "instructor": "Commey D",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 381",
+    "title": "STOCHASTIC COMPUTING",
+    "sections": [
+      {
+        "class_number": "9755",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "12:30-1:45PM",
+        "location": "ECS-404",
+        "instructor": "Zhao Y",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10341",
+        "section": "310,1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "11-12:15PM",
+        "location": "ECS-404",
+        "instructor": "Zhao Y",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "12664",
+        "section": "310",
+        "type": "SEM",
+        "days": "Sa",
+        "time": "1-3:45PM",
+        "location": "ECS-407",
+        "instructor": "Mehrnia A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 406",
+    "title": "S TOPICS COMPUTER SCIENCE",
+    "sections": [
+      {
+        "class_number": "11077",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "12:30-1:45PM",
+        "location": "ECS-405",
+        "instructor": "Golshani F",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 427",
+    "title": "DYNAMIC NETWORKS",
+    "sections": [
+      {
+        "class_number": "7691",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "3:30-4:45PM",
+        "location": "VEC-518",
+        "instructor": "Morales Ponce O",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10686",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "9:30-10:45AM",
+        "location": "ECS-403",
+        "instructor": "Nguyen K",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10689",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "12:30-1:45PM",
+        "location": "ECS-416",
+        "instructor": "Nguyen K",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 428",
+    "title": "ANALYSIS OF ALGORITHMS",
+    "sections": [
+      {
+        "class_number": "8593",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "9:30-10:45AM",
+        "location": "ECS-302",
+        "instructor": "Link D",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 429",
+    "title": "SEARCH ENGINE TECHNOLOGY",
+    "sections": [
+      {
+        "class_number": "8718",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "3:30-4:45PM",
+        "location": "LA4-120",
+        "instructor": "Qin X",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "11078",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "5:30-6:45PM",
+        "location": "VEC-330",
+        "instructor": "Luti M",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 440",
+    "title": "COMPUTER ARCHITECTURE",
+    "sections": [
+      {
+        "class_number": "3015",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "8-8:50AM",
+        "location": "KIN-063",
+        "instructor": "Trajkovic J",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-440H-01"
+      },
+      {
+        "class_number": "3016",
+        "section": "1",
+        "type": "LAB",
+        "days": "TuTh",
+        "time": "9-10:15AM",
+        "location": "KIN-063",
+        "instructor": "Trajkovic J",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-440H-02"
+      }
+    ]
+  },
+  {
+    "code": "CECS 440H",
+    "title": "COMPUTER ARCHITECTURE",
+    "sections": [
+      {
+        "class_number": "4533",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "8-8:50AM",
+        "location": "KIN-063",
+        "instructor": "Trajkovic J",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-440-01"
+      },
+      {
+        "class_number": "4534",
+        "section": "1",
+        "type": "LAB",
+        "days": "TuTh",
+        "time": "9-10:15AM",
+        "location": "KIN-063",
+        "instructor": "Trajkovic J",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-440-02"
+      }
+    ]
+  },
+  {
+    "code": "CECS 443",
+    "title": "SOFTWARE PROJ MGMT AND TESTING",
+    "sections": [
+      {
+        "class_number": "11085",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "11-12:15PM",
+        "location": "ECS-403",
+        "instructor": "Link D",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 447",
+    "title": "EMBEDDED SYSTEMS III",
+    "sections": [
+      {
+        "class_number": "6781",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "2-2:50PM",
+        "location": "ECS-414",
+        "instructor": "He M",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "6782",
+        "section": "1",
+        "type": "LAB",
+        "days": "MW",
+        "time": "3-4:15PM",
+        "location": "ECS-414",
+        "instructor": "He M",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 448",
+    "title": "USER INTERFACE DESIGN",
+    "sections": [
+      {
+        "class_number": "4652",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "11-12:15PM",
+        "location": "ECS-302",
+        "instructor": "Fu B",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10694",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "9:30-10:45AM",
+        "location": "ECS-403",
+        "instructor": "Fahim A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 449",
+    "title": "COMPUTER GRAPHICS",
+    "sections": [
+      {
+        "class_number": "8752",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "9:30-10:45AM",
+        "location": "ECS-404",
+        "instructor": "Terrell N",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 450",
+    "title": "DATA VISUALIZATION",
+    "sections": [
+      {
+        "class_number": "9397",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "9:30-10:45AM",
+        "location": "ECS-407",
+        "instructor": "Allahgholizadeh Haghi B",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "9512",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "3:30-4:45PM",
+        "location": "DESN-112",
+        "instructor": "Yaghmaei E",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 451",
+    "title": "ARTIFICIAL INTELLIGENCE",
+    "sections": [
+      {
+        "class_number": "8591",
+        "section": "1",
+        "type": "SEM",
+        "days": "F",
+        "time": "9-11:45AM",
+        "location": "ECS-407",
+        "instructor": "Allahgholizadeh Haghi B",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "7356",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "9:30-10:45AM",
+        "location": "DESN-112",
+        "instructor": "Moon J",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 453",
+    "title": "MOBILE APPLICATION DEVELOPMENT",
+    "sections": [
+      {
+        "class_number": "6059",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "8-9:15AM",
+        "location": "ECS-412",
+        "instructor": "Nguyen P",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 455",
+    "title": "INTRO TO GAME PROGRAMMING",
+    "sections": [
+      {
+        "class_number": "7597",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "11-12:15PM",
+        "location": "ECS-416",
+        "instructor": "Goldstein D",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 456",
+    "title": "MACHINE LEARNING",
+    "sections": [
+      {
+        "class_number": "9394",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "5:30-6:45PM",
+        "location": "HSCI-103",
+        "instructor": "Zhang W",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10701",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "3:30-4:45PM",
+        "location": "ECS-308",
+        "instructor": "Ghasemkhani A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "11760",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "2-3:15PM",
+        "location": "VEC-330",
+        "instructor": "Ghasemkhani A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 457",
+    "title": "APPLIED MACHINE LEARNING",
+    "sections": [
+      {
+        "class_number": "10699",
+        "section": "",
+        "type": "SEM",
+        "days": "F",
+        "time": "9-11:45AM",
+        "location": "VEC-518",
+        "instructor": "Sarshar A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 458",
+    "title": "DEEP LEARNING",
+    "sections": [
+      {
+        "class_number": "10298",
+        "section": "1,310",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "11-12:15PM",
+        "location": "ECS-308",
+        "instructor": "Moon J",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "11297",
+        "section": "",
+        "type": "SEM",
+        "days": "F",
+        "time": "12-2:45PM",
+        "location": "ECS-308",
+        "instructor": "Sarshar A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 460",
+    "title": "SYSTEM ON CHIP DESIGN",
+    "sections": [
+      {
+        "class_number": "11979",
+        "section": "310",
+        "type": "SEM",
+        "days": "F",
+        "time": "8-9:50AM",
+        "location": "ECS-412",
+        "instructor": "Cregg D",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-460H-05"
+      },
+      {
+        "class_number": "11981",
+        "section": "310",
+        "type": "LAB",
+        "days": "F",
+        "time": "10-12:45PM",
+        "location": "ECS-412",
+        "instructor": "Cregg D",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-460H-06"
+      }
+    ]
+  },
+  {
+    "code": "CECS 460H",
+    "title": "SYSTEM ON CHIP DESIGN",
+    "sections": [
+      {
+        "class_number": "11982",
+        "section": "310",
+        "type": "SEM",
+        "days": "F",
+        "time": "8-9:50AM",
+        "location": "ECS-412",
+        "instructor": "Cregg D",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-460-05"
+      },
+      {
+        "class_number": "11983",
+        "section": "310",
+        "type": "LAB",
+        "days": "F",
+        "time": "10-12:45PM",
+        "location": "ECS-412",
+        "instructor": "Cregg D",
+        "comment": "Class instruction is: Face to Face - On Campus.\nClass offered with CECS-460-06"
+      }
+    ]
+  },
+  {
+    "code": "CECS 463",
+    "title": "DIGITAL SIGNAL PROCESS DESIGN",
+    "sections": [
+      {
+        "class_number": "10356",
+        "section": "1,310",
+        "type": "SEM",
+        "days": "Sa",
+        "time": "8-9:50AM",
+        "location": "ECS-407",
+        "instructor": "Mehrnia A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10357",
+        "section": "1,310",
+        "type": "LAB",
+        "days": "Sa",
+        "time": "10-12:45PM",
+        "location": "ECS-407",
+        "instructor": "Mehrnia A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 470",
+    "title": "WEB PROGRAMING & ACCESSIBILITY",
+    "sections": [
+      {
+        "class_number": "8590",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "3:30-4:45PM",
+        "location": "ECS-412",
+        "instructor": "Nguyen P",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 474",
+    "title": "COMPUTER NET INTEROPERABILITY",
+    "sections": [
+      {
+        "class_number": "11299",
+        "section": "",
+        "type": "SEM",
+        "days": "Sa",
+        "time": "8-9:50AM",
+        "location": "ECS-308",
+        "instructor": "Tamayo J",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "11300",
+        "section": "",
+        "type": "LAB",
+        "days": "Sa",
+        "time": "10-12:45PM",
+        "location": "ECS-305",
+        "instructor": "Tamayo J",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 475",
+    "title": "SOFTWARE DVLPMNT WITH FRAMWRKS",
+    "sections": [
+      {
+        "class_number": "3603",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "11-12:15PM",
+        "location": "DESN-112",
+        "instructor": "Nguyen P",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "8748",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "9:30-10:45AM",
+        "location": "ECS-404",
+        "instructor": "Terrell N",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 478",
+    "title": "DATA SECURITY & PRIVACY",
+    "sections": [
+      {
+        "class_number": "4219",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "11-12:15PM",
+        "location": "ECS-308",
+        "instructor": "Yaghmaei E",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "6780",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "8-9:15AM",
+        "location": "VEC-330",
+        "instructor": "Yaghmaei E",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "12565",
+        "section": "310",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "3:30-4:45PM",
+        "location": "ECS-403",
+        "instructor": "Commey D",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 490A",
+    "title": "COMP ENGR SNR PRJCT I",
+    "sections": [
+      {
+        "class_number": "4535",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "8:30-9:45PM",
+        "location": "VEC-402",
+        "instructor": "Cregg D",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "11084",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "7-8:15PM",
+        "location": "VEC-402",
+        "instructor": "Cregg D",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 490B",
+    "title": "COMPUTER ENGR SNR PROJECT II",
+    "sections": [
+      {
+        "class_number": "4206",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "12:30-1:45PM",
+        "location": "VEC-402",
+        "instructor": "Hernandez E",
+        "comment": "Instructor Consent Required\nClass instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 491A",
+    "title": "COMPUTER SCI SENIOR PROJECT I",
+    "sections": [
+      {
+        "class_number": "4233",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "11-12:15PM",
+        "location": "VEC-402",
+        "instructor": "Hoffman F",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "4280",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "2-3:15PM",
+        "location": "ECS-414",
+        "instructor": "Hoffman F",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "4738",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "5:30-6:45PM",
+        "location": "ECS-413",
+        "instructor": "Hoffman F",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "6753",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "3:30-4:45PM",
+        "location": "ECS-413",
+        "instructor": "Hoffman F",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "8592",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "9:30-10:45AM",
+        "location": "ECS-405",
+        "instructor": "Albinali F",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "8674",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "12:30-1:45PM",
+        "location": "ECS-413",
+        "instructor": "Albinali F",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "9929",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "3:30-4:45PM",
+        "location": "ECS-416",
+        "instructor": "Shahnawaz I",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10346",
+        "section": "1,310",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "12:30-1:45PM",
+        "location": "VEC-331",
+        "instructor": "Albinali F",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 491B",
+    "title": "COMPUTER SCI SENIOR PROJECT II",
+    "sections": [
+      {
+        "class_number": "5361",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "2-3:15PM",
+        "location": "ECS-308",
+        "instructor": "Murgolo F",
+        "comment": "Instructor Consent Required\nClass instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "6514",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "12:30-1:45PM",
+        "location": "ECS-405",
+        "instructor": "Hoffman F",
+        "comment": "Instructor Consent Required\nClass instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "7273",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "11-12:15PM",
+        "location": "VEC-331",
+        "instructor": "Albinali F",
+        "comment": "Instructor Consent Required\nClass instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "8198",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "6:30-7:45PM",
+        "location": "ECS-416",
+        "instructor": "Shahnawaz I",
+        "comment": "Instructor Consent Required\nClass instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "9473",
+        "section": "",
+        "type": "SEM",
+        "days": "MW",
+        "time": "2-3:15PM",
+        "location": "ECS-413",
+        "instructor": "Albinali F",
+        "comment": "Instructor Consent Required\nClass instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 497",
+    "title": "DIRECTED STUDIES",
+    "sections": [
+      {
+        "class_number": "1133",
+        "section": "3,180",
+        "type": "SUP",
+        "days": "TBA",
+        "time": "NA",
+        "location": "NA",
+        "instructor": "He M",
+        "comment": "Instructor Consent Required\nClass instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 524",
+    "title": "ADV TOPICS IN PROGRAMMING LANG",
+    "sections": [
+      {
+        "class_number": "11753",
+        "section": "1,311",
+        "type": "SEM",
+        "days": "F",
+        "time": "9-11:45AM",
+        "location": "VEC-331",
+        "instructor": "Hoffman M",
+        "comment": "Class instruction is: Hybrid (Face to Face & Synch)."
+      },
+      {
+        "class_number": "",
+        "section": "",
+        "type": "",
+        "days": "F",
+        "time": "9-11:45AM",
+        "location": "ONLINE-ONLY",
+        "instructor": "Staff",
+        "comment": "additional meeting detail"
+      },
+      {
+        "class_number": "11755",
+        "section": "311",
+        "type": "SEM",
+        "days": "F",
+        "time": "1-3:45PM",
+        "location": "VEC-331",
+        "instructor": "Hoffman M",
+        "comment": "Class instruction is: Hybrid (Face to Face & Synch)."
+      },
+      {
+        "class_number": "",
+        "section": "",
+        "type": "",
+        "days": "F",
+        "time": "1-3:45PM",
+        "location": "ONLINE-ONLY",
+        "instructor": "Staff",
+        "comment": "additional meeting detail"
+      }
+    ]
+  },
+  {
+    "code": "CECS 528",
+    "title": "ADV ANALYSIS OF ALGORITHMS",
+    "sections": [
+      {
+        "class_number": "3664",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "8-9:15AM",
+        "location": "ECS-308",
+        "instructor": "Ebert T",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10910",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "8-9:15AM",
+        "location": "ECS-403",
+        "instructor": "Ebert T",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 529",
+    "title": "SEARCH ENGINE TECHNOLOGY",
+    "sections": [
+      {
+        "class_number": "8719",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "3:30-4:45PM",
+        "location": "LA4-120",
+        "instructor": "Qin X",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "11079",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "5:30-6:45PM",
+        "location": "VEC-330",
+        "instructor": "Luti M",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 530",
+    "title": "ADV COMPUTER ARCHITECTURE I",
+    "sections": [
+      {
+        "class_number": "6792",
+        "section": "1",
+        "type": "SEM",
+        "days": "Sa",
+        "time": "11-1:45PM",
+        "location": "ECS-306",
+        "instructor": "Yaghini P",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 532",
+    "title": "MEMORY DESIGN IMPLEMENTATION",
+    "sections": [
+      {
+        "class_number": "11756",
+        "section": "311",
+        "type": "SEM",
+        "days": "MW",
+        "time": "11-12:15PM",
+        "location": "ECS-407",
+        "instructor": "Wu X",
+        "comment": "Class instruction is: Hybrid (Face to Face & Synch)."
+      },
+      {
+        "class_number": "",
+        "section": "",
+        "type": "",
+        "days": "MW",
+        "time": "11-12:15PM",
+        "location": "ONLINE-ONLY",
+        "instructor": "Staff",
+        "comment": "additional meeting detail"
+      }
+    ]
+  },
+  {
+    "code": "CECS 543",
+    "title": "ADVANCED SOFTWARE ENGINEERING",
+    "sections": [
+      {
+        "class_number": "5900",
+        "section": "1",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "9:30-10:45AM",
+        "location": "ECS-308",
+        "instructor": "Basit A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "10911",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "3:30-4:45PM",
+        "location": "ECS-407",
+        "instructor": "Basit A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 550",
+    "title": "PATTERN RECOGNITION",
+    "sections": [
+      {
+        "class_number": "6779",
+        "section": "1",
+        "type": "SEM",
+        "days": "MW",
+        "time": "7-8:15PM",
+        "location": "DESN-112",
+        "instructor": "Ghazarian A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 551",
+    "title": "ADV ARTIFICIAL INTELLIGENCE",
+    "sections": [
+      {
+        "class_number": "11088",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "11-12:15PM",
+        "location": "FCS-008",
+        "instructor": "Allahgholizadeh Haghi B",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 552",
+    "title": "COMPUTER SIMULATION & MODELING",
+    "sections": [
+      {
+        "class_number": "6802",
+        "section": "1",
+        "type": "SEM",
+        "days": "Sa",
+        "time": "4-6:45PM",
+        "location": "ECS-407",
+        "instructor": "Mehrnia A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 553",
+    "title": "MACHINE VISION",
+    "sections": [
+      {
+        "class_number": "8448",
+        "section": "",
+        "type": "SEM",
+        "days": "Sa",
+        "time": "11-1:45PM",
+        "location": "ECS-403",
+        "instructor": "Sodagari S",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 558",
+    "title": "DEEP LEARNING",
+    "sections": [
+      {
+        "class_number": "11081",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "11-12:15PM",
+        "location": "ECS-308",
+        "instructor": "Moon J",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "11298",
+        "section": "",
+        "type": "SEM",
+        "days": "F",
+        "time": "12-2:45PM",
+        "location": "ECS-308",
+        "instructor": "Sarshar A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 574",
+    "title": "TOPICS DISTRIBUTED COMPUTING",
+    "sections": [
+      {
+        "class_number": "6678",
+        "section": "1",
+        "type": "SEM",
+        "days": "Sa",
+        "time": "8-10:45AM",
+        "location": "ECS-412",
+        "instructor": "Yaghini P",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 575",
+    "title": "OBJ ORIENTED ANALYSIS & DESIGN",
+    "sections": [
+      {
+        "class_number": "11089",
+        "section": "",
+        "type": "SEM",
+        "days": "TuTh",
+        "time": "8-9:15AM",
+        "location": "ECS-404",
+        "instructor": "Fahim A",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 577",
+    "title": "BLOCKCHAIN TECHNOLOGY",
+    "sections": [
+      {
+        "class_number": "10281",
+        "section": "1,310",
+        "type": "LEC",
+        "days": "MW",
+        "time": "5:30-6:45PM",
+        "location": "ECS-405",
+        "instructor": "Golshani F",
+        "comment": "Class instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 697",
+    "title": "DIRECTED RESEARCH",
+    "sections": [
+      {
+        "class_number": "4381",
+        "section": "1,3",
+        "type": "SUP",
+        "days": "TBA",
+        "time": "NA",
+        "location": "NA",
+        "instructor": "Golshani F",
+        "comment": "Instructor Consent Required\nClass instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "4747",
+        "section": "1,3",
+        "type": "SUP",
+        "days": "TBA",
+        "time": "NA",
+        "location": "NA",
+        "instructor": "Staff",
+        "comment": "Instructor Consent Required\nClass instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "3242",
+        "section": "3,180",
+        "type": "SUP",
+        "days": "TBA",
+        "time": "NA",
+        "location": "NA",
+        "instructor": "Staff",
+        "comment": "Instructor Consent Required\nClass instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "4291",
+        "section": "1,3",
+        "type": "SUP",
+        "days": "TBA",
+        "time": "NA",
+        "location": "NA",
+        "instructor": "Staff",
+        "comment": "Instructor Consent Required\nClass instruction is: Face to Face - On Campus."
+      }
+    ]
+  },
+  {
+    "code": "CECS 698",
+    "title": "THESIS OR INDUSTRIAL PROJECT",
+    "sections": [
+      {
+        "class_number": "1141",
+        "section": "8,180",
+        "type": "SUP",
+        "days": "TBA",
+        "time": "NA",
+        "location": "NA",
+        "instructor": "Qin X",
+        "comment": "Department Consent Required\nClass instruction is: Face to Face - On Campus."
+      },
+      {
+        "class_number": "7782",
+        "section": "8,180",
+        "type": "SUP",
+        "days": "TBA",
+        "time": "NA",
+        "location": "NA",
+        "instructor": "Zhao Y",
+        "comment": "Department Consent Required\nClass instruction is: Face to Face - On Campus."
+      }
+    ]
+  }
+]
