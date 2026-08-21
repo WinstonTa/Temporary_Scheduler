@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CS Track Quiz</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="page">
+    <div id="quiz-app" class="card">
+      <!-- All content is rendered into here by quiz.js -->
+      <p class="muted center">Loading quiz...</p>
+    </div>
+  </main>
+
+  <!-- Supabase JS client (CDN, no build step needed) -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+  <script src="config.js"></script>
+  <script src="quiz.js"></script>
+</body>
+</html>
