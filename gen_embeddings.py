@@ -3,7 +3,12 @@ from pathlib import Path
 from supabase import create_client
 from sentence_transformers import SentenceTransformer
 from dotenv import load_dotenv
+"""
+Embedding all the information into one text blob that says everything about the class/professor
 
+That text blob turns into embeddings and that is what is compared
+
+"""
 
 ROOT = Path(__file__).resolve().parent
 load_dotenv(ROOT / ".env")
