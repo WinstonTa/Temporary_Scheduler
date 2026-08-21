@@ -1,0 +1,355 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2087626",
+    "scraped_at": "2026-08-21T07:48:40.154730+00:00",
+    "graphql_id": "VGVhY2hlci0yMDg3NjI2",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2087626,
+    "first_name": "Tyler",
+    "last_name": "Nguyen",
+    "full_name": "Tyler Nguyen",
+    "department": "Computer Science",
+    "avg_rating": 4.5,
+    "avg_difficulty": 3.3,
+    "num_ratings_listed": 8,
+    "would_take_again_percent": 100.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 1,
+        "courseName": "CE228"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS228"
+      },
+      {
+        "courseCount": 4,
+        "courseName": "CECS229"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS328"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CS228"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 8,
+    "avg_quality": 4.5,
+    "avg_difficulty": 3.25,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Skip class? You won't pass.",
+        "count": 3
+      },
+      {
+        "name": "LECTURE HEAVY",
+        "count": 3
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 1
+      },
+      {
+        "name": "Caring",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 3
+      },
+      {
+        "name": "B",
+        "count": 2
+      },
+      {
+        "name": "C",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 1,
+      "2": 0,
+      "3": 3,
+      "4": 4,
+      "5": 0
+    },
+    "attendance": {
+      "non mandatory": 6,
+      "mandatory": 1
+    },
+    "courses": [
+      {
+        "course": "CECS229",
+        "review_count": 4,
+        "avg_quality": 4.5,
+        "avg_difficulty": 3.5,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 2
+          },
+          {
+            "name": "LECTURE HEAVY",
+            "count": 2
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS328",
+        "review_count": 1,
+        "avg_quality": 4.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          },
+          {
+            "name": "LECTURE HEAVY",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CE228",
+        "review_count": 1,
+        "avg_quality": 4.5,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS228",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 1.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CS228",
+        "review_count": 1,
+        "avg_quality": 4.5,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTI5Mjc0NjQ4",
+      "legacy_id": 29274648,
+      "date": "2017-12-19 12:41:25 +0000 UTC",
+      "course": "CECS229",
+      "comment": "He's very direct and has no interest in tricking you on any quizzes/midterms/final. 2 midterms, 1 final. Writes notes on the board and does examples. Study notes IN-DEPTH if you want to get an A in this class. Average class in terms of difficulty. Make sure you review your notes.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Skip class? You won't pass.",
+        "LECTURE HEAVY"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4MzQyOTUy",
+      "legacy_id": 28342952,
+      "date": "2017-05-18 17:26:34 +0000 UTC",
+      "course": "CECS229",
+      "comment": "Lecture very important. Will not try to trick you on quizzes/midterms/final. Study the lecture VERY IN-DEPTH to get a good grade. Go to class and write down all of his notes. Chill dude and helpful during office hour. Did not have pop quizzes for some reason. Legit tho, just study the lecture and do the homework and you should be golden.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Skip class? You won't pass.",
+        "Amazing lectures",
+        "LECTURE HEAVY"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2OTg2NzIy",
+      "legacy_id": 26986722,
+      "date": "2016-09-21 19:29:32 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Took this class over summer.  328 was probably one of the hardest class here but be made it easier to understand. Pay attention in lecture and homework review session and youll be fine",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Skip class? You won't pass.",
+        "Caring",
+        "LECTURE HEAVY"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2ODMzNDAw",
+      "legacy_id": 26833400,
+      "date": "2016-07-26 03:50:48 +0000 UTC",
+      "course": "CECS229",
+      "comment": "he takes his time to explain the subject and pretty much does the hw in class for you.  However, he gives pop quizzes and A LOT of hw.  Overall he is pretty fair because he tell you what type of problems will be on the exams.  Not an easy class but i passed!",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": "C",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2NjMxODE4",
+      "legacy_id": 26631818,
+      "date": "2016-05-22 00:47:21 +0000 UTC",
+      "course": "CECS229",
+      "comment": "Pros: good lectures and helpful in office hours Cons: the class requires a lot of time and beware of the pop quizzes.  Don't bother to buy the book it's useless!",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2NjI2NTM4",
+      "legacy_id": 26626538,
+      "date": "2016-05-20 19:36:43 +0000 UTC",
+      "course": "CE228",
+      "comment": "Great guy.  Tough class.  He gives a lot of hw but goes over them before due date.  Don't need to buy the book.  His exams are from the lecture notes and homework.",
+      "quality": 4.5,
+      "helpful": 5.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2NTg0NTE5",
+      "legacy_id": 26584519,
+      "date": "2016-05-16 02:36:35 +0000 UTC",
+      "course": "CECS228",
+      "comment": "Hard class but he make it so easy. Quizzes exactly same from homework, go over homework before it is due. 2 test 1 final based off the homework and notes. Strongly recommended.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1OTc0MzIx",
+      "legacy_id": 25974321,
+      "date": "2016-01-21 02:26:38 +0000 UTC",
+      "course": "CS228",
+      "comment": "Good prof but tough class though.  If you come to class and pay attention you won't have any problems.  His review lectures are super helpful.",
+      "quality": 4.5,
+      "helpful": 5.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

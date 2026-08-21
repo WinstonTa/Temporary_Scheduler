@@ -1,0 +1,1617 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2006883",
+    "scraped_at": "2026-08-21T07:38:41.545385+00:00",
+    "graphql_id": "VGVhY2hlci0yMDA2ODgz",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2006883,
+    "first_name": "Minhthong",
+    "last_name": "Nguyen",
+    "full_name": "Minhthong Nguyen",
+    "department": "Computer Science",
+    "avg_rating": 3.1,
+    "avg_difficulty": 4.1,
+    "num_ratings_listed": 46,
+    "would_take_again_percent": 42.9,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 1,
+        "courseName": "174"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS100"
+      },
+      {
+        "courseCount": 3,
+        "courseName": "CECS174"
+      },
+      {
+        "courseCount": 17,
+        "courseName": "CECS228"
+      },
+      {
+        "courseCount": 5,
+        "courseName": "CECS271"
+      },
+      {
+        "courseCount": 9,
+        "courseName": "CECS275"
+      },
+      {
+        "courseCount": 5,
+        "courseName": "CECS282"
+      },
+      {
+        "courseCount": 3,
+        "courseName": "CECS329"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CES228"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 46,
+    "avg_quality": 3.1,
+    "avg_difficulty": 4.07,
+    "would_take_again_percent": 56.2,
+    "online_percent": 4.3,
+    "tag_counts": [
+      {
+        "name": "Tough grader",
+        "count": 20
+      },
+      {
+        "name": "Test heavy",
+        "count": 9
+      },
+      {
+        "name": "Caring",
+        "count": 7
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 7
+      },
+      {
+        "name": "Lots of homework",
+        "count": 6
+      },
+      {
+        "name": "Skip class? You won't pass.",
+        "count": 6
+      },
+      {
+        "name": "Respected",
+        "count": 6
+      },
+      {
+        "name": "Graded by few things",
+        "count": 5
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 5
+      },
+      {
+        "name": "Group projects",
+        "count": 4
+      },
+      {
+        "name": "Get ready to read",
+        "count": 4
+      },
+      {
+        "name": "Participation matters",
+        "count": 2
+      },
+      {
+        "name": "Accessible outside class",
+        "count": 2
+      },
+      {
+        "name": "LECTURE HEAVY",
+        "count": 2
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 1
+      },
+      {
+        "name": "Online Savvy",
+        "count": 1
+      },
+      {
+        "name": "Beware of pop quizzes",
+        "count": 1
+      },
+      {
+        "name": "Tough Grader",
+        "count": 1
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 1
+      },
+      {
+        "name": "LOTS OF HOMEWORK",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 13
+      },
+      {
+        "name": "B",
+        "count": 8
+      },
+      {
+        "name": "C",
+        "count": 4
+      },
+      {
+        "name": "Rather not say",
+        "count": 2
+      },
+      {
+        "name": "D",
+        "count": 1
+      },
+      {
+        "name": "D+",
+        "count": 1
+      },
+      {
+        "name": "B+",
+        "count": 1
+      },
+      {
+        "name": "Drop/Withdrawal",
+        "count": 1
+      },
+      {
+        "name": "A-",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 1,
+      "2": 2,
+      "3": 8,
+      "4": 17,
+      "5": 18
+    },
+    "attendance": {
+      "non mandatory": 27,
+      "mandatory": 12
+    },
+    "courses": [
+      {
+        "course": "CECS228",
+        "review_count": 17,
+        "avg_quality": 3.82,
+        "avg_difficulty": 4.18,
+        "would_take_again_percent": 50.0,
+        "top_tags": [
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 5
+          },
+          {
+            "name": "Test heavy",
+            "count": 4
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 4
+          },
+          {
+            "name": "Respected",
+            "count": 4
+          },
+          {
+            "name": "Tough grader",
+            "count": 3
+          },
+          {
+            "name": "Graded by few things",
+            "count": 2
+          },
+          {
+            "name": "Get ready to read",
+            "count": 2
+          },
+          {
+            "name": "Caring",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "CECS275",
+        "review_count": 9,
+        "avg_quality": 1.67,
+        "avg_difficulty": 4.44,
+        "would_take_again_percent": 40.0,
+        "top_tags": [
+          {
+            "name": "Tough grader",
+            "count": 7
+          },
+          {
+            "name": "Group projects",
+            "count": 4
+          },
+          {
+            "name": "Test heavy",
+            "count": 2
+          },
+          {
+            "name": "Lots of homework",
+            "count": 2
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          },
+          {
+            "name": "Participation matters",
+            "count": 1
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS271",
+        "review_count": 5,
+        "avg_quality": 1.6,
+        "avg_difficulty": 4.8,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Tough grader",
+            "count": 3
+          },
+          {
+            "name": "Test heavy",
+            "count": 3
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          },
+          {
+            "name": "Get ready to read",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS282",
+        "review_count": 5,
+        "avg_quality": 4.6,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 80.0,
+        "top_tags": [
+          {
+            "name": "Caring",
+            "count": 3
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 3
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 2
+          },
+          {
+            "name": "Tough grader",
+            "count": 2
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 1
+          },
+          {
+            "name": "Respected",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS329",
+        "review_count": 3,
+        "avg_quality": 4.0,
+        "avg_difficulty": 3.33,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Tough grader",
+            "count": 2
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS174",
+        "review_count": 3,
+        "avg_quality": 4.0,
+        "avg_difficulty": 3.67,
+        "would_take_again_percent": 66.7,
+        "top_tags": [
+          {
+            "name": "LOTS OF HOMEWORK",
+            "count": 1
+          },
+          {
+            "name": "TEST HEAVY",
+            "count": 1
+          },
+          {
+            "name": "GROUP PROJECTS",
+            "count": 1
+          },
+          {
+            "name": "Participation matters",
+            "count": 1
+          },
+          {
+            "name": "ACCESSIBLE OUTSIDE CLASS",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          },
+          {
+            "name": "Respected",
+            "count": 1
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CES228",
+        "review_count": 2,
+        "avg_quality": 1.0,
+        "avg_difficulty": 4.5,
+        "would_take_again_percent": 0.0,
+        "top_tags": [
+          {
+            "name": "Tough grader",
+            "count": 2
+          },
+          {
+            "name": "Get ready to read",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          },
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS100",
+        "review_count": 1,
+        "avg_quality": 1.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 0.0,
+        "top_tags": [
+          {
+            "name": "Beware of pop quizzes",
+            "count": 1
+          },
+          {
+            "name": "Tough grader",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "174",
+        "review_count": 1,
+        "avg_quality": 4.5,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQyMzg4NjE0",
+      "legacy_id": 42388614,
+      "date": "2025-12-24 00:07:44 +0000 UTC",
+      "course": "CECS329",
+      "comment": "Grade is based on 10-12 quizzes, 2 midterms, and a final.\nCurve on the midterms, final, and then curve again for total grade.\nIn exchange, tests are super challenging and required deep understanding of the topic. So recommend paying attention on class, doing the heavy lifting on the homework, staying after class and studying more out of class.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Lots of homework",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwOTk1MDAx",
+      "legacy_id": 40995001,
+      "date": "2025-04-21 20:38:06 +0000 UTC",
+      "course": "CECS275",
+      "comment": "It's hard but find an alternative to this class cuz it's awful. The lectures are just him coding. Projects hard doo doo difficult. Tests and quizzes are mostly multiple choice but based on the slides on canvas which he never mentions at all. Last part of tests have some coding problems which is ON PAPER? Hell naw to this guy find somebody else man!",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Test heavy",
+        "Graded by few things"
+      ],
+      "grade": "D",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwOTI5OTI5",
+      "legacy_id": 40929929,
+      "date": "2025-04-13 21:31:07 +0000 UTC",
+      "course": "CECS271",
+      "comment": "this man kinda lectures but then the quizzes r 10x harder than what he lectures on. even when he made it open note the grades were lowkey averaging at a d. he had to curve so hard bc we didn't know what we were doing! :D but the labs aren't too bad, it's just simple matlab exercises from the textbook",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": "C",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNjA1MDQw",
+      "legacy_id": 40605040,
+      "date": "2025-01-26 22:30:55 +0000 UTC",
+      "course": "CECS271",
+      "comment": "He is extremely tough for no reason. He literally makes it an art to find the problems you won't be able to solve on the test. He would not be able to pass his own tests with the time allocated with no phone or resources. He acts more like a gatekeeper than a teacher and constantly brings things he did not cover but expects you to do research",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Lots of homework",
+        "Test heavy"
+      ],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNTkzMjc3",
+      "legacy_id": 40593277,
+      "date": "2025-01-23 18:10:56 +0000 UTC",
+      "course": "CECS275",
+      "comment": "Not worth taking it at Long Beach unless there's a different professor for any class he teaches. The first day he told us that he would teach this course like a comp sci course knowing that we were computer engineers. I wouldn't recommend taking the class for all the other reasons people have stated.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNTkzMTIz",
+      "legacy_id": 40593123,
+      "date": "2025-01-23 17:51:34 +0000 UTC",
+      "course": "CECS275",
+      "comment": "Awful professor.If you like to watch the professor code and debug his own work incredibly fast, this class is for you. Tests are incredibly difficult. Professor bumps final curve so he can fail just enough people. Cutoff for a C the past year was a 43% and a 56% it depends who in your class already knows C++.Take it at a CC with a different prof.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader"
+      ],
+      "grade": "D+",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNDgyMTYz",
+      "legacy_id": 40482163,
+      "date": "2025-01-04 19:33:29 +0000 UTC",
+      "course": "CECS271",
+      "comment": "MinhThong's CECS 271 class is self-taught with zero effort on his part. Lectures are non-existent, office hours are a myth, and Matlab assignments are useless. His go-to phrase is \"everything is on Canvas\". Exams are made last-minute. Highly recommend avoiding this class at all costs.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Test heavy",
+        "Graded by few things"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNDgyMTM3",
+      "legacy_id": 40482137,
+      "date": "2025-01-04 19:27:12 +0000 UTC",
+      "course": "CECS275",
+      "comment": "MinhThong's classes are self taught. He refuses to teach the course materials and would give you the \"everything is on canvas\" excuse. He puts little to no effort when it comes to \"lectures\" and expects you to ask him questions. Office hours are non-existent and he makes the exam the night before. Highly recommend avoiding at all costs.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Group projects",
+        "Test heavy"
+      ],
+      "grade": "Rather not say",
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwMzI3OTY2",
+      "legacy_id": 40327966,
+      "date": "2024-12-16 20:25:05 +0000 UTC",
+      "course": "CECS271",
+      "comment": "Minhthong's class is self-guided. I had him for 271 and 275, where he told us he WOULDN'T teach us Matlab or C (the languages required for each class). \nHis \"lectures\" go like this:\n1. put you down for not already knowing the concept\n2. refuse to teach it\n3. fail to do an example you give him (won't provide his own)\n4. Make the test 5x harder.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Get ready to read",
+        "Test heavy"
+      ],
+      "grade": "B+",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4MjA5MjQz",
+      "legacy_id": 38209243,
+      "date": "2023-09-08 01:38:46 +0000 UTC",
+      "course": "CECS271",
+      "comment": "Smart dude, but hard quizzes/exams. Questions are very conceptual so you need to study outside class to make sure you thoroughly understand the material. You can win brownie points if you chat with him after class and make small talk. He likes watching sports and introvert hobbies like chess and origami. Class averages on exams were ~33% curved tho",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3MzYyNjkw",
+      "legacy_id": 37362690,
+      "date": "2023-01-21 04:57:27 +0000 UTC",
+      "course": "CECS329",
+      "comment": "Nguyen is a nice prof and his lectures are alright, but the grading of the tests/quizzes made the class extremely stressful. The majority of tests had a class average below 50%. Tests felt unfair frequently. Grades were not curved until after the semester ended, so you will likely walk into the final exam w/ an F or D on Canvas.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Lecture heavy"
+      ],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2NjcwMDMx",
+      "legacy_id": 36670031,
+      "date": "2022-09-30 17:15:53 +0000 UTC",
+      "course": "CECS275",
+      "comment": "Minhthong was a great professor for 275 Spring 2022. He would always answer any questions in depth. Not a tough grader on projects, you'll prob get full credit if code runs. The most difficult part of this class was the midterms since he does make you code on paper. I did learn a ton in this class though and I wish I had retained more of the info.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Participation matters",
+        "Group projects",
+        "Gives good feedback"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2Mjk2NDky",
+      "legacy_id": 36296492,
+      "date": "2022-05-10 14:04:31 +0000 UTC",
+      "course": "CECS275",
+      "comment": "Lectures are by the book, but if you ask questions he answers them thoroughly and respectfully. His class and Beachboard are very organized. Email responses are prompt. \n\nSometimes he does sit and debug code, but it's good to watch. The class is difficult, but you can't really blame the guy. The material is tough, and you can't get around that.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Group projects",
+        "Accessible outside class",
+        "Online Savvy"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2MDA5MzUz",
+      "legacy_id": 36009353,
+      "date": "2022-04-01 22:55:22 +0000 UTC",
+      "course": "CES228",
+      "comment": "This professor fails to educate on so many levels. His grading structure maximizes your chance of failing, and his exams fail to explain anything. The classes he teaches are fundamental to a CS education, and there ought to be more effort in teaching them. If you can find his classes elsewhere, take them.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Get ready to read",
+        "Graded by few things"
+      ],
+      "grade": "Drop/Withdrawal",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM1Mzk4NzA0",
+      "legacy_id": 35398704,
+      "date": "2021-12-07 16:09:01 +0000 UTC",
+      "course": "CECS275",
+      "comment": "You're better off learning how to code in C++ from the textbook than from him. The beginning of the semester was regular lectures, then he drops off and wants us to watch his pre-recorded zoom lectures. Honestly its just a 1 hour video of him trying to debug his own code. Assigns a project mid-semester with no mention in syllabus. Unknowledgeable.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Lots of homework",
+        "Tough grader"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM1MjYyNDM4",
+      "legacy_id": 35262438,
+      "date": "2021-11-18 02:08:12 +0000 UTC",
+      "course": "CECS275",
+      "comment": "He's a terrible prof. When it comes to the work load, this class is bs. At this point just rethink your career choice at this point or just give up on life. This dude assigned a project half way throughout the semester and it was not mentioned on the syllabus. Honestly i would just give up again like i did.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Lots of homework",
+        "Group projects",
+        "Tough grader"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM1MjM5Mzcy",
+      "legacy_id": 35239372,
+      "date": "2021-11-15 08:30:55 +0000 UTC",
+      "course": "CECS329",
+      "comment": "Gives a fair amount of work. Tests are difficult but if you study you will do well",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM1MTUzMjM0",
+      "legacy_id": 35153234,
+      "date": "2021-10-25 19:46:22 +0000 UTC",
+      "course": "CECS275",
+      "comment": "If you want to watch someone code and debug without explaining anything he's the guy to take, if you want to actually learn DO NOT take his class. You're better off watching youtube than his lectures and the way he grades is so tough. Overall he is the worst professor I have had in a while.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM0MjE4MzYx",
+      "legacy_id": 34218361,
+      "date": "2020-12-30 23:15:53 +0000 UTC",
+      "course": "CECS228",
+      "comment": "228 is unnecessarily rough with Nguyen imho. Averages on exams were low, and yes, he does curve, but your GPA will suffer if you care about it. Also, I took this class over a year ago, and I just finished my last, I would say this class was the roughest of all, but I will say that he is a great lecturer, and I sure did learn a lot from that class.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM0MTkwODcy",
+      "legacy_id": 34190872,
+      "date": "2020-12-24 04:40:25 +0000 UTC",
+      "course": "CECS228",
+      "comment": "I've taken him for CECS100 as well, he's an overall cool guy and is good at teaching but he tends to run you over during tests. The average was 40-50% for each test. That being said, he will end up curving the class if needed and as long as you're within the average, you should get at least a B. Also gives quizzes that are pretty easy.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Test heavy"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzMDI5NDEy",
+      "legacy_id": 33029412,
+      "date": "2020-04-07 16:28:12 +0000 UTC",
+      "course": "CECS100",
+      "comment": "Terrible professor. I hate the class so much. Tough grader pretty much you get it or don't. Treats an intro class like we know how to code already. Wish I can get a better professor.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Beware of pop quizzes",
+        "Tough grader"
+      ],
+      "grade": "C",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyODM3NTAz",
+      "legacy_id": 32837503,
+      "date": "2020-01-15 05:30:06 +0000 UTC",
+      "course": "CECS228",
+      "comment": "Minthong is a hit or miss kind of teacher depending on your learning style. His class has optional labs that you can use to ask him questions. He assigns you &quot;homework&quot; to do but you don't have to turn it in. You MUST practice the homework to pass the class because his tests are HARD. You might like him if you are an independent learner",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": "Rather not say",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyNzI2NTUz",
+      "legacy_id": 32726553,
+      "date": "2019-12-20 04:07:54 +0000 UTC",
+      "course": "CECS228",
+      "comment": "If you want an A, most likely you won't get one no matter how much work you put into the class. ITS HARD! Great guy, funny, and a really good professor. You will be REALLY prepared for the next classes. He curves at the very end of the class and will bump you up if you are a few percent away from the next grade. Grade consist of tests and quizzes.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyNjcxMjQx",
+      "legacy_id": 32671241,
+      "date": "2019-12-16 01:44:02 +0000 UTC",
+      "course": "CECS228",
+      "comment": "TRUTH: Minhthong Nguyen is something else, by far the hardest class that I have ever taken in my academic career. If you have a life (i.e. work, relationship, etc) then I would say avoid this class. To do well you need to dedicate hours. His exams are extremely hard, the curve for us was 72% and above was an A.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Skip class? You won't pass.",
+        "Graded by few things",
+        "Test heavy"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyNjcxMTgw",
+      "legacy_id": 32671180,
+      "date": "2019-12-16 01:38:33 +0000 UTC",
+      "course": "CECS228",
+      "comment": "Taking this class with Min was probably the hardest class I've ever taken. The exams are extremely difficult and class averages range from about 35-40%. You need to study for at least several hours a week to pass this class. If you care about your GPA, then you should consider another professor for this class.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Get ready to read",
+        "Test heavy",
+        "Tough grader"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyNjE5NjY2",
+      "legacy_id": 32619666,
+      "date": "2019-12-12 01:25:13 +0000 UTC",
+      "course": "CECS228",
+      "comment": "If you actually want to learn, this is the class to take. It's a hard class and he's a tough grader but he does curve and is good at teaching. If you want an easy A, this isn't the class for you.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "Skip class? You won't pass."
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyMzYxMTkw",
+      "legacy_id": 32361190,
+      "date": "2019-11-05 17:59:27 +0000 UTC",
+      "course": "CECS228",
+      "comment": "He's a cool person to hang around, but I wouldn't equate that to being a good professor. CECS 228 a difficult course in itself, and his teaching style adds onto the difficulty. If you're an independent learner, you won't struggle as much. Make sure to study for quizzes and especially midterms-those are the ONLY things that go into the gradebook.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Get ready to read",
+        "Graded by few things",
+        "Tough grader"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyMTk3OTk0",
+      "legacy_id": 32197994,
+      "date": "2019-08-26 19:31:42 +0000 UTC",
+      "course": "CECS228",
+      "comment": "You get homework and quizzes every week. The jump in difficulty from the quizzes to the tests is HUGE, and there are so many quizzes and tests that make you fall behind in other classes. When you ask him for help he will either tell you to: Look online at a different schools lecture for the topic (huh?) or Drop the class.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Lots of homework",
+        "Test heavy",
+        "Tough grader"
+      ],
+      "grade": "C",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxNjc3OTE0",
+      "legacy_id": 31677914,
+      "date": "2019-04-25 19:28:39 +0000 UTC",
+      "course": "CECS282",
+      "comment": "An amazing teacher and goes over all of the material in depth. He does have difficult exams but he reviews with us and is willing to answer any questions we have. Personally too, he is approachable and chill and he really wants his students to do well. He is almost like a mentor instead of a professor. I recommend Prof. Nguyen for your CS courses.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Caring",
+        "Tough grader"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 5,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxNTUxOTk3",
+      "legacy_id": 31551997,
+      "date": "2019-04-08 21:20:09 +0000 UTC",
+      "course": "CES228",
+      "comment": "Never again. I am glad I am done with his class. He ignores conventional grading scale and provides his own. His testing method is beyond ridiculous. His tests consists of 20% from lecture/textbook and 80% on &quot;related stuff that you should study on the internet&quot;. Such a disappointment of an educator.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Skip class? You won't pass.",
+        "Tough grader"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 8,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMzk0MjA1",
+      "legacy_id": 31394205,
+      "date": "2019-03-01 03:34:14 +0000 UTC",
+      "course": "CECS282",
+      "comment": "Lab , lab, and labs. Get ready to work hard for this grade. Tests are hard and lab is a lot of work. Minh is pretty chill though and if you got questions ask him. His lectures are not bad either.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Lots of homework",
+        "Accessible outside class",
+        "Tough grader"
+      ],
+      "grade": "C",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 2,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwNDkyMTAx",
+      "legacy_id": 30492101,
+      "date": "2018-09-10 13:47:58 +0000 UTC",
+      "course": "CECS228",
+      "comment": "I had Minh as a professor for CECS174 and CECS228. He is a very caring instructor and does a good job of enforcing the necessary curriculum. A lot of times the department gives him random classes but he does a good job of preparing to teach each of them. I would definitely take him again! Be prepared to learn, it is not a show-up-and-get-an-A class",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "Caring"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 8,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwMTg2NDcx",
+      "legacy_id": 30186471,
+      "date": "2018-05-24 21:21:53 +0000 UTC",
+      "course": "CECS282",
+      "comment": "Really a fantastic professor. He has never taught C++ before, but he did an amazing job. He was very prepared for the course and was always willing to give you help. He isn't a lazy grader either. Overall, I really enjoyed his class. Put in a little effort and you will do more than well. Once again, a fantastic professor.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "Clear grading criteria"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 9,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwMTc0Nzcw",
+      "legacy_id": 30174770,
+      "date": "2018-05-23 02:54:57 +0000 UTC",
+      "course": "CECS228",
+      "comment": "Laid-back attitude. Explains things well and is very thorough--you will learn something in this class. His tests can be rather hard, though, so be sure to study!",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough Grader",
+        "Gives good feedback",
+        "Skip class? You won't pass."
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 7,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwMDA3NjA0",
+      "legacy_id": 30007604,
+      "date": "2018-05-07 03:17:57 +0000 UTC",
+      "course": "CECS282",
+      "comment": "Really awesome at teaching and is engaged at all times rather than just reading off of slides like many professors do. He's super helpful when you have questions and explains clearly. He makes his tests VERY hard but gives huge curves to make up for it. Aside from teaching, he's also a super cool and friendly guy.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Clear grading criteria",
+        "Amazing lectures",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 5,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI5OTIzMjQ4",
+      "legacy_id": 29923248,
+      "date": "2018-04-28 22:06:53 +0000 UTC",
+      "course": "CECS282",
+      "comment": "Lectured during lecture, lab'd during lab - the way it is in a perfect world. Minh is chill; knows his stuff and is easily approachable. IN MY OPINION, he seems more like a mentor than a Professor. He's willing to help you and give hints for completing assignments.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Clear grading criteria",
+        "Caring",
+        "LECTURE HEAVY"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 3,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4Mzk1MzEz",
+      "legacy_id": 28395313,
+      "date": "2017-05-28 20:09:27 +0000 UTC",
+      "course": "CECS228",
+      "comment": "He curves tremendously. When I took him 70%  A  Midterms/final: average (easiest possible exam difficulty) to very hard (hardest possible exam difficulty). Labs and HW: easy points. Quiz: difficulty varies. Want to learn a lot? Take him. Want an easy A? avoid (curve can vary; Don't follow the curve he gave now!) Do your absolute best!!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Gives good feedback",
+        "Skip class? You won't pass.",
+        "LECTURE HEAVY"
+      ],
+      "grade": "A",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 4,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3NzY2OTc4",
+      "legacy_id": 27766978,
+      "date": "2017-01-23 16:59:32 +0000 UTC",
+      "course": "CECS228",
+      "comment": "I went through this class thinking it was impossible and I was barely going to pass, then it turned out that he curved the final grade so that 55% is a C, 65% is a B, and 75% is an A. Minh also curves the exams and listens to student feedback because he wants his students to do well. I also came out feeling like I knew the material. Solid teacher.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Respected",
+        "Skip class? You won't pass.",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 5,
+      "thumbs_down": 7,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3NjE1Nzg3",
+      "legacy_id": 27615787,
+      "date": "2016-12-24 01:24:15 +0000 UTC",
+      "course": "CECS174",
+      "comment": "He is a good professor ! but his exams are really hard! but at the end he will do big curve !",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "LOTS OF HOMEWORK",
+        "TEST HEAVY",
+        "GROUP PROJECTS"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 3,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3NjEwOTky",
+      "legacy_id": 27610992,
+      "date": "2016-12-23 11:26:39 +0000 UTC",
+      "course": "CECS174",
+      "comment": "His first time teaching in python because the department changed the curriculum. The exams were much harder than usual( I know several people who had taken him last semester and majority got an A or B) in which the majority of this class got a C or B. Hardly anyone got an A. Overall, he's caring but don't expect his classes to be piece of cake.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Participation matters",
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Caring"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": null,
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3NTk4NTQx",
+      "legacy_id": 27598541,
+      "date": "2016-12-21 22:33:38 +0000 UTC",
+      "course": "CECS228",
+      "comment": "Lectures are clear. BeachBoard quizzes are either really easy or hard. Homework/Labs are EZ points. Midterms are insanely hard, but curve is insanely high. Average for both midterms were around 30%. Tries to trick you on midterm so be careful. Curved grades so much that mostly everybody passed. \"C\" in a regular class was an A in this class. GGWP.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Respected",
+        "Inspirational",
+        "Clear grading criteria"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3MTcyODM0",
+      "legacy_id": 27172834,
+      "date": "2016-11-12 04:31:08 +0000 UTC",
+      "course": "CECS174",
+      "comment": "Professor Min is the homie. Approachable and chill. He goes over the lab during lab time. Average amount of homework, and graded off of completeness. Midterms are pretty easy. He does try to trick you on the midterms, but not to a great extent. This class is a guarantee A or B as long as you go to class and do the assignments.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Respected",
+        "Clear grading criteria"
+      ],
+      "grade": "A-",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 7,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1OTU5OTEy",
+      "legacy_id": 25959912,
+      "date": "2016-01-18 22:35:56 +0000 UTC",
+      "course": "CECS228",
+      "comment": "Hands down favorite professor. Had him for 274 and 228. He explains lectures in less technical terms, making it easier to understand. Pay attention in class, do your homework & ask questions because he is definitely approachable. His class is hard and time consuming but you WILL learn and remember it. Highly recommend Minh for any class you take.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 3,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1NjE1NzQz",
+      "legacy_id": 25615743,
+      "date": "2015-12-09 20:20:41 +0000 UTC",
+      "course": "CECS228",
+      "comment": "My favorite professor. Curves grades when the class doesnt do well, really cares about students passing and understanding material.",
+      "quality": 4.5,
+      "helpful": 5.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1NTIyODc5",
+      "legacy_id": 25522879,
+      "date": "2015-12-02 10:13:53 +0000 UTC",
+      "course": "CECS228",
+      "comment": "Minh is a decent teacher for being new. His teaching style includes writing down notes on the white board instead of traditionally using a power point, which in my opinion is a lot better. He's very easy to talk to and you can joke around with him. Maybe it's just me, but whether or not I had Mihn, CECS 228 is a really difficult course.",
+      "quality": 4.5,
+      "helpful": 5.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1MTMxMjM3",
+      "legacy_id": 25131237,
+      "date": "2015-08-18 16:42:48 +0000 UTC",
+      "course": "174",
+      "comment": "Minh is pretty cool :P i had no coding experience going in and i came out of his class a coding genuis jk jk but he is helpful :)",
+      "quality": 4.5,
+      "helpful": 5.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 7,
+      "thumbs_down": 6,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

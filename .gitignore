@@ -1,5 +1,8 @@
 .env
 .venv/
+.cursor
+.cursor/
+/.cursor/
 venv/
 __pycache__/
 *.py[cod]

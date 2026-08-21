@@ -1,0 +1,790 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2171477",
+    "scraped_at": "2026-08-21T07:45:56.966184+00:00",
+    "graphql_id": "VGVhY2hlci0yMTcxNDc3",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2171477,
+    "first_name": "Aisha",
+    "last_name": "Chen",
+    "full_name": "Aisha Chen",
+    "department": "Computer Science",
+    "avg_rating": 4.5,
+    "avg_difficulty": 2.2,
+    "num_ratings_listed": 18,
+    "would_take_again_percent": 100.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 1,
+        "courseName": "BME320"
+      },
+      {
+        "courseCount": 3,
+        "courseName": "CECS100"
+      },
+      {
+        "courseCount": 3,
+        "courseName": "CECS225"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS228"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS274"
+      },
+      {
+        "courseCount": 5,
+        "courseName": "CECS328"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS341"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 18,
+    "avg_quality": 4.5,
+    "avg_difficulty": 2.22,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Caring",
+        "count": 12
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 7
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 6
+      },
+      {
+        "name": "ACCESSIBLE OUTSIDE CLASS",
+        "count": 5
+      },
+      {
+        "name": "Respected",
+        "count": 4
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 3
+      },
+      {
+        "name": "LOTS OF HOMEWORK",
+        "count": 3
+      },
+      {
+        "name": "Skip class? You won't pass.",
+        "count": 1
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 1
+      },
+      {
+        "name": "Hilarious",
+        "count": 1
+      },
+      {
+        "name": "Inspirational",
+        "count": 1
+      },
+      {
+        "name": "GRADED BY FEW THINGS",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "B",
+        "count": 6
+      },
+      {
+        "name": "A",
+        "count": 5
+      },
+      {
+        "name": "A+",
+        "count": 2
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 2,
+      "2": 12,
+      "3": 2,
+      "4": 2,
+      "5": 0
+    },
+    "attendance": {
+      "mandatory": 3,
+      "non mandatory": 14
+    },
+    "courses": [
+      {
+        "course": "CECS328",
+        "review_count": 5,
+        "avg_quality": 4.2,
+        "avg_difficulty": 2.2,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Caring",
+            "count": 4
+          },
+          {
+            "name": "ACCESSIBLE OUTSIDE CLASS",
+            "count": 2
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 2
+          },
+          {
+            "name": "Respected",
+            "count": 2
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 2
+          },
+          {
+            "name": "LOTS OF HOMEWORK",
+            "count": 2
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS225",
+        "review_count": 3,
+        "avg_quality": 4.67,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Caring",
+            "count": 2
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          },
+          {
+            "name": "Respected",
+            "count": 1
+          },
+          {
+            "name": "LOTS OF HOMEWORK",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS100",
+        "review_count": 3,
+        "avg_quality": 4.33,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Clear grading criteria",
+            "count": 2
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 2
+          },
+          {
+            "name": "Caring",
+            "count": 2
+          },
+          {
+            "name": "Respected",
+            "count": 1
+          },
+          {
+            "name": "GRADED BY FEW THINGS",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS341",
+        "review_count": 2,
+        "avg_quality": 5.0,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "ACCESSIBLE OUTSIDE CLASS",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS274",
+        "review_count": 2,
+        "avg_quality": 4.0,
+        "avg_difficulty": 1.5,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "ACCESSIBLE OUTSIDE CLASS",
+            "count": 1
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS228",
+        "review_count": 2,
+        "avg_quality": 5.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Caring",
+            "count": 2
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 1
+          },
+          {
+            "name": "ACCESSIBLE OUTSIDE CLASS",
+            "count": 1
+          },
+          {
+            "name": "Hilarious",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "BME320",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Inspirational",
+            "count": 1
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTMzNDEzNzE4",
+      "legacy_id": 33413718,
+      "date": "2020-06-06 17:27:18 +0000 UTC",
+      "course": "CECS225",
+      "comment": "This is a great prof for 225 and if you actually try even a little, it's an easy A. She's pretty organized with lectures and very helpful if you are confused. Labs are done in groups, midterms are similar to the practice midterms. Even if you don't try you'll still pass.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Gives good feedback",
+        "Skip class? You won't pass.",
+        "Caring"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyMjAzMjY1",
+      "legacy_id": 32203265,
+      "date": "2019-08-28 22:54:00 +0000 UTC",
+      "course": "CECS341",
+      "comment": "She's very chill. Just do the homeworks and reading assignments and go over the test reviewers and you should be fine. She's very forgiving, so even if you aren't able to turn in something in time, just go and talk to her and she'll extend the deadline.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMzk0MTg5",
+      "legacy_id": 31394189,
+      "date": "2019-03-01 03:31:13 +0000 UTC",
+      "course": "CECS274",
+      "comment": "Her class is alright. Test are easy and so are the assignments. You might not learn much, but it wil be an easy B/A.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 2,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMzg1MTM3",
+      "legacy_id": 31385137,
+      "date": "2019-02-26 23:08:39 +0000 UTC",
+      "course": "CECS228",
+      "comment": "Well, it has been a semester since I took her. I will admit that the class is hard itself. The first half of the class was good, until it hit proofs and recursions! Again, since I did well in the class, this is a good opportunity to prepare for MATH 361A. With that being said, you must know PROOFS, RECURSIONS, and INDUCTIONS and tons of logic!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Lecture heavy",
+        "Caring"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMDcyNjg1",
+      "legacy_id": 31072685,
+      "date": "2018-12-18 01:07:07 +0000 UTC",
+      "course": "CECS228",
+      "comment": "Here is the key. The context of this class itself is hard, but the computations are not that bad. The things that will MESS people up is Recursion and Induction. They are worth the most on the midterm and final. I was almost at an A before the finals because I did better the 2nd mtrm than the 1st mdrm, but I messed up on the final leading to a B!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Hilarious",
+        "Caring"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 15,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwMzMwNDEw",
+      "legacy_id": 30330410,
+      "date": "2018-07-09 11:19:59 +0000 UTC",
+      "course": "CECS341",
+      "comment": "She's very forgiving and approachable compared to many professors I had in the past. She's very patient and is willing to help during lab too. Like Dr. Englert though she doesn't mainly teach CS classes as she is more involved in biomedical computer sort of classes, so she may not have many CECS classes in the future. Definitely take her if you can",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Gives good feedback",
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Caring"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwMzE4ODgw",
+      "legacy_id": 30318880,
+      "date": "2018-07-03 22:57:42 +0000 UTC",
+      "course": "CECS274",
+      "comment": "She is so caring and down to earth. You can pretty much ask her anything about anything and she will answer back with a smile. She is patient and willing to help and would go out of her way to explain something you do not understand. Just ask! And plus she is super pretty, that always helps.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Clear grading criteria",
+        "Caring"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI5Nzg3NzI3",
+      "legacy_id": 29787727,
+      "date": "2018-04-11 21:20:09 +0000 UTC",
+      "course": "BME320",
+      "comment": "Wonderful teacher! Labs are challenging but worth it. Shes the type of teacher that if you want to learn something extra, she will go out of her way to teach it. If you see she is teaching the class take it",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Gives good feedback",
+        "Inspirational",
+        "Clear grading criteria"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4NjQ2MDA1",
+      "legacy_id": 28646005,
+      "date": "2017-08-29 01:32:41 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Was scared for 328 bc heard how mathy it can be. Aisha was easy to communicate to. She saw that ppl struggled with spec. topics & decided to not emphasize those topics on exams- super considerate. Her exams are straightforward: just apply what you learn (etc do a heap sort/bst on a set array) with no coding on exam. Awesome and def rec!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Clear grading criteria",
+        "Caring"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4NjI2NTE5",
+      "legacy_id": 28626519,
+      "date": "2017-08-19 01:02:17 +0000 UTC",
+      "course": "CECS328",
+      "comment": "We learned Big-O, Runtime Complexity, Hash, Heap, Binary Tree, AVL, Sorting, Graphs, Breadth/Depth-First Search, and Dynamic Programming. Nice and helpful teacher; positive class atmosphere. Like in CECS 225, homemade cookies for the final!",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Respected",
+        "Amazing lectures",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4NjI2NTEx",
+      "legacy_id": 28626511,
+      "date": "2017-08-19 01:00:38 +0000 UTC",
+      "course": "CECS328",
+      "comment": "There weren't any math proofs on the exam, except for during the lecture and some homework problems. For midterm 1 topic: Big-O, review Calculus 1 on limits and review Algebra 2 on logarithm properties. For midterm 1 topic: runtime complexity, review CECS 228 on summation.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [
+        "LOTS OF HOMEWORK",
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4NjI2NTA3",
+      "legacy_id": 28626507,
+      "date": "2017-08-19 00:58:40 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Lecture pdf notes have example problems without solutions, but go to class if you want to see her explained the solutions for the examples. Test questions came from these example problems, but no study guides like in CECS 225 since it's a 6-week summer session.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "Clear grading criteria"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4NjI2NTA1",
+      "legacy_id": 28626505,
+      "date": "2017-08-19 00:57:20 +0000 UTC",
+      "course": "CECS328",
+      "comment": "It was her first time teaching DS & A at CSULB. There were 10 HW, 5 Programs, 3 Quizzes, 2 Midterms, and 1 Final. Quizzes were closed-notes, but tests were open notes. Dropbox turn-ins are due at 11:59 PM, so if the due date is on Tuesday, then you can upload to dropbox 1 minute before Wednesday.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [
+        "LOTS OF HOMEWORK",
+        "Amazing lectures",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4MzkwNzM3",
+      "legacy_id": 28390737,
+      "date": "2017-05-27 05:13:52 +0000 UTC",
+      "course": "CECS100",
+      "comment": "pretty easy class and she's pretty attractive ;)",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Respected",
+        "Clear grading criteria",
+        "GRADED BY FEW THINGS"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTI4MzQzMDEw",
+      "legacy_id": 28343010,
+      "date": "2017-05-18 17:32:49 +0000 UTC",
+      "course": "CECS225",
+      "comment": "Gives practice midterms, same as midterms but different numbers *wink wink*. Quizzes based off of homework. Midterms based off of quizzes. Labs are pretty ez due to skeleton code. Caring teacher and nice person. However, sometimes confusing and gives wrong information. Lecture not mandatory, PowerPoints are posted online. Overall ez and chill class",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Caring"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4MTk0MDQ5",
+      "legacy_id": 28194049,
+      "date": "2017-05-03 01:20:48 +0000 UTC",
+      "course": "CECS100",
+      "comment": "Clear lectures. Always asks if there are any questions. Always willing to help with any questions. Midterms and quizzes match what was on lecture. Lectures are posted online, so no need to take notes.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Gives good feedback",
+        "Clear grading criteria",
+        "Caring"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4MDU1MDY0",
+      "legacy_id": 28055064,
+      "date": "2017-04-15 17:54:15 +0000 UTC",
+      "course": "CECS225",
+      "comment": "She is very chill and nice. Her classes are well explained, she makes hard concepts very easy to understand. She knows her stuff.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Respected",
+        "LOTS OF HOMEWORK",
+        "Amazing lectures"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3Njc5ODY3",
+      "legacy_id": 27679867,
+      "date": "2017-01-05 18:17:41 +0000 UTC",
+      "course": "CECS100",
+      "comment": "At first, the way she lectured was offputting due to her very casual tone. However, she is an easy professor who is quite lax. Lectures were straightforward and labs followed a format of example and practice. Many quizzes were open laptop, and she always said what would be on them. Exams are very similar to the practice ones she posts online.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Gives good feedback",
+        "Caring"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

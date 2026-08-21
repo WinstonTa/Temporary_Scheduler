@@ -1,0 +1,302 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2935883",
+    "scraped_at": "2026-08-21T07:33:17.329811+00:00",
+    "graphql_id": "VGVhY2hlci0yOTM1ODgz",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2935883,
+    "first_name": "Arash",
+    "last_name": "Sarshar",
+    "full_name": "Arash Sarshar",
+    "department": "Computer Science",
+    "avg_rating": 5,
+    "avg_difficulty": 3,
+    "num_ratings_listed": 4,
+    "would_take_again_percent": 100.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 2,
+        "courseName": "CECS451"
+      },
+      {
+        "courseCount": 3,
+        "courseName": "CECS457"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 5,
+    "avg_quality": 5.0,
+    "avg_difficulty": 3.0,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Amazing lectures",
+        "count": 4
+      },
+      {
+        "name": "Beware of pop quizzes",
+        "count": 2
+      },
+      {
+        "name": "Caring",
+        "count": 2
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 2
+      },
+      {
+        "name": "Respected",
+        "count": 1
+      },
+      {
+        "name": "Participation matters",
+        "count": 1
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 1
+      },
+      {
+        "name": "Inspirational",
+        "count": 1
+      },
+      {
+        "name": "Graded by few things",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A+",
+        "count": 1
+      },
+      {
+        "name": "B+",
+        "count": 1
+      },
+      {
+        "name": "B",
+        "count": 1
+      },
+      {
+        "name": "A",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 0,
+      "2": 0,
+      "3": 5,
+      "4": 0,
+      "5": 0
+    },
+    "attendance": {
+      "non mandatory": 3,
+      "mandatory": 2
+    },
+    "courses": [
+      {
+        "course": "CECS457",
+        "review_count": 3,
+        "avg_quality": 5.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Amazing lectures",
+            "count": 3
+          },
+          {
+            "name": "Caring",
+            "count": 2
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 2
+          },
+          {
+            "name": "Inspirational",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS451",
+        "review_count": 2,
+        "avg_quality": 5.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Beware of pop quizzes",
+            "count": 2
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          },
+          {
+            "name": "Respected",
+            "count": 1
+          },
+          {
+            "name": "Participation matters",
+            "count": 1
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQzMzE1MjM2",
+      "legacy_id": 43315236,
+      "date": "2026-07-21 08:25:33 +0000 UTC",
+      "course": "CECS451",
+      "comment": "Arash is really good and super chill professor, couple of assignments, mid term and final. He said if people don't come to his class every day he might do pop up quiz but in summer he didn't. Exam can be hard but go to class and follow all the modules he provide. Overall its good and doable class.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Amazing lectures",
+        "Beware of pop quizzes",
+        "Respected"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyNDE1Mzg4",
+      "legacy_id": 42415388,
+      "date": "2025-12-30 00:57:42 +0000 UTC",
+      "course": "CECS457",
+      "comment": "(CECS 456) Loved the class! The only reason why its difficult is cause there is only 1 midterm and a final. It was difficult to study for exams because of the wording of questions and such. Other than that, lectures were great, homework was fair and relevant, and you can tell he cares about his students! Show up to class!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Amazing lectures",
+        "Caring",
+        "Lecture heavy"
+      ],
+      "grade": "B+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyMzk0NDY0",
+      "legacy_id": 42394464,
+      "date": "2025-12-24 23:32:10 +0000 UTC",
+      "course": "CECS457",
+      "comment": "This review is for CECS 456. Dr. Sarshar is an AMAZING lecturer. You can tell he's passionate about the topic. If someone does not understand something he will always try to find another angle. The homework were more like labs and hands-on projects. Exams are moderately difficult. Some tricky questions. Highly recommend",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Amazing lectures",
+        "Caring",
+        "Lecture heavy"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxNDkxODU3",
+      "legacy_id": 41491857,
+      "date": "2025-07-09 20:48:46 +0000 UTC",
+      "course": "CECS451",
+      "comment": "Dr. Sarshar was super chill. He's clearly very passionate about AI and Machine Learning and has a solid grasp of the topics he teaches. Assignments get increasingly difficult, but they're written in a way where you just tailor standard algorithms to the assignment. He's very grateful for participation even if you're not sure about your response.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Participation matters",
+        "Clear grading criteria",
+        "Beware of pop quizzes"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4MjYyMzA3",
+      "legacy_id": 38262307,
+      "date": "2023-10-09 19:05:08 +0000 UTC",
+      "course": "CECS457",
+      "comment": "He is a great professor who is very passionate about Machine Learning concepts. I feel bad for him because our class only had 14/70 student, and most of us are Co-req with CECS 456 Machine Learning, so he spend a lot of time trying to catch us up with ML topics, and bcos there is little of us, participation is low. Class is graded on Projects only.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Amazing lectures",
+        "Inspirational",
+        "Graded by few things"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/1994367",
+    "scraped_at": "2026-08-21T07:45:24.777653+00:00",
+    "graphql_id": "VGVhY2hlci0xOTk0MzY3",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 1994367,
+    "first_name": "Pouye",
+    "last_name": "Sedighian",
+    "full_name": "Pouye Sedighian",
+    "department": "Computer Science",
+    "avg_rating": 4.3,
+    "avg_difficulty": 3.3,
+    "num_ratings_listed": 20,
+    "would_take_again_percent": 100.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 2,
+        "courseName": "CECS271"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS326"
+      },
+      {
+        "courseCount": 16,
+        "courseName": "CECS328"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 20,
+    "avg_quality": 4.3,
+    "avg_difficulty": 3.25,
+    "would_take_again_percent": 100.0,
+    "online_percent": 5.0,
+    "tag_counts": [
+      {
+        "name": "Participation matters",
+        "count": 6
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 5
+      },
+      {
+        "name": "Lots of homework",
+        "count": 4
+      },
+      {
+        "name": "EXTRA CREDIT",
+        "count": 3
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 2
+      },
+      {
+        "name": "Caring",
+        "count": 2
+      },
+      {
+        "name": "LOTS OF HOMEWORK",
+        "count": 2
+      },
+      {
+        "name": "Skip class? You won't pass.",
+        "count": 2
+      },
+      {
+        "name": "Inspirational",
+        "count": 1
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 1
+      },
+      {
+        "name": "LECTURE HEAVY",
+        "count": 1
+      },
+      {
+        "name": "Would take again",
+        "count": 1
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 8
+      },
+      {
+        "name": "A+",
+        "count": 4
+      },
+      {
+        "name": "C",
+        "count": 2
+      },
+      {
+        "name": "B",
+        "count": 2
+      },
+      {
+        "name": "B+",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 1,
+      "2": 4,
+      "3": 6,
+      "4": 7,
+      "5": 2
+    },
+    "attendance": {
+      "mandatory": 16,
+      "non mandatory": 2
+    },
+    "courses": [
+      {
+        "course": "CECS328",
+        "review_count": 16,
+        "avg_quality": 4.66,
+        "avg_difficulty": 3.31,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Participation matters",
+            "count": 6
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 5
+          },
+          {
+            "name": "Lots of homework",
+            "count": 4
+          },
+          {
+            "name": "EXTRA CREDIT",
+            "count": 3
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 2
+          },
+          {
+            "name": "Caring",
+            "count": 2
+          },
+          {
+            "name": "LOTS OF HOMEWORK",
+            "count": 2
+          },
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "CECS271",
+        "review_count": 2,
+        "avg_quality": 3.75,
+        "avg_difficulty": 2.5,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS326",
+        "review_count": 2,
+        "avg_quality": 2.0,
+        "avg_difficulty": 3.5,
+        "would_take_again_percent": null,
+        "top_tags": []
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTM0MTMzOTcx",
+      "legacy_id": 34133971,
+      "date": "2020-12-18 07:00:40 +0000 UTC",
+      "course": "CECS328",
+      "comment": "I want to be completely honest guys. Pouye is, without a doubt, one of the best professors in csulb. Throughout the semester, she'll make the lecture fascinating to learn as she genuinely cares about her student to understand the concept. Response quickly to labs and homework assignments, and provide plenty of time. lecture saved, and exam 3 day",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Participation matters",
+        "Amazing lectures"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzNzc2MDAw",
+      "legacy_id": 33776000,
+      "date": "2020-11-05 22:37:57 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Very understanding and flexible with due dates. She gave us 3 full days to work on our midterms, she just expected everyone not to cheat. The topic is hard but she explains it well. All notes she writes she saves it and gives it to you as PDF, all lectures were recorded too. Provides very fast HW support through email.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Participation matters",
+        "Amazing lectures",
+        "Caring"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzNjQ5NTEy",
+      "legacy_id": 33649512,
+      "date": "2020-09-17 17:02:32 +0000 UTC",
+      "course": "CECS328",
+      "comment": "I absolutely loved this class Pougye is an amazing professor. She gives plenty of time to complete the labs and will make you re do it until you understand it. She also gives out a lot of extra credit to help boost your grade. Our first exam was a written exam and the last two were programming assignments with 2 days to complete.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Lots of homework",
+        "EXTRA CREDIT"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyNTc5Njk5",
+      "legacy_id": 32579699,
+      "date": "2019-12-09 20:54:37 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Awesome professor. Very helpful",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Lots of homework"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxOTE2NDk5",
+      "legacy_id": 31916499,
+      "date": "2019-05-20 12:46:12 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Pouye Sedighian is one of the best professors in the CECS department. She is the only professor I met that is willing to go beyond for her students to succeed. Her 328 class was amazing. I learned so much in her class. She gives lots of homework and labs to help you understand the concepts. Participation in class leads to extra credit. Take her!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Lots of homework",
+        "Inspirational",
+        "Lecture heavy"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMzk0MjA5",
+      "legacy_id": 31394209,
+      "date": "2019-03-01 03:35:36 +0000 UTC",
+      "course": "CECS328",
+      "comment": "This professor is very passionate but she will make you work on a lot of homework and lab. She will make you guys stay the whole lecture time + lab time.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Gives good feedback",
+        "Lots of homework",
+        "Participation matters"
+      ],
+      "grade": "C",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwMzMwMzk5",
+      "legacy_id": 30330399,
+      "date": "2018-07-09 11:15:53 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Her class was quite intensive because of how much detail she goes into her lectures. Most of my time went into getting my labs to work and getting it approved too. Her extra credit is very nice, get as much as you can. Exams can be very tough, but she gives you a choice of how many questions to do and anything more is extra credit.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "EXTRA CREDIT",
+        "LECTURE HEAVY"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI5MzQ2OTgz",
+      "legacy_id": 29346983,
+      "date": "2017-12-27 20:55:58 +0000 UTC",
+      "course": "CECS328",
+      "comment": "First few weeks are hard cuz of calc review :(. But gets ALOT better. Lot of homework but lenient on due date. Lots of extra credit by doing questions on board. Sample midterms/final are VERY similar to actual tests. Caring prof who wants to see you learn and is very helpful. Math intensive class w/ proofs but still ez and you learn a lot. GGEZ",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "LOTS OF HOMEWORK",
+        "EXTRA CREDIT",
+        "Would take again"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI5MjUzNzcx",
+      "legacy_id": 29253771,
+      "date": "2017-12-18 03:10:03 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Very good,easy, and fair professor. Gives out extra credit on occasions. 2 midterms and 1 final. She made the subject easy to grasp. HW can be long, so don't procrastinate on them. 4-5 Labs. Take her! If you feel she's too easy and isn't challenging you, take someone else; otherwise, enjoy a high grade. :)",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Participation matters",
+        "Skip class? You won't pass.",
+        "LOTS OF HOMEWORK"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI5MjM1MTcy",
+      "legacy_id": 29235172,
+      "date": "2017-12-16 14:41:04 +0000 UTC",
+      "course": "CECS328",
+      "comment": "To be Honest I Got High Grades, lectures are comprehensible, labs are good",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4Njk1NjM0",
+      "legacy_id": 28695634,
+      "date": "2017-09-25 14:20:13 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Extremely helpful and caring. The subject is difficult to grasp, but she does a great job of providing lots of examples, and making sure every student understands. You NEED to participate in the class in order to do well. If she doesn't know you are struggling, then she cannot help you. I am very introverted, but participation helped me the most.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Participation matters",
+        "Caring"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3MTYzNjI3",
+      "legacy_id": 27163627,
+      "date": "2016-11-10 14:05:28 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Pouye really does care and she will try the relate the example to the lessons taught multiple times until everyone gets it. Very strict when everyone seems to goof off. No homework assignments, about 4-5 labs that are required uses either MATLAB /Java.  Take \"Miss class won't pass\" seriously. No notes are uploaded online. Everything done in lecture",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Participation matters",
+        "Skip class? You won't pass.",
+        "Clear grading criteria"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 3,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2NzAxNTYx",
+      "legacy_id": 26701561,
+      "date": "2016-06-07 03:45:57 +0000 UTC",
+      "course": "CECS328",
+      "comment": "When she speaks in front of the class, she can come off as strict and unapproachable, but she's actually quite the opposite. She's extremely helpful and she definitely cares about student success and her class is very well structured. She does call students out to participate in front of the class, which helps to keep the effort up.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2NTY2ODQ2",
+      "legacy_id": 26566846,
+      "date": "2016-05-13 14:54:02 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Class consists of sitting down and listening, no writing while she is talking. You MUST do homework and exam reviews to pass. Easy lab assignments. Do not expect to learn much, though. It is a more depth explanation of concepts learned in 228. Easy class if you took Goldstein for 228!",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2NTU4MDUw",
+      "legacy_id": 26558050,
+      "date": "2016-05-12 18:34:04 +0000 UTC",
+      "course": "CECS328",
+      "comment": "One of the hardest classes I've taken. You need a really solid foundation from 228 to be able to do well in this class. It was a struggle trying to find resources online that fit they way she expected you to solve problems. She does give extra credit - in the form being able to do the problem on the board with this she does not curve at all.",
+      "quality": 2.5,
+      "helpful": 3.0,
+      "clarity": 2.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": "C",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1Nzk3ODUz",
+      "legacy_id": 25797853,
+      "date": "2015-12-22 00:28:58 +0000 UTC",
+      "course": "CECS271",
+      "comment": "Pouye's lecture at first seem great and easy, however, her homework says otherwise. Her lecture are not enough especially when it comes to proofs which requires more than her lecture to comprehend. Her test are based off her homework and part A which is needed for an A is mostly proofs. Yet she isn't too hard just gotta learn stuff on your own.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 2,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1MjEyMTU0",
+      "legacy_id": 25212154,
+      "date": "2015-09-27 18:43:16 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Great professor who really goes over concepts and tries to make sure everyone understands. Her due dates are ambiguous and she just wants to make sure you understand the assignments before turning things in. Really knowledgeable with certain coding languages such as MATLAB. She's a smart and sweet professor who actually cares about each student!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 4,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1MTMyNTEz",
+      "legacy_id": 25132513,
+      "date": "2015-08-18 23:40:03 +0000 UTC",
+      "course": "CECS326",
+      "comment": "No a good professor. Light on teaching concepts, easy assignments.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 6,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1MDM5MjAz",
+      "legacy_id": 25039203,
+      "date": "2015-07-14 11:06:54 +0000 UTC",
+      "course": "CECS326",
+      "comment": "Easy, but very boring",
+      "quality": 3.0,
+      "helpful": 4.0,
+      "clarity": 2.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": "B+",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI0ODg1ODA2",
+      "legacy_id": 24885806,
+      "date": "2015-05-21 22:25:43 +0000 UTC",
+      "course": "CECS271",
+      "comment": "My god this woman is intense,  but she is pretty good. She's a really fast paced teacher, but will keep going over examples until it is clear to everyone. She gives quite a bit of homework that is not really that difficult but  is really tedious. Also, the key to getting a good grade is to volunteer on the board to get extra credit for exams.",
+      "quality": 4.5,
+      "helpful": 5.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 8,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

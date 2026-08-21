@@ -1,0 +1,434 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/1812927",
+    "scraped_at": "2026-08-21T07:47:01.484993+00:00",
+    "graphql_id": "VGVhY2hlci0xODEyOTI3",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 1812927,
+    "first_name": "Shadnaz",
+    "last_name": "Asgari",
+    "full_name": "Shadnaz Asgari",
+    "department": "Computer Science",
+    "avg_rating": 4.9,
+    "avg_difficulty": 2.9,
+    "num_ratings_listed": 9,
+    "would_take_again_percent": 100.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 1,
+        "courseName": "BME300"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "BME350"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS228"
+      },
+      {
+        "courseCount": 5,
+        "courseName": "CECS328"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 9,
+    "avg_quality": 4.89,
+    "avg_difficulty": 2.89,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Amazing lectures",
+        "count": 4
+      },
+      {
+        "name": "Skip class? You won't pass.",
+        "count": 2
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 2
+      },
+      {
+        "name": "Respected",
+        "count": 1
+      },
+      {
+        "name": "Accessible outside class",
+        "count": 1
+      },
+      {
+        "name": "Graded by few things",
+        "count": 1
+      },
+      {
+        "name": "Test heavy",
+        "count": 1
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 1
+      },
+      {
+        "name": "Inspirational",
+        "count": 1
+      },
+      {
+        "name": "Would take again",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 2
+      },
+      {
+        "name": "B",
+        "count": 2
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 0,
+      "2": 2,
+      "3": 6,
+      "4": 1,
+      "5": 0
+    },
+    "attendance": {
+      "non mandatory": 3,
+      "mandatory": 2,
+      "N": 1,
+      "Y": 1
+    },
+    "courses": [
+      {
+        "course": "CECS328",
+        "review_count": 5,
+        "avg_quality": 4.8,
+        "avg_difficulty": 2.6,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          },
+          {
+            "name": "Would take again",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "BME350",
+        "review_count": 2,
+        "avg_quality": 5.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Respected",
+            "count": 1
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 1
+          },
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          },
+          {
+            "name": "Test heavy",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS228",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Inspirational",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "BME300",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTMyMDAzMzIx",
+      "legacy_id": 32003321,
+      "date": "2019-06-06 23:53:50 +0000 UTC",
+      "course": "BME350",
+      "comment": "Dr. Asgari is hands down one of the best professors I've ever had. She goes into specific details to make sure you understand the concept and her tests are very fair. Thoroughly enjoyed her methods of teaching and the class as well.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Respected",
+        "Accessible outside class",
+        "Skip class? You won't pass."
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxOTk5NjE2",
+      "legacy_id": 31999616,
+      "date": "2019-06-06 00:33:33 +0000 UTC",
+      "course": "BME350",
+      "comment": "Professor Asgari is absolutely wonderful! She has such a passion for the topics she's teaching and she has a great way of explaining complex things. We didn't have any homework (that was graded) so the grading was completely on tests, final, and a project you need to present at the end of the course. Would love to take her again for anything!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Graded by few things",
+        "Test heavy",
+        "Amazing lectures"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwMTk4MTky",
+      "legacy_id": 30198192,
+      "date": "2018-05-27 19:13:53 +0000 UTC",
+      "course": "CECS228",
+      "comment": "I enjoyed taking Professor Asgari's class and learned a great deal. She can really dumb down the complicated concepts and her lectures are structured well! Paying attention in class has paid off the most and I didn't even have to read a page in the book to understand the homework, midterms, or even the final. Her labs are extremely helpful!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Gives good feedback",
+        "Inspirational",
+        "Amazing lectures"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 8,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI5Nzg4MDM2",
+      "legacy_id": 29788036,
+      "date": "2018-04-11 21:55:24 +0000 UTC",
+      "course": "BME300",
+      "comment": "Extremely amazing professor, since she is computer science get ready to code. The professor does such a great job explaining every topic thoroughly and is so passionate. 2 exams and a final, review the lectures and homeworks heavily because whatever you forget to study will be on the test.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Skip class? You won't pass.",
+        "Clear grading criteria",
+        "Amazing lectures"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 5,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI5MTkyNDU5",
+      "legacy_id": 29192459,
+      "date": "2017-12-14 01:47:54 +0000 UTC",
+      "course": "CECS328",
+      "comment": "She is the best! Her lectures are so clear and easy to follow! For the two midterms just study the notes and sample questions and you will do well ! RECOMMEND!!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Clear grading criteria",
+        "Amazing lectures",
+        "Would take again"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 6,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1Nzc4MjAx",
+      "legacy_id": 25778201,
+      "date": "2015-12-20 01:08:16 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Her lectures are very clear. Most of the material she teaches will pop up during your interviews so save your notes. She is always there to answer any questions. Her tests are easy if you study her notes very well.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 6,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyNjI5MDM4",
+      "legacy_id": 22629038,
+      "date": "2013-12-20 17:45:49 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Good professor, fair grader.  My only complaint was that she goes kind of fast during lecture and its tough to follow her if you are a slow note taker.  The first 3 or 4 weeks are going to be very rough but it gets a lot better.  Don't let the quiz you take during the first day of class scare you.  I got a 2/10 and finished with a high B.",
+      "quality": 4.5,
+      "helpful": 5.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "N",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 5,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyMzQ4ODcw",
+      "legacy_id": 22348870,
+      "date": "2013-11-19 18:26:32 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Very Helpfull, Would take a class with her again.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 5,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyMjYwNjA5",
+      "legacy_id": 22260609,
+      "date": "2013-11-05 17:02:12 +0000 UTC",
+      "course": "CECS328",
+      "comment": "The focus of her course is the math behind data structures and algorithms. There is very little actual programming. If you attend the lectures and take notes you will do well. The exams and quizzes are not particularly difficult. Not the best course to learn the application to programming, but a fair course that I would recommend.",
+      "quality": 4.5,
+      "helpful": 5.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "Y",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 5,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

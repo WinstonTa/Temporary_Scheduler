@@ -1,0 +1,355 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/1876967",
+    "scraped_at": "2026-08-21T07:47:52.917393+00:00",
+    "graphql_id": "VGVhY2hlci0xODc2OTY3",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 1876967,
+    "first_name": "Roman",
+    "last_name": "Tankelevich",
+    "full_name": "Roman Tankelevich",
+    "department": "Computer Science",
+    "avg_rating": 4,
+    "avg_difficulty": 2.7,
+    "num_ratings_listed": 7,
+    "would_take_again_percent": 100.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 1,
+        "courseName": "528"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS229"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS424"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS528"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS543"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS590"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 7,
+    "avg_quality": 4.0,
+    "avg_difficulty": 2.71,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Caring",
+        "count": 2
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 1
+      },
+      {
+        "name": "ACCESSIBLE OUTSIDE CLASS",
+        "count": 1
+      },
+      {
+        "name": "TEST HEAVY",
+        "count": 1
+      },
+      {
+        "name": "GRADED BY FEW THINGS",
+        "count": 1
+      },
+      {
+        "name": "LECTURE HEAVY",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 3
+      },
+      {
+        "name": "Not_Sure_Yet",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 2,
+      "2": 1,
+      "3": 2,
+      "4": 1,
+      "5": 1
+    },
+    "attendance": {
+      "mandatory": 4,
+      "non mandatory": 1,
+      "Y": 1,
+      "N": 1
+    },
+    "courses": [
+      {
+        "course": "CECS528",
+        "review_count": 2,
+        "avg_quality": 3.25,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": []
+      },
+      {
+        "course": "CECS543",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 1.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "ACCESSIBLE OUTSIDE CLASS",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS229",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "TEST HEAVY",
+            "count": 1
+          },
+          {
+            "name": "GRADED BY FEW THINGS",
+            "count": 1
+          },
+          {
+            "name": "LECTURE HEAVY",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS424",
+        "review_count": 1,
+        "avg_quality": 4.0,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Caring",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "528",
+        "review_count": 1,
+        "avg_quality": 3.0,
+        "avg_difficulty": 1.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS590",
+        "review_count": 1,
+        "avg_quality": 4.5,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTMwODE4Njc4",
+      "legacy_id": 30818678,
+      "date": "2018-11-29 18:31:52 +0000 UTC",
+      "course": "CECS543",
+      "comment": "He is a very kind and patient old man, which respects his students. His lectures are a bit dull, but he tries to engage you as much as possible. We had to do a team project for the course, basically, write something and get an A. He canceled the Final exam because of the project tho, so that was awesome. 10/10 would take again.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Gives good feedback",
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwMjIwNjU0",
+      "legacy_id": 30220654,
+      "date": "2018-06-01 16:37:08 +0000 UTC",
+      "course": "CECS229",
+      "comment": "Really nice guy. The Python labs were confusing and he wasn't able to help that much with them but he didn't grade them hard. The tests were similar to the study guides. He also gives you points for attendance. He gave a few quizzes. The Python labs were the homework. This class did not take up too much of my time compared to other CECS classes.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "TEST HEAVY",
+        "GRADED BY FEW THINGS",
+        "LECTURE HEAVY"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4MzU0Njkw",
+      "legacy_id": 28354690,
+      "date": "2017-05-20 20:50:13 +0000 UTC",
+      "course": "CECS424",
+      "comment": "Very kind and patient old man. Had him for two classes and I'd take him for a third. His lectures can be a bit dull, but he knows his stuff and constantly seeks feedback/participation from the class and values everyone's input. Very easy and lenient grader; gives partial/all credit if you show effort and understanding even if the answer isn't 100%.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3MDgzNjUw",
+      "legacy_id": 27083650,
+      "date": "2016-10-26 18:11:31 +0000 UTC",
+      "course": "CECS528",
+      "comment": "I will give a  fair and trustworthy review on him.  Overall,  he is  a good person. He is kind, patient, and he seems really hope you to gain some knowledge from his class. Easy on grade On the other hand, his class is dull, vague on some critical details, PPT oriented.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI0MjYyMzI1",
+      "legacy_id": 24262325,
+      "date": "2015-01-09 23:34:08 +0000 UTC",
+      "course": "528",
+      "comment": "The best (ask anyone who had already taken any course under him). No second thoughts.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyODAyNjQz",
+      "legacy_id": 22802643,
+      "date": "2014-01-29 03:40:41 +0000 UTC",
+      "course": "CECS590",
+      "comment": "Great professor, extremely helpful outside of class.  Hard topics were presented, class was not easy.  Lectures were digitized almost immediately (sometimes prior to class) and posted for review later.  Prompt, fair, generous grading.  Material a bit too broad for thorough absorption, but enjoyed.  With help, got an A.  Would take again.",
+      "quality": 4.5,
+      "helpful": 5.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "Y",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyNzg3NDU4",
+      "legacy_id": 22787458,
+      "date": "2014-01-23 20:04:06 +0000 UTC",
+      "course": "CECS528",
+      "comment": "Very unclear about what he expresses. But really helpful if you didn't understands the concepts. Non-energetic compared to different processor taking the same course (maybe because of his age).",
+      "quality": 2.5,
+      "helpful": 4.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "Not_Sure_Yet",
+      "would_take_again": null,
+      "attendance_mandatory": "N",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

@@ -35,6 +35,19 @@ python -m rmp "https://www.ratemyprofessors.com/professor/12345"
 python -m rmp "https://www.ratemyprofessors.com/professor/12345" --skip-llm
 ```
 
+## Batch scrape
+
+`batch_scrape.py` reads professor links from `helper_resources/csulb_cs_professors.html` (97 unique `/professor/{id}` URLs), runs each through the scrape pipeline with `--skip-llm`, and waits 60 seconds between professors by default. Completed IDs already present as `output/*_{id}.json` are skipped, so you can interrupt and re-run safely.
+
+```powershell
+.venv\Scripts\activate
+python batch_scrape.py --dry-run
+python batch_scrape.py --limit 1
+python batch_scrape.py
+```
+
+Useful flags: `--delay 90` (seconds between scrapes), `--urls-file path.txt` (use a prebuilt one-URL-per-line list instead of the HTML), `--limit N` (smoke test).
+
 ## How scraping works
 
 The site's public GraphQL endpoint is `POST https://www.ratemyprofessors.com/graphql`. The professor's numeric ID in the URL is encoded as a Relay node ID (`Teacher-{id}`, base64) and used in:

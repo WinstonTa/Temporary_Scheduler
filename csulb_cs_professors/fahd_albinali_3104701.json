@@ -1,0 +1,259 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/3104701",
+    "scraped_at": "2026-08-21T07:38:57.367156+00:00",
+    "graphql_id": "VGVhY2hlci0zMTA0NzAx",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 3104701,
+    "first_name": "Fahd",
+    "last_name": "Albinali",
+    "full_name": "Fahd Albinali",
+    "department": "Computer Science",
+    "avg_rating": 5,
+    "avg_difficulty": 2.8,
+    "num_ratings_listed": 4,
+    "would_take_again_percent": 100.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 2,
+        "courseName": "CECS491A"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS491B"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 4,
+    "avg_quality": 5.0,
+    "avg_difficulty": 2.75,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Participation matters",
+        "count": 3
+      },
+      {
+        "name": "Group projects",
+        "count": 3
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 1
+      },
+      {
+        "name": "Graded by few things",
+        "count": 1
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 1
+      },
+      {
+        "name": "Lots of homework",
+        "count": 1
+      },
+      {
+        "name": "So many papers",
+        "count": 1
+      },
+      {
+        "name": "Caring",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 4
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 0,
+      "2": 2,
+      "3": 1,
+      "4": 1,
+      "5": 0
+    },
+    "attendance": {
+      "mandatory": 4
+    },
+    "courses": [
+      {
+        "course": "CECS491B",
+        "review_count": 2,
+        "avg_quality": 5.0,
+        "avg_difficulty": 3.5,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Participation matters",
+            "count": 2
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          },
+          {
+            "name": "Group projects",
+            "count": 1
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS491A",
+        "review_count": 2,
+        "avg_quality": 5.0,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Group projects",
+            "count": 2
+          },
+          {
+            "name": "Participation matters",
+            "count": 1
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "So many papers",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQyMTg3NzE1",
+      "legacy_id": 42187715,
+      "date": "2025-12-11 21:30:40 +0000 UTC",
+      "course": "CECS491B",
+      "comment": "Overall this class grade really comes down to your team. If you and your team put in the work to hit your sprint goals, you'll be fine. We also still spent over a month on design and backlogs, which could have been used for additional implementation. He was also be very last minute about presentations or reviews. 80% of grade is from sprints alone.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Participation matters",
+        "Clear grading criteria",
+        "Graded by few things"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxMzUyMTg4",
+      "legacy_id": 41352188,
+      "date": "2025-05-23 06:12:16 +0000 UTC",
+      "course": "CECS491A",
+      "comment": "this class was honestly more interesting than I imagined it would be. his lectures are great, does a good job trying to know everyone, and learn about their teams goals. gives tough but necessary feedback. most of the grade is between 4 milestones (70%), 3 exams (20%), and attendance & quizzes (10%). this class was fun and i look forward to part 2!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Participation matters",
+        "Group projects",
+        "Gives good feedback"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxMzMzNDE5",
+      "legacy_id": 41333419,
+      "date": "2025-05-20 22:05:44 +0000 UTC",
+      "course": "CECS491B",
+      "comment": "Unlike 491A, this class is almost exclusively coding. The first 2 months are spent finalizing your design from 491A. A Midterm and Final based on lecture and reading. After a couple months there is 0 lecture just meeting with your group. You get (at most) 4 Sprints that each end with a Sprint Review. Each sprint is 15% of your grade (if you do 4).",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Participation matters",
+        "Group projects",
+        "Lots of homework"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxMzMzMzMx",
+      "legacy_id": 41333331,
+      "date": "2025-05-20 21:56:29 +0000 UTC",
+      "course": "CECS491A",
+      "comment": "From what I know about the current 491 Professors, Fahd Albinali is the only choice. There are 2 Midterms, a Final, and 4 Milestones. The Midterms and Final (MCQ) are based on lecture and readings. The Milestones are the bulk of the work in the class. Thankfully in this class it's just a lot of research, writing, and presenting NO CODING.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Group projects",
+        "So many papers",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

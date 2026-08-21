@@ -1,0 +1,267 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2789950",
+    "scraped_at": "2026-08-21T07:42:41.938896+00:00",
+    "graphql_id": "VGVhY2hlci0yNzg5OTUw",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2789950,
+    "first_name": "Mahshid",
+    "last_name": "Fardadi",
+    "full_name": "Mahshid Fardadi",
+    "department": "Computer Science",
+    "avg_rating": 3.3,
+    "avg_difficulty": 3.8,
+    "num_ratings_listed": 6,
+    "would_take_again_percent": 33.3,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 6,
+        "courseName": "CECS229"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 6,
+    "avg_quality": 3.33,
+    "avg_difficulty": 3.83,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Test heavy",
+        "count": 3
+      },
+      {
+        "name": "Tough grader",
+        "count": 3
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 2
+      },
+      {
+        "name": "Accessible outside class",
+        "count": 1
+      },
+      {
+        "name": "Caring",
+        "count": 1
+      },
+      {
+        "name": "Graded by few things",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "B",
+        "count": 3
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 3,
+      "5": 1
+    },
+    "attendance": {
+      "non mandatory": 6
+    },
+    "courses": [
+      {
+        "course": "CECS229",
+        "review_count": 6,
+        "avg_quality": 3.33,
+        "avg_difficulty": 3.83,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Test heavy",
+            "count": 3
+          },
+          {
+            "name": "Tough grader",
+            "count": 3
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 2
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTM3MzAyODQ4",
+      "legacy_id": 37302848,
+      "date": "2023-01-09 03:59:28 +0000 UTC",
+      "course": "CECS229",
+      "comment": "I'll give it straight. She's intimidating but once you get to know her and talk to her,she actually care for her students. Do the homeworks and you'll get automatic 100% on it. Exams are hard but it super similar to the practice exam she gave us so I learned to just focus on it. I thought I was going to fail but SHE CURVES if you show improvements.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Test heavy",
+        "Accessible outside class"
+      ],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3MjQwOTk5",
+      "legacy_id": 37240999,
+      "date": "2022-12-25 02:52:58 +0000 UTC",
+      "course": "CECS229",
+      "comment": "Great professor! She has a lot of negative reviews but for me I think she helps students in difficult situations. The class was all homework, 2 midterms, and one final. At least improve in the exams and she is willing to give you a good grade.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Caring"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3MTk1Njk1",
+      "legacy_id": 37195695,
+      "date": "2022-12-20 01:00:17 +0000 UTC",
+      "course": "CECS229",
+      "comment": "This is a math class: no programming. 3 exams, each 25% of the grade. 5 hw worth 10%. And quizzes were supposed to be 15% but we didn't take any quizzes. Grades are due on the 22nd but none of the hw have been graded. TA lost the midterm grades and haven't seen the result of that yet. Alleged curve, hasn't happened but dearly needed.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Lecture heavy",
+        "Graded by few things"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2OTA3MTY5",
+      "legacy_id": 36907169,
+      "date": "2022-12-18 09:33:45 +0000 UTC",
+      "course": "CECS229",
+      "comment": "For those of you who took her for machine learning (or any other class for that matter) were you able to at least pass?",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3MTU0MDQy",
+      "legacy_id": 37154042,
+      "date": "2022-12-16 11:41:18 +0000 UTC",
+      "course": "CECS229",
+      "comment": "She curved my class and seemed to pass students who showed lots of improvement despite something like 15% on midterm 1. She has a slight accent. She lectures fast and I think she normally teaches math students or other engineering fields, CS students were struggling. Read the lesson before lecture or you will likely get lost during lecture",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Test heavy"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2Nzk4Nzg4",
+      "legacy_id": 36798788,
+      "date": "2022-11-08 22:48:57 +0000 UTC",
+      "course": "CECS229",
+      "comment": "Professor looks difficult but that goes with the Major and class itself. If you want to succeed in the class you have to at least have a feel for the basics. TA's graded so there was an issue with grades however, just study and do well.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Lecture heavy",
+        "Test heavy"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

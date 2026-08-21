@@ -1,0 +1,623 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2723765",
+    "scraped_at": "2026-08-21T07:38:24.885904+00:00",
+    "graphql_id": "VGVhY2hlci0yNzIzNzY1",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2723765,
+    "first_name": "Parvaneh",
+    "last_name": "Ghaforyfard",
+    "full_name": "Parvaneh Ghaforyfard",
+    "department": "Computer Science",
+    "avg_rating": 4.2,
+    "avg_difficulty": 3,
+    "num_ratings_listed": 15,
+    "would_take_again_percent": 80.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 5,
+        "courseName": "CECS201"
+      },
+      {
+        "courseCount": 7,
+        "courseName": "CECS225"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS277"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS341"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 15,
+    "avg_quality": 4.2,
+    "avg_difficulty": 3.0,
+    "would_take_again_percent": 100.0,
+    "online_percent": 13.3,
+    "tag_counts": [
+      {
+        "name": "Test heavy",
+        "count": 8
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 6
+      },
+      {
+        "name": "Beware of pop quizzes",
+        "count": 6
+      },
+      {
+        "name": "Graded by few things",
+        "count": 5
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 3
+      },
+      {
+        "name": "Accessible outside class",
+        "count": 2
+      },
+      {
+        "name": "Tough grader",
+        "count": 2
+      },
+      {
+        "name": "Participation matters",
+        "count": 2
+      },
+      {
+        "name": "Get ready to read",
+        "count": 1
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 1
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 7
+      },
+      {
+        "name": "A+",
+        "count": 2
+      },
+      {
+        "name": "B+",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 1,
+      "2": 4,
+      "3": 5,
+      "4": 4,
+      "5": 1
+    },
+    "attendance": {
+      "mandatory": 12,
+      "non mandatory": 1,
+      "Y": 1
+    },
+    "courses": [
+      {
+        "course": "CECS225",
+        "review_count": 7,
+        "avg_quality": 3.86,
+        "avg_difficulty": 3.71,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Test heavy",
+            "count": 5
+          },
+          {
+            "name": "Beware of pop quizzes",
+            "count": 4
+          },
+          {
+            "name": "Graded by few things",
+            "count": 3
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 2
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 2
+          },
+          {
+            "name": "Tough grader",
+            "count": 1
+          },
+          {
+            "name": "Participation matters",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS201",
+        "review_count": 5,
+        "avg_quality": 4.6,
+        "avg_difficulty": 2.4,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Test heavy",
+            "count": 3
+          },
+          {
+            "name": "Graded by few things",
+            "count": 2
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 2
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 2
+          },
+          {
+            "name": "Beware of pop quizzes",
+            "count": 2
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          },
+          {
+            "name": "Participation matters",
+            "count": 1
+          },
+          {
+            "name": "Tough grader",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS277",
+        "review_count": 2,
+        "avg_quality": 4.5,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 1
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS341",
+        "review_count": 1,
+        "avg_quality": 4.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Get ready to read",
+            "count": 1
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQyNTQ0OTUx",
+      "legacy_id": 42544951,
+      "date": "2026-01-24 18:16:30 +0000 UTC",
+      "course": "CECS341",
+      "comment": "Professor Ghaforyfard is really good with her lectures and does try to help the students. Her only catch is that she does not upload her lecture notes, so you need to show up to class and write the notes yourself. I would really recommend knowing a few people in the class to help you catch up if you have to miss a day or two.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Get ready to read",
+        "Lecture heavy"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNDQ0MTI0",
+      "legacy_id": 40444124,
+      "date": "2024-12-27 06:05:21 +0000 UTC",
+      "course": "CECS201",
+      "comment": "Not much homework (chapter 2 is very time consuming though), but they're only worth 5% of your grade anyways. Projects aren't too bad since you get a lot of help, just make sure you don't do them last minute so that you can get help on troubleshooting. Exams are easy to study for since they're based on the homework or in class examples.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Test heavy",
+        "Graded by few things",
+        "Accessible outside class"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5OTM1MTQ4",
+      "legacy_id": 39935148,
+      "date": "2024-11-13 00:06:30 +0000 UTC",
+      "course": "CECS225",
+      "comment": "The material isn't that difficult, I loved her way of teaching. Everything makes sense because she has a good grasp of the subject. However, her grading sucks, they are very exam heavy and she grades tough. If you pay attention and do the hw you'll do alright.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Amazing lectures",
+        "Test heavy"
+      ],
+      "grade": "B+",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5NjQyOTM4",
+      "legacy_id": 39642938,
+      "date": "2024-07-25 19:55:25 +0000 UTC",
+      "course": "CECS201",
+      "comment": "She was a really good professor and she was very clear. A lot of students complained about the class, but I honestly believe it is the topic not the professor. This topic is crucial and fundamental to computer engineering she does an amazing job giving us all the notes we need to practice the material. *Exams are worth a big percentage of points.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Clear grading criteria",
+        "Test heavy",
+        "Graded by few things"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5NTA3NTE5",
+      "legacy_id": 39507519,
+      "date": "2024-05-22 16:09:19 +0000 UTC",
+      "course": "CECS225",
+      "comment": "Your grade is entirely dependent on 2 midterms and a final. Her teaching style is straight to the point so you better pay attention. All the tests are exactly like the lecture problems, if you can do them, you will get an A. SHE CURVED HEAVILY at the end. It was life changing, I felt like a new man. People with D's got C's, B's got A's, etc.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Beware of pop quizzes",
+        "Test heavy",
+        "Graded by few things"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5NDMzMjk5",
+      "legacy_id": 39433299,
+      "date": "2024-05-22 05:37:38 +0000 UTC",
+      "course": "CECS225",
+      "comment": "She made it a more difficult class than it should've already been. Pretty low how she would give random pop quizzes to take attendance on the subject that was just taught the same day. Your grade is also solely based on three exams and the final. If you fail one, good luck. Knowledgable though and provided a lot of examples in class that help.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Beware of pop quizzes",
+        "Lecture heavy",
+        "Graded by few things"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTM5NTAyNjI0",
+      "legacy_id": 39502624,
+      "date": "2024-05-21 17:25:16 +0000 UTC",
+      "course": "CECS225",
+      "comment": "Her lectures are very fast-paced, but you get used to it. I don't recommend skipping lecture. Grade pretty much relies on 2 midterms and the final since homework and quizzes combined make up only 10% of your grade. Do the homework though cause the questions are pretty much the same as what's on the midterms and final. Curves at the end in some way",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Lecture heavy",
+        "Test heavy",
+        "Graded by few things"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4MTY2NzY1",
+      "legacy_id": 38166765,
+      "date": "2023-08-15 05:29:46 +0000 UTC",
+      "course": "CECS225",
+      "comment": "She knows what she's doing and explains clearly and simply. Just copy her handwritten notes to study later, she gives lots of examples, don't need to read textbook (only for problems). Exams similar to examples and assignments. Would do pop quiz almost every class for attendance. Pay attention and do hw before class and class should be easy.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Amazing lectures",
+        "Beware of pop quizzes",
+        "Test heavy"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3OTYyMTkx",
+      "legacy_id": 37962191,
+      "date": "2023-05-19 21:40:29 +0000 UTC",
+      "course": "CECS225",
+      "comment": "I don't know what to say. She is a nice professor in terms of her communication with students. But the problem is that she makes the class very hard. She takes attendance for lectures without a reason, and she makes really hard exams that are worth a lot of the grade. Only the final was a little ok. She doesn't even post her lecture notes.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Participation matters",
+        "Beware of pop quizzes",
+        "Test heavy"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTM3OTQ3OTM0",
+      "legacy_id": 37947934,
+      "date": "2023-05-17 21:23:32 +0000 UTC",
+      "course": "CECS201",
+      "comment": "The lectures were very clear, and if you need help, professor Ghaforyfard is open to helping and always responds! You get one midterm that is honestly very easy. The only chapter I would worry about is the final chapter you go through in this class. The final chapter takes up a lot of points in your final and determines your final grade.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Lecture heavy",
+        "Accessible outside class"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3ODA3NDU0",
+      "legacy_id": 37807454,
+      "date": "2023-05-03 18:10:08 +0000 UTC",
+      "course": "CECS225",
+      "comment": "Attendance mandatory. Textbook can be found online for free. Attending class is very important to learn since she doesn't post the material online. She's also very nice and will explain clearly when people ask her questions.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3MDEzMTc2",
+      "legacy_id": 37013176,
+      "date": "2022-12-07 20:48:51 +0000 UTC",
+      "course": "CECS201",
+      "comment": "Amazing teacher! Go to lectures for sure if you don't want to be lost (+attendance mandatory). There are many projects(6) but she walks through the beginning of each of them.  Although there was a lot to learn it was very interesting material which makes it fun. Also very kind and caring, and she never stepped out of line.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Participation matters",
+        "Beware of pop quizzes",
+        "Lecture heavy"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2NDE5NjI5",
+      "legacy_id": 36419629,
+      "date": "2022-05-29 02:32:34 +0000 UTC",
+      "course": "CECS201",
+      "comment": "Professor Ghaforyfard is a good professor. The lectures are heavy and things can get confusing sometimes. The tests are hard and sometimes you can expect questions on topics that were slightly touched. Easy to get full grades on projects, she grades the tests hard but good curves in the end. Just pay attention and finish all the work.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Beware of pop quizzes",
+        "Test heavy"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM1NjQ0MjUw",
+      "legacy_id": 35644250,
+      "date": "2021-12-23 21:18:46 +0000 UTC",
+      "course": "CECS277",
+      "comment": "Great professor and great class. She teaches the class very well and gives a program project each week that are very easy. The midterm and final are a little tough but study for them well and you will be good in taking them.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 0.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM1NDIwOTgw",
+      "legacy_id": 35420980,
+      "date": "2021-12-08 19:21:41 +0000 UTC",
+      "course": "CECS277",
+      "comment": "Dr. Ghaforyfard is a really good professor. Although lectures are long, pay attention, take good notes, and you will do well. She simplifies hard concepts which makes the class easier. The only downside however is tests are 60 percent of that grade so if you don't do well on the midterm you're going to have to work a lot harder so study.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Amazing lectures",
+        "Lecture heavy",
+        "Gives good feedback"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "Y",
+      "textbook_use": null,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/1642400",
+    "scraped_at": "2026-08-21T07:41:39.213123+00:00",
+    "graphql_id": "VGVhY2hlci0xNjQyNDAw",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 1642400,
+    "first_name": "Lam",
+    "last_name": "Shiu",
+    "full_name": "Lam Shiu",
+    "department": "Computer Science",
+    "avg_rating": 2.2,
+    "avg_difficulty": 3.9,
+    "num_ratings_listed": 13,
+    "would_take_again_percent": 36.4,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 2,
+        "courseName": "CECS100"
+      },
+      {
+        "courseCount": 8,
+        "courseName": "CECS326"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS329"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS526"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS570"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 13,
+    "avg_quality": 2.19,
+    "avg_difficulty": 3.85,
+    "would_take_again_percent": 44.4,
+    "online_percent": 15.4,
+    "tag_counts": [
+      {
+        "name": "Get ready to read",
+        "count": 6
+      },
+      {
+        "name": "Test heavy",
+        "count": 3
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 3
+      },
+      {
+        "name": "GRADED BY FEW THINGS",
+        "count": 3
+      },
+      {
+        "name": "Tough grader",
+        "count": 2
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 2
+      },
+      {
+        "name": "Tough Grader",
+        "count": 2
+      },
+      {
+        "name": "Graded by few things",
+        "count": 1
+      },
+      {
+        "name": "Participation matters",
+        "count": 1
+      },
+      {
+        "name": "Online Savvy",
+        "count": 1
+      },
+      {
+        "name": "Lots of homework",
+        "count": 1
+      },
+      {
+        "name": "Skip class? You won't pass.",
+        "count": 1
+      },
+      {
+        "name": "Tests are tough",
+        "count": 1
+      },
+      {
+        "name": "LECTURE HEAVY",
+        "count": 1
+      },
+      {
+        "name": "Respected",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "Incomplete",
+        "count": 1
+      },
+      {
+        "name": "C",
+        "count": 1
+      },
+      {
+        "name": "A+",
+        "count": 1
+      },
+      {
+        "name": "A",
+        "count": 1
+      },
+      {
+        "name": "B",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 0,
+      "2": 0,
+      "3": 5,
+      "4": 5,
+      "5": 3
+    },
+    "attendance": {
+      "mandatory": 8,
+      "non mandatory": 3
+    },
+    "courses": [
+      {
+        "course": "CECS326",
+        "review_count": 8,
+        "avg_quality": 2.5,
+        "avg_difficulty": 3.75,
+        "would_take_again_percent": 57.1,
+        "top_tags": [
+          {
+            "name": "Get ready to read",
+            "count": 4
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 3
+          },
+          {
+            "name": "Tough grader",
+            "count": 2
+          },
+          {
+            "name": "Test heavy",
+            "count": 2
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 2
+          },
+          {
+            "name": "Tough Grader",
+            "count": 2
+          },
+          {
+            "name": "Participation matters",
+            "count": 1
+          },
+          {
+            "name": "Online Savvy",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS100",
+        "review_count": 2,
+        "avg_quality": 2.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 0.0,
+        "top_tags": [
+          {
+            "name": "GRADED BY FEW THINGS",
+            "count": 2
+          },
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          },
+          {
+            "name": "Tests are tough",
+            "count": 1
+          },
+          {
+            "name": "Get ready to read",
+            "count": 1
+          },
+          {
+            "name": "LECTURE HEAVY",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS329",
+        "review_count": 1,
+        "avg_quality": 1.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": null,
+        "top_tags": [
+          {
+            "name": "Get ready to read",
+            "count": 1
+          },
+          {
+            "name": "Test heavy",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS526",
+        "review_count": 1,
+        "avg_quality": 1.5,
+        "avg_difficulty": 5.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS570",
+        "review_count": 1,
+        "avg_quality": 2.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQwMTAyNzkx",
+      "legacy_id": 40102791,
+      "date": "2024-12-04 20:10:52 +0000 UTC",
+      "course": "CECS329",
+      "comment": "Please don't.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Get ready to read",
+        "Test heavy",
+        "Graded by few things"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2NzgxMzE5",
+      "legacy_id": 36781319,
+      "date": "2022-11-04 20:02:41 +0000 UTC",
+      "course": "CECS326",
+      "comment": "She talks so low that you might as well use it instead of white noise to sleep. And, because she talks to low it's hard to pay attention. Most of the class comes to class to take the exam cause she started to crack down on attendance. Her TA this semester is harsh. Her emails to answer your questions are vague. Don't take her.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Tough grader",
+        "Participation matters",
+        "Online Savvy"
+      ],
+      "grade": "Incomplete",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM0MDk0OTgy",
+      "legacy_id": 34094982,
+      "date": "2020-12-16 04:51:36 +0000 UTC",
+      "course": "CECS326",
+      "comment": "Lectures are slow and boring. Her class is graded on quiz, lab assignments, and final. Her quizzes are tricky but not impossible. Lab assignments are pretty challenging. We only had one week to due and it felt like it wasn't enough if you are not experienced with C. For the final, half of the questions were from the quizzes. She gives EC worth 5%.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Get ready to read",
+        "Test heavy",
+        "Lecture heavy"
+      ],
+      "grade": "C",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzNzExMjY0",
+      "legacy_id": 33711264,
+      "date": "2020-10-18 21:37:51 +0000 UTC",
+      "course": "CECS326",
+      "comment": "By far the most difficult class I've taken thus far. 100% online due to current circumstances, Zoom says her connection is bad and it's been brought to her attention multiple times, but she refuses to fix it so you cannot understand most of what she says. This class is undoubtedly the most painful I've taken in many years.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Lots of homework",
+        "Get ready to read",
+        "Lecture heavy"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzMDU3NTg3",
+      "legacy_id": 33057587,
+      "date": "2020-04-14 09:43:07 +0000 UTC",
+      "course": "CECS326",
+      "comment": "Lectures are hard to follow and she sidetracks a lot. Very unclear grading criteria on assignments. Prepare to read upfront!",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Test heavy",
+        "Tough grader"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwNDA4MzQ3",
+      "legacy_id": 30408347,
+      "date": "2018-08-06 21:20:32 +0000 UTC",
+      "course": "CECS326",
+      "comment": "I STRONGLY recommend reading the book for this class, &amp; asking questions to clarify anything u didn't understand about the reading - this was the key to an A and getting the highest score on the 1st exam. If u just try to study off the slides, &amp; even if u can manage to stay awake for lecture, u'll have a lot harder time understanding the material.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Gives good feedback",
+        "Get ready to read",
+        "GRADED BY FEW THINGS"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwMTk3OTEw",
+      "legacy_id": 30197910,
+      "date": "2018-05-27 17:29:05 +0000 UTC",
+      "course": "CECS326",
+      "comment": "She's a good professor, but I recommend sitting towards the front because she speaks very softly. Her lectures are pretty straightforward if you follow along, but this is sometimes hard to do with her being so quiet. No surprises on the tests. A couple of the labs are difficult but she's there to help if you need it.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough Grader",
+        "Gives good feedback"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwMTA5NTgw",
+      "legacy_id": 30109580,
+      "date": "2018-05-15 05:12:54 +0000 UTC",
+      "course": "CECS326",
+      "comment": "The professor knows her subject. She can answer any of your question, and you can feel that she likes what she does. She interacts a lot with the students during lectures. It's a good teacher, the only thing is that she doesn't speak that loud, so you need to keep really quiet and not sitting at the back of the room.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Get ready to read"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI5MzU5NzIy",
+      "legacy_id": 29359722,
+      "date": "2017-12-30 05:11:42 +0000 UTC",
+      "course": "CECS100",
+      "comment": "Her lectures can be boring and sometimes she's not totally clear on how to do the assignments, but she cares and she'll try to help you understand if you really go to her for assistance. Be sure to study for the tests, though; if you don't know your material, they will hit hard. She does curve the tests but only at the very end of the semester.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Skip class? You won't pass.",
+        "GRADED BY FEW THINGS",
+        "Tests are tough"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4ODIzMDI0",
+      "legacy_id": 28823024,
+      "date": "2017-11-02 14:46:57 +0000 UTC",
+      "course": "CECS100",
+      "comment": "If you dont lik long lectures and have trouble sorting out trough lots of information, good luck. Like myself there where many people who had trouble in the class and even though it was apparent she never bothered to go back over things or review any kind of material.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Get ready to read",
+        "GRADED BY FEW THINGS",
+        "LECTURE HEAVY"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4Mzg4NDAy",
+      "legacy_id": 28388402,
+      "date": "2017-05-26 16:37:32 +0000 UTC",
+      "course": "CECS326",
+      "comment": "Her years of teaching this subject certainly show, but she knows the content well and can help if needed. Although it could be rough at times, I'd recommend going to class because she gets her lecture notes from the book and makes her own interpretations of them during class. Labs, quizzes, and exams are straightforward.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Tough Grader",
+        "Gives good feedback",
+        "Respected"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyMTExMDkz",
+      "legacy_id": 22111093,
+      "date": "2013-09-08 19:06:03 +0000 UTC",
+      "course": "CECS526",
+      "comment": "Her voice cannot be heard.Notes are very unclear.tough programming assignments.Exams will kill you .Need to take this as its a core",
+      "quality": 1.5,
+      "helpful": 2.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 3,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTE5NTQxOTM1",
+      "legacy_id": 19541935,
+      "date": "2011-12-16 15:53:53 +0000 UTC",
+      "course": "CECS570",
+      "comment": "Programming assignments are hard. Tests are harder. Boring and unclear during lecture. Online notes are also very unclear. If you want to pass, you'll have to teach yourself the material",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 2.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 4,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

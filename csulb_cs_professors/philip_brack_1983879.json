@@ -1,0 +1,129 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/1983879",
+    "scraped_at": "2026-08-21T07:50:16.101195+00:00",
+    "graphql_id": "VGVhY2hlci0xOTgzODc5",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 1983879,
+    "first_name": "Philip",
+    "last_name": "Brack",
+    "full_name": "Philip Brack",
+    "department": "Computer Science",
+    "avg_rating": 4.2,
+    "avg_difficulty": 3,
+    "num_ratings_listed": 3,
+    "would_take_again_percent": null,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 3,
+        "courseName": "CECS174"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 3,
+    "avg_quality": 4.17,
+    "avg_difficulty": 3.0,
+    "would_take_again_percent": null,
+    "online_percent": 0.0,
+    "tag_counts": [],
+    "grade_counts": [],
+    "difficulty_histogram": {
+      "1": 0,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 0
+    },
+    "attendance": {
+      "mandatory": 1
+    },
+    "courses": [
+      {
+        "course": "CECS174",
+        "review_count": 3,
+        "avg_quality": 4.17,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTI0ODI2NTY0",
+      "legacy_id": 24826564,
+      "date": "2015-05-14 00:55:51 +0000 UTC",
+      "course": "CECS174",
+      "comment": "Really great Professor overall.   Helps whenever you need it, however can sometimes be confusing so ask for help often if you still don't understand something.  Lectures are clear for the most part and he explains concepts very well. Basically, teaches very well but gives hard assignments.  Also he stays after class so take advantage!",
+      "quality": 4.5,
+      "helpful": 5.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI0NzIwNjkz",
+      "legacy_id": 24720693,
+      "date": "2015-05-02 06:30:55 +0000 UTC",
+      "course": "CECS174",
+      "comment": "Pretty nice teacher, goes around the room to everyone during lab to make sure we are following along. His lectures and whiteboard scribblings can be disorganized sometimes. Also his code demos during lab consisted of him fiddling around with code half the time, which was confusing to follow along to. Tests are fair for the most part.",
+      "quality": 3.0,
+      "helpful": 4.0,
+      "clarity": 2.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI0MzcxMjc4",
+      "legacy_id": 24371278,
+      "date": "2015-02-09 16:29:28 +0000 UTC",
+      "course": "CECS174",
+      "comment": "Philip Brack is a fantastic teacher. I spent several evenings after class discussing computer science with him as he is very open with discussing new ideas. He inspired me to explore computer science more, and I enjoyed the time I got to spend with him when I was in his class. Super informative, fantastic teacher and very fun!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

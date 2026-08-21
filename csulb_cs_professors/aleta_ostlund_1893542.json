@@ -1,0 +1,181 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/1893542",
+    "scraped_at": "2026-08-21T07:46:29.618616+00:00",
+    "graphql_id": "VGVhY2hlci0xODkzNTQy",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 1893542,
+    "first_name": "Aleta",
+    "last_name": "Ostlund",
+    "full_name": "Aleta Ostlund",
+    "department": "Computer Science",
+    "avg_rating": 5,
+    "avg_difficulty": 1.5,
+    "num_ratings_listed": 2,
+    "would_take_again_percent": 100.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 1,
+        "courseName": "CAFF321"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CAFF425"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 2,
+    "avg_quality": 5.0,
+    "avg_difficulty": 1.5,
+    "would_take_again_percent": 100.0,
+    "online_percent": 50.0,
+    "tag_counts": [
+      {
+        "name": "Gives good feedback",
+        "count": 1
+      },
+      {
+        "name": "Respected",
+        "count": 1
+      },
+      {
+        "name": "Accessible outside class",
+        "count": 1
+      },
+      {
+        "name": "LOTS OF HOMEWORK",
+        "count": 1
+      },
+      {
+        "name": "Inspirational",
+        "count": 1
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 1,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "attendance": {},
+    "courses": [
+      {
+        "course": "CAFF425",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 1.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Respected",
+            "count": 1
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CAFF321",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "LOTS OF HOMEWORK",
+            "count": 1
+          },
+          {
+            "name": "Inspirational",
+            "count": 1
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTMzMzUyNzk1",
+      "legacy_id": 33352795,
+      "date": "2020-05-22 04:48:51 +0000 UTC",
+      "course": "CAFF425",
+      "comment": "Ostlund is a great professor and is really passionate about her job. This was a hybrid course and it consisted of a few easy homework assignments, 4 discussion posts, and 2 online exams. Ostlund grades fairly and is easily accessible outside of lecture.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "Accessible outside class"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMTg4NTgw",
+      "legacy_id": 31188580,
+      "date": "2019-01-02 19:54:46 +0000 UTC",
+      "course": "CAFF321",
+      "comment": "Weekly homework that takes, on average, an hour or two per week. Projects can take a few hours if done in one sitting. Grading standards were crystal clear, and the course content was phenomenal. I would recommend this class to every college student in need of help preparing for life. Great GE class.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "LOTS OF HOMEWORK",
+        "Inspirational",
+        "Clear grading criteria"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 0.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

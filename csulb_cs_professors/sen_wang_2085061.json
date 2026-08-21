@@ -1,0 +1,597 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2085061",
+    "scraped_at": "2026-08-21T07:35:14.408237+00:00",
+    "graphql_id": "VGVhY2hlci0yMDg1MDYx",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2085061,
+    "first_name": "Sen",
+    "last_name": "Wang",
+    "full_name": "Sen Wang",
+    "department": "Computer Science",
+    "avg_rating": 4.5,
+    "avg_difficulty": 3.3,
+    "num_ratings_listed": 15,
+    "would_take_again_percent": 80.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 1,
+        "courseName": "CECS419"
+      },
+      {
+        "courseCount": 14,
+        "courseName": "CECS444"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 15,
+    "avg_quality": 4.47,
+    "avg_difficulty": 3.33,
+    "would_take_again_percent": 85.7,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Respected",
+        "count": 8
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 5
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 4
+      },
+      {
+        "name": "Caring",
+        "count": 4
+      },
+      {
+        "name": "GROUP PROJECTS",
+        "count": 3
+      },
+      {
+        "name": "Group projects",
+        "count": 2
+      },
+      {
+        "name": "Participation matters",
+        "count": 2
+      },
+      {
+        "name": "Inspirational",
+        "count": 2
+      },
+      {
+        "name": "Hilarious",
+        "count": 2
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 2
+      },
+      {
+        "name": "Skip class? You won't pass.",
+        "count": 2
+      },
+      {
+        "name": "Online Savvy",
+        "count": 1
+      },
+      {
+        "name": "Get ready to read",
+        "count": 1
+      },
+      {
+        "name": "BEWARE OF POP QUIZZES",
+        "count": 1
+      },
+      {
+        "name": "ACCESSIBLE OUTSIDE CLASS",
+        "count": 1
+      },
+      {
+        "name": "LECTURE HEAVY",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 8
+      },
+      {
+        "name": "B",
+        "count": 1
+      },
+      {
+        "name": "A+",
+        "count": 1
+      },
+      {
+        "name": "C-",
+        "count": 1
+      },
+      {
+        "name": "D-",
+        "count": 1
+      },
+      {
+        "name": "D",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 2,
+      "2": 3,
+      "3": 2,
+      "4": 4,
+      "5": 4
+    },
+    "attendance": {
+      "mandatory": 10,
+      "non mandatory": 4
+    },
+    "courses": [
+      {
+        "course": "CECS444",
+        "review_count": 14,
+        "avg_quality": 4.43,
+        "avg_difficulty": 3.5,
+        "would_take_again_percent": 84.6,
+        "top_tags": [
+          {
+            "name": "Respected",
+            "count": 8
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 5
+          },
+          {
+            "name": "Caring",
+            "count": 4
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 3
+          },
+          {
+            "name": "GROUP PROJECTS",
+            "count": 3
+          },
+          {
+            "name": "Group projects",
+            "count": 2
+          },
+          {
+            "name": "Participation matters",
+            "count": 2
+          },
+          {
+            "name": "Inspirational",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "CECS419",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 1.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "ACCESSIBLE OUTSIDE CLASS",
+            "count": 1
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQzMjE5NzI5",
+      "legacy_id": 43219729,
+      "date": "2026-06-03 02:53:59 +0000 UTC",
+      "course": "CECS444",
+      "comment": "This was for CECS 478 - Data Security and Privacy. His exams were purely based off textbook content and not lecture content at all. I feel like there were little to no application of the material and a lot of the projects we did was random, and we were forced to work with a partner for this.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Group projects",
+        "Clear grading criteria"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTQyODY3OTQz",
+      "legacy_id": 42867943,
+      "date": "2026-04-19 00:17:09 +0000 UTC",
+      "course": "CECS444",
+      "comment": "I had him for CECS470 his labs are super easy especially with group members. He is kind of hard to understand but he reads from slides anyways. Easy class makes the final online and most of the time lets you leave as long as you show him the lab being done.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Participation matters",
+        "Clear grading criteria",
+        "Online Savvy"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyMjE2MDQ0",
+      "legacy_id": 42216044,
+      "date": "2025-12-12 22:03:30 +0000 UTC",
+      "course": "CECS444",
+      "comment": "His class was more interesting than I guessed. He does a good job trying to know everyone, and learn about their teams goals. He always gave necessary feedback. I used 3 exams and lab assignments to grade, all are very easy and questions from his lecture and/or materials on Canvas\n\nIf you put time, it is an easy one to get A.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Participation matters",
+        "Group projects",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI5MDQ5Njg4",
+      "legacy_id": 29049688,
+      "date": "2017-12-05 15:39:39 +0000 UTC",
+      "course": "CECS444",
+      "comment": "Great teacher best in CSULB, even we have a lot of poor professor such as the current chair, who knew nothing about programming, and did not care us...",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "Get ready to read"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4MzQ4NzA4",
+      "legacy_id": 28348708,
+      "date": "2017-05-19 14:11:36 +0000 UTC",
+      "course": "CECS444",
+      "comment": "(Review #1)  May I interest you in the Sen Wang experience?   As I write this, the deadline for our final trial on this journey approaches. I feel like a world is coming to an end and the sun is setting on an empire  of knowledge and higher learning. Sen Wang built his empire on oratorical skills that put Obama to shame... to be continued",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Inspirational",
+        "BEWARE OF POP QUIZZES",
+        "Hilarious"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 10,
+      "thumbs_down": 4,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4MzI0NDUw",
+      "legacy_id": 28324450,
+      "date": "2017-05-16 16:38:39 +0000 UTC",
+      "course": "CECS419",
+      "comment": "Took this class just trying to get credit to graduate. Boy was I taken on a journey. Dr. Wang is probably my favorite teacher here at CSULB, and he should be yours too. Every lecture was innovative, engaging, and highly informative. Always responds quickly to emails and answers them the best way he can. 12/10 would recommend to take again.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Clear grading criteria",
+        "Amazing lectures"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 9,
+      "thumbs_down": 3,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4Mjk4Mzg5",
+      "legacy_id": 28298389,
+      "date": "2017-05-12 17:46:27 +0000 UTC",
+      "course": "CECS444",
+      "comment": "A great professor he makes the class interesting by playing games with students. A lot of HWs but easy to do.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Clear grading criteria",
+        "Amazing lectures",
+        "LECTURE HEAVY"
+      ],
+      "grade": "C-",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 7,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4Mjk4MzIz",
+      "legacy_id": 28298323,
+      "date": "2017-05-12 17:38:52 +0000 UTC",
+      "course": "CECS444",
+      "comment": "Very good very good.  Enjoyed labs very good.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "Inspirational"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 7,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTI4Mjk4MzA5",
+      "legacy_id": 28298309,
+      "date": "2017-05-12 17:37:20 +0000 UTC",
+      "course": "CECS444",
+      "comment": "Lecture Heavy. Must attend.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Respected",
+        "Skip class? You won't pass.",
+        "Caring"
+      ],
+      "grade": "D-",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 5,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4Mjk4MzAy",
+      "legacy_id": 28298302,
+      "date": "2017-05-12 17:36:30 +0000 UTC",
+      "course": "CECS444",
+      "comment": "Best Professor.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Respected",
+        "Skip class? You won't pass.",
+        "Caring"
+      ],
+      "grade": "D",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 5,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4Mjk4Mjg4",
+      "legacy_id": 28298288,
+      "date": "2017-05-12 17:35:04 +0000 UTC",
+      "course": "CECS444",
+      "comment": "The assignments are incredibly simple. The tests are online and are given a week to finish. You will be doing assignments relating to compilers used for your computers. Sen Wang is a nice professor and really cares about his students doing his assignments.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Respected",
+        "Hilarious",
+        "Caring"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 6,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4MTgzMzc3",
+      "legacy_id": 28183377,
+      "date": "2017-05-02 11:05:13 +0000 UTC",
+      "course": "CECS444",
+      "comment": "excellent teacher",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "GROUP PROJECTS"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 6,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3ODg3MDAw",
+      "legacy_id": 27887000,
+      "date": "2017-03-07 18:55:46 +0000 UTC",
+      "course": "CECS444",
+      "comment": "Professor Wang is amazing. He cares so much about his students and is willing to take time out of his busy schedule to help. Very knowledgable man who makes lecture fun. I would definitely take his class again. The final is very very important.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "GROUP PROJECTS"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3ODgyODc2",
+      "legacy_id": 27882876,
+      "date": "2017-03-06 16:51:46 +0000 UTC",
+      "course": "CECS444",
+      "comment": "nice teacher and nice class, he is very helpful",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "GROUP PROJECTS"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTI3NjA3NDE4",
+      "legacy_id": 27607418,
+      "date": "2016-12-22 21:11:55 +0000 UTC",
+      "course": "CECS444",
+      "comment": "Lectures off the book yet somehow makes it near-incomprehensible. Skipped roughly a third of the scheduled classes (10 I think) for silly reasons. Feedback on assignments is non-existent if you don't reach out to him, and his responses aren't very helpful either. Exams are take-home, but the material isn't easy and you're basically self-taught.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": false,
+      "attendance_mandatory": null,
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 10,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

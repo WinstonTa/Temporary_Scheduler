@@ -1,0 +1,2716 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/1810660",
+    "scraped_at": "2026-08-21T07:32:28.640555+00:00",
+    "graphql_id": "VGVhY2hlci0xODEwNjYw",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 1810660,
+    "first_name": "Neal",
+    "last_name": "Terrell",
+    "full_name": "Neal Terrell",
+    "department": "Computer Science",
+    "avg_rating": 4.6,
+    "avg_difficulty": 3.4,
+    "num_ratings_listed": 85,
+    "would_take_again_percent": 89.8,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 1,
+        "courseName": "274228282"
+      },
+      {
+        "courseCount": 17,
+        "courseName": "CECS174"
+      },
+      {
+        "courseCount": 7,
+        "courseName": "CECS228"
+      },
+      {
+        "courseCount": 3,
+        "courseName": "CECS274"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS277"
+      },
+      {
+        "courseCount": 9,
+        "courseName": "CECS282"
+      },
+      {
+        "courseCount": 22,
+        "courseName": "CECS323"
+      },
+      {
+        "courseCount": 6,
+        "courseName": "CECS328"
+      },
+      {
+        "courseCount": 3,
+        "courseName": "CECS342"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS424"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS429"
+      },
+      {
+        "courseCount": 5,
+        "courseName": "CECS449"
+      },
+      {
+        "courseCount": 5,
+        "courseName": "CECS475"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS529"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "526"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 86,
+    "avg_quality": 4.6,
+    "avg_difficulty": 3.41,
+    "would_take_again_percent": 96.4,
+    "online_percent": 8.1,
+    "tag_counts": [
+      {
+        "name": "Amazing lectures",
+        "count": 24
+      },
+      {
+        "name": "Respected",
+        "count": 19
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 14
+      },
+      {
+        "name": "Caring",
+        "count": 13
+      },
+      {
+        "name": "Tough grader",
+        "count": 13
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 11
+      },
+      {
+        "name": "Hilarious",
+        "count": 11
+      },
+      {
+        "name": "Accessible outside class",
+        "count": 10
+      },
+      {
+        "name": "Inspirational",
+        "count": 8
+      },
+      {
+        "name": "Group projects",
+        "count": 8
+      },
+      {
+        "name": "Lots of homework",
+        "count": 6
+      },
+      {
+        "name": "Get ready to read",
+        "count": 5
+      },
+      {
+        "name": "Skip class? You won't pass.",
+        "count": 5
+      },
+      {
+        "name": "Test heavy",
+        "count": 4
+      },
+      {
+        "name": "Tough Grader",
+        "count": 3
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 1
+      },
+      {
+        "name": "Online Savvy",
+        "count": 1
+      },
+      {
+        "name": "Participation matters",
+        "count": 1
+      },
+      {
+        "name": "Graded by few things",
+        "count": 1
+      },
+      {
+        "name": "LOTS OF HOMEWORK",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 22
+      },
+      {
+        "name": "B",
+        "count": 19
+      },
+      {
+        "name": "C",
+        "count": 8
+      },
+      {
+        "name": "A+",
+        "count": 3
+      },
+      {
+        "name": "B+",
+        "count": 3
+      },
+      {
+        "name": "C+",
+        "count": 2
+      },
+      {
+        "name": "Not_Sure_Yet",
+        "count": 2
+      },
+      {
+        "name": "F",
+        "count": 1
+      },
+      {
+        "name": "C-",
+        "count": 1
+      },
+      {
+        "name": "Incomplete",
+        "count": 1
+      },
+      {
+        "name": "B-",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 3,
+      "2": 16,
+      "3": 24,
+      "4": 29,
+      "5": 14
+    },
+    "attendance": {
+      "non mandatory": 49,
+      "mandatory": 14,
+      "Y": 2,
+      "N": 7
+    },
+    "courses": [
+      {
+        "course": "CECS323",
+        "review_count": 22,
+        "avg_quality": 4.27,
+        "avg_difficulty": 3.5,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Amazing lectures",
+            "count": 10
+          },
+          {
+            "name": "Respected",
+            "count": 9
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 6
+          },
+          {
+            "name": "Caring",
+            "count": 5
+          },
+          {
+            "name": "Tough grader",
+            "count": 5
+          },
+          {
+            "name": "Hilarious",
+            "count": 5
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 4
+          },
+          {
+            "name": "Group projects",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "course": "CECS174",
+        "review_count": 17,
+        "avg_quality": 4.62,
+        "avg_difficulty": 3.76,
+        "would_take_again_percent": 92.3,
+        "top_tags": [
+          {
+            "name": "Amazing lectures",
+            "count": 5
+          },
+          {
+            "name": "Tough grader",
+            "count": 4
+          },
+          {
+            "name": "Hilarious",
+            "count": 3
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 3
+          },
+          {
+            "name": "Caring",
+            "count": 3
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 3
+          },
+          {
+            "name": "Respected",
+            "count": 3
+          },
+          {
+            "name": "Group projects",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "CECS282",
+        "review_count": 9,
+        "avg_quality": 4.94,
+        "avg_difficulty": 3.22,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS228",
+        "review_count": 7,
+        "avg_quality": 4.64,
+        "avg_difficulty": 2.43,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS328",
+        "review_count": 6,
+        "avg_quality": 4.75,
+        "avg_difficulty": 3.83,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Respected",
+            "count": 2
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          },
+          {
+            "name": "LOTS OF HOMEWORK",
+            "count": 1
+          },
+          {
+            "name": "Tough Grader",
+            "count": 1
+          },
+          {
+            "name": "Hilarious",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS449",
+        "review_count": 5,
+        "avg_quality": 4.8,
+        "avg_difficulty": 3.4,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Caring",
+            "count": 3
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 3
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 2
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 2
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Inspirational",
+            "count": 1
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "Respected",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS475",
+        "review_count": 5,
+        "avg_quality": 4.2,
+        "avg_difficulty": 4.2,
+        "would_take_again_percent": 80.0,
+        "top_tags": [
+          {
+            "name": "Group projects",
+            "count": 2
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 2
+          },
+          {
+            "name": "Inspirational",
+            "count": 2
+          },
+          {
+            "name": "Tough grader",
+            "count": 2
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "Hilarious",
+            "count": 1
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 1
+          },
+          {
+            "name": "Test heavy",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS342",
+        "review_count": 3,
+        "avg_quality": 4.67,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Respected",
+            "count": 2
+          },
+          {
+            "name": "Inspirational",
+            "count": 2
+          },
+          {
+            "name": "Tough grader",
+            "count": 1
+          },
+          {
+            "name": "Test heavy",
+            "count": 1
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS274",
+        "review_count": 3,
+        "avg_quality": 5.0,
+        "avg_difficulty": 1.67,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS429",
+        "review_count": 2,
+        "avg_quality": 5.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Amazing lectures",
+            "count": 2
+          },
+          {
+            "name": "Tough grader",
+            "count": 1
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Respected",
+            "count": 1
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS277",
+        "review_count": 2,
+        "avg_quality": 5.0,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Respected",
+            "count": 1
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS424",
+        "review_count": 2,
+        "avg_quality": 5.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Amazing lectures",
+            "count": 2
+          },
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          },
+          {
+            "name": "Hilarious",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS529",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "526",
+        "review_count": 1,
+        "avg_quality": 3.5,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "274228282",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 1.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQzMzU2MDQ4",
+      "legacy_id": 43356048,
+      "date": "2026-08-09 21:23:46 +0000 UTC",
+      "course": "CECS323",
+      "comment": "One of the best CS professors I've had. The material is genuinely useful long term, and you can tell he cares about students actually learning it. Assignments are fair, expectations are clear, and he provides plenty of resources to help you succeed. Your grade mostly comes down to how much effort you're willing to put in.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Inspirational",
+        "Caring",
+        "Respected"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQzMTkzNTUw",
+      "legacy_id": 43193550,
+      "date": "2026-05-26 05:08:39 +0000 UTC",
+      "course": "CECS449",
+      "comment": "449 was a challenging course, but it is also one of the most engaging classes I've taken throughout my entire time at college. Professor Terrell provides all the resources to be successful and assigns the topics into meaningful, hands-on projects. Professor Terrell cares for his students & its been a pleasure being in his class. MY GOAT",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Gives good feedback",
+        "Inspirational",
+        "Caring"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQzMTkwNjMy",
+      "legacy_id": 43190632,
+      "date": "2026-05-25 05:42:59 +0000 UTC",
+      "course": "CECS475",
+      "comment": "Amazing prof. Great communicator of information, and super approachable. This class was pretty difficult but definitely manageable if you attend the lectures.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Lots of homework",
+        "Hilarious",
+        "Lecture heavy"
+      ],
+      "grade": "C",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyNDAxMDQ4",
+      "legacy_id": 42401048,
+      "date": "2025-12-26 19:20:24 +0000 UTC",
+      "course": "CECS449",
+      "comment": "Any class that he teaches is going to be a tough, yet you will learn a lot given his teaching style and care for students. He is the best CECS professor that this school has. This class specifically is incredibly math heavy and requires a lot of demos. The grading is based on CLOs, and you have multiple opportunities to make up missed objectives.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Amazing lectures",
+        "Clear grading criteria",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyMzczNTU2",
+      "legacy_id": 42373556,
+      "date": "2025-12-22 06:58:22 +0000 UTC",
+      "course": "CECS475",
+      "comment": "this is literally the goat, if you put effort you'll learn and do pretty well. do NOT slack on the chess project though it takes forever. super nice guy you can tell he's teaching for the love of the game",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Group projects",
+        "Clear grading criteria",
+        "Inspirational"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxMzUyMTU5",
+      "legacy_id": 41352159,
+      "date": "2025-05-23 06:07:00 +0000 UTC",
+      "course": "CECS475",
+      "comment": "neal is by far the best prof here. he gives in depth lectures that help you understand concepts better than ever. while this class is tough, it was definitely one of the most interesting by using concepts from other classes to build challenging projects. make sure to touch up on some C# before taking! overall a well structured course to learn SDLC.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Inspirational",
+        "Test heavy"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxMzMyMjg4",
+      "legacy_id": 41332288,
+      "date": "2025-05-20 19:59:51 +0000 UTC",
+      "course": "CECS323",
+      "comment": "Don't let my grade reflect poorly on Professor Neal Terrel's teaching. I failed due to my own lack of discipline, not his ability. He's incredibly passionate about computer science, explains complex topics clearly, and holds high standards. He's like the LeBron James of computer science.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Respected",
+        "Accessible outside class"
+      ],
+      "grade": "F",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxMjMxMDAy",
+      "legacy_id": 41231002,
+      "date": "2025-05-09 21:58:35 +0000 UTC",
+      "course": "CECS323",
+      "comment": "The lectures, HW, and projects prepare you for the exam. Nothing should be surprising if you put in the work. Honestly? I took him last fall and my classes this semester feel so hollow in comparison. It's hard to find a professor here that puts in so much effort and makes the class feel rewarding. Thank god he's teaching 475 next semester",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Amazing lectures",
+        "Caring",
+        "Respected"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxMTc0MjM1",
+      "legacy_id": 41174235,
+      "date": "2025-05-06 06:19:26 +0000 UTC",
+      "course": "CECS449",
+      "comment": "Clear grading criteria and expectations. Everything about him is good except for exams. However, I do notice that his attitude did shift from a nice guy to kind of tired/not very nice. Could be other section/classes weighing down on him. Overall, pretty chill though",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Lots of homework",
+        "Respected"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNTcxNjk5",
+      "legacy_id": 40571699,
+      "date": "2025-01-18 23:50:51 +0000 UTC",
+      "course": "CECS323",
+      "comment": "This professor is way too hard. His tests are all free-response and insanely difficult. He also expects you do to the project, hw, and study for the tests all in the same week. While attendance is technically optional, he clearly takes it personally if you don't show up.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Group projects"
+      ],
+      "grade": "C-",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 5,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNTQ5Njg3",
+      "legacy_id": 40549687,
+      "date": "2025-01-14 23:29:29 +0000 UTC",
+      "course": "CECS323",
+      "comment": "The professor teaches the material too quickly, leaving us with barely enough time to understand the concepts. Despite this, we're still expected to perform well on exams. It also feels like there is favoritism toward certain students, which adds to the frustration. I dont understand how he got a good review",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": "C",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 4,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNDI4MTM3",
+      "legacy_id": 40428137,
+      "date": "2024-12-24 03:19:31 +0000 UTC",
+      "course": "CECS323",
+      "comment": "I don't understand how this professor wants us to study effectively. I put in a lot of effort but still found the tests to be extremely difficult. He allows one notecard for the exams, but it didn't seem to help much. The projects are essentially a more difficult version of the homework.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Get ready to read",
+        "Test heavy"
+      ],
+      "grade": "B+",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 4,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNDI0NDM5",
+      "legacy_id": 40424439,
+      "date": "2024-12-23 19:26:51 +0000 UTC",
+      "course": "CECS323",
+      "comment": "He teaches the material well but his tests are way too hard. He barely gave us enough time to finish his tests and he takes forever to grade assignments.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader"
+      ],
+      "grade": "C",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 4,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNDA3NTIz",
+      "legacy_id": 40407523,
+      "date": "2024-12-21 12:46:31 +0000 UTC",
+      "course": "CECS449",
+      "comment": "Good professors are far and few in between at CSULB, great professors less so. Terrell is a national treasure. Not an easy professor but that is not a bad thing. Clear grading criteria, plenty of opportunities to get the grade you deserve, and makes you want to learn the material of the course. If he teaches a course that you need take his section.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Clear grading criteria",
+        "Caring",
+        "Accessible outside class"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwMzk5NzI5",
+      "legacy_id": 40399729,
+      "date": "2024-12-20 20:24:52 +0000 UTC",
+      "course": "CECS449",
+      "comment": "Second course with Neal and he's the goat. Favorite class ever. Lectures are engaging, topics are interesting, grading criteria is very clear and makes it easy to get the grade you want. Can demo homeworks as much as you want and makes learning the material easy. Tests reflect lectures. Semester project fairly easy incorporating all the homeworks",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Amazing lectures",
+        "Clear grading criteria",
+        "Accessible outside class"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwMzkyMzc4",
+      "legacy_id": 40392378,
+      "date": "2024-12-20 04:06:26 +0000 UTC",
+      "course": "CECS323",
+      "comment": "10/10 best prof in the cs department, no complaints, take his class if you want to actually learn while still getting the grade you deserve",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Amazing lectures",
+        "Respected",
+        "Accessible outside class"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwMjQwNjUz",
+      "legacy_id": 40240653,
+      "date": "2024-12-12 03:10:48 +0000 UTC",
+      "course": "CECS323",
+      "comment": "This is probably one of the best professors I have taken. Amazing and engaging lectures. The course is on Database Fundamentals, which can be quite dry, but he made it entertaining with his humor and was very good at breaking down the topics. The course was very well balanced in difficulty; hard enough to learn but not too easy to feel disengaged.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Amazing lectures",
+        "Clear grading criteria",
+        "Respected"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwMTUxNDUw",
+      "legacy_id": 40151450,
+      "date": "2024-12-07 19:12:50 +0000 UTC",
+      "course": "CECS475",
+      "comment": "Neal is goated. But if you're looking for an easy A, you HAVE to put in the effort. No curving. Required to PASS ALL projects to pass the class. Exams are all straightforward, free response/handwritten coding (no such thing as multiple choice). If you can't pass his exams/projects, you should probably change majors.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Amazing lectures",
+        "Clear grading criteria",
+        "Gives good feedback"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTM5NDgzMTk0",
+      "legacy_id": 39483194,
+      "date": "2024-05-17 06:57:25 +0000 UTC",
+      "course": "CECS323",
+      "comment": "One of the best professors in the CS department!! His lectures are super well-taught, and he is really easy to talk to during office hours. Absolutely amazing as a professor and really wants his students to succeed. His exam reviews are 1 to 1 on the exams, please do the readings for his quizzes! Honestly my favorite professor ever! Fair grader!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Amazing lectures",
+        "Hilarious",
+        "Caring"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5NDcyMzE5",
+      "legacy_id": 39472319,
+      "date": "2024-05-15 22:19:36 +0000 UTC",
+      "course": "CECS323",
+      "comment": "Awesome professor, super detail in his projects description. Pay attention to the class and put in the work you will do more than amazing. Makes the classes and the lectures very interesting and is able to convey the information in a very respected and very understandable manner. Take him and your gonna have a fun semester.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Amazing lectures",
+        "Hilarious",
+        "Caring"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5NDY0MTYw",
+      "legacy_id": 39464160,
+      "date": "2024-05-14 23:30:15 +0000 UTC",
+      "course": "CECS323",
+      "comment": "Man is goat, man is good. Very easy A if you study and ask questions when confused. His tests are straight forward and is basically the same as his guides",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Amazing lectures",
+        "Hilarious",
+        "Respected"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4OTA3ODUz",
+      "legacy_id": 38907853,
+      "date": "2024-01-21 09:22:41 +0000 UTC",
+      "course": "CECS323",
+      "comment": "Easily the best professor in the comp sci department. Great lectures with slides and recordings on Canvas. Assigned textbook readings aren't required, but is good and help immensely. Grading for projects is very detailed and not too bad, homework graded on participation and shown effort. Study guides mirror exam material and reflect in class topics",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Amazing lectures",
+        "Clear grading criteria",
+        "Gives good feedback"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4Nzk0MjQx",
+      "legacy_id": 38794241,
+      "date": "2023-12-26 06:30:46 +0000 UTC",
+      "course": "CECS323",
+      "comment": "Databases is not an easy subject but Terrell does a good job of making sure you understand the topics. The project and exams are straightforward and his office hours make it easy to ask for help if you're struggling. He cares a lot about making sure students learn useful skills that will be applied throughout their CS career.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Clear grading criteria",
+        "Caring",
+        "Accessible outside class"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4NzkxNzI3",
+      "legacy_id": 38791727,
+      "date": "2023-12-25 12:13:56 +0000 UTC",
+      "course": "CECS323",
+      "comment": "All around great professor. Presents content in a clear manner, helps with homework and projects as much as he can, and gives you tools to help test-taking during exams. Easily the best professor I've had here.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Gives good feedback",
+        "Hilarious",
+        "Respected"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3OTg3ODc1",
+      "legacy_id": 37987875,
+      "date": "2023-05-25 06:26:13 +0000 UTC",
+      "course": "CECS323",
+      "comment": "He was very particular about us knowing real technology to ensure we'll be employable after school. His tests are very well put together. Weeks were given for the 3 projects and only take a weekend. He made the best lectures for very boring material & the class would be very difficult to pass without attending. PraireLearn quizzes are forgiving.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Group projects",
+        "Respected",
+        "Online Savvy"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3OTYyMjM4",
+      "legacy_id": 37962238,
+      "date": "2023-05-19 21:49:07 +0000 UTC",
+      "course": "CECS323",
+      "comment": "Really great professor! He is very friendly and clearly explains the lecture in an entertaining way. If you miss a lecture, don't worry because he posts the recording, so you could watch it anytime. His exams are a little hard but that is just because they are all written. Other than that, he cares about his students and will teach you well.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Group projects",
+        "Amazing lectures",
+        "Respected"
+      ],
+      "grade": "C",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3ODUxMTQ0",
+      "legacy_id": 37851144,
+      "date": "2023-05-07 23:51:00 +0000 UTC",
+      "course": "CECS323",
+      "comment": "Great professor, just databases don't interest me so the lectures can be quite boring. Group projects will save your grade if you don't do well on exams, hw is graded if done, and his exams are pretty hard. He will make you work and learn, but he's super helpful if you ever have any questions. Neal also knows his stuff which is a nice change",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Group projects",
+        "Clear grading criteria"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3MzkwNDA0",
+      "legacy_id": 37390404,
+      "date": "2023-01-30 03:19:41 +0000 UTC",
+      "course": "CECS323",
+      "comment": "What a truly great professor. He has very good slides that we used before any exam or assignment date and he has a very clear way of explaining the material. He is not an easy professor though, you will have to put in the time outside of class (practicing sql/mongodb/uml) to be able to understand the material and do well on his exams.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Get ready to read",
+        "Clear grading criteria",
+        "Gives good feedback"
+      ],
+      "grade": "C",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2NTA3MDc2",
+      "legacy_id": 36507076,
+      "date": "2022-07-06 21:25:56 +0000 UTC",
+      "course": "CECS429",
+      "comment": "Exceptional professor. Lectures are interesting and easily digestable. Textbook was free. Answers questions promptly and with great detail. But be prepared to put in outside-class time because the term project is pretty dense. Exams are all free response, use his study guides. If you could handle 328 then this class shouldn't be a problem for you.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Amazing lectures",
+        "Gives good feedback"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2NDgxMTE2",
+      "legacy_id": 36481116,
+      "date": "2022-06-22 17:54:38 +0000 UTC",
+      "course": "CECS342",
+      "comment": "Professor is amazing and knows the stuff he is teaching. Makes lectures enjoyable and fun. Only issue with his 342 class are the labs. They are a lot of work and they are not worth a lot. Exams decide your grade in this class. There are very few homeworks so messing up in one can also affect your grade by a lot. Exam index card. Recorded lectures.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Respected",
+        "Test heavy"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2NDc0ODkz",
+      "legacy_id": 36474893,
+      "date": "2022-06-20 00:27:55 +0000 UTC",
+      "course": "CECS342",
+      "comment": "Neal is probably the most well liked prof. in the cs dept. His course is difficult but he is extremely accessible and very caring/understanding to students. You must do the hw and study hard for the exams to pass, but in the end you will learn so much. Lectures are fantastic but extremely important when it comes to exam time.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Inspirational",
+        "Lots of homework",
+        "Respected"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2MDgyMTI0",
+      "legacy_id": 36082124,
+      "date": "2022-04-15 00:34:16 +0000 UTC",
+      "course": "CECS323",
+      "comment": "Neal Terrell is by far the best professor I have had here. He is a gem in this gloomy(and pretty terrible) cs department. Neal is an exceptionally strong lecturer and comes in well prepared. CECS 323 is a pretty tough class but Neal will prepare you as best as is possible. Only complaint is that I wish we got more practice on writing queries.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Amazing lectures",
+        "Inspirational",
+        "Hilarious"
+      ],
+      "grade": "Incomplete",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2MDYwNDU0",
+      "legacy_id": 36060454,
+      "date": "2022-04-12 06:58:11 +0000 UTC",
+      "course": "CECS323",
+      "comment": "This man is an A+ teacher and he expects as much as he gives. \n\nI had no trouble getting an A in his class because doing the homework he assigned prepared me for tests. \n\nHe is extremely detail oriented and will dock -0.5% for every miniscule error you make. His assesments are both just and ruthless. \n\nYou will learn a lot, expect to sweat.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Amazing lectures",
+        "Clear grading criteria"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM1NjQ0ODEz",
+      "legacy_id": 35644813,
+      "date": "2021-12-23 22:22:49 +0000 UTC",
+      "course": "CECS323",
+      "comment": "The main difficulty comes from the workload and the amount of material covered. Exams are fair if you study the study guides and rubrics are provided for the projects. Weekly reading quizzes focus on logic and application. Make sure to get help or project clarifications from Neal on Campuswire or office hours. Easy to pass class, fair A. No curve.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Lots of homework",
+        "Accessible outside class",
+        "Get ready to read"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 5.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM1MDk1NTQx",
+      "legacy_id": 35095541,
+      "date": "2021-09-30 01:28:05 +0000 UTC",
+      "course": "CECS342",
+      "comment": "One of the best professors/lecturers in the university and the best in the CECS department hands down. His lectures are engaging, incredibly informative and educational. He does an incredible job at teaching the subject matter. I've only had the privilege of taking him twice but I would have taken him for more classes had I been given the chance.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Inspirational",
+        "Amazing lectures",
+        "Caring"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM0NTY2MDg5",
+      "legacy_id": 34566089,
+      "date": "2021-04-17 07:39:28 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Neal is hands down the best professor at this school. I never felt more engaged in any type of learning environment than any class that I have taken before. He engages everyone in the lectures, an offers a lot of help. It was a very difficult class, but there is a ton of material that you are exposed to and they're helpful information. Take Terrel!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM0MTgyMTgw",
+      "legacy_id": 34182180,
+      "date": "2020-12-23 03:49:42 +0000 UTC",
+      "course": "CECS174",
+      "comment": "Pretty much an easy A if you have taken a Computer Science class before. Make sure you test edge cases on the projects. He often has his grumpy days, but that's because he needs to overlook over 200 students, but he does care for students. Don't overthink projects as most relate to Zybooks or even come back to it.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Participation matters",
+        "Group projects",
+        "Hilarious"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": true,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzODQ0MTIz",
+      "legacy_id": 33844123,
+      "date": "2020-11-18 22:20:32 +0000 UTC",
+      "course": "CECS174",
+      "comment": "GOAT teacher. Take Neal if you can. Very effective at teaching and a hilarious guy. Loves joking around with students during lectures. Weekly readings and labs thru zybooks, 3-4 projects, midterm, and final. Projects carry the most weight. VERY specific with grading. Test your project code thoroughly, a single typo could mess your grade up!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Accessible outside class",
+        "Hilarious",
+        "Tough grader"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzNjg4MDky",
+      "legacy_id": 33688092,
+      "date": "2020-10-08 23:53:56 +0000 UTC",
+      "course": "CECS277",
+      "comment": "Neal is the best professor in the CS department I've had so far, the dude makes you fall in love with comp sci and provides all the resources and help you need. I love his way of teaching, took him for 174 and 277 and will take him again for upper div classes",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzNTk3ODY3",
+      "legacy_id": 33597867,
+      "date": "2020-08-19 13:50:42 +0000 UTC",
+      "course": "CECS174",
+      "comment": "Neal is a solid choice! Had 3-4 major coding projects and had 2 tests and a final. Clear instructions are given with each project. Very approachable when he has his office hours. Try to sit towards the front and attend lectures because he can give hints regarding tests. Used zybooks for online assignments.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Graded by few things",
+        "Clear grading criteria",
+        "Amazing lectures"
+      ],
+      "grade": "C",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzNTg3MDg1",
+      "legacy_id": 33587085,
+      "date": "2020-08-14 20:54:19 +0000 UTC",
+      "course": "CECS328",
+      "comment": "One of the best professors I've had the pleasure of learning from. Extremely good informative lectures. Exams are hard (even online) but Neal makes sure you understand everything if you ask for help. 5 programming assignments, all moderate in difficulty. One of the most caring professors on campus. If you get the opportunity to take him, do it!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Respected",
+        "Lots of homework",
+        "Amazing lectures"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 0.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzNDE3NDQ2",
+      "legacy_id": 33417446,
+      "date": "2020-06-08 05:30:30 +0000 UTC",
+      "course": "CECS424",
+      "comment": "Excellent, clear lectures that follow a logical order throughout the semester. You will get a lot out of this class. Tests are hard, but fair. Advice: DON'T TURN IN YOUR LABS LATE!! I did fairly well on labs and tests and ended up with a B because I was always late by a day or two. Don't make my mistake!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Skip class? You won't pass.",
+        "Clear grading criteria",
+        "Amazing lectures"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzMzc3NTgx",
+      "legacy_id": 33377581,
+      "date": "2020-05-27 18:25:39 +0000 UTC",
+      "course": "CECS174",
+      "comment": "He is really good at what he teaches and probably one of the better CECS professors. The class has a lot of reading, homework, and the tests are pretty hard (make sure to read the test questions VERY carefully) especially if you are new at coding. His lectures are kind of boring, I learned more from the interactive book. Make sure to study.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Lots of homework",
+        "Get ready to read",
+        "Tough grader"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzMzcxMDE1",
+      "legacy_id": 33371015,
+      "date": "2020-05-26 09:51:03 +0000 UTC",
+      "course": "CECS174",
+      "comment": "His tests are super hard. Dint take him if you are not good at coding.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Test heavy",
+        "Group projects",
+        "Tough grader"
+      ],
+      "grade": "C",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzMzQ4NDY3",
+      "legacy_id": 33348467,
+      "date": "2020-05-21 18:36:51 +0000 UTC",
+      "course": "CECS277",
+      "comment": "This is a hard class but you will learn a lot from it. I made some mistakes and nearly fail, but ended up with a C at the end. Neal is a Nice professor. Just don't cheat or sharing code with your friends. He has 0 tolerance for academic integrity.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "Accessible outside class"
+      ],
+      "grade": "C",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzMjY5MDU4",
+      "legacy_id": 33269058,
+      "date": "2020-05-12 00:55:56 +0000 UTC",
+      "course": "CECS475",
+      "comment": "Very Hard Class and test are super hard. Won't recommend at all.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Skip class? You won't pass.",
+        "Group projects",
+        "Tough grader"
+      ],
+      "grade": "B-",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyNzg4NDgy",
+      "legacy_id": 32788482,
+      "date": "2020-01-03 18:06:07 +0000 UTC",
+      "course": "CECS174",
+      "comment": "Professor Terrell is great and will definitely help you if you ask for it. His exams are tough but that shouldn't stop you from taking him. This past semester there was no mandatory attendance and the textbook is interactive online book from zybooks, which helps understand concepts. You'll definitely pass as long as you put in time and effort",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Hilarious",
+        "Amazing lectures",
+        "Caring"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyMzgxMDI5",
+      "legacy_id": 32381029,
+      "date": "2019-11-08 03:58:31 +0000 UTC",
+      "course": "CECS174",
+      "comment": "His lectures are very clear. The online book he assigns has mandatory interactive assignments which are actually useful. Labs are fine. Projects are graded much harder though, and you never know what you could lose points for. He will gladly help you if you ask for it. Overall, you will have to work for your grade, but it's well worth it.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Accessible outside class",
+        "Get ready to read"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxNDg5OTQ3",
+      "legacy_id": 31489947,
+      "date": "2019-03-27 22:19:01 +0000 UTC",
+      "course": "CECS174",
+      "comment": "Neal taught me almost everything i know about java, his projects were pretty tough but each one taught a very specific method of coding, his tests were hard but he provides very good feedback on assignments and tests. Always willing to help at office hours.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "Skip class? You won't pass."
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMzU5MzY0",
+      "legacy_id": 31359364,
+      "date": "2019-02-15 20:50:33 +0000 UTC",
+      "course": "CECS174",
+      "comment": "well its been a year since I took him. He cracks jokes a ton. His lectures made me fell in love with CS. He is the gem of the CS Department so, make time for his class. He is a toughie for HW, and Exams. Grades like a toughie. Willing to help students but not giving away awnsers. A past student of Neal's guided me in the right direction! Learn tons",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Accessible outside class",
+        "Amazing lectures",
+        "Tough grader"
+      ],
+      "grade": "C+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 5,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMjA4NDUz",
+      "legacy_id": 31208453,
+      "date": "2019-01-06 10:20:23 +0000 UTC",
+      "course": "CECS429",
+      "comment": "The best professor I've taken at CSULB. The term project is long and hard, and he expects a lot of work out of everyone but it is do-able. He is very reasonable with grading. He does his best to know how everybody is doing on the project, and helps them out if they are stuck (only if they reach out to him).",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Respected",
+        "Clear grading criteria",
+        "Amazing lectures"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 20,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMTkzMTg0",
+      "legacy_id": 31193184,
+      "date": "2019-01-03 08:24:15 +0000 UTC",
+      "course": "CECS424",
+      "comment": "Terrific! Neal has a great ability to make complex topics easy to understand. Lectures were great and his labs fun. Tests were hard, but he didn't throw you any curve balls. His class really made me fall in love with the intricacies of programming languages. Just base your schedule around his classes. He's a gem of the Computer Science department.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Hilarious",
+        "Amazing lectures",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 48,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwMjY3MTkx",
+      "legacy_id": 30267191,
+      "date": "2018-06-15 03:29:37 +0000 UTC",
+      "course": "CECS174",
+      "comment": "Knowing that I did not have an opportunity to have any coding classes from West, I had to work harder than anyone else in CECS 100 and 174. He is a great wiz for computer sci/eng. If you try using shortcuts, he will know. The lectures were great His lectures were easy, but the labs, hwk, exams, and finals was challenging. You will learn a lot.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Respected",
+        "Amazing lectures",
+        "Caring"
+      ],
+      "grade": "C+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 6,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwMTc3NzIw",
+      "legacy_id": 30177720,
+      "date": "2018-05-23 15:57:01 +0000 UTC",
+      "course": "CECS174",
+      "comment": "Best professor I've ever had so far. The labs and assignments are interesting and challenging enough. He is a tough grader but if you do the job, you'll be rewarded. Also, do not think that you can pass final without studying, that's what I did and it turned my A into a B. Overall, it was very fun having him as my professor, definitely recommend!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Tough Grader",
+        "Inspirational",
+        "Caring"
+      ],
+      "grade": "B+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 6,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwMTMzNTg5",
+      "legacy_id": 30133589,
+      "date": "2018-05-17 03:03:02 +0000 UTC",
+      "course": "CECS174",
+      "comment": "We used an online textbook that required you to do participation - it doesn't notify you about upcoming due dates so remember to check on it the day before. He's a really good teacher - able to explain well, very friendly, and wants to see you succeed. A bit of a tough grader with the homework but you can pass ezpz",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough Grader",
+        "Gives good feedback",
+        "Skip class? You won't pass."
+      ],
+      "grade": "B+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 6,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4MzU3ODM5",
+      "legacy_id": 28357839,
+      "date": "2017-05-21 18:35:21 +0000 UTC",
+      "course": "CECS328",
+      "comment": "The projects were difficult, but very helpful. Tests were also very difficult, but will prepare you for the future. Other 328 classes were an easy A, but students leave class without learning anything. This class is very difficult, but you will learn a lot. Glad I chose this professor",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Gives good feedback",
+        "Skip class? You won't pass.",
+        "LOTS OF HOMEWORK"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 59,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3NzY3MDM1",
+      "legacy_id": 27767035,
+      "date": "2017-01-23 17:12:07 +0000 UTC",
+      "course": "CECS174",
+      "comment": "Among everyone I've talked to about CECS professors, all agree that you should always take Neal Terrell if you have the option. Not necessarily because he is easy, but because he is extremely effective at teaching while still keeping the class as straight forward as possible. I came out of this class very confident in programming.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Respected",
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Amazing lectures"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3MDkwMzQ0",
+      "legacy_id": 27090344,
+      "date": "2016-10-27 20:26:00 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Lectures are funny and informative. Workload is fairly modest, and while the tests are difficult he's a not a harsh grader so don't stress too much. Highly recommend.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 5,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2OTAxMzI0",
+      "legacy_id": 26901324,
+      "date": "2016-08-17 00:46:51 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Neal is an awesome professor, but if you are a slacker like me, you will suffer. He will push you harder than any other professor and make sure you learn. Personally, I couldn't handle this class, I was easily intimated by his intellect and I let it get to me. He's one of the best professors here, but get ready to work.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough Grader",
+        "Respected",
+        "Hilarious"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 9,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2NjM2MTAz",
+      "legacy_id": 26636103,
+      "date": "2016-05-23 02:44:21 +0000 UTC",
+      "course": "CECS328",
+      "comment": "Great professor and even better that he knows Eric Hernandez another great professor. His lectures are entertaining and great. He seems to be a wizard so don't be fool by his appearance he can cast a big fat F on your test if you don't study. His tests are challenging, but makes you think. Overall he's a wiz and I'll definitely take him again.",
+      "quality": 3.5,
+      "helpful": 4.0,
+      "clarity": 3.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 28,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2NjI1MDEw",
+      "legacy_id": 26625010,
+      "date": "2016-05-20 15:19:20 +0000 UTC",
+      "course": "CECS174",
+      "comment": "His lectures are very detailed and he gives notes so you can follow along easier. Be prepared to work though because this class moves fast.",
+      "quality": 3.5,
+      "helpful": 3.0,
+      "clarity": 4.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 25,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2NjEzNDk0",
+      "legacy_id": 26613494,
+      "date": "2016-05-18 23:38:17 +0000 UTC",
+      "course": "CECS174",
+      "comment": "Excellent professor. No doubt that  you'll walk out the class learning something under his instruction. He's funny and very easy-going. Don't let that fool you; this man will push you and give you a tough time if you slack off! Don't ever be late on quiz days!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 15,
+      "thumbs_down": 3,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2MzUzNzMw",
+      "legacy_id": 26353730,
+      "date": "2016-04-22 03:36:14 +0000 UTC",
+      "course": "CECS174",
+      "comment": "Neal is hands down the best professor I have taken so far at CSULB. He is very knowledgeable and understands the material very well. His lecture basically consists of him going through programs, explaining what each line of code does. However, his tests are very challenging and force you to think. Overall, if you want to learn, take his class.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 3,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1OTU3NDkz",
+      "legacy_id": 25957493,
+      "date": "2016-01-18 15:01:34 +0000 UTC",
+      "course": "CECS282",
+      "comment": "Honestly, hands down one of the best professors I've ever taken. If you're a CS major, try and get Terrell for all of your classes. He makes his class hard so that you actually get something out of the class. There was a lab a week, and each lab built off the other one so don't fall behind. Study for tests ahead because they're hard, but doable.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 2.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1NjQ3NjIw",
+      "legacy_id": 25647620,
+      "date": "2015-12-11 14:34:20 +0000 UTC",
+      "course": "CECS529",
+      "comment": "He is one of the best Professor CECS department has to offer. He actually wanted to teach the students. Would take again.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 2.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1NTA5MjEy",
+      "legacy_id": 25509212,
+      "date": "2015-11-30 23:40:48 +0000 UTC",
+      "course": "CECS282",
+      "comment": "Neal is amazing, but he is brutal. This class should be avoided if you are a slacker. He explains things very well and makes C++ seem like the coolest language ever. Neal is tough, he expects a lot of work from you and his exams test your knowledge conceptually rather than just implementation of code.  Projects are very demanding as well.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 4.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 8,
+      "thumbs_down": 7,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1MTQ2MDQw",
+      "legacy_id": 25146040,
+      "date": "2015-08-24 14:01:09 +0000 UTC",
+      "course": "CECS282",
+      "comment": "Probably one of my favorite professors in the entire CECS department. I studied hard and made sure all my projects were top quality, and his class was genuinely interesting. Had no C++ experience prior, but felt confident after class was finished. As long as you try and ask questions when you don't understand you'll do well.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 2.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI0OTgzMzI3",
+      "legacy_id": 24983327,
+      "date": "2015-06-21 11:31:36 +0000 UTC",
+      "course": "CECS282",
+      "comment": "Best professor at Long Beach by a mile. If you need help he will work with you. Attend lectures, do the homework, and finish the labs on time. You shouldn't have to worry too much about it.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI0NTQ1MjQy",
+      "legacy_id": 24545242,
+      "date": "2015-04-05 03:15:16 +0000 UTC",
+      "course": "CECS282",
+      "comment": "My favortie professor! He makes every lecture interesting. He knows what he is talking about. The projects are  nightmares and  the test are worse but he is willing to help in anyway possible. If you do not understand do not hesitate to ask, he may look intimidating but he is really nice.  You have to work hard for that passing grade.",
+      "quality": 4.5,
+      "helpful": 5.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI0MjYyMjk3",
+      "legacy_id": 24262297,
+      "date": "2015-01-09 23:27:39 +0000 UTC",
+      "course": "526",
+      "comment": "Helps a lot. Expects more from his students. Would recommend!",
+      "quality": 3.5,
+      "helpful": 4.0,
+      "clarity": 3.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTI0MTY5MDg3",
+      "legacy_id": 24169087,
+      "date": "2014-12-22 15:22:06 +0000 UTC",
+      "course": "CECS228",
+      "comment": "Great professor, and at the start of the semester he lays it out very clear: \"I won't trick you on the tests, but they won't be a cake walk.\" Group assignments are challenging and his tests are mostly based off those. Goes a little fast during lecture but has no problem explaining things in greater detail if you ask. Hope I have him again in 282.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI0MDIxMDQ3",
+      "legacy_id": 24021047,
+      "date": "2014-12-10 16:53:05 +0000 UTC",
+      "course": "CECS228",
+      "comment": "He knows what he is doing and does a better job than other professors in the department.",
+      "quality": 4.5,
+      "helpful": 4.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 21,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIzOTYzNzMy",
+      "legacy_id": 23963732,
+      "date": "2014-12-05 18:49:10 +0000 UTC",
+      "course": "CECS282",
+      "comment": "The best professor on campus for people who actually want to learn. Your worst nightmare if you are a slacker.  You won't pass this class if you procrastinate or miss class often. Each lecture is very dense and a lab after to help you understand. He will gladly help you if you put in effort to the problem.  Relates to students and is hilarious.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 2.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIzNTYwNTcy",
+      "legacy_id": 23560572,
+      "date": "2014-08-27 05:34:34 +0000 UTC",
+      "course": "CECS282",
+      "comment": "I took him for C++ and I was amazed as to how clear and concise his lectures were. He provides notes to his lectures and rarely uses the required textbook. Projects can be long and somewhat difficult if you don't put the effort in. Overall, he is very funny and truly knows his stuff. Take him if you can!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "Y",
+      "textbook_use": 2.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 2,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIzNTQ3MDM1",
+      "legacy_id": 23547035,
+      "date": "2014-08-21 14:55:41 +0000 UTC",
+      "course": "CECS282",
+      "comment": "Very clear lectures and helpful with questions. Hard-ish assignments, but not bad. There is some leeway on late work. Little to no text reading.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 2.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 3,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIzMDUyNTk2",
+      "legacy_id": 23052596,
+      "date": "2014-04-17 01:06:10 +0000 UTC",
+      "course": "274228282",
+      "comment": "Very high on my list of best teachers. Easy to talk to, receptive to questions of all levels, and knowledgeable. Will work with you as much as you want to to master the material. Very fair.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "N",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 2,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIzMDQxNjM5",
+      "legacy_id": 23041639,
+      "date": "2014-04-15 15:00:56 +0000 UTC",
+      "course": "CECS282",
+      "comment": "Excellent Professor. Clear, funny, and definitely helpful. After finishing multiple lower division CS courses with Neal, I close my eyes at night with only one thought: the avocado. Scoring highest on the exam will grant you the prize jewel. But after multiple exams the thirst for my precious grew until all I ever wanted in life was... the AVOCADO.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 8,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyOTExNTA5",
+      "legacy_id": 22911509,
+      "date": "2014-03-14 13:16:56 +0000 UTC",
+      "course": "CECS228",
+      "comment": "Professor Terrell is by far one of the best in the school. Crystal clear lectures. He is very helpful and friendly. He gets so excited about the topic that it MAKES you be interested yourself (228 is usualy not all that fun). He makes abundant corny jokes and nerdy references. Tests are fair, based on the hw mostly. Curves. Highly Recommended!!!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "N",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 3,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyODk2ODA2",
+      "legacy_id": 22896806,
+      "date": "2014-03-09 03:49:58 +0000 UTC",
+      "course": "CECS228",
+      "comment": "One of the better lecturers in the department. He really understands what he's talking about and is ready to give real world examples to help tie everything together.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "Y",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 3,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyNDUyMDI5",
+      "legacy_id": 22452029,
+      "date": "2013-12-06 03:42:35 +0000 UTC",
+      "course": "CECS228",
+      "comment": "best professor i have this semester. His lectures are very clear and he explains in detail. Very chill guy and down to earth. his test is basically from the group assignments and he does curve the test grades. Definitely recommend.",
+      "quality": 4.0,
+      "helpful": 5.0,
+      "clarity": 3.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "N",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 3,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyNDQwMTk0",
+      "legacy_id": 22440194,
+      "date": "2013-12-05 02:15:00 +0000 UTC",
+      "course": "CECS274",
+      "comment": "Class is simple and straightforward. Neal provides many examples in his lecture notes. He makes everything easy and clear, and overall just do all the labs and you can get an A. It's an easy A , IF you try/study.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "N",
+      "textbook_use": 4.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 3,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyMzY3MTcw",
+      "legacy_id": 22367170,
+      "date": "2013-11-21 18:02:36 +0000 UTC",
+      "course": "CECS228",
+      "comment": "this guy is freakin hot! oh my god have my babies! he can teach java really well and makes the class very fun, if you know what im saying. This is rare because i always fall asleep in class, but how can u fall asleep with such a dreamy face. TAKE HIM!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": "Not_Sure_Yet",
+      "would_take_again": null,
+      "attendance_mandatory": "N",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 3,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyMjYzODA5",
+      "legacy_id": 22263809,
+      "date": "2013-11-06 00:06:49 +0000 UTC",
+      "course": "CECS228",
+      "comment": "Discrete Math is a tough subject. However, Terrell makes this subject as painless and fun as possible. I have had him in the past in CECS 174 and I am currently taking CECS 274 with him as well. His style of teaching is clear and concise, and he will never hesitate to lend a helping hand. He has also made me into a much stronger programmer as well.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "N",
+      "textbook_use": 4.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 4,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyMjQ4NzY0",
+      "legacy_id": 22248764,
+      "date": "2013-11-03 18:18:21 +0000 UTC",
+      "course": "CECS274",
+      "comment": "I am taking 274 with Terrell right now, and he is the best programming professor I've ever had. Everyday you learn something new, and his teaching style is clear and to the point. If you need help, he's there for office hours or will help you in lab. Hopefully he teaches more classes in the future.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 4.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 3,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyMjM1ODgy",
+      "legacy_id": 22235882,
+      "date": "2013-10-30 19:27:37 +0000 UTC",
+      "course": "CECS274",
+      "comment": "One of the best teachers in the Computer Science program. Mr. Terrell is clear, concise, and always prepared. He explains difficult concepts in ways that are relatable to real life. I hope I get the chance to take one of his courses again.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": "Not_Sure_Yet",
+      "would_take_again": null,
+      "attendance_mandatory": "N",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 5,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIxNjIzMDQy",
+      "legacy_id": 21623042,
+      "date": "2013-04-28 19:14:51 +0000 UTC",
+      "course": "CECS174",
+      "comment": "A very great professor. Easily one of my favorites. Very nerdy in a good way. He jokes a lot and it makes the class fun. He posts his lecture notes online and thoroughly explains the code during class. He is always available for help and he really helps a lot. His tests are curved as well. I suggest taking him. I loved it and hope to have him again",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 4.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 3,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    }
+  ]
+}

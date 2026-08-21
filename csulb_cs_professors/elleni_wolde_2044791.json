@@ -1,0 +1,1043 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2044791",
+    "scraped_at": "2026-08-21T07:46:45.807655+00:00",
+    "graphql_id": "VGVhY2hlci0yMDQ0Nzkx",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2044791,
+    "first_name": "Elleni",
+    "last_name": "Wolde",
+    "full_name": "Elleni Wolde",
+    "department": "Computer Science",
+    "avg_rating": 1.8,
+    "avg_difficulty": 4,
+    "num_ratings_listed": 32,
+    "would_take_again_percent": 19.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 29,
+        "courseName": "CECS100"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS174"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS277"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 32,
+    "avg_quality": 1.77,
+    "avg_difficulty": 3.97,
+    "would_take_again_percent": 19.0,
+    "online_percent": 3.1,
+    "tag_counts": [
+      {
+        "name": "Tough Grader",
+        "count": 9
+      },
+      {
+        "name": "Skip class? You won't pass.",
+        "count": 7
+      },
+      {
+        "name": "Get ready to read",
+        "count": 6
+      },
+      {
+        "name": "LOTS OF HOMEWORK",
+        "count": 6
+      },
+      {
+        "name": "GROUP PROJECTS",
+        "count": 5
+      },
+      {
+        "name": "Group projects",
+        "count": 4
+      },
+      {
+        "name": "Tough grader",
+        "count": 4
+      },
+      {
+        "name": "LECTURE HEAVY",
+        "count": 3
+      },
+      {
+        "name": "Participation matters",
+        "count": 2
+      },
+      {
+        "name": "Graded by few things",
+        "count": 2
+      },
+      {
+        "name": "Caring",
+        "count": 2
+      },
+      {
+        "name": "Test heavy",
+        "count": 1
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 1
+      },
+      {
+        "name": "Beware of pop quizzes",
+        "count": 1
+      },
+      {
+        "name": "So many papers",
+        "count": 1
+      },
+      {
+        "name": "Lots of homework",
+        "count": 1
+      },
+      {
+        "name": "TEST HEAVY",
+        "count": 1
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 1
+      },
+      {
+        "name": "Hilarious",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "B",
+        "count": 4
+      },
+      {
+        "name": "A",
+        "count": 4
+      },
+      {
+        "name": "Incomplete",
+        "count": 3
+      },
+      {
+        "name": "Rather not say",
+        "count": 2
+      },
+      {
+        "name": "B+",
+        "count": 1
+      },
+      {
+        "name": "A+",
+        "count": 1
+      },
+      {
+        "name": "D+",
+        "count": 1
+      },
+      {
+        "name": "Drop/Withdrawal",
+        "count": 1
+      },
+      {
+        "name": "A-",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 0,
+      "2": 2,
+      "3": 9,
+      "4": 9,
+      "5": 12
+    },
+    "attendance": {
+      "mandatory": 25,
+      "non mandatory": 3
+    },
+    "courses": [
+      {
+        "course": "CECS100",
+        "review_count": 29,
+        "avg_quality": 1.84,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 22.2,
+        "top_tags": [
+          {
+            "name": "Tough Grader",
+            "count": 9
+          },
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 6
+          },
+          {
+            "name": "LOTS OF HOMEWORK",
+            "count": 6
+          },
+          {
+            "name": "GROUP PROJECTS",
+            "count": 5
+          },
+          {
+            "name": "Get ready to read",
+            "count": 5
+          },
+          {
+            "name": "Group projects",
+            "count": 3
+          },
+          {
+            "name": "LECTURE HEAVY",
+            "count": 3
+          },
+          {
+            "name": "Participation matters",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "CECS174",
+        "review_count": 2,
+        "avg_quality": 1.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 0.0,
+        "top_tags": [
+          {
+            "name": "Get ready to read",
+            "count": 1
+          },
+          {
+            "name": "Group projects",
+            "count": 1
+          },
+          {
+            "name": "Tough grader",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS277",
+        "review_count": 1,
+        "avg_quality": 1.0,
+        "avg_difficulty": 5.0,
+        "would_take_again_percent": 0.0,
+        "top_tags": [
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          },
+          {
+            "name": "Tough grader",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTMyNzg3MzI5",
+      "legacy_id": 32787329,
+      "date": "2020-01-03 06:41:25 +0000 UTC",
+      "course": "CECS100",
+      "comment": "Honestly, just show up to her lectures. Her tests are based off the lecture and MAINLY the book. You hardly code. She assigns a lot of group projects. I only had 4 tests. The 4th was a cumulative final while the 3 were just chapter quizzes. Sit towards the front! She's really flexible to the needs of her students which was good.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Participation matters",
+        "Graded by few things",
+        "Group projects"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyNzYzMjk3",
+      "legacy_id": 32763297,
+      "date": "2019-12-27 07:09:07 +0000 UTC",
+      "course": "CECS100",
+      "comment": "She's amazing. One of the most caring and kind professors I've ever had. When we'd do bad as a class, she'd try her best to lift our spirits. Here I learned coding wasn't my thing, some students understood it with ease but not me. Regardless, with her help I managed to get a good grade. Midterms are easy and never require you to actually code.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Skip class? You won't pass.",
+        "Group projects",
+        "Caring"
+      ],
+      "grade": "B+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyNjE5NTcx",
+      "legacy_id": 32619571,
+      "date": "2019-12-12 01:20:08 +0000 UTC",
+      "course": "CECS100",
+      "comment": "The class is easy but, do everything you can to get a different professor if the material wasn't easy this class would be ridiculous.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Test heavy",
+        "Group projects",
+        "Lecture heavy"
+      ],
+      "grade": "A",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxOTg0NzAz",
+      "legacy_id": 31984703,
+      "date": "2019-06-01 20:45:41 +0000 UTC",
+      "course": "CECS277",
+      "comment": "If you want to learn the material for C.S., please run from her. You may survive but when you hit upper divison, you will not be prepared. Also, her good reviews are not true. If students want to learn, do not take her. I'd rather wait another semester to take a better instructor.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Skip class? You won't pass.",
+        "Graded by few things",
+        "Tough grader"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxOTEyNzA4",
+      "legacy_id": 31912708,
+      "date": "2019-05-19 18:48:21 +0000 UTC",
+      "course": "CECS174",
+      "comment": "wow. no teaching whatsoever. very terrible. stay far far away.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxNzc4NTk4",
+      "legacy_id": 31778598,
+      "date": "2019-05-06 00:57:56 +0000 UTC",
+      "course": "CECS100",
+      "comment": "This professor is the worst and makes students feel unprepared for upper level courses. This teacher is worse than most teachers that I have met so far. Well, her good reviews are B.S. She will not teach the material well, and will expect you to know a lot more than what was covered in lecture. This class is the worst experience ever.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Beware of pop quizzes",
+        "So many papers",
+        "Tough grader"
+      ],
+      "grade": "Rather not say",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 5,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxNTQ2NjIw",
+      "legacy_id": 31546620,
+      "date": "2019-04-08 01:03:23 +0000 UTC",
+      "course": "CECS100",
+      "comment": "She was better than I expected given all the reviews. Go to her office hours if you are stuck. The class requires some efforts, but it is manageable.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Lots of homework",
+        "Skip class? You won't pass.",
+        "Tough grader"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 15,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTMxNDU3MTEz",
+      "legacy_id": 31457113,
+      "date": "2019-03-20 16:40:09 +0000 UTC",
+      "course": "CECS174",
+      "comment": "Gives you projects with requirements and then criticizes you for trying to implement them as best you can. Accent makes her lectures so boring and impossible to pay attention to. Made the mid term the day before the test date. Tests aren't even code, its paragraphs of info with multiplechoice. Doesn't curve tests. Makes you feel unprepared for 274",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Get ready to read",
+        "Group projects",
+        "Tough grader"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 13,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwNzM3Mjk4",
+      "legacy_id": 30737298,
+      "date": "2018-11-15 17:55:51 +0000 UTC",
+      "course": "CECS100",
+      "comment": "she is really hard and expect yo to be expert",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough Grader",
+        "Skip class? You won't pass.",
+        "TEST HEAVY"
+      ],
+      "grade": "Rather not say",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 18,
+      "thumbs_down": 7,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI5ODAyMzA4",
+      "legacy_id": 29802308,
+      "date": "2018-04-13 22:58:02 +0000 UTC",
+      "course": "CECS100",
+      "comment": "After taking the class last year, I talked to other students that took this class with other professors and it seems that Wolde was the best one. It requires more work than what a 100 level class should be however, it will prepare you for CECS 174.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Tough Grader",
+        "Participation matters",
+        "GROUP PROJECTS"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 16,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTI5NTY4NTkw",
+      "legacy_id": 29568590,
+      "date": "2018-02-15 12:51:26 +0000 UTC",
+      "course": "CECS100",
+      "comment": "She was a terrible professor. It is a 100 level 'critical thinking' but all we did was program and code. She expects you to turn in pseudocode, which has no syntax, but then says you are doing the pseudocode in the wrong format. She is unhelpful and makes you feel like it's your fault for needing help. Be prepared to teach yourself!",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough Grader",
+        "Get ready to read",
+        "Skip class? You won't pass."
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 7,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI5MzUzNDA5",
+      "legacy_id": 29353409,
+      "date": "2017-12-28 22:07:27 +0000 UTC",
+      "course": "CECS100",
+      "comment": "She is a good and an easy professor. Attendance for labs is mandatory, because of quizzes. She might seem tough at first, but overall her motive is to teach goos to students and generally gives an A, even if you show 75% efforts.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Gives good feedback",
+        "Caring",
+        "GROUP PROJECTS"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 13,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTI4Nzg4MzAw",
+      "legacy_id": 28788300,
+      "date": "2017-10-26 13:02:19 +0000 UTC",
+      "course": "CECS100",
+      "comment": "Terrible instructor. Prepare to do an obscene amount of mind-numbing homework and take confusingly-formatted exams. Here's a note, professor. If the most common mistake on your multiple choice is that people get the numbering wrong, then THE EXAM IS THE PROBLEM. Be ready to ask a multitude of clarifying questions during midterms/exams. Ugh.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "LOTS OF HOMEWORK",
+        "GROUP PROJECTS",
+        "LECTURE HEAVY"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 6,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3ODYxODM3",
+      "legacy_id": 27861837,
+      "date": "2017-02-27 19:36:08 +0000 UTC",
+      "course": "CECS100",
+      "comment": "If you have never had any experience using Python, prepare to struggle. She just expects you to know how to do everything after reading the chapter without showing you hot to actually do it. If you ask her for help in the lab, she will not help you because she will say that we went over it in lecture. You basically just teach yourself.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough Grader",
+        "Skip class? You won't pass."
+      ],
+      "grade": "Incomplete",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 8,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3NzEzMTM2",
+      "legacy_id": 27713136,
+      "date": "2017-01-11 01:01:40 +0000 UTC",
+      "course": "CECS100",
+      "comment": "DO NOT TAKE! She is extremely messy with the material, expects you to do it her way, to provide your answer her way which is the only way. She starts lecture even on day 1 by asking the class what a concept is when she hasn't even taught it herself.  Though Grader STAY AWAY FOR YOUR GPA's sake",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough Grader",
+        "Skip class? You won't pass.",
+        "LOTS OF HOMEWORK"
+      ],
+      "grade": "D+",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 7,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3MTU2Nzcx",
+      "legacy_id": 27156771,
+      "date": "2016-11-09 14:27:09 +0000 UTC",
+      "course": "CECS100",
+      "comment": "BEWARE. This class is awful and so is the professor. She gives heavy lectures and before her lectures she expects you to read about 20-30 pages from the book on top of her powerpoint slides she posts online. Material is very hard to understand because she makes students feel like a failure when seeking help. DO NOT TAKE THIS CLASS!",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough Grader",
+        "Get ready to read",
+        "LECTURE HEAVY"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": null,
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 7,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3MDY1ODQ1",
+      "legacy_id": 27065845,
+      "date": "2016-10-22 15:15:09 +0000 UTC",
+      "course": "CECS100",
+      "comment": "I can't stand her. She is lecture heavy but expects us to read 50 pages before the lecture, it's like what's the point of the lecture then?  Wish I could've gotten a different professor but she's the only one who teaches the class! And don't get me started on her thick accent which makes it almost impossible to understand anything she says.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Tough Grader",
+        "Get ready to read",
+        "GROUP PROJECTS"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 6,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3MDQxNTky",
+      "legacy_id": 27041592,
+      "date": "2016-10-16 02:25:43 +0000 UTC",
+      "course": "CECS100",
+      "comment": "Ridiculous teacher. She gave us a pop quiz on material she promised to post but never did. When we explained to her after the quiz that the material was never uploaded, all she had to say was we shouldve studied the info out of somewhere else. She makes you feel like you cant do anything right and doesnt even give u a chance to explain yur reasonin",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough Grader",
+        "LOTS OF HOMEWORK",
+        "Hilarious"
+      ],
+      "grade": "Drop/Withdrawal",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 9,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3MDI0OTAy",
+      "legacy_id": 27024902,
+      "date": "2016-10-10 11:11:14 +0000 UTC",
+      "course": "CECS100",
+      "comment": "Get ready to code twice a week with 20 page readings and quizzes. She asks the class what a word means instead of teaching it, that's the whole lecture. Good luck passing her class!",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough Grader",
+        "LOTS OF HOMEWORK",
+        "LECTURE HEAVY"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 5,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3MDA2OTQ4",
+      "legacy_id": 27006948,
+      "date": "2016-10-02 02:59:59 +0000 UTC",
+      "course": "CECS100",
+      "comment": "Her \"lectures\" are boring and she has trouble completing a thought. The class is easy if you enjoy coding. Also I try my best to avoid asking for help because she'll find a way to blame you for not knowing the answer to your question by saying things like \"Did you take notes? Where are they?\" \"Did you read?\"",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Get ready to read",
+        "LOTS OF HOMEWORK",
+        "GROUP PROJECTS"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 6,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2OTgxMzEx",
+      "legacy_id": 26981311,
+      "date": "2016-09-19 15:28:40 +0000 UTC",
+      "course": "CECS100",
+      "comment": "The class is pretty easy if you're into computer science, but my main problem is that she gives out way too much reading and work to do. One time, she expected us to read CH 2 in less than 2 days, which is around FORTY pages long! Seriously!?!?!??",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Get ready to read",
+        "LOTS OF HOMEWORK"
+      ],
+      "grade": "Incomplete",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2NDk1NzI5",
+      "legacy_id": 26495729,
+      "date": "2016-05-07 00:07:58 +0000 UTC",
+      "course": "CECS100",
+      "comment": "Terrible. Avoid if you can. Unbelievable amount of work for a 3 unit class. Very unclear grading (it depends on her mood) and she's mean if you ask a stupid question. Like everyone in class is annoyed at you, but even more horrified by the way she responds so we're on your side. Don't take her",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": "A-",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2MTQxMzEz",
+      "legacy_id": 26141313,
+      "date": "2016-03-14 13:00:14 +0000 UTC",
+      "course": "CECS100",
+      "comment": "She is a horrible professor she doesn't teach the material clearly. She has way too many assignments for a 100 level class and when you ask her for help she says \"You need to do this yourself because you need to learn how to do this and I won't help you.\" Horrible horrible professor wish I would've known and I wouldn't have taken her.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 2.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2MDAzOTA1",
+      "legacy_id": 26003905,
+      "date": "2016-01-28 11:34:45 +0000 UTC",
+      "course": "CECS100",
+      "comment": "Barely started this class and can already say it's gonna be tough. She has an accent which normally is not a problem, heck I have one too but if you are gonna teach a class with an accent you speak slowly. She is very vague on lectures reading only what is on the PowerPoint.",
+      "quality": 1.5,
+      "helpful": 2.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 4.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1NzM5MDcx",
+      "legacy_id": 25739071,
+      "date": "2015-12-17 03:52:13 +0000 UTC",
+      "course": "CECS100",
+      "comment": "I took her for CECS 100- an introduction to programming logic... We were required to turn in two lab exercises weekly with the design process (IPO charts, pseudocode, and flowcharts) along with the code itself ... meaning we actually had to program. A lot of kids struggled in this class... Heck I got a B... It required more work than CECS 228 ...",
+      "quality": 2.0,
+      "helpful": 3.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 4.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1NzE2OTQ5",
+      "legacy_id": 25716949,
+      "date": "2015-12-16 00:16:26 +0000 UTC",
+      "course": "CECS100",
+      "comment": "If you get stuck on anything, GO TO HER OFFICE HOURS! She's not good at explaining to the whole class, but if you talk to her one-on-one she's alright. All her quizzes and midterms are based on the hw, the final exam have the exact questions from the quizzes. She's a tough grader with Labs, and doesn't give much feedback unless asked.",
+      "quality": 2.5,
+      "helpful": 3.0,
+      "clarity": 2.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 4.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1NjgwMDM3",
+      "legacy_id": 25680037,
+      "date": "2015-12-14 09:15:14 +0000 UTC",
+      "course": "CECS100",
+      "comment": "Lectures are boring and inconvenient, as she doesn't explain the content properly. And for the labs, she is an extremely tough grader and doesn't inform students of the explicit instructions for the weekly program design labs. Last but not least, the professor does not give feeback for submitted lab assignments. PLEASE AVOID THIS PROF.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1NTc2MTQw",
+      "legacy_id": 25576140,
+      "date": "2015-12-07 16:49:16 +0000 UTC",
+      "course": "CECS100",
+      "comment": "Oh, man. I switched out of the CECS major because of her.  We got to coding straight up C++ Week 2. She's a super harsh grader, too. There's a lot of homework in her class and when you ask for help she offers little to none at all. She drones on and on during her lectures and it's hard to  understand her. Avoid her at all costs!",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1NTUxOTUw",
+      "legacy_id": 25551950,
+      "date": "2015-12-04 18:53:11 +0000 UTC",
+      "course": "CECS100",
+      "comment": "Nice lady but hard to learn in her class. If possible, would take different instructor.",
+      "quality": 2.0,
+      "helpful": 3.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1NTEzNTQ3",
+      "legacy_id": 25513547,
+      "date": "2015-12-01 13:51:58 +0000 UTC",
+      "course": "CECS100",
+      "comment": "Lectures are boring. Does not actually teach you how to c, but instead reads content on power point. Isn't clear in what she wants in her assignments and grading.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 6,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1MzIwNzMx",
+      "legacy_id": 25320731,
+      "date": "2015-11-01 19:08:22 +0000 UTC",
+      "course": "CECS100",
+      "comment": "Lectures are pretty long and boring. I found myself really trying to stay awake sometimes. Some topics are understandable while others you'll have to ask her for help which she really does try to help you. She will not make any exceptions on anything. If your car broke down and you couldn't do something, you will fail that part of the assignment.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": "Incomplete",
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 4.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 6,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1MjIwOTA0",
+      "legacy_id": 25220904,
+      "date": "2015-10-01 11:28:14 +0000 UTC",
+      "course": "CECS100",
+      "comment": "This an introduction to programming logic course. Definitely did not expect to actually code. Assigns labs weekly (sometimes 2 exercises) and basically gives you two days to finish all the work she requires for it. Also two Matrix presentations based on language used in the movie). A lot of work. This class was more stressful than CECS 228.",
+      "quality": 3.5,
+      "helpful": 4.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 4.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 9,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}
