@@ -44,8 +44,13 @@ def get_reccomendations(user_id:str, term:str = None, match_count:int =10):
     return result.data
 
 if __name__ =="__main__":
+<<<<<<< HEAD
     student_id = "Replace with Real ID" # REPLACE WITH CALL FROM USER_TABLE WITH UNIQUE ID
     reccomendations = get_reccomendations(student_id, term="Fall 2026") # MATCH WITH COURSE OFFERINGS TERM
+=======
+    student_id = "Replace with Real ID"
+    reccomendations = get_reccomendations(student_id, term="Fall 2026")
+>>>>>>> 23b9121 (added recc script + SQL function)
     for rec in reccomendations:
           print(
             f"{rec['course_code']} — {rec['course_title']} "
