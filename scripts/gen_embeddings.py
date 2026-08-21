@@ -8,6 +8,9 @@ Embedding all the information into one text blob that says everything about the 
 
 That text blob turns into embeddings and that is what is compared
 
+The embeddings after this would look like -> type(numpy.ndarray), vector.shape = (384,), vector[:5] = [0.0231, -0.1502,0.0891,0.027]
+
+
 """
 
 ROOT = Path(__file__).resolve().parent
