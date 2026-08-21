@@ -1,0 +1,448 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2988680",
+    "scraped_at": "2026-08-21T07:36:39.283080+00:00",
+    "graphql_id": "VGVhY2hlci0yOTg4Njgw",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2988680,
+    "first_name": "Samuel",
+    "last_name": "Addington",
+    "full_name": "Samuel Addington",
+    "department": "Computer Science",
+    "avg_rating": 4.3,
+    "avg_difficulty": 2,
+    "num_ratings_listed": 8,
+    "would_take_again_percent": 77.8,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 1,
+        "courseName": "278"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "324"
+      },
+      {
+        "courseCount": 6,
+        "courseName": "378"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "478"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 9,
+    "avg_quality": 4.33,
+    "avg_difficulty": 1.89,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Caring",
+        "count": 6
+      },
+      {
+        "name": "EXTRA CREDIT",
+        "count": 3
+      },
+      {
+        "name": "Respected",
+        "count": 3
+      },
+      {
+        "name": "Group projects",
+        "count": 2
+      },
+      {
+        "name": "Inspirational",
+        "count": 2
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 2
+      },
+      {
+        "name": "Participation matters",
+        "count": 2
+      },
+      {
+        "name": "Lots of homework",
+        "count": 1
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 1
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 7
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 5,
+      "2": 2,
+      "3": 1,
+      "4": 0,
+      "5": 1
+    },
+    "attendance": {
+      "non mandatory": 2,
+      "mandatory": 7
+    },
+    "courses": [
+      {
+        "course": "378",
+        "review_count": 6,
+        "avg_quality": 4.0,
+        "avg_difficulty": 1.33,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Caring",
+            "count": 4
+          },
+          {
+            "name": "Inspirational",
+            "count": 2
+          },
+          {
+            "name": "Respected",
+            "count": 2
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          },
+          {
+            "name": "EXTRA CREDIT",
+            "count": 1
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "478",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 1.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "EXTRA CREDIT",
+            "count": 1
+          },
+          {
+            "name": "Group projects",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "324",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "EXTRA CREDIT",
+            "count": 1
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          },
+          {
+            "name": "Respected",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "278",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 5.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Participation matters",
+            "count": 1
+          },
+          {
+            "name": "Group projects",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQzMTk5MzQ2",
+      "legacy_id": 43199346,
+      "date": "2026-05-27 17:32:55 +0000 UTC",
+      "course": "478",
+      "comment": "Always comes to class with a smile on their face! I really do enjoy their personality! The assignments are confusing, but you may use outside methods to understand them. No exams were given for the class! It was only a final project, some quizzes done online, and the assignments! Easy A!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "EXTRA CREDIT",
+        "Group projects",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQzMTk1NzIw",
+      "legacy_id": 43195720,
+      "date": "2026-05-26 19:56:27 +0000 UTC",
+      "course": "378",
+      "comment": "Class was honestly frustrating. The work is easy since AI is allowed, but the instructions were super vague and expectations would randomly change throughout the semester. He also rarely replied to emails, so a lot of the class was figuring things out on your own. Most assignments and examples also felt heavily AI based.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Lots of homework",
+        "Lecture heavy"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxNDk1OTA0",
+      "legacy_id": 41495904,
+      "date": "2025-07-11 16:11:38 +0000 UTC",
+      "course": "378",
+      "comment": "A very friendly person! He always comes to class with a smile on his face! He is willing to help anyone who asks and is open to any questions. All the assignments are done in class. Exams are taken at home on Canvas. Just do all the assignments, and you'll be able to get an easy A!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNzg3ODEx",
+      "legacy_id": 40787811,
+      "date": "2025-03-19 04:07:15 +0000 UTC",
+      "course": "378",
+      "comment": "I dont know why he doesnt have enough reviews, but he is an amazing professor. Very passionate about cybersecurity and has the energy at 8am. Lectures are interesting and he guides us with our lab. I had trouble with setting up my VM and he helped me at 7pm and others even later. Genuinely cares about his students and their success. Def recommend !",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Amazing lectures",
+        "Inspirational",
+        "Respected"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNTAxMTc2",
+      "legacy_id": 40501176,
+      "date": "2025-01-07 18:48:29 +0000 UTC",
+      "course": "324",
+      "comment": "The professor genuinely cares about his students' success and goes above and beyond to help us understand the material. The labs and quizzes are engaging and well-designed to reinforce learning in an interactive way. He's a fair grader who sets clear expectations, encouraging us to stay active, study, and truly grasp the content.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "EXTRA CREDIT",
+        "Clear grading criteria",
+        "Respected"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5NTEzMTUz",
+      "legacy_id": 39513153,
+      "date": "2024-05-23 17:53:44 +0000 UTC",
+      "course": "378",
+      "comment": "Addington is a nice guy who wants to see everyone pass with a high grade. However, the professor doesn't teach much material relevant to the course. He goes on tangents and jumps around topics. If you want to learn more about cyber security or plan to minor in it, don't take him for 378, you will not learn much. If you want an easy A, go for it.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 1.0,
+      "tags": [
+        "EXTRA CREDIT",
+        "Clear grading criteria",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5MzgxNDg4",
+      "legacy_id": 39381488,
+      "date": "2024-05-06 20:33:16 +0000 UTC",
+      "course": "278",
+      "comment": "Lots of lab assignments but not very difficult and most of them are engaging. Friendly and caring for your success but very strict about attendance. (Maybe because of his military background?) Quizzes will be given almost every class and you will lose lots of points if you miss them. There are many extra credit opportunities so don't lose them.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Participation matters",
+        "Group projects",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5MTY0NDE0",
+      "legacy_id": 39164414,
+      "date": "2024-04-12 19:49:53 +0000 UTC",
+      "course": "378",
+      "comment": "Only midterm and final - exams are EXACTLY like the reviews. Labs due the same day, but SUPER EASY. Talks to the wall during lecture, so he probably won't remember your face. Has a spiffy bowtie though. Attendance required (show up on time), worth 10% of your grade. Easy grader. ROBLOX.\nOverall, super easy class.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Caring",
+        "Respected"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5MDAxODI5",
+      "legacy_id": 39001829,
+      "date": "2024-02-26 19:13:08 +0000 UTC",
+      "course": "378",
+      "comment": "I wish all professors were like this, caring and fun! Definitely worth taking his class couldn't imagine an 8 am class being fun to go to. Be wary if you do not like attendance then this class isn't for you, it is 10% of your grade but overall goes over labs in class and is super helpful!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Participation matters",
+        "Inspirational",
+        "Caring"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

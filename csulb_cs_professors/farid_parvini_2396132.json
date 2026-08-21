@@ -1,0 +1,441 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2396132",
+    "scraped_at": "2026-08-21T07:41:54.889712+00:00",
+    "graphql_id": "VGVhY2hlci0yMzk2MTMy",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2396132,
+    "first_name": "Farid",
+    "last_name": "Parvini",
+    "full_name": "Farid Parvini",
+    "department": "Computer Science",
+    "avg_rating": 3.3,
+    "avg_difficulty": 3.2,
+    "num_ratings_listed": 9,
+    "would_take_again_percent": 55.6,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 4,
+        "courseName": "CECS521"
+      },
+      {
+        "courseCount": 4,
+        "courseName": "CECS528"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CS521"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 9,
+    "avg_quality": 3.33,
+    "avg_difficulty": 3.22,
+    "would_take_again_percent": 55.6,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "EXTRA CREDIT",
+        "count": 3
+      },
+      {
+        "name": "Inspirational",
+        "count": 2
+      },
+      {
+        "name": "TEST HEAVY",
+        "count": 2
+      },
+      {
+        "name": "GRADED BY FEW THINGS",
+        "count": 2
+      },
+      {
+        "name": "Tough Grader",
+        "count": 2
+      },
+      {
+        "name": "Participation matters",
+        "count": 1
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 1
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 1
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 1
+      },
+      {
+        "name": "Lots of homework",
+        "count": 1
+      },
+      {
+        "name": "Graded by few things",
+        "count": 1
+      },
+      {
+        "name": "Caring",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 3
+      },
+      {
+        "name": "B+",
+        "count": 2
+      },
+      {
+        "name": "B",
+        "count": 2
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 1,
+      "5": 2
+    },
+    "attendance": {
+      "mandatory": 4,
+      "non mandatory": 5
+    },
+    "courses": [
+      {
+        "course": "CECS521",
+        "review_count": 4,
+        "avg_quality": 2.25,
+        "avg_difficulty": 3.5,
+        "would_take_again_percent": 25.0,
+        "top_tags": [
+          {
+            "name": "TEST HEAVY",
+            "count": 2
+          },
+          {
+            "name": "Participation matters",
+            "count": 1
+          },
+          {
+            "name": "EXTRA CREDIT",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          },
+          {
+            "name": "GRADED BY FEW THINGS",
+            "count": 1
+          },
+          {
+            "name": "Tough Grader",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS528",
+        "review_count": 4,
+        "avg_quality": 4.0,
+        "avg_difficulty": 2.75,
+        "would_take_again_percent": 75.0,
+        "top_tags": [
+          {
+            "name": "Inspirational",
+            "count": 2
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          },
+          {
+            "name": "Tough Grader",
+            "count": 1
+          },
+          {
+            "name": "GRADED BY FEW THINGS",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          },
+          {
+            "name": "EXTRA CREDIT",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CS521",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "EXTRA CREDIT",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTM5NDkyNzQz",
+      "legacy_id": 39492743,
+      "date": "2024-05-19 18:08:16 +0000 UTC",
+      "course": "CECS521",
+      "comment": "very good professor , not easy to pass though",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Participation matters",
+        "EXTRA CREDIT"
+      ],
+      "grade": "B+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4MDYzMDY4",
+      "legacy_id": 38063068,
+      "date": "2023-06-22 17:15:00 +0000 UTC",
+      "course": "CECS528",
+      "comment": "Had this professor for my web application course, learned a lot and could land a job just by learning the topics",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Amazing lectures",
+        "Clear grading criteria",
+        "Inspirational"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 3,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTM3NDIxNzUw",
+      "legacy_id": 37421750,
+      "date": "2023-02-10 00:47:27 +0000 UTC",
+      "course": "CECS528",
+      "comment": "Great professor",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "B+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 5,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTMyOTYyMTQ1",
+      "legacy_id": 32962145,
+      "date": "2020-03-09 20:58:38 +0000 UTC",
+      "course": "CS521",
+      "comment": "Great teacher",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Lots of homework",
+        "EXTRA CREDIT"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 5,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyMjY2NTE5",
+      "legacy_id": 32266519,
+      "date": "2019-10-06 23:25:53 +0000 UTC",
+      "course": "CECS521",
+      "comment": "mediocre professor not interesting in solving doubts. Will not provide any graded assignments back",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Graded by few things"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMjQ3MDMx",
+      "legacy_id": 31247031,
+      "date": "2019-01-12 02:26:33 +0000 UTC",
+      "course": "CECS521",
+      "comment": "Professor, although knowledgeable, did not teach the course well. He put in minimal effort (just read off slides). Did not give any homework and gave just one project the last few week of the semester. Lectures only scratched the surface of what was needed to be known. I do not recommend taking this professor.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 5.0,
+      "tags": [
+        "TEST HEAVY",
+        "GRADED BY FEW THINGS"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMjA2MzQy",
+      "legacy_id": 31206342,
+      "date": "2019-01-05 22:41:07 +0000 UTC",
+      "course": "CECS528",
+      "comment": "Worst teacher . Do not bother to clear doubts. Do not explain the topic being covered completely. No extra credit. Only two test to score and average needs to be 90+ to get A. Allows cheating and deserving candidates might suffer because of small mistakes in exam.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Tough Grader",
+        "GRADED BY FEW THINGS"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMTY0Mjky",
+      "legacy_id": 31164292,
+      "date": "2018-12-27 20:21:13 +0000 UTC",
+      "course": "CECS521",
+      "comment": "This professor gives you a Syllabus which actually doesn't match with the class content. Does not give you any feedback. Does not explain anything: &quot;It doesn't work and that's it&quot;. Would never take a class again with this professor.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough Grader",
+        "TEST HEAVY"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMTM4NTUz",
+      "legacy_id": 31138553,
+      "date": "2018-12-22 16:27:48 +0000 UTC",
+      "course": "CECS528",
+      "comment": "Believes in making student learn and sharing knowledge. Strengthen the base for the subject.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Inspirational",
+        "Caring",
+        "EXTRA CREDIT"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 8,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    }
+  ]
+}

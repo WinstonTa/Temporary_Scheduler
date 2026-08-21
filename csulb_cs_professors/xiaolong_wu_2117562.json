@@ -1,0 +1,162 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2117562",
+    "scraped_at": "2026-08-21T07:43:15.470348+00:00",
+    "graphql_id": "VGVhY2hlci0yMTE3NTYy",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2117562,
+    "first_name": "Xiaolong",
+    "last_name": "Wu",
+    "full_name": "Xiaolong Wu",
+    "department": "Computer Science",
+    "avg_rating": 1,
+    "avg_difficulty": 3,
+    "num_ratings_listed": 2,
+    "would_take_again_percent": 0.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 2,
+        "courseName": "CECS225"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 2,
+    "avg_quality": 1.0,
+    "avg_difficulty": 3.0,
+    "would_take_again_percent": 0.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Inspirational",
+        "count": 1
+      },
+      {
+        "name": "Hilarious",
+        "count": 1
+      },
+      {
+        "name": "Get ready to read",
+        "count": 1
+      },
+      {
+        "name": "GRADED BY FEW THINGS",
+        "count": 1
+      },
+      {
+        "name": "Tests are tough",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "B",
+        "count": 2
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 0,
+      "5": 0
+    },
+    "attendance": {
+      "mandatory": 1,
+      "non mandatory": 1
+    },
+    "courses": [
+      {
+        "course": "CECS225",
+        "review_count": 2,
+        "avg_quality": 1.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 0.0,
+        "top_tags": [
+          {
+            "name": "Inspirational",
+            "count": 1
+          },
+          {
+            "name": "Hilarious",
+            "count": 1
+          },
+          {
+            "name": "Get ready to read",
+            "count": 1
+          },
+          {
+            "name": "GRADED BY FEW THINGS",
+            "count": 1
+          },
+          {
+            "name": "Tests are tough",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTM2NjEwOTUz",
+      "legacy_id": 36610953,
+      "date": "2022-08-25 18:56:04 +0000 UTC",
+      "course": "CECS225",
+      "comment": "Does not care about his students and is very difficult to communicate with.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Inspirational",
+        "Hilarious"
+      ],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI5NDYwMjE1",
+      "legacy_id": 29460215,
+      "date": "2018-01-16 14:24:25 +0000 UTC",
+      "course": "CECS225",
+      "comment": "-Attendance not necessary. All PowerPoints uploaded. You will need to take notes + read on your own time. -Credit lies in labs, quizzes, and tests. Labs are take-home and and easy enough if you read the textbook and pps. -TESTS AND QUIZZES ARE TOTAL BULL. Half the quiz and test material is based off memorizing /test inputs/ for the labs.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Get ready to read",
+        "GRADED BY FEW THINGS",
+        "Tests are tough"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

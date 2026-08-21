@@ -1,0 +1,218 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/1808754",
+    "scraped_at": "2026-08-21T07:49:28.622496+00:00",
+    "graphql_id": "VGVhY2hlci0xODA4NzU0",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 1808754,
+    "first_name": "Brian",
+    "last_name": "Lojeck",
+    "full_name": "Brian Lojeck",
+    "department": "Computer Science",
+    "avg_rating": 4.3,
+    "avg_difficulty": 2.7,
+    "num_ratings_listed": 6,
+    "would_take_again_percent": null,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 5,
+        "courseName": "CECS201"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS301"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 6,
+    "avg_quality": 4.33,
+    "avg_difficulty": 2.67,
+    "would_take_again_percent": null,
+    "online_percent": 0.0,
+    "tag_counts": [],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 3
+      },
+      {
+        "name": "B",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 0,
+      "2": 2,
+      "3": 4,
+      "4": 0,
+      "5": 0
+    },
+    "attendance": {
+      "non mandatory": 1,
+      "mandatory": 2,
+      "Y": 1
+    },
+    "courses": [
+      {
+        "course": "CECS201",
+        "review_count": 5,
+        "avg_quality": 4.4,
+        "avg_difficulty": 2.8,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS301",
+        "review_count": 1,
+        "avg_quality": 4.0,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTI2NjAxMjI4",
+      "legacy_id": 26601228,
+      "date": "2016-05-17 19:13:24 +0000 UTC",
+      "course": "CECS201",
+      "comment": "No one likes Friday classes, but  it's worth taking with Lojeck. Great professor! I had to retake 201 b/c I had horrible new professor that did NOT teach. Professor Lojeck is one of the best professors I've had so far. There are labs and he does require you to demo them, but just ask for help.  He responds to emails frequently.  Curves the course.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1OTYyMjgw",
+      "legacy_id": 25962280,
+      "date": "2016-01-19 12:24:36 +0000 UTC",
+      "course": "CECS301",
+      "comment": "Brian is a cool dude and he tells you what is needed for an A in the class. Just stay on top of your labs and study for the midterms and final and it's a easy A. Midterms and finals were based off of the homework and example problems in class so don't skip class! He's also very helpful when you ask, and he does allow group work.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1MTU2OTg2",
+      "legacy_id": 25156986,
+      "date": "2015-08-28 04:32:07 +0000 UTC",
+      "course": "CECS201",
+      "comment": "He was clear, and funny.  His lectures were very good.  Worth taking it at 8 am on Friday (that was the hardest part).  I had no prior experience other than java and calc at the time.  Super cool dude.  As a CS major, it wasn't hard. Take your time, and maybe get a white board and a marker for mux connections. Felt good getting lights to blink.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI0Mjk0MjAw",
+      "legacy_id": 24294200,
+      "date": "2015-01-15 18:38:56 +0000 UTC",
+      "course": "CECS201",
+      "comment": "He is a really cool guy with plenty of experience from his work. His midterms and final are all from quizzes and homework. Quizzes themselves aren't too difficult if you put in the work to study beforehand. The homework is essential to understanding the material. He lectures quickly, but willing to stop if you have a question. Recommend him.",
+      "quality": 4.5,
+      "helpful": 5.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyMjQ4NzQ5",
+      "legacy_id": 22248749,
+      "date": "2013-11-03 18:13:24 +0000 UTC",
+      "course": "CECS201",
+      "comment": "He teaches well and gives good examples of concepts to help. If you do the homework and follow his guides, you will do well on quizzes and tests. If you don't understand a concept, he will help you, or you can read his lecture slides which help a lot too. Start your labs early and do HW and you should do well. Cool professor.",
+      "quality": 4.5,
+      "helpful": 4.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "Y",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIyMjI5Mzc2",
+      "legacy_id": 22229376,
+      "date": "2013-10-29 17:16:19 +0000 UTC",
+      "course": "CECS201",
+      "comment": "He's a pretty cool professor, but the class is all up to you. If you have question, be active in asking them or else he'll pass through the material. He doesn't use a book, but there is required circuit board to buy (100-150$) and free (5gb) software that needs to be downloaded.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

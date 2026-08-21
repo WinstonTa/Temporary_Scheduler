@@ -1,0 +1,428 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/3029247",
+    "scraped_at": "2026-08-21T07:40:34.326876+00:00",
+    "graphql_id": "VGVhY2hlci0zMDI5MjQ3",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 3029247,
+    "first_name": "Xin",
+    "last_name": "Qin",
+    "full_name": "Xin Qin",
+    "department": "Computer Science",
+    "avg_rating": 4.9,
+    "avg_difficulty": 1.8,
+    "num_ratings_listed": 11,
+    "would_take_again_percent": 100.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 11,
+        "courseName": "CECS329"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 11,
+    "avg_quality": 4.91,
+    "avg_difficulty": 1.82,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Caring",
+        "count": 6
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 5
+      },
+      {
+        "name": "Accessible outside class",
+        "count": 3
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 2
+      },
+      {
+        "name": "Lots of homework",
+        "count": 1
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 1
+      },
+      {
+        "name": "Hilarious",
+        "count": 1
+      },
+      {
+        "name": "Graded by few things",
+        "count": 1
+      },
+      {
+        "name": "Inspirational",
+        "count": 1
+      },
+      {
+        "name": "Respected",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 6
+      },
+      {
+        "name": "A+",
+        "count": 1
+      },
+      {
+        "name": "C+",
+        "count": 1
+      },
+      {
+        "name": "B",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 5,
+      "2": 5,
+      "3": 0,
+      "4": 0,
+      "5": 1
+    },
+    "attendance": {
+      "non mandatory": 7,
+      "mandatory": 2
+    },
+    "courses": [
+      {
+        "course": "CECS329",
+        "review_count": 11,
+        "avg_quality": 4.91,
+        "avg_difficulty": 1.82,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Caring",
+            "count": 6
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 5
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 3
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 2
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          },
+          {
+            "name": "Hilarious",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQxMjc4Mjcy",
+      "legacy_id": 41278272,
+      "date": "2025-05-14 09:32:54 +0000 UTC",
+      "course": "CECS329",
+      "comment": "easy class, easy work. Best prof I've ever met in college, and best NA server top 2 sup Overwatch player!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Amazing lectures",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxMjYwNzky",
+      "legacy_id": 41260792,
+      "date": "2025-05-13 01:25:58 +0000 UTC",
+      "course": "CECS329",
+      "comment": "Shes a new grad and understands the struggle. Probably equivalent to a elementary school class in terms of difficulty and workload. Have fun.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwOTc5MzI5",
+      "legacy_id": 40979329,
+      "date": "2025-04-21 05:53:59 +0000 UTC",
+      "course": "CECS329",
+      "comment": "amazingggggggggggggggg!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Amazing lectures",
+        "Lots of homework",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwOTQ5MTU0",
+      "legacy_id": 40949154,
+      "date": "2025-04-15 21:11:53 +0000 UTC",
+      "course": "CECS329",
+      "comment": "best professor and best gamer i have ever seen!!!!!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Amazing lectures",
+        "Clear grading criteria",
+        "Gives good feedback"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwODc2MjMz",
+      "legacy_id": 40876233,
+      "date": "2025-04-05 05:37:20 +0000 UTC",
+      "course": "CECS329",
+      "comment": "Take her if you can! She makes the hard topics easier to understand and works hard to help students.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Hilarious",
+        "Caring",
+        "Accessible outside class"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNzUzMDM1",
+      "legacy_id": 40753035,
+      "date": "2025-03-10 09:07:39 +0000 UTC",
+      "course": "CECS329",
+      "comment": "This subject is tough, but the professor makes it feel easy!  The professor was new so class was a bit unstructured but her grading was light: Homeworks,1 midterm, and 2 projects which were very easy! She also makes you go up and do these random presentations in front of the class but overall, she's a very kind professor who wants you to do well!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Caring",
+        "Graded by few things",
+        "Accessible outside class"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNzM4MzI0",
+      "legacy_id": 40738324,
+      "date": "2025-03-05 19:52:01 +0000 UTC",
+      "course": "CECS329",
+      "comment": "She is just amazing. She explains things well and is so friendly and nice.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Amazing lectures",
+        "Gives good feedback",
+        "Inspirational"
+      ],
+      "grade": "C+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNTczNjA1",
+      "legacy_id": 40573605,
+      "date": "2025-01-19 20:08:36 +0000 UTC",
+      "course": "CECS329",
+      "comment": "New to teaching, leading to unstructured scheduling but very passionate and enthusiastic. Class material presented by the professor. Overall good lectures and meaningful homework.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Amazing lectures",
+        "Caring",
+        "Accessible outside class"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwMzY5MTAx",
+      "legacy_id": 40369101,
+      "date": "2024-12-18 21:28:00 +0000 UTC",
+      "course": "CECS329",
+      "comment": "Brand new professor, so a little unstructured. Not heavy on the workload. Did take a long time to return midterm grades. Only thing is that she gave out homework literally on the LAST DAY OF FINALS.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Caring"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5OTA5ODMw",
+      "legacy_id": 39909830,
+      "date": "2024-11-07 20:49:02 +0000 UTC",
+      "course": "CECS329",
+      "comment": "Solid professor who is passionate about the subject.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5NzMxODQ5",
+      "legacy_id": 39731849,
+      "date": "2024-09-09 03:46:17 +0000 UTC",
+      "course": "CECS329",
+      "comment": "Very Amazing!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Respected"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

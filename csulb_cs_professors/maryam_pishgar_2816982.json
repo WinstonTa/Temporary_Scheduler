@@ -1,0 +1,524 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2816982",
+    "scraped_at": "2026-08-21T07:42:10.577129+00:00",
+    "graphql_id": "VGVhY2hlci0yODE2OTgy",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2816982,
+    "first_name": "Maryam",
+    "last_name": "Pishgar",
+    "full_name": "Maryam Pishgar",
+    "department": "Computer Science",
+    "avg_rating": 3.7,
+    "avg_difficulty": 2,
+    "num_ratings_listed": 12,
+    "would_take_again_percent": 66.7,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 6,
+        "courseName": "CECS229"
+      },
+      {
+        "courseCount": 4,
+        "courseName": "CECS456"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CSCE457"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "IS380"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 12,
+    "avg_quality": 3.67,
+    "avg_difficulty": 2.0,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Caring",
+        "count": 7
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 3
+      },
+      {
+        "name": "Group projects",
+        "count": 3
+      },
+      {
+        "name": "Hilarious",
+        "count": 2
+      },
+      {
+        "name": "Respected",
+        "count": 2
+      },
+      {
+        "name": "Lots of homework",
+        "count": 2
+      },
+      {
+        "name": "Participation matters",
+        "count": 2
+      },
+      {
+        "name": "Accessible outside class",
+        "count": 2
+      },
+      {
+        "name": "Graded by few things",
+        "count": 1
+      },
+      {
+        "name": "Test heavy",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 6
+      },
+      {
+        "name": "A+",
+        "count": 2
+      },
+      {
+        "name": "Drop/Withdrawal",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 6,
+      "2": 0,
+      "3": 6,
+      "4": 0,
+      "5": 0
+    },
+    "attendance": {
+      "non mandatory": 9,
+      "mandatory": 2
+    },
+    "courses": [
+      {
+        "course": "CECS229",
+        "review_count": 6,
+        "avg_quality": 4.33,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Caring",
+            "count": 5
+          },
+          {
+            "name": "Hilarious",
+            "count": 2
+          },
+          {
+            "name": "Respected",
+            "count": 2
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 2
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          },
+          {
+            "name": "Participation matters",
+            "count": 1
+          },
+          {
+            "name": "Group projects",
+            "count": 1
+          },
+          {
+            "name": "Test heavy",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS456",
+        "review_count": 4,
+        "avg_quality": 3.0,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Group projects",
+            "count": 2
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          },
+          {
+            "name": "Participation matters",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "IS380",
+        "review_count": 1,
+        "avg_quality": 1.0,
+        "avg_difficulty": 1.0,
+        "would_take_again_percent": null,
+        "top_tags": [
+          {
+            "name": "Graded by few things",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CSCE457",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTM4NzM4Mzg2",
+      "legacy_id": 38738386,
+      "date": "2023-12-19 04:45:45 +0000 UTC",
+      "course": "IS380",
+      "comment": "Didn't teach us what we were supposed to learn, which was SQL. Spent half of the semester doing useless machine learning assignments that required us to code, despite the class expressing that we all were either taking Python for the first time or have no knowledge of it. Just reused old lecture videos. You won't learn anything new taking her.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Graded by few things"
+      ],
+      "grade": "Drop/Withdrawal",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4MDY2MDM1",
+      "legacy_id": 38066035,
+      "date": "2023-06-23 21:43:06 +0000 UTC",
+      "course": "CECS456",
+      "comment": "I learned nothing from her since she doesn't teach. She cancelled almost all of our classes and she didn't even check our FEW assignments so we never got any feedback. She just assigns random assignments that she doesn't even check just so it can even be considered a class, or else we would have nothing to do. Worst professor ever.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3NDU0OTEz",
+      "legacy_id": 37454913,
+      "date": "2023-02-24 01:39:42 +0000 UTC",
+      "course": "CECS229",
+      "comment": "This prof is so nice and understanding, would definitely recommend!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Hilarious",
+        "Caring",
+        "Respected"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 6,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3NDAzNTE3",
+      "legacy_id": 37403517,
+      "date": "2023-02-02 23:52:09 +0000 UTC",
+      "course": "CECS229",
+      "comment": "Very caring, understanding, and educated professor. She makes sure to bond with her students very well, which makes the learning experience wayy easier. As long as you show up and complete your assignments, Its almost impossible to get anything less than an A.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Amazing lectures",
+        "Hilarious",
+        "Caring"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 4,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3Mzc2NzE2",
+      "legacy_id": 37376716,
+      "date": "2023-01-25 07:54:54 +0000 UTC",
+      "course": "CECS456",
+      "comment": "She is so caring, and we had an assignment each sessions. We had a midterm project as well.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Group projects",
+        "Lots of homework",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 4,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3MzM4Mjgy",
+      "legacy_id": 37338282,
+      "date": "2023-01-16 05:43:17 +0000 UTC",
+      "course": "CECS456",
+      "comment": "You will receive an A if you often go to class, no quizzes, no exams, and you learn nothing as well \nShe canceled half of the classes",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3MjU5MDE4",
+      "legacy_id": 37259018,
+      "date": "2022-12-29 06:46:00 +0000 UTC",
+      "course": "CSCE457",
+      "comment": "Dr. Pishgar knows the application of Machine Learning in real life, she teaches a new Machine Learning Algo each session of class for 45 min then she gives the students a dataset to build Machine Learning model during the class time, she also provides 1 week for due date. Even though she is knowledgeable in this field she is so chill, nice, pretty!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Amazing lectures",
+        "Lots of homework",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3MjU4OTky",
+      "legacy_id": 37258992,
+      "date": "2022-12-29 06:37:12 +0000 UTC",
+      "course": "CECS456",
+      "comment": "Professor Pishgar is a real Data Scientist, she is very caring, she is very up to date and teaches all new machine learning algorithms not just the traditional ones. Every session she teaches one ML algorithm, and gives us one assignment to do during the class time. She also helps a lot with the supporting her students with finding jobs and recom.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Participation matters",
+        "Group projects",
+        "Amazing lectures"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3MTYxNDky",
+      "legacy_id": 37161492,
+      "date": "2022-12-16 22:30:02 +0000 UTC",
+      "course": "CECS229",
+      "comment": "Cool professor! Forgiving if you do all the quizzes and assignments, and study for the exams. Also grades based on group work and participation, an easy A if you manage to do all of the above. Always available to help during office hours. Some self-study might be needed but it's not so bad. I would recommend taking her for any class she teaches.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Participation matters",
+        "Caring",
+        "Accessible outside class"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3MDk0NjUz",
+      "legacy_id": 37094653,
+      "date": "2022-12-14 17:12:43 +0000 UTC",
+      "course": "CECS229",
+      "comment": "Professor Pishgar is a very caring, loving, and learned teacher. She is always available for extra help during office hours, and never fails to help in every way possible. I would definitely take her for other classes, and would recommend others to do so also. None of her students receive anything less than an A.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Group projects",
+        "Caring",
+        "Accessible outside class"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3MTAwNDY4",
+      "legacy_id": 37100468,
+      "date": "2022-12-13 20:22:06 +0000 UTC",
+      "course": "CECS229",
+      "comment": "Professional and very accommodating would 100% take again!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Caring",
+        "Respected",
+        "Test heavy"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2OTIyODAy",
+      "legacy_id": 36922802,
+      "date": "2022-11-30 17:51:26 +0000 UTC",
+      "course": "CECS229",
+      "comment": "She canceled most of our class meeting times without much reason. Very easy A as long as you find youtube videos or good websites. She did not teach much of anything and relied on other professor's work to teach. Favorite part is when she flexed her daily salary from her 2 companies on us.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

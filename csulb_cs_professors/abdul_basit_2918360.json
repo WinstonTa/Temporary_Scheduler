@@ -1,0 +1,444 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2918360",
+    "scraped_at": "2026-08-21T07:33:01.607122+00:00",
+    "graphql_id": "VGVhY2hlci0yOTE4MzYw",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2918360,
+    "first_name": "Abdul",
+    "last_name": "Basit",
+    "full_name": "Abdul Basit",
+    "department": "Computer Science",
+    "avg_rating": 4.3,
+    "avg_difficulty": 2.1,
+    "num_ratings_listed": 9,
+    "would_take_again_percent": 90.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 8,
+        "courseName": "343"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS343"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 10,
+    "avg_quality": 4.4,
+    "avg_difficulty": 2.0,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Caring",
+        "count": 3
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 3
+      },
+      {
+        "name": "EXTRA CREDIT",
+        "count": 2
+      },
+      {
+        "name": "Respected",
+        "count": 2
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 2
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 2
+      },
+      {
+        "name": "Hilarious",
+        "count": 2
+      },
+      {
+        "name": "Beware of pop quizzes",
+        "count": 1
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 1
+      },
+      {
+        "name": "Group projects",
+        "count": 1
+      },
+      {
+        "name": "Accessible outside class",
+        "count": 1
+      },
+      {
+        "name": "Inspirational",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 4
+      },
+      {
+        "name": "A+",
+        "count": 2
+      },
+      {
+        "name": "B",
+        "count": 2
+      },
+      {
+        "name": "B+",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 3,
+      "2": 4,
+      "3": 3,
+      "4": 0,
+      "5": 0
+    },
+    "attendance": {
+      "non mandatory": 7,
+      "mandatory": 2
+    },
+    "courses": [
+      {
+        "course": "343",
+        "review_count": 8,
+        "avg_quality": 4.38,
+        "avg_difficulty": 2.12,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Amazing lectures",
+            "count": 3
+          },
+          {
+            "name": "Caring",
+            "count": 2
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 2
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 2
+          },
+          {
+            "name": "Hilarious",
+            "count": 2
+          },
+          {
+            "name": "Group projects",
+            "count": 1
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 1
+          },
+          {
+            "name": "Inspirational",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS343",
+        "review_count": 2,
+        "avg_quality": 4.5,
+        "avg_difficulty": 1.5,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "EXTRA CREDIT",
+            "count": 2
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          },
+          {
+            "name": "Respected",
+            "count": 1
+          },
+          {
+            "name": "Beware of pop quizzes",
+            "count": 1
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQzMzE1MDk2",
+      "legacy_id": 43315096,
+      "date": "2026-07-21 05:35:05 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Abdul Basit is a really good professor. He truly cares about his students and gives a lot of extra credit opportunity. His exams are easy because they come directly from the class slides. As long as you pay attention in class, you should pass without any problems. If you ask, he is also willing to extend homework or assignment deadlines. Best prof.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "EXTRA CREDIT",
+        "Caring",
+        "Respected"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQzMjkwNzIx",
+      "legacy_id": 43290721,
+      "date": "2026-07-07 04:36:22 +0000 UTC",
+      "course": "CECS343",
+      "comment": "He'll make sure you pass. He asks the class what we want on the tests, tells us what to study, gives EC. Has a lot of industry experience and will talk about it if you ask. Definitely pay attention during lecture since he can speak fast. I didn't like that he used AI to generate his HW and quizzes, though. Otherwise an easy class.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [
+        "EXTRA CREDIT",
+        "Beware of pop quizzes",
+        "Lecture heavy"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxODg1MTUw",
+      "legacy_id": 41885150,
+      "date": "2025-12-12 08:02:33 +0000 UTC",
+      "course": "343",
+      "comment": "The Professor clearly cares about his students and will go above and beyond for them. He is a tad bit unorganized when it comes to assignment instructions but it's worth it to learn new topics from him.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Group projects",
+        "Caring",
+        "Accessible outside class"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyMDM5NDQ2",
+      "legacy_id": 42039446,
+      "date": "2025-12-04 19:27:26 +0000 UTC",
+      "course": "343",
+      "comment": "Amazing professor there is a structure when it comes to consistency with power points and there are about two or three quizzes with a few projects. The amount of quizzes are flexible, but there is balance because the lowest quiz score get dropped. This class is doable if you memorize material and go over the PowerPoint yourselves as well.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Amazing lectures",
+        "Clear grading criteria",
+        "Gives good feedback"
+      ],
+      "grade": "B+",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyMDI0NDk1",
+      "legacy_id": 42024495,
+      "date": "2025-12-04 00:26:29 +0000 UTC",
+      "course": "343",
+      "comment": "One of the worst professors in comp sci department at CSULB which is saying something. Absolutely no structure to his class and you will not learn ANYTHING. Literally asks us in class how many quizzes and projects we want and the questions are very difficult to prepare for. Not a difficult class just don't expect to gain anything from taking him.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxNDg4NjEy",
+      "legacy_id": 41488612,
+      "date": "2025-07-08 15:23:59 +0000 UTC",
+      "course": "343",
+      "comment": "The Professor is a very nice person. He is willing to help you if you ask for help. My only issue was that the assignments didn't provide enough points to equate to the difficulty. Quizzes and exams are closed book and in person. No review sheet for exams. You will need to put the effort to get an A in the class.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxNDA1MDA3",
+      "legacy_id": 41405007,
+      "date": "2025-06-05 16:21:29 +0000 UTC",
+      "course": "343",
+      "comment": "Amazing professor! His lectures are really engaging and full of interesting content &#8212; I learned a lot. He's also super kind and funny, which makes the class even more enjoyable. Just be sure to complete all the assignments; they play a big role in your grade. Highly recommend!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Amazing lectures",
+        "Inspirational",
+        "Hilarious"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxMzY0Njc5",
+      "legacy_id": 41364679,
+      "date": "2025-05-26 09:36:12 +0000 UTC",
+      "course": "343",
+      "comment": "Great professor! Has a generous and friendly way of teaching students which helps in studying well for the course. Understands student's difficulties and helps overcome them effectively. Had good experience learning for his course.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4MDk3MDAw",
+      "legacy_id": 38097000,
+      "date": "2023-07-11 04:20:24 +0000 UTC",
+      "course": "343",
+      "comment": "THE BEST PROFESSOR IN CSULB! I wish he teaches more undergrad classes. I learned so much from him. I wouldn't recommend skipping the class because everything on the quizzes and test is actually from the class so you have to listen. \n\nPS: Professor. if you're reading this, Thank you so much! I really enjoyed the class :)",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Hilarious",
+        "Caring",
+        "Respected"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4MDgwMjY1",
+      "legacy_id": 38080265,
+      "date": "2023-07-01 04:36:15 +0000 UTC",
+      "course": "343",
+      "comment": "This teacher is one of the best at CSULB. He's really nice and treats everyone in the class fairly, and listens when we have questions or ideas. You can tell he really cares about us learning and doing our best. He really knows his stuff, cares about his students, and makes learning a blast. For quizzes and tests, he clearly sets the criteria.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Amazing lectures",
+        "Clear grading criteria",
+        "Gives good feedback"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

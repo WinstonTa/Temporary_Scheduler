@@ -1,0 +1,83 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2264548",
+    "scraped_at": "2026-08-21T07:48:55.965361+00:00",
+    "graphql_id": "VGVhY2hlci0yMjY0NTQ4",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2264548,
+    "first_name": "Rana",
+    "last_name": "Forsati",
+    "full_name": "Rana Forsati",
+    "department": "Computer Science",
+    "avg_rating": 5,
+    "avg_difficulty": 3,
+    "num_ratings_listed": 1,
+    "would_take_again_percent": 100.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 1,
+        "courseName": "CECS326"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 1,
+    "avg_quality": 5.0,
+    "avg_difficulty": 3.0,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [],
+    "grade_counts": [],
+    "difficulty_histogram": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 0
+    },
+    "attendance": {},
+    "courses": [
+      {
+        "course": "CECS326",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": []
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTI4NzE2NzIz",
+      "legacy_id": 28716723,
+      "date": "2017-10-04 20:44:14 +0000 UTC",
+      "course": "CECS326",
+      "comment": "Professor Forsati is probably one of the best professors that I have ever had. Her lectures are so helpful in understanding the course material. Because this course is content heavy, she makes it easy to learn and gives great examples. Highly recommend taking her course!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 6,
+      "thumbs_down": 15,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

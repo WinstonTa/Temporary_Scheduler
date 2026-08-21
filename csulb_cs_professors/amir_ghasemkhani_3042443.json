@@ -1,0 +1,364 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/3042443",
+    "scraped_at": "2026-08-21T07:40:18.639816+00:00",
+    "graphql_id": "VGVhY2hlci0zMDQyNDQz",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 3042443,
+    "first_name": "Amir",
+    "last_name": "Ghasemkhani",
+    "full_name": "Amir Ghasemkhani",
+    "department": "Computer Science",
+    "avg_rating": 2.9,
+    "avg_difficulty": 4.1,
+    "num_ratings_listed": 7,
+    "would_take_again_percent": 42.9,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 2,
+        "courseName": "CECS229"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "CECS329"
+      },
+      {
+        "courseCount": 3,
+        "courseName": "CECS456"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 7,
+    "avg_quality": 2.86,
+    "avg_difficulty": 4.14,
+    "would_take_again_percent": 100.0,
+    "online_percent": 0.0,
+    "tag_counts": [
+      {
+        "name": "Lecture heavy",
+        "count": 3
+      },
+      {
+        "name": "Beware of pop quizzes",
+        "count": 2
+      },
+      {
+        "name": "Lots of homework",
+        "count": 2
+      },
+      {
+        "name": "EXTRA CREDIT",
+        "count": 1
+      },
+      {
+        "name": "Tough grader",
+        "count": 1
+      },
+      {
+        "name": "Clear grading criteria",
+        "count": 1
+      },
+      {
+        "name": "Group projects",
+        "count": 1
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 1
+      },
+      {
+        "name": "Caring",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A+",
+        "count": 1
+      },
+      {
+        "name": "D",
+        "count": 1
+      },
+      {
+        "name": "A-",
+        "count": 1
+      },
+      {
+        "name": "B+",
+        "count": 1
+      },
+      {
+        "name": "A",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 4,
+      "5": 2
+    },
+    "attendance": {
+      "non mandatory": 5,
+      "mandatory": 1
+    },
+    "courses": [
+      {
+        "course": "CECS456",
+        "review_count": 3,
+        "avg_quality": 4.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Lecture heavy",
+            "count": 2
+          },
+          {
+            "name": "Lots of homework",
+            "count": 2
+          },
+          {
+            "name": "Clear grading criteria",
+            "count": 1
+          },
+          {
+            "name": "Beware of pop quizzes",
+            "count": 1
+          },
+          {
+            "name": "Group projects",
+            "count": 1
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS329",
+        "review_count": 2,
+        "avg_quality": 3.0,
+        "avg_difficulty": 3.5,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "EXTRA CREDIT",
+            "count": 1
+          },
+          {
+            "name": "Beware of pop quizzes",
+            "count": 1
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 1
+          },
+          {
+            "name": "Tough grader",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS229",
+        "review_count": 2,
+        "avg_quality": 1.0,
+        "avg_difficulty": 5.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQxNDg2Mjkw",
+      "legacy_id": 41486290,
+      "date": "2025-07-07 18:09:57 +0000 UTC",
+      "course": "CECS329",
+      "comment": "I took 329 in the summer, it was fast-paced and sometimes challenging. The professor was helpful, using Ebert's notes but adding his own examples and focusing on tougher topics. The summer course had quizzes every class, 3 homework assignments, & 2 exams with extra credit questions. It's a hard class, but manageable if you stay on top of the work.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "EXTRA CREDIT",
+        "Beware of pop quizzes",
+        "Lecture heavy"
+      ],
+      "grade": "A+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxMzM1NjE0",
+      "legacy_id": 41335614,
+      "date": "2025-05-21 02:38:48 +0000 UTC",
+      "course": "CECS329",
+      "comment": "This class was so hard..... graded very hard with quizzes and you weren't allowed notes compared to 456. Quizzes tank your grade hard if you don't do decent on them. Tests were ok - one page cheat sheet allowed. He reads off the lecture note slides (which are Todd's btw) and isn't that great at explaining. He is nice and approachable though.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader"
+      ],
+      "grade": "D",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxMzMzMDcy",
+      "legacy_id": 41333072,
+      "date": "2025-05-20 21:29:18 +0000 UTC",
+      "course": "CECS456",
+      "comment": "Amir Ghasemkhani makes understanding ML doable. His homework is done entirely through Jupyter Notebook and revolves around Python Libraries. There is a Final Project where you implement your own ML project. As long as you apply what you did in the HW you should be fine. There are 9 Quizzes through Canvas (MCQ). A Final which was 50 MCQ and 4 FRQ.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Clear grading criteria",
+        "Beware of pop quizzes",
+        "Lecture heavy"
+      ],
+      "grade": "A-",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQxMzA5ODA3",
+      "legacy_id": 41309807,
+      "date": "2025-05-17 04:48:42 +0000 UTC",
+      "course": "CECS456",
+      "comment": "He's a good professor. Teaches ML concepts pretty well, weekly homework was fun to do if you're into implementing and training ML models, and have weekly quizzes. We have a final group project and a final exam. However, the final (cumulative) was very difficult, just be sure to study as much as possible because every concept is covered on it.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Group projects",
+        "Lots of homework",
+        "Lecture heavy"
+      ],
+      "grade": "B+",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwMTU5NTAx",
+      "legacy_id": 40159501,
+      "date": "2024-12-08 17:57:51 +0000 UTC",
+      "course": "CECS229",
+      "comment": "On the syllabus, there was no grading category for attendance and didn't mention it was mandatory. Closer to the end of the semester, a new grading category appears on Canvas labeled 'Attendance'. He was secretly grading for attendance without telling us.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5OTYzMzAz",
+      "legacy_id": 39963303,
+      "date": "2024-11-16 23:34:22 +0000 UTC",
+      "course": "CECS456",
+      "comment": "Amir does the job when it comes to giving lectures. Nothing special, but the assignments he gives are insightful and helped a lot with the learning of this course. The project had a lot of cool applications to the real world and taught the lecture material well.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Lots of homework",
+        "Caring"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5OTA5MDMz",
+      "legacy_id": 39909033,
+      "date": "2024-11-07 19:14:46 +0000 UTC",
+      "course": "CECS229",
+      "comment": "It is difficult to understand the professor, and when asked to reiterate part of the lecture, he is unable to answer a specific question clearly. When making a mistake on the homework, he doesn't announce the mistake or give students additional time to fix their code for the mistake he made. Not available for office hours.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

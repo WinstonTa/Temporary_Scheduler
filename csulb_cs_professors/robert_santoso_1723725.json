@@ -1,0 +1,175 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/1723725",
+    "scraped_at": "2026-08-21T07:44:03.316917+00:00",
+    "graphql_id": "VGVhY2hlci0xNzIzNzI1",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 1723725,
+    "first_name": "Robert",
+    "last_name": "Santoso",
+    "full_name": "Robert Santoso",
+    "department": "Computer Science",
+    "avg_rating": 1.1,
+    "avg_difficulty": 3.5,
+    "num_ratings_listed": 4,
+    "would_take_again_percent": 0.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 3,
+        "courseName": "CECS448"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS406"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 4,
+    "avg_quality": 1.12,
+    "avg_difficulty": 3.5,
+    "would_take_again_percent": 0.0,
+    "online_percent": 25.0,
+    "tag_counts": [
+      {
+        "name": "Group projects",
+        "count": 1
+      }
+    ],
+    "grade_counts": [],
+    "difficulty_histogram": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 2,
+      "5": 0
+    },
+    "attendance": {
+      "non mandatory": 1
+    },
+    "courses": [
+      {
+        "course": "CECS448",
+        "review_count": 3,
+        "avg_quality": 1.17,
+        "avg_difficulty": 3.33,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS406",
+        "review_count": 1,
+        "avg_quality": 1.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 0.0,
+        "top_tags": [
+          {
+            "name": "Group projects",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTM1MzI4MDgx",
+      "legacy_id": 35328081,
+      "date": "2021-12-01 00:25:02 +0000 UTC",
+      "course": "CECS406",
+      "comment": "Made us all do a class project that incorporated Machine Learning, Blockchain, Elastic Search, and integrating. No one knew these topics at all but he basically said figure it out and didn't help at all. Sat back and let two other people lecture for him, just throwing in his feedback when he felt like it. Barely taught content relative to the class",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Group projects"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTIwMzA3NTgz",
+      "legacy_id": 20307583,
+      "date": "2012-05-18 01:53:43 +0000 UTC",
+      "course": "CECS448",
+      "comment": "Who's class is it anyway? The assignments are made up and the points don't matter. Did not teach how to do a single project. Has expectations only after you've failed at them.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIwMjk2NjU5",
+      "legacy_id": 20296659,
+      "date": "2012-05-16 18:06:01 +0000 UTC",
+      "course": "CECS448",
+      "comment": "Worst lecturer I have ever taken. Gives almost no indication of what he wants for projects, nobody knows what he is grading based on. We did 3 projects, were given no feedback on any of them besides peer review. Can barely understand questions on exams because of poor grammar. Do not hire this man, do not take his class. Avoid at all cost.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIwMjgzNDQ2",
+      "legacy_id": 20283446,
+      "date": "2012-05-15 04:41:47 +0000 UTC",
+      "course": "CECS448",
+      "comment": "Very unclear, inconsistent and unhelpful professor. Does not follow his syllabus and has no clear structure in his lectures or expectations to his assigned projects. He has no UI experience and shouldn't be allowed to teach this course!",
+      "quality": 1.5,
+      "helpful": 1.0,
+      "clarity": 2.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 4.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

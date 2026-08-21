@@ -1,0 +1,873 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2301909",
+    "scraped_at": "2026-08-21T07:34:23.012196+00:00",
+    "graphql_id": "VGVhY2hlci0yMzAxOTA5",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2301909,
+    "first_name": "Jucheol",
+    "last_name": "Moon",
+    "full_name": "Jucheol Moon",
+    "department": "Computer Science",
+    "avg_rating": 3.9,
+    "avg_difficulty": 4.1,
+    "num_ratings_listed": 18,
+    "would_take_again_percent": 80.0,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 1,
+        "courseName": "CECS327"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS341"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS424"
+      },
+      {
+        "courseCount": 11,
+        "courseName": "CECS451"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS524"
+      },
+      {
+        "courseCount": 4,
+        "courseName": "CECS551"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS228"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 20,
+    "avg_quality": 3.9,
+    "avg_difficulty": 4.15,
+    "would_take_again_percent": 100.0,
+    "online_percent": 5.0,
+    "tag_counts": [
+      {
+        "name": "Lecture heavy",
+        "count": 6
+      },
+      {
+        "name": "Tough grader",
+        "count": 5
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 5
+      },
+      {
+        "name": "Caring",
+        "count": 5
+      },
+      {
+        "name": "Accessible outside class",
+        "count": 4
+      },
+      {
+        "name": "Lots of homework",
+        "count": 4
+      },
+      {
+        "name": "Respected",
+        "count": 4
+      },
+      {
+        "name": "Test heavy",
+        "count": 3
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 3
+      },
+      {
+        "name": "Graded by few things",
+        "count": 1
+      },
+      {
+        "name": "Get ready to read",
+        "count": 1
+      },
+      {
+        "name": "Group projects",
+        "count": 1
+      },
+      {
+        "name": "Inspirational",
+        "count": 1
+      },
+      {
+        "name": "EXTRA CREDIT",
+        "count": 1
+      },
+      {
+        "name": "ACCESSIBLE OUTSIDE CLASS",
+        "count": 1
+      },
+      {
+        "name": "Tough Grader",
+        "count": 1
+      },
+      {
+        "name": "GRADED BY FEW THINGS",
+        "count": 1
+      },
+      {
+        "name": "LECTURE HEAVY",
+        "count": 1
+      },
+      {
+        "name": "Skip class? You won't pass.",
+        "count": 1
+      },
+      {
+        "name": "LOTS OF HOMEWORK",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "B",
+        "count": 6
+      },
+      {
+        "name": "A",
+        "count": 5
+      },
+      {
+        "name": "Rather not say",
+        "count": 2
+      },
+      {
+        "name": "A-",
+        "count": 1
+      },
+      {
+        "name": "B+",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 11,
+      "5": 6
+    },
+    "attendance": {
+      "non mandatory": 15,
+      "mandatory": 2
+    },
+    "courses": [
+      {
+        "course": "CECS451",
+        "review_count": 11,
+        "avg_quality": 3.91,
+        "avg_difficulty": 4.36,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Tough grader",
+            "count": 4
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 4
+          },
+          {
+            "name": "Caring",
+            "count": 4
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 3
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 3
+          },
+          {
+            "name": "Lots of homework",
+            "count": 3
+          },
+          {
+            "name": "Respected",
+            "count": 3
+          },
+          {
+            "name": "Test heavy",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "course": "CECS551",
+        "review_count": 4,
+        "avg_quality": 4.0,
+        "avg_difficulty": 4.25,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Tough grader",
+            "count": 1
+          },
+          {
+            "name": "Test heavy",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 1
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "Group projects",
+            "count": 1
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS424",
+        "review_count": 1,
+        "avg_quality": 4.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS524",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Inspirational",
+            "count": 1
+          },
+          {
+            "name": "EXTRA CREDIT",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS228",
+        "review_count": 1,
+        "avg_quality": 4.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Respected",
+            "count": 1
+          },
+          {
+            "name": "ACCESSIBLE OUTSIDE CLASS",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS327",
+        "review_count": 1,
+        "avg_quality": 3.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Tough Grader",
+            "count": 1
+          },
+          {
+            "name": "GRADED BY FEW THINGS",
+            "count": 1
+          },
+          {
+            "name": "LECTURE HEAVY",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS341",
+        "review_count": 1,
+        "avg_quality": 3.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          },
+          {
+            "name": "LOTS OF HOMEWORK",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQzMjU5MDM4",
+      "legacy_id": 43259038,
+      "date": "2026-06-18 23:20:56 +0000 UTC",
+      "course": "CECS451",
+      "comment": "He stopped posting lecture notes after seeing low grades for our first exam. Attending the lecture is highly recommended. Exams include fill-in and multiple-choice questions; be wary of both. Exams refer to lectures and assignments. There was a curve at the end of the course. The final group project direction was unclear but manageable.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Lecture heavy"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQzMTk1MjE2",
+      "legacy_id": 43195216,
+      "date": "2026-05-26 18:20:27 +0000 UTC",
+      "course": "CECS451",
+      "comment": "The one thing that I really disliked from the class is that he no longer posts the lecture notes on Canvas. This means you have to follow along with him in class, but he goes too fast for you to take notes. And the notes get really complicated near the end of the semester.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": "Rather not say",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQzMDg5NDgz",
+      "legacy_id": 43089483,
+      "date": "2026-05-11 03:27:07 +0000 UTC",
+      "course": "CECS451",
+      "comment": "Moon is a knowledgeable professor who wants his students to succeed, but the class is challenging. He grades the term project strictly, and exams (three worth 20% each) include multiple choice and FRQs based on lectures and assignments. He is also very approachable and helpful.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Amazing lectures",
+        "Test heavy"
+      ],
+      "grade": "A-",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQyNDE1NDIw",
+      "legacy_id": 42415420,
+      "date": "2025-12-30 01:04:23 +0000 UTC",
+      "course": "CECS451",
+      "comment": "Moon is a great professor! His lectures really help with understanding the topics. Many assignments, but not that hard if you set a couple days to do them. Exams were fair, study slides and do examples in slides/ labs on your own. Slight curve at the end.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Amazing lectures",
+        "Caring",
+        "Lecture heavy"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwOTc0OTcw",
+      "legacy_id": 40974970,
+      "date": "2025-04-18 06:38:45 +0000 UTC",
+      "course": "CECS451",
+      "comment": "Moon is an amazing professor! His lectures are great and give challenging homework assignments. Moon is accessible outside of class and genuinely cares about helping students. Exams are fair and give the topics to study. Put in the work and you'll do great in the class.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Amazing lectures",
+        "Caring",
+        "Accessible outside class"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNjM0Njk4",
+      "legacy_id": 40634698,
+      "date": "2025-02-03 21:05:24 +0000 UTC",
+      "course": "CECS551",
+      "comment": "Professor Moon helped me frame the stepping stones of going deep in artificial intelligence, his course structure is very streamlined and he is really helpful for diligent students\n\nTips:\nStudy in advance if you want to make the  most out of classes.\nExams will be tough, be prepared for derivations and subjective problems if you are aiming for A",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNjEwNTA5",
+      "legacy_id": 40610509,
+      "date": "2025-01-28 01:45:35 +0000 UTC",
+      "course": "CECS451",
+      "comment": "This class was the worst elective I have ever taken. The professor takes students who do not know anything about artificial intelligence, a fun sounding class, and puts an excessive amount of probability and statistics topics that are simply not enjoyable or easy to comprehend. The class is difficult and the professor does not help",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Test heavy"
+      ],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwNDcxMTUy",
+      "legacy_id": 40471152,
+      "date": "2025-01-02 16:40:58 +0000 UTC",
+      "course": "CECS551",
+      "comment": "2 midterms, 1 final. Are the majority of the grade. \nExams are a bit difficult because he won't ask questions directly from lectures, related but not exact. \nIn lectures, he will go over many theoretical concepts but not much practicality. You would have to learn the practical things in your own ( labs )",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Test heavy",
+        "Graded by few things"
+      ],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTQwMzg1ODI3",
+      "legacy_id": 40385827,
+      "date": "2024-12-19 20:56:39 +0000 UTC",
+      "course": "CECS551",
+      "comment": "Math for the course can be difficult but he does a pretty good job teaching it. He has an accent but it rarely impeded my learning. I attended office 2 or 3 times over the semester and what I learned was definitely worth the effort. Homework is fair and feel like they really apply outside school. Seems to be a good guy if you want to research.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Amazing lectures",
+        "Accessible outside class"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2NDc0ODM2",
+      "legacy_id": 36474836,
+      "date": "2022-06-19 23:47:07 +0000 UTC",
+      "course": "CECS451",
+      "comment": "Professor moon is a super cool guy, very understanding with deadlines and extensions. However, be prepared for a difficult course. Most of your grade is dependent on quizzes and weekly programming assignments. Course is curved so if you take good notes during lecture and finish the assignments, you will most likely pass.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Lots of homework",
+        "Respected"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2MjgzODA4",
+      "legacy_id": 36283808,
+      "date": "2022-05-09 09:12:46 +0000 UTC",
+      "course": "CECS451",
+      "comment": "This was not an easy course, but Moon makes it doable. Assignments were coded in python and handwritten and relates to the lecture. Moon at times extended assignments. Especially the latter half of the course is stats heavy, so please pay attention. This class is very time consuming. Dr. Moon is one of the best professors, please take him.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Lots of homework",
+        "Lecture heavy",
+        "Accessible outside class"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM1NTIyMzMz",
+      "legacy_id": 35522333,
+      "date": "2021-12-14 20:28:14 +0000 UTC",
+      "course": "CECS451",
+      "comment": "It's not an easy course but Moon makes it bearable. 13 HW assignments and 4 quizzes + final. Lectures are well organized and he doesn't pull anything unfair on his quizzes. HW is done in Python and he's very generous with extensions. Second half is heavily stats based so review your EE381. One of the best professors here, take him if you can.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Respected",
+        "Accessible outside class",
+        "Caring"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM0NjU4MzMw",
+      "legacy_id": 34658330,
+      "date": "2021-04-29 16:58:48 +0000 UTC",
+      "course": "CECS451",
+      "comment": "Great professor! His AI course is hard but Moon teaches the material well and is always accessible outside of class if you need help. Posts all lectures online. Labs consist of weekly Python projects that relate to his lectures. Exams are hard, but he curves at the end of the semester. 451 is hard but you get what you put in his class. Recommend!",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Lots of homework",
+        "Get ready to read",
+        "Lecture heavy"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzMjkyMjk3",
+      "legacy_id": 33292297,
+      "date": "2020-05-14 05:17:31 +0000 UTC",
+      "course": "CECS551",
+      "comment": "Knows material really well. Helpful at all times. There are assignments due almost every week. Tests are pretty challenging. Group Projects are helpful to learn material. Overall great professor. One of the best professors in the CECS department for Computer Science",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Lots of homework",
+        "Group projects",
+        "Lecture heavy"
+      ],
+      "grade": "B+",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyMTk5MTQ2",
+      "legacy_id": 32199146,
+      "date": "2019-08-27 04:01:30 +0000 UTC",
+      "course": "CECS451",
+      "comment": "Tough but forgiving professor. Decent at explaining concepts (although it did get confusing at times, but then again it was an AI class so you know...). Expect to put in a lot of work in this class. Pick your programming groups wisely! He also read some of these reviews on the 1st day so if you're reading this in class then I just wanna say Hi!",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "Caring"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxOTg3MTE2",
+      "legacy_id": 31987116,
+      "date": "2019-06-02 21:13:33 +0000 UTC",
+      "course": "CECS424",
+      "comment": "He is a caring professor and the homework load was not too time consuming. Lab assignments are due every week. He actually writes notes when lecturing which is nice. The labs used Java, C + +, JavaScript, Python, and Haskell. He focuses too much of his tests on Haskell. Some labs are textbook problems. He is a nice guy.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Amazing lectures",
+        "Lecture heavy",
+        "Caring"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMTEzMDQx",
+      "legacy_id": 31113041,
+      "date": "2018-12-20 06:38:33 +0000 UTC",
+      "course": "CECS524",
+      "comment": "Diligent towards making you learn. Also provides obligatory interview tips and questions. Really cool professor and he care for his students.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Gives good feedback",
+        "Inspirational",
+        "EXTRA CREDIT"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 10,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwNzIyNzM0",
+      "legacy_id": 30722734,
+      "date": "2018-11-14 11:51:31 +0000 UTC",
+      "course": "CECS228",
+      "comment": "He's the one of the best instructors I have met, even though I don't have him for a class. He always comes in right after our lab for CECS 228. Hopefully, I will take him for upper division.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "ACCESSIBLE OUTSIDE CLASS"
+      ],
+      "grade": "Rather not say",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 14,
+      "thumbs_down": 3,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTI5NzgzNjUy",
+      "legacy_id": 29783652,
+      "date": "2018-04-11 13:38:00 +0000 UTC",
+      "course": "CECS327",
+      "comment": "He is a fine teacher, just show up and pay attention and you should be fine. Make sure to ask for help if you need it during Lab assignments. He is honestly a very basic teacher. Literally just do normal good student things and you will pass. PowerPoint lectures are basically the exams. He posts everything on beachboard which is nice.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Tough Grader",
+        "GRADED BY FEW THINGS",
+        "LECTURE HEAVY"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI5NDQ3MzE4",
+      "legacy_id": 29447318,
+      "date": "2018-01-13 14:42:36 +0000 UTC",
+      "course": "CECS341",
+      "comment": "Average-hard tbh. Lectures based on powerpoints, but is capable of giving more detail. Midterms and final are average-hard in difficulty. Half of the questions exam is problems from lectures, HW, labs, other half are questions he makes up. Studying lectures alone will get you to a B. You have to do more to get an A. You do learn a lot, though.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Skip class? You won't pass.",
+        "LOTS OF HOMEWORK"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": null,
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

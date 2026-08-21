@@ -1,0 +1,865 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2097961",
+    "scraped_at": "2026-08-21T07:45:08.966173+00:00",
+    "graphql_id": "VGVhY2hlci0yMDk3OTYx",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2097961,
+    "first_name": "Charles",
+    "last_name": "Siska",
+    "full_name": "Charles Siska",
+    "department": "Computer Science",
+    "avg_rating": 2,
+    "avg_difficulty": 3.5,
+    "num_ratings_listed": 22,
+    "would_take_again_percent": 27.8,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 2,
+        "courseName": "CECS277"
+      },
+      {
+        "courseCount": 4,
+        "courseName": "CECS343"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS444"
+      },
+      {
+        "courseCount": 10,
+        "courseName": "CPSC335"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CPSC362"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CPSC481"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CS335"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CS481"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CPSC131"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 22,
+    "avg_quality": 2.02,
+    "avg_difficulty": 3.45,
+    "would_take_again_percent": 27.8,
+    "online_percent": 22.7,
+    "tag_counts": [
+      {
+        "name": "Group projects",
+        "count": 7
+      },
+      {
+        "name": "Get ready to read",
+        "count": 4
+      },
+      {
+        "name": "Graded by few things",
+        "count": 3
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 3
+      },
+      {
+        "name": "LECTURE HEAVY",
+        "count": 3
+      },
+      {
+        "name": "Test heavy",
+        "count": 2
+      },
+      {
+        "name": "Skip class? You won't pass.",
+        "count": 2
+      },
+      {
+        "name": "Beware of pop quizzes",
+        "count": 2
+      },
+      {
+        "name": "BEWARE OF POP QUIZZES",
+        "count": 2
+      },
+      {
+        "name": "GROUP PROJECTS",
+        "count": 2
+      },
+      {
+        "name": "Tough grader",
+        "count": 1
+      },
+      {
+        "name": "GRADED BY FEW THINGS",
+        "count": 1
+      },
+      {
+        "name": "EXTRA CREDIT",
+        "count": 1
+      },
+      {
+        "name": "TEST HEAVY",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 6
+      },
+      {
+        "name": "B",
+        "count": 3
+      },
+      {
+        "name": "B-",
+        "count": 2
+      },
+      {
+        "name": "C",
+        "count": 2
+      },
+      {
+        "name": "A-",
+        "count": 1
+      },
+      {
+        "name": "B+",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 1,
+      "2": 3,
+      "3": 8,
+      "4": 5,
+      "5": 5
+    },
+    "attendance": {
+      "non mandatory": 14,
+      "mandatory": 8
+    },
+    "courses": [
+      {
+        "course": "CPSC335",
+        "review_count": 10,
+        "avg_quality": 1.7,
+        "avg_difficulty": 3.4,
+        "would_take_again_percent": 20.0,
+        "top_tags": [
+          {
+            "name": "Group projects",
+            "count": 7
+          },
+          {
+            "name": "Graded by few things",
+            "count": 3
+          },
+          {
+            "name": "Get ready to read",
+            "count": 2
+          },
+          {
+            "name": "Test heavy",
+            "count": 2
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 2
+          },
+          {
+            "name": "Beware of pop quizzes",
+            "count": 2
+          },
+          {
+            "name": "Tough grader",
+            "count": 1
+          },
+          {
+            "name": "BEWARE OF POP QUIZZES",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS343",
+        "review_count": 4,
+        "avg_quality": 2.25,
+        "avg_difficulty": 3.75,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "GROUP PROJECTS",
+            "count": 2
+          },
+          {
+            "name": "LECTURE HEAVY",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS277",
+        "review_count": 2,
+        "avg_quality": 1.5,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 0.0,
+        "top_tags": [
+          {
+            "name": "Get ready to read",
+            "count": 1
+          },
+          {
+            "name": "EXTRA CREDIT",
+            "count": 1
+          },
+          {
+            "name": "BEWARE OF POP QUIZZES",
+            "count": 1
+          },
+          {
+            "name": "TEST HEAVY",
+            "count": 1
+          },
+          {
+            "name": "LECTURE HEAVY",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CS481",
+        "review_count": 1,
+        "avg_quality": 1.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 0.0,
+        "top_tags": []
+      },
+      {
+        "course": "CPSC481",
+        "review_count": 1,
+        "avg_quality": 1.0,
+        "avg_difficulty": 5.0,
+        "would_take_again_percent": 0.0,
+        "top_tags": [
+          {
+            "name": "Get ready to read",
+            "count": 1
+          },
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CS335",
+        "review_count": 1,
+        "avg_quality": 1.0,
+        "avg_difficulty": 5.0,
+        "would_take_again_percent": 0.0,
+        "top_tags": []
+      },
+      {
+        "course": "CPSC362",
+        "review_count": 1,
+        "avg_quality": 5.0,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          },
+          {
+            "name": "GRADED BY FEW THINGS",
+            "count": 1
+          },
+          {
+            "name": "LECTURE HEAVY",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CPSC131",
+        "review_count": 1,
+        "avg_quality": 3.5,
+        "avg_difficulty": 3.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS444",
+        "review_count": 1,
+        "avg_quality": 4.0,
+        "avg_difficulty": 2.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTM0MzMwMTY2",
+      "legacy_id": 34330166,
+      "date": "2021-01-31 04:31:16 +0000 UTC",
+      "course": "CPSC335",
+      "comment": "AVOID AT ALL COSTS. This is the worst professor at CSUF! Do not subject yourself to this man's LAZY teaching. He teaches from a blurry webcam, with a horrible quality mic, showing old hazy pictures of a whiteboard for his lecture notes. He never codes, doesn't bother to explain anything, and is aggressive when you challenge him on these issues. BAD",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Get ready to read",
+        "Graded by few things",
+        "Test heavy"
+      ],
+      "grade": "A",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM0MjU4MTE0",
+      "legacy_id": 34258114,
+      "date": "2021-01-10 01:24:48 +0000 UTC",
+      "course": "CPSC335",
+      "comment": "AVOID!",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Group projects",
+        "Lecture heavy"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM0MjU2MTQ0",
+      "legacy_id": 34256144,
+      "date": "2021-01-09 05:49:51 +0000 UTC",
+      "course": "CS481",
+      "comment": "Probably one of the worst classes I've taken at CSUF. Notes were washed out pictures of old white board notes with random scribbles and overfilled documents with many acronyms. Lectures were filled with incoherent rambling, lasting until the last minute of class even if there was nothing left to add. Pretty much learned nothing from this class.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM0MjQ1MTQ1",
+      "legacy_id": 34245145,
+      "date": "2021-01-06 19:40:39 +0000 UTC",
+      "course": "CPSC481",
+      "comment": "Terrible teacher! No grade feedback. Didn't use zoom, used jitsi because he couldn't figure out how to run it?? How are you a CS professor and can't figure out zoom. He showed zero code all semester. Assigned two group projects in LISP and LISP or python for the second, both assignments he did not explain. His lectures are crammed abbreviated pdfs.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Get ready to read",
+        "Skip class? You won't pass.",
+        "Lecture heavy"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM0MjQwNzA4",
+      "legacy_id": 34240708,
+      "date": "2021-01-05 21:51:57 +0000 UTC",
+      "course": "CS335",
+      "comment": "AVOID this professor like the plague. He wrote absolutely no code, and didn't help anyone. This was by far the biggest waste of time, &amp; you will learn nothing. If you are a good student, please PLEASE do yourself a favor swap classes ASAP otherwise you won't know your grade for the class AT ALL, and find out the VERY last day due for professors.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzOTQwNzM1",
+      "legacy_id": 33940735,
+      "date": "2020-12-03 19:33:18 +0000 UTC",
+      "course": "CPSC335",
+      "comment": "I don't know what happened between virtual learning and in person learning, but judging by his previous reviews, this guy was an ok teacher in person, and an AWFUL teacher online. I can attest that his virtual instruction is abysmal. Some of the worst I've ever seen. How can someone be a CS professor and not understand computers? Siska is the worst",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Graded by few things",
+        "Test heavy",
+        "Group projects"
+      ],
+      "grade": "A-",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzNzE1NzE2",
+      "legacy_id": 33715716,
+      "date": "2020-10-20 04:09:06 +0000 UTC",
+      "course": "CPSC335",
+      "comment": "This professor has obviously lost the will to teach. He presents to us pictures of a white board he took from 2018, and they are just a mess of what used to be notes. What helps students learn, is a teacher drawing out the steps, and walking us through the process. The way he teaches ignores that. He is lazy. He does not care. He shouldnt teach.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Get ready to read",
+        "Group projects"
+      ],
+      "grade": "A",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzNjk2MzUw",
+      "legacy_id": 33696350,
+      "date": "2020-10-13 04:06:18 +0000 UTC",
+      "course": "CPSC335",
+      "comment": "Possibly the worst teacher at CSUF. Avoid at all costs. This man is unwilling to make the shift to virtual learning. You can tell he has put absolutely NO EFFORT into making a comfortable virtual learning environment for his students. I feel so cheated out of knowledge to have to take this professor. He wasted EVERYONE's time.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Group projects"
+      ],
+      "grade": "B-",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzNjk2MzM0",
+      "legacy_id": 33696334,
+      "date": "2020-10-13 03:59:59 +0000 UTC",
+      "course": "CPSC335",
+      "comment": "Professor Siska is the prime example of someone who no longer cares about teaching. His method of virtual teaching is to show you pictures he took of his white board pre-covid and display them on really bad image iditors. He stumbles over the mess of a picture, and scribbles all over. It is impossible to follow. Charles Siska shouldn't be teaching.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Group projects"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzNjQ0OTU1",
+      "legacy_id": 33644955,
+      "date": "2020-09-15 02:48:23 +0000 UTC",
+      "course": "CPSC335",
+      "comment": "The first online lecture was abysmal. Horrible audio quality. So much so someone offered to send him a blue yeti mic. He shows up next lecture with one barely any better. You'd think a CS professor would be capable of doing research and buying quality tech. Nope. His lectures are useless, he comes with pre-written white board notes. What a joke.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Group projects"
+      ],
+      "grade": "B+",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyNzgzNTM1",
+      "legacy_id": 32783535,
+      "date": "2020-01-02 17:11:19 +0000 UTC",
+      "course": "CPSC335",
+      "comment": "Lecture is mostly writing down what's on the board in small font that is confusing to understand. Projects are a pain if you don't know javascript. The quizzes and exams asked too much in too little time, and no open notes allowed, which would have helped. Take the Math 270s before this one cause 335 borrows many math concepts from those classes.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Beware of pop quizzes",
+        "Lecture heavy",
+        "Tough grader"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyNzU5MTU5",
+      "legacy_id": 32759159,
+      "date": "2019-12-26 05:31:48 +0000 UTC",
+      "course": "CPSC335",
+      "comment": "Siska knows his stuff, and does a decent job of explaining it. The course was 2 exams, 3 projects, and a hefty final. The hardest part of the course is trying to predict how he will ask questions on exams, however if you thoroughly spend time to learn the algorithms and the concepts, you'll be ok. Group projects don't account for too much.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Graded by few things",
+        "Group projects",
+        "Beware of pop quizzes"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMjg2OTM2",
+      "legacy_id": 31286936,
+      "date": "2019-01-21 17:17:11 +0000 UTC",
+      "course": "CPSC335",
+      "comment": "Has a insanely dry sense of humor and does whacky voices. I found it funny, but it's not for everybody. Otherwise everything on his test is written on the board and he takes pictures of the board and uploads them online. So you can study off that and get the Grade. Also, every following test has questions from the previous tests. Chill easy time.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 1.0,
+      "tags": [
+        "BEWARE OF POP QUIZZES"
+      ],
+      "grade": "B-",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxMjY0NzAx",
+      "legacy_id": 31264701,
+      "date": "2019-01-15 21:08:25 +0000 UTC",
+      "course": "CPSC362",
+      "comment": "Professor Siska is a very interesting professor. His lectures are pretty straight forward you just have to make sure youre taking notes. His exams are basically the lectures, PURE MEMORIZATION. Nobody paid attention in his class and the class average showed. Hes very knowledgeable and helpful. Pick partners wisely for semester long project.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Skip class? You won't pass.",
+        "GRADED BY FEW THINGS",
+        "LECTURE HEAVY"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3NDY3Njk3",
+      "legacy_id": 27467697,
+      "date": "2016-12-13 13:53:14 +0000 UTC",
+      "course": "CECS277",
+      "comment": "In his exams you need to learn by heart the stuff out of the book, thats 70%. No need to have coding skills. His lectures are often 20-30 min longer as scheduled and all he is talking about is way to long. He never comes to the point. Hes waisting his time on repeating treewalking again and again. I never got any feedback about my HW. Awfull teach",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Get ready to read",
+        "EXTRA CREDIT"
+      ],
+      "grade": "C",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3MTcyODQ2",
+      "legacy_id": 27172846,
+      "date": "2016-11-12 04:51:51 +0000 UTC",
+      "course": "CECS277",
+      "comment": "Hes a light grader actually. Lab is optional, and you don't get any hw or lab assignments so this class depends on your TEST score. Overall, we had like 2 pop quizzes on TREES, and two exams. He curves alot which made this course do-able. You NEED to have good fundamentals or prepare to get a C. I ended up with a B but never came to class.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 4.0,
+      "tags": [
+        "BEWARE OF POP QUIZZES",
+        "TEST HEAVY",
+        "LECTURE HEAVY"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2OTE1OTA5",
+      "legacy_id": 26915909,
+      "date": "2016-08-22 03:06:49 +0000 UTC",
+      "course": "CECS343",
+      "comment": "All of the test materials are what he writes on the board. What irked me the most about his class is that I didn't find his lecture to be helpful for the lab project we had to do. He kind of says \"Here, make this thing I'm talking about\" and watches as the class panics and tries to figure out how and what they have to do.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 3.0,
+      "tags": [
+        "GROUP PROJECTS"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2ODkzNDI5",
+      "legacy_id": 26893429,
+      "date": "2016-08-14 18:23:49 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Professor Siska is a pretty good. The methodology that he teaches is pretty similar to the actual software engineering industry. Although his lectures may seem all over the place, what he says is the truth. The projects that he gives are not that hard either and are great for teaching you the fundamentals of software configuration management .",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 2.0,
+      "tags": [
+        "GROUP PROJECTS",
+        "LECTURE HEAVY"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 5,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2NjM5Mjc4",
+      "legacy_id": 26639278,
+      "date": "2016-05-23 17:26:06 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Baffled how this was even a software engineering course. He does not give you lab time, as he lectures non-stop for 2 hours and 15 minutes. Often goes on asides, talking about random stuff. There was no syllabus or grading criteria. Semester project is assigned really late and he won't give you any feedback, at all, ever! You won't know how you did",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": "C",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI2NjM5MTE4",
+      "legacy_id": 26639118,
+      "date": "2016-05-23 17:01:42 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Class is completely unstructured with no clear grading criteria. He will assign a semester project halfway through the semester, and never give you any lab time to work on it. The material is presented in a manner that does not relate to software engineering. It's a vocabulary class, where you just remember definitions. He lectures the whole 2 hrs.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI1OTQ5NjY5",
+      "legacy_id": 25949669,
+      "date": "2016-01-16 00:19:39 +0000 UTC",
+      "course": "CPSC131",
+      "comment": "Very nice professor. He is willing to help you anytime. Only thing is that he does not use powerpoint which makes his lectures long and boring. He is not very good in explaining concepts either.",
+      "quality": 3.5,
+      "helpful": 5.0,
+      "clarity": 2.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 2.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTI1ODgxODE5",
+      "legacy_id": 25881819,
+      "date": "2016-01-05 17:52:10 +0000 UTC",
+      "course": "CECS444",
+      "comment": "Lectures are long and he only uses the whiteboard. It makes learning about compilers difficult for some, but he is such a smart professor so just ask questions. He is more than happy to help during office hours. He wants you to understand, so just put in effort. Easy grading, over 2/3 the class got an A",
+      "quality": 4.0,
+      "helpful": 5.0,
+      "clarity": 3.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

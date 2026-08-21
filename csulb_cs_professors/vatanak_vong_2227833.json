@@ -1,0 +1,651 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/2227833",
+    "scraped_at": "2026-08-21T07:41:07.805851+00:00",
+    "graphql_id": "VGVhY2hlci0yMjI3ODMz",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 2227833,
+    "first_name": "Vatanak",
+    "last_name": "Vong",
+    "full_name": "Vatanak Vong",
+    "department": "Computer Science",
+    "avg_rating": 3,
+    "avg_difficulty": 4.4,
+    "num_ratings_listed": 15,
+    "would_take_again_percent": 53.3,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 6,
+        "courseName": "491A"
+      },
+      {
+        "courseCount": 3,
+        "courseName": "CECS343"
+      },
+      {
+        "courseCount": 6,
+        "courseName": "CECS491"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 15,
+    "avg_quality": 3.0,
+    "avg_difficulty": 4.4,
+    "would_take_again_percent": 72.7,
+    "online_percent": 20.0,
+    "tag_counts": [
+      {
+        "name": "Tough grader",
+        "count": 6
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 5
+      },
+      {
+        "name": "Group projects",
+        "count": 4
+      },
+      {
+        "name": "Skip class? You won't pass.",
+        "count": 4
+      },
+      {
+        "name": "Tough Grader",
+        "count": 3
+      },
+      {
+        "name": "Beware of pop quizzes",
+        "count": 2
+      },
+      {
+        "name": "Graded by few things",
+        "count": 2
+      },
+      {
+        "name": "Respected",
+        "count": 2
+      },
+      {
+        "name": "Amazing lectures",
+        "count": 2
+      },
+      {
+        "name": "Lots of homework",
+        "count": 1
+      },
+      {
+        "name": "Participation matters",
+        "count": 1
+      },
+      {
+        "name": "Accessible outside class",
+        "count": 1
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 1
+      },
+      {
+        "name": "LOTS OF HOMEWORK",
+        "count": 1
+      },
+      {
+        "name": "ACCESSIBLE OUTSIDE CLASS",
+        "count": 1
+      },
+      {
+        "name": "Caring",
+        "count": 1
+      },
+      {
+        "name": "GROUP PROJECTS",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "B",
+        "count": 6
+      },
+      {
+        "name": "C",
+        "count": 2
+      },
+      {
+        "name": "A-",
+        "count": 1
+      },
+      {
+        "name": "A",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 3,
+      "5": 10
+    },
+    "attendance": {
+      "mandatory": 14,
+      "non mandatory": 1
+    },
+    "courses": [
+      {
+        "course": "CECS491",
+        "review_count": 6,
+        "avg_quality": 3.67,
+        "avg_difficulty": 4.83,
+        "would_take_again_percent": 100.0,
+        "top_tags": [
+          {
+            "name": "Tough grader",
+            "count": 3
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 3
+          },
+          {
+            "name": "Graded by few things",
+            "count": 2
+          },
+          {
+            "name": "Group projects",
+            "count": 2
+          },
+          {
+            "name": "Respected",
+            "count": 2
+          },
+          {
+            "name": "Beware of pop quizzes",
+            "count": 1
+          },
+          {
+            "name": "Accessible outside class",
+            "count": 1
+          },
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "491A",
+        "review_count": 6,
+        "avg_quality": 2.33,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": 50.0,
+        "top_tags": [
+          {
+            "name": "Tough grader",
+            "count": 3
+          },
+          {
+            "name": "Group projects",
+            "count": 2
+          },
+          {
+            "name": "Beware of pop quizzes",
+            "count": 1
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "Amazing lectures",
+            "count": 1
+          },
+          {
+            "name": "Lots of homework",
+            "count": 1
+          },
+          {
+            "name": "Participation matters",
+            "count": 1
+          },
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS343",
+        "review_count": 3,
+        "avg_quality": 3.0,
+        "avg_difficulty": 4.33,
+        "would_take_again_percent": 66.7,
+        "top_tags": [
+          {
+            "name": "Tough Grader",
+            "count": 2
+          },
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 2
+          },
+          {
+            "name": "LOTS OF HOMEWORK",
+            "count": 1
+          },
+          {
+            "name": "Gives good feedback",
+            "count": 1
+          },
+          {
+            "name": "ACCESSIBLE OUTSIDE CLASS",
+            "count": 1
+          },
+          {
+            "name": "Caring",
+            "count": 1
+          },
+          {
+            "name": "GROUP PROJECTS",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQwMzg2Mzgx",
+      "legacy_id": 40386381,
+      "date": "2024-12-19 21:19:48 +0000 UTC",
+      "course": "CECS491",
+      "comment": "Avoid this professor at all costs. Extremely difficult to understand what is expected of students. Reviews talking about how much you learn does not outweigh the stress of this class, ESPECIALLY if you are in a bad group.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Beware of pop quizzes",
+        "Graded by few things"
+      ],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM5MTA2MjQ2",
+      "legacy_id": 39106246,
+      "date": "2024-03-30 23:59:03 +0000 UTC",
+      "course": "491A",
+      "comment": "Seems knowledgeable about the industry but his methods of having you essentially teach yourself are questionable",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Group projects",
+        "Beware of pop quizzes"
+      ],
+      "grade": "A-",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4MzMxNDgy",
+      "legacy_id": 38331482,
+      "date": "2023-11-02 04:05:36 +0000 UTC",
+      "course": "491A",
+      "comment": "Worst professor ever taken in my university experience. Does not give any direction, does not help in any way and expects you to read his mind to figure out how he wants things done. Will give quizzes that he grades on an individual basis, but then randomly says that you could have done it in a group. He is gleeful if you fail, likes having power",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Group projects"
+      ],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2NjA3NzAx",
+      "legacy_id": 36607701,
+      "date": "2022-08-24 11:15:20 +0000 UTC",
+      "course": "CECS491",
+      "comment": "Probably the most industry ready course you'll take at CSULB. Although you might think Vong is tough and maybe the most difficult to work with. Ultimately it is up to you and your team to make the best of everything. He's not going to give you anything if you don't ask in office hours or lectures so 'ASK'! Most respected professor I took at CSULB.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Group projects",
+        "Respected"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2NDc0ODMw",
+      "legacy_id": 36474830,
+      "date": "2022-06-19 23:42:53 +0000 UTC",
+      "course": "CECS491",
+      "comment": "If you want an understanding, helpful, and caring professor take any of the other senior project professors. If you want enormous amounts of stress, unrealistic expectations, and a professors that bluntly tells you he doesn't care if you pass, Vong is your guy. If you don't spend all your time at office hours there is a slim chance of passing.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Graded by few things"
+      ],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM1ODY1NTQ2",
+      "legacy_id": 35865546,
+      "date": "2022-02-18 18:46:59 +0000 UTC",
+      "course": "491A",
+      "comment": "He's a really tough professor. The structure of the class was really disorganized and he was and is condescending expecting you to know stuff. He comes around. BUT, you get what you put in and without a doubt this class and the project my team created was what got me my current software job. Ask questions, put in the effort, and you'll learn a lot.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Gives good feedback",
+        "Amazing lectures",
+        "Tough grader"
+      ],
+      "grade": "C",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM1ODQ5MzQz",
+      "legacy_id": 35849343,
+      "date": "2022-02-12 11:40:49 +0000 UTC",
+      "course": "491A",
+      "comment": "Professor Vong isn't as unfair as Goldstein, but if you can help it, don't take this course with him. You do learn a lot, but the way you learn it is stressful. It's sink or swim and demands the same amount of time if not more than a job would in order for you to even pass. Office hours are basically mandatory so expect a 4 day a week course.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Lots of homework",
+        "Participation matters",
+        "Skip class? You won't pass."
+      ],
+      "grade": "C",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM0ODAwODI3",
+      "legacy_id": 34800827,
+      "date": "2021-05-15 23:16:27 +0000 UTC",
+      "course": "CECS491",
+      "comment": "CECS491 with Prof. Vong was the best educational experience I've had. It was VERY challenging and time consuming, and is the only class I've taken where I could try my hardest and still not do well, but that's okay, because it left me a far better software engineer. If you want to truly prepare yourself and are up for a challenge, take this class.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Gives good feedback",
+        "Accessible outside class",
+        "Group projects"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 3,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzNjY0MjIw",
+      "legacy_id": 33664220,
+      "date": "2020-09-26 19:00:10 +0000 UTC",
+      "course": "491A",
+      "comment": "Disrespectful and Condesneding. Constantly claiming that he knows everything about software engineering even though what he believes is the standard(IIS servers) is barely ever used in an actual dev environment. He gives you no guide to the work and says you did them wrong because that is not the way he likes it done yet never stating before hand.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Lecture heavy",
+        "Tough grader"
+      ],
+      "grade": "A",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzMDU3NDk3",
+      "legacy_id": 33057497,
+      "date": "2020-04-14 08:04:17 +0000 UTC",
+      "course": "491A",
+      "comment": "Hard Professor that gives a lot of hands-on industry knowledge. You'll make a meaningful senior design project that can potentially impress a lot of recruiters.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 3,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyMjI2NzUw",
+      "legacy_id": 32226750,
+      "date": "2019-09-13 02:54:54 +0000 UTC",
+      "course": "CECS491",
+      "comment": "You must take his class, if you want to real software engineer. You will learn how to deal with client, think, and work in a team.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "Skip class? You won't pass."
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMwNTMyOTAz",
+      "legacy_id": 30532903,
+      "date": "2018-09-30 23:50:56 +0000 UTC",
+      "course": "CECS491",
+      "comment": "You will learn in his class more than you will learn in your whole school career! He might be tough and his expectations are high but everyone can agree that you will get out of his class with experience and knowledge on par with people in the industry.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough Grader",
+        "Gives good feedback",
+        "Amazing lectures"
+      ],
+      "grade": "B",
+      "would_take_again": true,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 12,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4NjY5MDMy",
+      "legacy_id": 28669032,
+      "date": "2017-09-11 15:56:55 +0000 UTC",
+      "course": "CECS343",
+      "comment": "very hard professor.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough Grader",
+        "Skip class? You won't pass.",
+        "LOTS OF HOMEWORK"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 7,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4MzExNzMy",
+      "legacy_id": 28311732,
+      "date": "2017-05-15 02:01:47 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Vong's class is definitely not an easy A but he'll teach you the important skills that you'll need for your career. He's a bit strict but offers a ton of help if you're struggling in his office hours. Don't be afraid to ask questions during lectures if you don't understand something because he'll always wait for the class to catch up.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Caring"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 4,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3OTQwMzEy",
+      "legacy_id": 27940312,
+      "date": "2017-03-23 18:52:48 +0000 UTC",
+      "course": "CECS343",
+      "comment": "Hard exams, fair milestones for project but don't expect to be given clear guidelines unless you ask specific questions.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough Grader",
+        "Skip class? You won't pass.",
+        "GROUP PROJECTS"
+      ],
+      "grade": null,
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 5.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 6,
+      "thumbs_down": 2,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}

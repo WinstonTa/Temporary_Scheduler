@@ -1,0 +1,1225 @@
+{
+  "source": {
+    "url": "https://www.ratemyprofessors.com/professor/562128",
+    "scraped_at": "2026-08-21T07:39:46.204216+00:00",
+    "graphql_id": "VGVhY2hlci01NjIxMjg=",
+    "course_filter": null
+  },
+  "professor": {
+    "legacy_id": 562128,
+    "first_name": "Leonardo",
+    "last_name": "Rodriguez",
+    "full_name": "Leonardo Rodriguez",
+    "department": "Computer Science",
+    "avg_rating": 1.7,
+    "avg_difficulty": 4,
+    "num_ratings_listed": 36,
+    "would_take_again_percent": 9.1,
+    "school": {
+      "legacy_id": 18846,
+      "name": "California State University Long Beach",
+      "city": "Long Beach",
+      "state": "CA"
+    },
+    "official_tags": [],
+    "course_codes": [
+      {
+        "courseCount": 1,
+        "courseName": "CECS201"
+      },
+      {
+        "courseCount": 7,
+        "courseName": "CECS311"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "CECS347"
+      },
+      {
+        "courseCount": 5,
+        "courseName": "CECS410"
+      },
+      {
+        "courseCount": 14,
+        "courseName": "EE186"
+      },
+      {
+        "courseCount": 1,
+        "courseName": "EE189"
+      },
+      {
+        "courseCount": 2,
+        "courseName": "EE211"
+      },
+      {
+        "courseCount": 5,
+        "courseName": "EE211L"
+      }
+    ]
+  },
+  "summary": {
+    "review_count_collected": 36,
+    "avg_quality": 1.72,
+    "avg_difficulty": 3.97,
+    "would_take_again_percent": 13.3,
+    "online_percent": 5.6,
+    "tag_counts": [
+      {
+        "name": "Tough grader",
+        "count": 9
+      },
+      {
+        "name": "Lots of homework",
+        "count": 7
+      },
+      {
+        "name": "Beware of pop quizzes",
+        "count": 7
+      },
+      {
+        "name": "Group projects",
+        "count": 7
+      },
+      {
+        "name": "EXTRA CREDIT",
+        "count": 6
+      },
+      {
+        "name": "Lecture heavy",
+        "count": 6
+      },
+      {
+        "name": "Skip class? You won't pass.",
+        "count": 4
+      },
+      {
+        "name": "Tough Grader",
+        "count": 3
+      },
+      {
+        "name": "Participation matters",
+        "count": 2
+      },
+      {
+        "name": "Graded by few things",
+        "count": 2
+      },
+      {
+        "name": "Get ready to read",
+        "count": 1
+      },
+      {
+        "name": "So many papers",
+        "count": 1
+      },
+      {
+        "name": "Hilarious",
+        "count": 1
+      },
+      {
+        "name": "Test heavy",
+        "count": 1
+      },
+      {
+        "name": "GROUP PROJECTS",
+        "count": 1
+      },
+      {
+        "name": "ACCESSIBLE OUTSIDE CLASS",
+        "count": 1
+      },
+      {
+        "name": "Gives good feedback",
+        "count": 1
+      },
+      {
+        "name": "Respected",
+        "count": 1
+      },
+      {
+        "name": "Inspirational",
+        "count": 1
+      }
+    ],
+    "grade_counts": [
+      {
+        "name": "A",
+        "count": 8
+      },
+      {
+        "name": "B",
+        "count": 4
+      },
+      {
+        "name": "Drop/Withdrawal",
+        "count": 2
+      },
+      {
+        "name": "Incomplete",
+        "count": 1
+      },
+      {
+        "name": "C",
+        "count": 1
+      },
+      {
+        "name": "Rather not say",
+        "count": 1
+      },
+      {
+        "name": "C+",
+        "count": 1
+      }
+    ],
+    "difficulty_histogram": {
+      "1": 3,
+      "2": 2,
+      "3": 4,
+      "4": 11,
+      "5": 16
+    },
+    "attendance": {
+      "mandatory": 17,
+      "non mandatory": 4
+    },
+    "courses": [
+      {
+        "course": "EE186",
+        "review_count": 14,
+        "avg_quality": 1.57,
+        "avg_difficulty": 4.57,
+        "would_take_again_percent": 0.0,
+        "top_tags": [
+          {
+            "name": "Lots of homework",
+            "count": 7
+          },
+          {
+            "name": "Group projects",
+            "count": 7
+          },
+          {
+            "name": "Tough grader",
+            "count": 6
+          },
+          {
+            "name": "Beware of pop quizzes",
+            "count": 6
+          },
+          {
+            "name": "Lecture heavy",
+            "count": 6
+          },
+          {
+            "name": "EXTRA CREDIT",
+            "count": 3
+          },
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 3
+          },
+          {
+            "name": "Participation matters",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS311",
+        "review_count": 7,
+        "avg_quality": 1.71,
+        "avg_difficulty": 3.71,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "EE211L",
+        "review_count": 5,
+        "avg_quality": 2.6,
+        "avg_difficulty": 4.4,
+        "would_take_again_percent": 50.0,
+        "top_tags": [
+          {
+            "name": "Tough Grader",
+            "count": 2
+          },
+          {
+            "name": "Tough grader",
+            "count": 1
+          },
+          {
+            "name": "Get ready to read",
+            "count": 1
+          },
+          {
+            "name": "So many papers",
+            "count": 1
+          },
+          {
+            "name": "Skip class? You won't pass.",
+            "count": 1
+          },
+          {
+            "name": "ACCESSIBLE OUTSIDE CLASS",
+            "count": 1
+          },
+          {
+            "name": "Participation matters",
+            "count": 1
+          },
+          {
+            "name": "EXTRA CREDIT",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS410",
+        "review_count": 5,
+        "avg_quality": 2.0,
+        "avg_difficulty": 2.6,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "EE211",
+        "review_count": 2,
+        "avg_quality": 1.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": null,
+        "top_tags": [
+          {
+            "name": "EXTRA CREDIT",
+            "count": 2
+          },
+          {
+            "name": "Tough grader",
+            "count": 1
+          },
+          {
+            "name": "Hilarious",
+            "count": 1
+          },
+          {
+            "name": "Graded by few things",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "EE189",
+        "review_count": 1,
+        "avg_quality": 1.0,
+        "avg_difficulty": 5.0,
+        "would_take_again_percent": 0.0,
+        "top_tags": [
+          {
+            "name": "Graded by few things",
+            "count": 1
+          },
+          {
+            "name": "Beware of pop quizzes",
+            "count": 1
+          },
+          {
+            "name": "Tough grader",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "course": "CECS347",
+        "review_count": 1,
+        "avg_quality": 1.0,
+        "avg_difficulty": 4.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      },
+      {
+        "course": "CECS201",
+        "review_count": 1,
+        "avg_quality": 1.0,
+        "avg_difficulty": 1.0,
+        "would_take_again_percent": null,
+        "top_tags": []
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "id": "UmF0aW5nLTQxODY0MzUz",
+      "legacy_id": 41864353,
+      "date": "2025-11-14 00:24:09 +0000 UTC",
+      "course": "EE211L",
+      "comment": "1- NO partial credit at all\n2- you have to do the labs outside the class, he will waste most of the class talking\n3- he will never say that your asnwers are correct\n4- exams are not related to class\n5- you u have to be a super student and read over 100 pages for some labs!!\n6- he picks who works with u\n7- he DONOT teach in the class!\nNEVER AGAIN!!!",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Get ready to read",
+        "So many papers"
+      ],
+      "grade": "Incomplete",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4NTIzMTQ5",
+      "legacy_id": 38523149,
+      "date": "2023-12-05 18:54:47 +0000 UTC",
+      "course": "EE186",
+      "comment": "Do not take these reviews lightly, the worst professor/teacher I have ever experienced. He has zero respect for his students(especially the females) and the seminar professor. So many assignments and so much stress. He gives some extra credit, but it's all so much work and I learned nothing. I will do everything I can to never take this man again.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "EXTRA CREDIT",
+        "Lots of homework"
+      ],
+      "grade": "C",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM4MTMyODA5",
+      "legacy_id": 38132809,
+      "date": "2023-07-31 03:02:34 +0000 UTC",
+      "course": "EE186",
+      "comment": "Had him for just lab. I found the class okay, but he could definitely benefit from a more structured grading rubric and assignments. However, I know from friends we had it easy and the experience normally is much worse. He is very unclear at times, and likes going on tangents. Just make sure to do every assignment and try your best.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Tough grader",
+        "Participation matters",
+        "Beware of pop quizzes"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM3MzM0Njc3",
+      "legacy_id": 37334677,
+      "date": "2023-01-14 23:01:12 +0000 UTC",
+      "course": "EE186",
+      "comment": "Lectures were very hard to follow along. I had to self teach myself basically everything. No partial credit on assignments, so missing one part of the instructions results in a 0. Midterms and finals are basically 4-6 harder homework assignments in 2 hours. Do the extra credit. It'll save you.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "EXTRA CREDIT",
+        "Lecture heavy"
+      ],
+      "grade": "A",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2ODM4NDY5",
+      "legacy_id": 36838469,
+      "date": "2022-11-15 20:51:33 +0000 UTC",
+      "course": "EE186",
+      "comment": "Do not take him for your own sake. Save yourself. This is a warning!!!",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Group projects",
+        "Lots of homework"
+      ],
+      "grade": "Rather not say",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2NjMzODc5",
+      "legacy_id": 36633879,
+      "date": "2022-09-08 21:02:09 +0000 UTC",
+      "course": "EE211",
+      "comment": "Got a 0 on 2nd midterm and final. Extra credit carried me to a B. Many curveballs on tests and quizzes that he only went over for a split second + no partial credit. Worst professor I have had so far.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "EXTRA CREDIT"
+      ],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 3.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM2Mzk4MTEx",
+      "legacy_id": 36398111,
+      "date": "2022-05-24 04:22:45 +0000 UTC",
+      "course": "EE211",
+      "comment": "Inconsistent and messes up a lot whenever he chooses to lecture. He has spent the entire period trying to get through 1 basic problem and couldn't even finish because he messes up way too much. Rarely gives examples and never finishes the entire problem for anything during class. He claims, \"I'll leave you to figure it out\" lmao. Do his xtra credit",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "EXTRA CREDIT",
+        "Hilarious",
+        "Graded by few things"
+      ],
+      "grade": "B",
+      "would_take_again": null,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM1NTUxMTUy",
+      "legacy_id": 35551152,
+      "date": "2021-12-16 03:47:39 +0000 UTC",
+      "course": "EE186",
+      "comment": "Honestly, what could I say? His teaching style is quite outrageous and I doubt he would ever change. Most of the learning that I did came from Youtube videos. He's a nice guy, but he can't teach to save his life. The class literally made me want to ram my head into a brick wall. Get ready to work to pass, and make sure to do the extra credits &amp; HW.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Lots of homework",
+        "Skip class? You won't pass.",
+        "Group projects"
+      ],
+      "grade": "A",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM1MDc1NTI0",
+      "legacy_id": 35075524,
+      "date": "2021-09-16 16:51:27 +0000 UTC",
+      "course": "EE186",
+      "comment": "The most difficult class I've taken. My senior engineering friend would try to help me, but our projects were more difficult than anything he had ever built. When we would ask for help, he often couldn't fix our codes and would make us solve it on our own. The exams were 4 FULL code projects and we had to do all of them within the class period.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Lots of homework",
+        "Lecture heavy",
+        "Tough grader"
+      ],
+      "grade": "Drop/Withdrawal",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM0NTUyMDYz",
+      "legacy_id": 34552063,
+      "date": "2021-04-14 21:34:08 +0000 UTC",
+      "course": "EE186",
+      "comment": "Very annoying professor",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Lots of homework",
+        "Lecture heavy",
+        "EXTRA CREDIT"
+      ],
+      "grade": "A",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTM0MDExMDIz",
+      "legacy_id": 34011023,
+      "date": "2020-12-10 03:20:13 +0000 UTC",
+      "course": "EE186",
+      "comment": "If you end up taking this professor, get ready to work to pass. If you know programming you will be fine (like me), if you don't ask him to clarify topics, many people didn't this semester so they were lost for quizzes and homework. Good thing is the class grades projects, lots of extra credit, and class votes for a curve. He is a nice guy irl.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Beware of pop quizzes",
+        "Group projects",
+        "Skip class? You won't pass."
+      ],
+      "grade": "A",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzOTYwOTg3",
+      "legacy_id": 33960987,
+      "date": "2020-12-05 23:16:57 +0000 UTC",
+      "course": "EE186",
+      "comment": "If you want to pass, know C and Arduino programming beforehand. You will regret not having coding experience if you take his class. He is nice and accessible during office hours. He is not afraid to fail you if you do not try; make sure to put in the effort and be ready for pop quizzes. He will give you 10 minutes to write and submit a program.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Lots of homework",
+        "Group projects",
+        "Beware of pop quizzes"
+      ],
+      "grade": "A",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": true,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzMzUzMzI0",
+      "legacy_id": 33353324,
+      "date": "2020-05-22 06:30:35 +0000 UTC",
+      "course": "EE186",
+      "comment": "All comments are true. Lectured through both lecture and activity time. Taught myself through the codes he posts on BeachBoard. All homework took me at least an hour to figure out. Many group projects. If you email him or talk to him in person, will be helpful. If enough emailed questions, will blast question to whole class and answer.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Lots of homework",
+        "Group projects",
+        "Lecture heavy"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyNzI1MTY4",
+      "legacy_id": 32725168,
+      "date": "2019-12-20 01:54:40 +0000 UTC",
+      "course": "EE186",
+      "comment": "What can I say about this Professor,? Well to start off, he doesnt have the certification for being a professor. He is just a field technician. Thats why he didnt know a single thing what he is doing, always talk gibberish about his life, did not teach anything, and did not care about students. If you want your life miserable, take him",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Test heavy",
+        "Beware of pop quizzes",
+        "Tough grader"
+      ],
+      "grade": "C+",
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyMzU2MjE3",
+      "legacy_id": 32356217,
+      "date": "2019-11-04 22:10:01 +0000 UTC",
+      "course": "EE189",
+      "comment": "Worst professor in EE department. Do not ever think to take a step in this class.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Graded by few things",
+        "Beware of pop quizzes",
+        "Tough grader"
+      ],
+      "grade": "Drop/Withdrawal",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxODc1ODY4",
+      "legacy_id": 31875868,
+      "date": "2019-05-15 02:11:43 +0000 UTC",
+      "course": "EE186",
+      "comment": "Being my first programming class, Mr. Rodriguez made it really difficult to understand the complex C language. Never shows you how to actually code, just lectures about himself a lot. Not encouraging to students and bombards you with homework and quizzes. Be prepared to present group projects in front of class, and work REALLY hard.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Group projects",
+        "Beware of pop quizzes",
+        "Lecture heavy"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMxODc1ODQ1",
+      "legacy_id": 31875845,
+      "date": "2019-05-15 02:09:38 +0000 UTC",
+      "course": "EE186",
+      "comment": "Likes to trick you on tests/quizzes. Unclear directions. Disrespectful towards students. Lectures are him talking about himself for an hour and ten minutes of him scribbling on a board you can't see. Expects you to read 100+ items on beachboard. I learned nothing from him, mainly learned from other students with experience and teaching myself.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Group projects",
+        "Beware of pop quizzes",
+        "Lecture heavy"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "non mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI5NjM5Nzgz",
+      "legacy_id": 29639783,
+      "date": "2018-03-09 23:14:21 +0000 UTC",
+      "course": "EE186",
+      "comment": "Very vague in his directions of how he wants projects or homework to be completed. Will sometimes email the class the night before to add more confusing details to his instructions. He forces you to read a bunch of material but does not directly tell you what to look out for. The class is very pressured and hard to keep up.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough Grader",
+        "Skip class? You won't pass.",
+        "GROUP PROJECTS"
+      ],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": null,
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI5Mzk4NDg2",
+      "legacy_id": 29398486,
+      "date": "2018-01-06 00:11:51 +0000 UTC",
+      "course": "EE211L",
+      "comment": "Why does this guy teach anything at this school? The tests are nothing like the labs. He walks in every week and tells us we are all failing, then just laughs. He calls us engineers and laughed when we all said we didnt know something, because GUESS WHAT, we never learned it! The lecture is sooo behind compared to hi lab and he didnt even care.",
+      "quality": 2.0,
+      "helpful": 2.0,
+      "clarity": 2.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough Grader",
+        "Skip class? You won't pass.",
+        "ACCESSIBLE OUTSIDE CLASS"
+      ],
+      "grade": "B",
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 4,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4NTQ4NTcw",
+      "legacy_id": 28548570,
+      "date": "2017-07-21 17:11:48 +0000 UTC",
+      "course": "EE211L",
+      "comment": "Leo is one of the best prof. in EE department. Labs and quizzes are inspirational, and really help you understand circuits. Class is hard and you really need to work for it, but this is how you are gonna succeed, right? He just wants to push his students harder. Do the extra credit labs if you want to get an A.",
+      "quality": 5.0,
+      "helpful": 5.0,
+      "clarity": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough Grader",
+        "Participation matters",
+        "EXTRA CREDIT"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 6,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI4MzI5ODE4",
+      "legacy_id": 28329818,
+      "date": "2017-05-17 04:42:40 +0000 UTC",
+      "course": "EE211L",
+      "comment": "Professor Rodriguez is an interactive professor who really wants his students to succeed in the field. With that being said, his class is hard. The lecture/lab don't line up, so everyone fails the quizzes, but the labs are easy, and there is a ton of extra credit that actually applies the concepts in real-life examples. The class has a huge curve.",
+      "quality": 4.0,
+      "helpful": 4.0,
+      "clarity": 4.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "Inspirational"
+      ],
+      "grade": "A",
+      "would_take_again": true,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 1,
+      "thumbs_down": 3,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTI3MDQzNzQ1",
+      "legacy_id": 27043745,
+      "date": "2016-10-17 02:20:34 +0000 UTC",
+      "course": "EE211L",
+      "comment": "literally the worst instructor i have taken. he knows his stuff but is disorganized and doesn't really teach you anything yet makes ridiculous tests.  The labs themselves are simple but does not convey his expectations accurately",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": false,
+      "attendance_mandatory": "mandatory",
+      "textbook_use": 0.0,
+      "is_online": false,
+      "is_for_credit": true,
+      "thumbs_up": 3,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTIwMTc1MzQ3",
+      "legacy_id": 20175347,
+      "date": "2012-05-02 13:33:30 +0000 UTC",
+      "course": "CECS410",
+      "comment": "His lectures are disorganized and confusing which makes the simple labs harder than they are. He can be helpful but can come off as a bit rude at times. However, the class is easy, and even if you do poorly on the exams, there are enough extra credit opportunities to get an A along with the curve. Class can be frustrating but no so bad in the end.",
+      "quality": 2.5,
+      "helpful": 3.0,
+      "clarity": 2.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTE5ODY3ODIx",
+      "legacy_id": 19867821,
+      "date": "2012-02-29 23:42:24 +0000 UTC",
+      "course": "CECS410",
+      "comment": "Don't know why everyone is down on him. He's nice, kind of confusing at times, but logically everything makes sense. He doesn't require you to attend class, but you're setting yourself up to fail if you don't go. He offers extra credit later in the semester; it's good practice for the second midterm. Three tests, a few homework assignments. Easy A.",
+      "quality": 3.5,
+      "helpful": 4.0,
+      "clarity": 3.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 2,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTE4MDMyNzc1",
+      "legacy_id": 18032775,
+      "date": "2010-12-23 15:23:55 +0000 UTC",
+      "course": "CECS410",
+      "comment": "His teaching methods are very confusing. However, this class is super easy and he provides so much extra credit that it's impossible not to get an A in this class.",
+      "quality": 2.0,
+      "helpful": 3.0,
+      "clarity": 1.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTE3OTczODk3",
+      "legacy_id": 17973897,
+      "date": "2010-12-17 00:43:33 +0000 UTC",
+      "course": "CECS410",
+      "comment": "Worthless professor.  He does not know anything.  He is living proof that even people with a master degree cannot do anything.  I already know how to repair computers and I can literally do a much much much better job at teaching than he can. He is completely useless; the department should fire him.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 4,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTE2NTk4NDE0",
+      "legacy_id": 16598414,
+      "date": "2009-12-18 19:48:54 +0000 UTC",
+      "course": "CECS410",
+      "comment": "Ineffective teaching style. He makes things more confusing than they have to be. Very disorganized. Quizzes will NOT prepare you for the tests. Expects you to print things from BeachBoard even though he posted it 5 hours before class. Most people received an A because he graded on a curve.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 3,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTE1Mzk0MDA1",
+      "legacy_id": 15394005,
+      "date": "2009-01-20 13:20:34 +0000 UTC",
+      "course": "CECS311",
+      "comment": "The class is ridiculously easy. The only problem is that you're pretty much on your own from the start. Just pay VERY close attention to details in the lectures, and read over the stuff he posts online and you should fly through the class. The only thing that not certain is if you'll learn anything in the process.",
+      "quality": 3.0,
+      "helpful": 3.0,
+      "clarity": 3.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 2.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTE0ODk0NjIw",
+      "legacy_id": 14894620,
+      "date": "2008-10-23 13:38:28 +0000 UTC",
+      "course": "CECS311",
+      "comment": "Completely useless, not a real professor.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTE0NzM0NzIx",
+      "legacy_id": 14734721,
+      "date": "2008-08-12 00:41:03 +0000 UTC",
+      "course": "CECS311",
+      "comment": "I find it hard to believe that engr. majors complain about having to google info., or having to find an electronics store on their own. Get real! If you go to the guy for help, he'll stop whatever he's doing and help. If he can't figure it out on spot, he doesn't rest until he does. Grading is more than fair.",
+      "quality": 4.0,
+      "helpful": 5.0,
+      "clarity": 3.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 2.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "professor_reply": null,
+      "flag_status": "REVIEWED"
+    },
+    {
+      "id": "UmF0aW5nLTE0NTQ5MzMw",
+      "legacy_id": 14549330,
+      "date": "2008-06-02 23:27:02 +0000 UTC",
+      "course": "CECS347",
+      "comment": "Our original professor had an emergency sick leave in the beginning of the semester and we were stuck with him.  Many things I can rip about this EE guy, but the bottom line is to avoid him when possible.  With him at the helm of this botched class, nothing about the subject matter was taught--only things that he knew, which was electrical.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 4.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTE0NDgyMzgx",
+      "legacy_id": 14482381,
+      "date": "2008-05-16 15:59:12 +0000 UTC",
+      "course": "CECS311",
+      "comment": "The previous comments are very accurate. Do not expect to learn the content with common teaching practices, but do expect to build  the circuits  with little time and info. Looking back on it, the content is not that difficult, but you need to find an external source for learning how and why certain components are used. Interesting stuff!",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 4.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTEyNzMzNTE2",
+      "legacy_id": 12733516,
+      "date": "2007-01-07 15:49:44 +0000 UTC",
+      "course": "CECS201",
+      "comment": "DO NOT TAKE THIS &quot;PROFESSOR'S&quot; CLASS. I was stuck with this guy because they over booked our real teacher. This guy isn't a teacher, he's a researcher. He has no teaching skills at all. I had to teach the class for him most of the time. The only reason I passed was because I already knew the subject matter and he gave so much extra credit.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": 1.0,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTEwNDcyMjMw",
+      "legacy_id": 10472230,
+      "date": "2005-09-08 23:40:15 +0000 UTC",
+      "course": "CECS311",
+      "comment": "Very Very Very bad, worst teacher, dont know why he is in the Univ.  DO NOT TAKE HIM.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMzNDM2OTE=",
+      "legacy_id": 3343691,
+      "date": "2005-02-10 14:21:04 +0000 UTC",
+      "course": "CECS311",
+      "comment": "Leo is bad for Cal State Long Beach. He needs to go, with all the problems the engineering department has Leo DOES not need to be added.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    },
+    {
+      "id": "UmF0aW5nLTMyODU2NjY=",
+      "legacy_id": 3285666,
+      "date": "2005-01-27 01:54:44 +0000 UTC",
+      "course": "CECS311",
+      "comment": "Horrible first impression. Can not read writing, problems too vague and labs are not explained well. Just gives you a worthless schmatic and wants you to go to stores without an address to buy them. Expects you to google everything.  Does not teach from the book.",
+      "quality": 1.0,
+      "helpful": 1.0,
+      "clarity": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "grade": null,
+      "would_take_again": null,
+      "attendance_mandatory": null,
+      "textbook_use": null,
+      "is_online": false,
+      "is_for_credit": false,
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "professor_reply": null,
+      "flag_status": "UNFLAGGED"
+    }
+  ]
+}
