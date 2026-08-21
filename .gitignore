@@ -9,3 +9,4 @@ output/*
 !output/.gitkeep
 temporary_venv
 .env
+.env.example

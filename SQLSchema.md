@@ -16,13 +16,13 @@ CREATE SCHEMA IF NOT EXISTS app_data;
 -- raw_data: pre-generated (batch-loaded from RMP / Reddit / manual)
 -- ------------------------------------------------------------
 
-CREATE TABLE raw_data.schools (
+CREATE TABLE IF NOT EXISTS raw_data.schools (
     id              SERIAL PRIMARY KEY,
     name            TEXT NOT NULL,
     rmp_school_id   TEXT UNIQUE  -- the encoded ID from the RMP GraphQL API
 );
 
-CREATE TABLE raw_data.professors (
+CREATE TABLE IF NOT EXISTS raw_data.professors (
     id                      SERIAL PRIMARY KEY,
     school_id               INT NOT NULL REFERENCES raw_data.schools(id),
     rmp_professor_id        TEXT UNIQUE,  -- e.g. "Teacher-506498" decoded
@@ -38,7 +38,7 @@ CREATE TABLE raw_data.professors (
 );
 CREATE INDEX idx_professors_department ON raw_data.professors(department);
 
-CREATE TABLE raw_data.professor_tags (
+CREATE TABLE IF NOT EXISTS raw_data.professor_tags (
     id              SERIAL PRIMARY KEY,
     professor_id    INT NOT NULL REFERENCES raw_data.professors(id) ON DELETE CASCADE,
     tag_name        TEXT NOT NULL,
@@ -46,7 +46,7 @@ CREATE TABLE raw_data.professor_tags (
 );
 CREATE INDEX idx_professor_tags_professor ON raw_data.professor_tags(professor_id);
 
-CREATE TABLE raw_data.courses (
+CREATE TABLE IF NOT EXISTS raw_data.courses (
     id              SERIAL PRIMARY KEY,
     course_code     TEXT NOT NULL,        -- e.g. "CECS 174"
     title           TEXT NOT NULL,
@@ -59,7 +59,7 @@ CREATE TABLE raw_data.courses (
 CREATE INDEX idx_courses_department ON raw_data.courses(department);
 
 -- Self-referencing many-to-many: a course can require other courses
-CREATE TABLE raw_data.prerequisites (
+CREATE TABLE IF NOT EXISTS raw_data.prerequisites (
     course_id               INT NOT NULL REFERENCES raw_data.courses(id) ON DELETE CASCADE,
     prerequisite_course_id  INT NOT NULL REFERENCES raw_data.courses(id) ON DELETE CASCADE,
     PRIMARY KEY (course_id, prerequisite_course_id),
@@ -67,7 +67,7 @@ CREATE TABLE raw_data.prerequisites (
 );
 
 -- A specific section: this course, this professor, this term/time
-CREATE TABLE raw_data.course_offerings (
+CREATE TABLE IF NOT EXISTS raw_data.course_offerings (
     id              SERIAL PRIMARY KEY,
     course_id       INT NOT NULL REFERENCES raw_data.courses(id) ON DELETE CASCADE,
     professor_id    INT REFERENCES raw_data.professors(id),
@@ -80,7 +80,7 @@ CREATE TABLE raw_data.course_offerings (
 CREATE INDEX idx_offerings_course ON raw_data.course_offerings(course_id);
 CREATE INDEX idx_offerings_term ON raw_data.course_offerings(term);
 
-CREATE TABLE raw_data.reviews (
+CREATE TABLE IF NOT EXISTS raw_data.reviews (
     id              SERIAL PRIMARY KEY,
     professor_id    INT NOT NULL REFERENCES raw_data.professors(id) ON DELETE CASCADE,
     course_id       INT REFERENCES raw_data.courses(id),  -- nullable: not every review names a course
@@ -97,7 +97,7 @@ CREATE INDEX idx_reviews_professor ON raw_data.reviews(professor_id);
 
 -- If using Supabase Auth, this extends auth.users rather than
 -- storing credentials directly.
-CREATE TABLE app_data.profiles (
+CREATE TABLE IF NOT EXISTS app_data.profiles (
     id              UUID PRIMARY KEY,  -- REFERENCES auth.users(id) on Supabase
     major           TEXT,
     class_standing  TEXT,  -- freshman / sophomore / junior / senior
@@ -105,7 +105,7 @@ CREATE TABLE app_data.profiles (
     created_at      TIMESTAMPTZ DEFAULT now()
 );
 
-CREATE TABLE app_data.quiz_responses (
+CREATE TABLE IF NOT EXISTS app_data.quiz_responses (
     id              SERIAL PRIMARY KEY,
     user_id         UUID NOT NULL REFERENCES app_data.profiles(id) ON DELETE CASCADE,
     question_id     TEXT NOT NULL,
@@ -114,7 +114,7 @@ CREATE TABLE app_data.quiz_responses (
 );
 CREATE INDEX idx_quiz_responses_user ON app_data.quiz_responses(user_id);
 
-CREATE TABLE app_data.saved_schedules (
+CREATE TABLE IF NOT EXISTS app_data.saved_schedules (
     id              SERIAL PRIMARY KEY,
     user_id         UUID NOT NULL REFERENCES app_data.profiles(id) ON DELETE CASCADE,
     term            TEXT NOT NULL,
@@ -124,14 +124,14 @@ CREATE TABLE app_data.saved_schedules (
 CREATE INDEX idx_saved_schedules_user ON app_data.saved_schedules(user_id);
 
 -- Many-to-many junction: a schedule contains many offerings
-CREATE TABLE app_data.schedule_offerings (
+CREATE TABLE IF NOT EXISTS app_data.schedule_offerings (
     schedule_id     INT NOT NULL REFERENCES app_data.saved_schedules(id) ON DELETE CASCADE,
     offering_id     INT NOT NULL REFERENCES raw_data.course_offerings(id) ON DELETE CASCADE,
     PRIMARY KEY (schedule_id, offering_id)
 );
 
 -- Bookmarked courses, independent of any specific schedule
-CREATE TABLE app_data.saved_courses (
+CREATE TABLE IF NOT EXISTS app_data.saved_courses (
     user_id         UUID NOT NULL REFERENCES app_data.profiles(id) ON DELETE CASCADE,
     course_id       INT NOT NULL REFERENCES raw_data.courses(id) ON DELETE CASCADE,
     created_at      TIMESTAMPTZ DEFAULT now(),
