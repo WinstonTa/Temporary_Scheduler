@@ -1,1 +1,5 @@
 temporary_venv
+.env
+.env.local
+.env.*.local
+
