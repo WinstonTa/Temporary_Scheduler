@@ -43,7 +43,7 @@ def build_prof_text(prof: dict, tags:list[dict], reviews: list[dict]) -> str:
         #repeat each tag word by how often it is said
         repeat_count = min(tag["tag_count"], 10) # capping at 10 times
 
-        parts.extend([tag["tag_name"] * repeat_count])
+        parts.extend([tag["tag_name"]] * repeat_count)
 
     #Include review blobs into embeddings
     for review in reviews[:15]:
