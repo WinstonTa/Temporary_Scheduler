@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { appData, supabase } from "./supabase";
+import ClassioNav from "./classio-nav.jsx";
 
 const lowerDivisionCourses = [
   "MATH 122",
@@ -101,7 +102,7 @@ function hasAnswer(value) {
   return String(value ?? "").trim().length > 0;
 }
 
-export default function Quiz({ onSignOut }) {
+export default function Quiz({ onSignOut, onNavigate }) {
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [answers, setAnswers] = useState({});
   const [finished, setFinished] = useState(false);
@@ -220,21 +221,21 @@ export default function Quiz({ onSignOut }) {
     setSubmitError("");
   };
 
-  const signOutButton = (
-    <button
-      type="button"
-      onClick={onSignOut}
-      className="rounded-lg px-4 py-2 text-sm font-medium text-gray-600 hover:bg-gray-100"
-    >
-      Sign out
-    </button>
+  const nav = (
+    <ClassioNav
+      activePage="quiz"
+      onNavigate={onNavigate}
+      onLogoClick={() => onNavigate?.("quiz")}
+      actionLabel="Sign out"
+      onAction={onSignOut}
+    />
   );
 
   if (finished) {
     return (
-      <div className="min-h-screen bg-gray-50 px-6 py-12">
-        <div className="mx-auto max-w-2xl">
-          <div className="mb-6 flex justify-end">{signOutButton}</div>
+      <div className="min-h-screen bg-gray-50 text-gray-900">
+        {nav}
+        <div className="mx-auto max-w-2xl px-6 py-12">
           <div className="rounded-2xl bg-white p-10 text-center shadow-sm">
             <div className="mb-5 text-5xl">✓</div>
 
@@ -251,8 +252,16 @@ export default function Quiz({ onSignOut }) {
 
             <button
               type="button"
-              onClick={restartQuiz}
+              onClick={() => onNavigate?.("recommendations")}
               className="mt-8 rounded-xl bg-indigo-600 px-6 py-3 font-semibold text-white hover:bg-indigo-700"
+            >
+              View recommendations
+            </button>
+
+            <button
+              type="button"
+              onClick={restartQuiz}
+              className="mt-4 rounded-xl px-6 py-3 font-semibold text-gray-600 hover:bg-gray-100"
             >
               Retake Quiz
             </button>
@@ -272,9 +281,9 @@ export default function Quiz({ onSignOut }) {
         : Boolean(currentAnswer);
 
   return (
-    <div className="min-h-screen bg-gray-50 px-6 py-10 text-gray-900">
-      <div className="mx-auto max-w-3xl">
-        <div className="mb-6 flex justify-end">{signOutButton}</div>
+    <div className="min-h-screen bg-gray-50 text-gray-900">
+      {nav}
+      <div className="mx-auto max-w-3xl px-6 py-10">
 
         <div className="mb-10 text-center">
           <p className="mb-2 text-sm font-semibold uppercase tracking-wider text-indigo-600">

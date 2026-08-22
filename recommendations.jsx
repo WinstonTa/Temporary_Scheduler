@@ -1,6 +1,7 @@
 import { useState } from "react";
+import ClassioNav from "./classio-nav.jsx";
 
-export default function Recommendations({ onNavigate, onBackToHome, onLoginClick }) {
+export default function Recommendations({ onNavigate, onBackToHome, onSignOut }) {
   const [showRecommendations, setShowRecommendations] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
   const [enrolledCourses, setEnrolledCourses] = useState([]);
@@ -110,62 +111,13 @@ export default function Recommendations({ onNavigate, onBackToHome, onLoginClick
         </svg>
       </div>
 
-      {/* Top Header Navigation Bar */}
-      <header className="relative z-10 w-full border-b border-zinc-800 bg-zinc-950/80 backdrop-blur-md">
-        <div className="max-w-7xl mx-auto flex h-20 items-center justify-between px-8 md:px-12">
-          
-          {/* Brand Logo */}
-          <div className="flex items-center">
-            <button 
-              onClick={onBackToHome}
-              className="text-3xl font-normal tracking-wide text-amber-300 focus:outline-none" 
-              style={{ fontFamily: "'Caveat', cursive" }}
-            >
-              Classio
-            </button>
-          </div>
-
-          {/* Centered Navigation Links with Even Spacing */}
-          <nav className="hidden lg:flex items-center space-x-12 text-sm font-medium text-zinc-300" aria-label="Main Navigation">
-            <button 
-              onClick={() => onNavigate?.("schedule")} 
-              className="transition hover:text-amber-400 focus:outline-none"
-            >
-              Schedule
-            </button>
-            <button 
-              onClick={() => onNavigate?.("quiz")} 
-              className="transition hover:text-amber-400 focus:outline-none"
-            >
-              Quiz
-            </button>
-            <button 
-              onClick={() => onNavigate?.("recommendations")} 
-              className="text-amber-400 font-semibold focus:outline-none"
-            >
-              Course Recommendations
-            </button>
-          </nav>
-
-          {/* Far Right Action Button */}
-          <div className="flex items-center">
-            <button
-              onClick={onLoginClick}
-              className="rounded-xl bg-amber-400 px-5 py-2.5 text-sm font-semibold text-black transition hover:bg-amber-300 active:scale-[0.99] focus:outline-none shadow-lg shadow-amber-400/10"
-            >
-              Login
-            </button>
-          </div>
-
-        </div>
-      </header>
-
-      {/* Mobile Navigation Bar */}
-      <nav className="flex lg:hidden items-center justify-center space-x-8 px-6 py-3 text-xs font-medium text-zinc-400 border-b border-zinc-800 bg-zinc-950" aria-label="Mobile Navigation">
-        <button onClick={() => onNavigate?.("schedule")} className="hover:text-amber-400">Schedule</button>
-        <button onClick={() => onNavigate?.("quiz")} className="hover:text-amber-400">Quiz</button>
-        <button onClick={() => onNavigate?.("recommendations")} className="text-amber-400 font-semibold">Recommendations</button>
-      </nav>
+      <ClassioNav
+        activePage="recommendations"
+        onNavigate={onNavigate}
+        onLogoClick={onBackToHome}
+        actionLabel="Sign out"
+        onAction={onSignOut}
+      />
 
       {/* Main Recommendations Content */}
       <div className="relative z-10 flex flex-1 flex-col items-center px-6 py-16 max-w-7xl mx-auto w-full" style={{ fontFamily: "'Lexend', sans-serif" }}>

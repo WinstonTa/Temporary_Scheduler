@@ -3,6 +3,7 @@ import LandingPage from "./landing.jsx";
 import Login from "./login.jsx";
 import Signup from "./signup.jsx";
 import Quiz from "./quiz.jsx";
+import Recommendations from "./recommendations.jsx";
 import { supabase, supabaseConfigured } from "./supabase";
 
 function ClassioMessage({ children, error = false }) {
@@ -18,6 +19,7 @@ function ClassioMessage({ children, error = false }) {
 export default function App() {
   const [session, setSession] = useState(undefined);
   const [guestView, setGuestView] = useState("landing");
+  const [signedInView, setSignedInView] = useState("quiz");
 
   useEffect(() => {
     if (!supabaseConfigured) {
@@ -48,6 +50,18 @@ export default function App() {
     }
   };
 
+  const handleSignedInNavigate = (page) => {
+    if (page === "quiz" || page === "recommendations") {
+      setSignedInView(page);
+    }
+  };
+
+  const signOut = () => {
+    setGuestView("landing");
+    setSignedInView("quiz");
+    supabase.auth.signOut();
+  };
+
   if (!supabaseConfigured) {
     return (
       <ClassioMessage error>
@@ -62,12 +76,20 @@ export default function App() {
   }
 
   if (session) {
+    if (signedInView === "recommendations") {
+      return (
+        <Recommendations
+          onNavigate={handleSignedInNavigate}
+          onBackToHome={() => setSignedInView("quiz")}
+          onSignOut={signOut}
+        />
+      );
+    }
+
     return (
       <Quiz
-        onSignOut={() => {
-          setGuestView("landing");
-          supabase.auth.signOut();
-        }}
+        onSignOut={signOut}
+        onNavigate={handleSignedInNavigate}
       />
     );
   }
