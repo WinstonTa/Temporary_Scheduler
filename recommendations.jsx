@@ -1,81 +1,76 @@
 import { useState } from "react";
 import ClassioNav from "./classio-nav.jsx";
+import { authRedirectTo, supabase } from "./supabase";
 
 export default function Recommendations({ onNavigate, onBackToHome, onSignOut }) {
   const [showRecommendations, setShowRecommendations] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
   const [enrolledCourses, setEnrolledCourses] = useState([]);
-
-  // Sample course data tailored for Classio
-  const courses = [
-    {
-      id: 1,
-      code: "CS 101",
-      title: "Introduction to Computer Science",
-      category: "Computer Science",
-      difficulty: "Beginner",
-      credits: 4,
-      description: "Learn the foundational principles of programming using Python. Covers loops, functions, data structures, and algorithmic thinking.",
-      tags: ["Python", "Algorithms", "Coding"]
-    },
-    {
-      id: 2,
-      code: "MATH 201",
-      title: "Calculus for Engineers & Scientists",
-      category: "Mathematics",
-      difficulty: "Intermediate",
-      credits: 4,
-      description: "Dive into limits, derivatives, integrals, and series expansions with practical applications in physical and computational sciences.",
-      tags: ["Calculus", "Analysis", "STEM"]
-    },
-    {
-      id: 3,
-      code: "DATA 150",
-      title: "Applied Data Analytics",
-      category: "Data Science",
-      difficulty: "Intermediate",
-      credits: 3,
-      description: "Transform raw data into meaningful insights. Gain hands-on experience cleaning datasets, building visualizations, and running statistical tests.",
-      tags: ["Pandas", "Visualization", "Statistics"]
-    },
-    {
-      id: 4,
-      code: "AI 305",
-      title: "Foundations of Artificial Intelligence",
-      category: "Computer Science",
-      difficulty: "Advanced",
-      credits: 4,
-      description: "Explore search algorithms, knowledge representation, probabilistic reasoning, and an introduction to machine learning models.",
-      tags: ["Machine Learning", "Python", "Neural Nets"]
-    },
-    {
-      id: 5,
-      code: "BUS 110",
-      title: "Principles of Entrepreneurship",
-      category: "Business",
-      difficulty: "Beginner",
-      credits: 3,
-      description: "Learn how to spot market opportunities, validate business models, draft lean canvases, and pitch ideas effectively.",
-      tags: ["Startups", "Strategy", "Marketing"]
-    },
-    {
-      id: 6,
-      code: "PHYS 102",
-      title: "General Physics: Electricity & Magnetism",
-      category: "Science",
-      difficulty: "Intermediate",
-      credits: 4,
-      description: "Understand electric fields, Gauss's law, circuits, magnetic induction, and Maxwell's equations through laboratory practice.",
-      tags: ["Physics", "Circuits", "Lab"]
-    }
-  ];
+  const [courses, setCourses] = useState([]);     
+  const [loading, setLoading] = useState(false);   
+  const [error, setError] = useState(null);        
 
   const toggleEnroll = (id) => {
     setEnrolledCourses(prev => 
       prev.includes(id) ? prev.filter(cId => cId !== id) : [...prev, id]
     );
   };
+// Buckets a 1-5 RMP difficulty score into a label the card UI already
+  // has styling for. Thresholds are a reasonable starting guess —
+  // tune them if real data skews the buckets oddly.
+  function difficultyLabel(avgDifficulty) {
+    if (avgDifficulty == null) return "Intermediate"; // fallback for TBA/no-professor sections
+    if (avgDifficulty <= 2.5) return "Beginner";
+    if (avgDifficulty <= 3.5) return "Intermediate";
+    return "Advanced";
+  }
 
+  // Formats credits_min/credits_max into what the card expects as a
+  // single "credits" number, or a "1-3" style string if it's a range.
+  function formatCredits(min, max) {
+    if (min == null) return null;
+    if (min === max) return min;
+    return `${min}-${max}`;
+  }
+
+  async function fetchRecommendations() {
+    setLoading(true);
+    setError(null);
+    try {
+      const { data: { user } } = await supabase.auth.getUser();
+
+      const response = await fetch("http://localhost:8000/recommend-classes", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ user_id: user.id, term: "Fall 2026", match_count: 10 }),
+      });
+
+      if (!response.ok) {
+        const err = await response.json();
+        throw new Error(err.detail || "Failed to get recommendations");
+      }
+
+      const result = await response.json();
+
+      const mapped = result.recommendations.map((rec) => ({
+        id: rec.offering_id,
+        code: rec.course_code,
+        title: rec.course_title,
+        category: rec.department || "General",
+        difficulty: difficultyLabel(rec.avg_difficulty),
+        credits: formatCredits(rec.credits_min, rec.credits_max),
+        description: `${rec.professor_first_name || "TBA"} ${rec.professor_last_name || ""} · ${rec.days || "TBA"} ${rec.start_time || ""}-${rec.end_time || ""}`,
+        tags: [], // no clean data source yet — see note in chat
+      }));
+
+      setCourses(mapped);
+      setShowRecommendations(true);
+    } catch (err) {
+      setError(err.message);
+    } finally {
+      setLoading(false);
+    }
+  }
   const filteredCourses = courses.filter(course => {
     return course.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
            course.code.toLowerCase().includes(searchQuery.toLowerCase()) ||
@@ -139,11 +134,13 @@ export default function Recommendations({ onNavigate, onBackToHome, onSignOut })
         {!showRecommendations && (
           <div className="my-12 animate-pop-up">
             <button
-              onClick={() => setShowRecommendations(true)}
-              className="rounded-xl bg-amber-400 px-8 py-4 text-base font-semibold text-black transition hover:bg-amber-300 active:scale-[0.99] shadow-xl shadow-amber-400/10 focus:outline-none"
-            >
-              Recommend Me Courses
+               onClick={fetchRecommendations}
+               disabled={loading}
+               className="rounded-xl bg-amber-400 px-8 py-4 text-base font-semibold text-black transition hover:bg-amber-300 active:scale-[0.99] shadow-xl shadow-amber-400/10 focus:outline-none disabled:opacity-50"
+               >
+               {loading ? "Finding your matches..." : "Recommend Me Courses"}
             </button>
+            {error && <p className="text-red-400 text-sm mt-3">{error}</p>}
           </div>
         )}
 
