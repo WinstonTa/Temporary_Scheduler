@@ -1,7 +1,8 @@
-"""Extremely simple proof-of-concept UI for RMP scrape + analysis."""
+"""Temporary Scheduler: auth pages plus the RMP scrape PoC."""
 
 from __future__ import annotations
 
+import os
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -17,8 +18,41 @@ from rmp.urls import InvalidProfessorURL  # noqa: E402
 app = Flask(__name__)
 
 
+@app.context_processor
+def inject_supabase():
+    return {
+        "supabase_url": os.getenv("SUPABASE_URL", ""),
+        "supabase_publishable_key": os.getenv("SUPABASE_PUBLISHABLE_KEY", ""),
+    }
+
+
 @app.get("/")
-def index():
+def landing():
+    return render_template("landing.html", page="landing")
+
+
+@app.get("/signup")
+def signup():
+    return render_template("signup.html", page="signup")
+
+
+@app.get("/login")
+def login():
+    return render_template("login.html", page="login")
+
+
+@app.get("/check-email")
+def check_email():
+    return render_template("check_email.html", page="check-email")
+
+
+@app.get("/home")
+def home():
+    return render_template("home.html", page="home")
+
+
+@app.get("/rmp")
+def rmp_index():
     return render_template(
         "index.html",
         url="",
@@ -28,8 +62,8 @@ def index():
     )
 
 
-@app.post("/")
-def scrape():
+@app.post("/rmp")
+def rmp_scrape():
     url = (request.form.get("url") or "").strip()
     error = None
     result = None

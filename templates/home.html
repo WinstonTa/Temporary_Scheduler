@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% set page = "home" %}
+{% block title %}Home · Temporary Scheduler{% endblock %}
+{% block topbar %}
+  <div class="topbar">
+    <button id="sign-out" type="button">Sign out</button>
+  </div>
+{% endblock %}
+{% block content %}
+  <div class="card">
+    <h1>Temporary Scheduler</h1>
+    <p id="home-status">Checking your session...</p>
+    <p id="profile-details" class="muted"></p>
+  </div>
+{% endblock %}

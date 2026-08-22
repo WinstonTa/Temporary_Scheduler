@@ -13,6 +13,7 @@
   </style>
 </head>
 <body>
+  <p><a href="{{ url_for('landing') }}">Back to Temporary Scheduler</a></p>
   <h1>RateMyProfessors insights (PoC)</h1>
   <p>Paste the exact professor URL. This pulls public GraphQL data and writes JSON + markdown files locally.</p>
   <p>
@@ -24,7 +25,7 @@
     {% endif %}
   </p>
 
-  <form method="post">
+  <form method="post" action="{{ url_for('rmp_scrape') }}">
     <label for="url">Professor URL</label><br>
     <input
       id="url"

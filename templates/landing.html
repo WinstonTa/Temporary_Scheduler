@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% set page = "landing" %}
+{% block title %}Temporary Scheduler{% endblock %}
+{% block content %}
+  <div class="card">
+    <h1>Temporary Scheduler</h1>
+    <p>A CSULB course planner. Sign up or log in to start. Scheduling features come later; this slice is just accounts.</p>
+    <div class="actions">
+      <a class="button primary" href="{{ url_for('signup') }}">Sign Up</a>
+      <a class="button" href="{{ url_for('login') }}">Log In</a>
+    </div>
+    <p class="muted">RateMyProfessors scrape tools are still at <a href="{{ url_for('rmp_index') }}">/rmp</a>.</p>
+  </div>
+{% endblock %}

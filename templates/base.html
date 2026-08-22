@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{% block title %}Temporary Scheduler{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}">
+</head>
+<body
+  data-page="{{ page }}"
+  data-supabase-url="{{ supabase_url }}"
+  data-supabase-key="{{ supabase_publishable_key }}"
+>
+  {% block topbar %}{% endblock %}
+  <main class="page">
+    {% if not supabase_url or not supabase_publishable_key %}
+      <p class="error">Missing <code>SUPABASE_URL</code> or <code>SUPABASE_PUBLISHABLE_KEY</code> in <code>.env</code>.</p>
+    {% endif %}
+    {% block content %}{% endblock %}
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="{{ url_for('static', filename='js/supabaseClient.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/auth.js') }}"></script>
+</body>
+</html>

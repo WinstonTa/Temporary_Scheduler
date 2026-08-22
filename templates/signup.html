@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% set page = "signup" %}
+{% block title %}Sign Up · Temporary Scheduler{% endblock %}
+{% block content %}
+  <div class="card">
+    <h1>Sign Up</h1>
+    <p>Create an account with email and password, or use Google.</p>
+    <form id="signup-form">
+      <label for="email">Email</label>
+      <input id="email" name="email" type="email" required autocomplete="email">
+      <label for="password">Password</label>
+      <input id="password" name="password" type="password" required minlength="6" autocomplete="new-password">
+      <button class="primary" type="submit">Create account</button>
+    </form>
+    <p class="divider">or</p>
+    <button id="google-btn" type="button">Sign up with Google</button>
+    <p id="auth-status"></p>
+    <p>Already have an account? <a href="{{ url_for('login') }}">Log in</a></p>
+  </div>
+{% endblock %}

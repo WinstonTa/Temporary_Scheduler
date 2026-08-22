@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% set page = "check-email" %}
+{% block title %}Check your email · Temporary Scheduler{% endblock %}
+{% block content %}
+  <div class="card">
+    <h1>Check your email</h1>
+    <p>We sent a confirmation link. Click it to finish signing up and reach the logged-in page.</p>
+    <p class="muted">The message may be in spam. After you confirm, you can also <a href="{{ url_for('login') }}">log in</a>.</p>
+    <p><a href="{{ url_for('landing') }}">Back to home</a></p>
+  </div>
+{% endblock %}

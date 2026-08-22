@@ -1,0 +1,79 @@
+* { box-sizing: border-box; }
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  color: #1a1a1a;
+  background: #f4f4f1;
+}
+
+.page {
+  max-width: 720px;
+  margin: 40px auto;
+  padding: 0 16px 48px;
+}
+
+.topbar {
+  display: flex;
+  justify-content: flex-end;
+  padding: 12px 16px;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #d8d8d4;
+  padding: 24px;
+}
+
+h1 { margin-top: 0; }
+
+label {
+  display: block;
+  margin: 12px 0 4px;
+  font-weight: 600;
+}
+
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 8px;
+}
+
+button,
+.button {
+  display: inline-block;
+  margin-top: 12px;
+  margin-right: 8px;
+  padding: 8px 16px;
+  border: 1px solid #333;
+  background: #fff;
+  color: #1a1a1a;
+  text-decoration: none;
+  cursor: pointer;
+  font: inherit;
+}
+
+button.primary,
+.button.primary {
+  background: #1a1a1a;
+  color: #fff;
+}
+
+.actions { margin-top: 20px; }
+
+.error { color: #a40000; }
+.ok { color: #0b6b0b; }
+.muted { color: #555; }
+
+.divider {
+  margin: 20px 0;
+  color: #666;
+}
+
+dialog {
+  border: 1px solid #333;
+  padding: 20px;
+  max-width: 420px;
+}
+
+dialog::backdrop { background: rgba(0, 0, 0, 0.35); }
