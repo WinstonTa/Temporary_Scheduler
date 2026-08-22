@@ -4,6 +4,7 @@ import Login from "./login.jsx";
 import Signup from "./signup.jsx";
 import Quiz from "./quiz.jsx";
 import Recommendations from "./recommendations.jsx";
+import Schedule from "./schedule.jsx";
 import { supabase, supabaseConfigured } from "./supabase";
 
 function ClassioMessage({ children, error = false }) {
@@ -15,6 +16,8 @@ function ClassioMessage({ children, error = false }) {
     </div>
   );
 }
+
+const SIGNED_IN_PAGES = ["landing", "quiz", "schedule", "recommendations"];
 
 export default function App() {
   const [session, setSession] = useState(undefined);
@@ -42,7 +45,13 @@ export default function App() {
 
   const goToLogin = () => setGuestView("login");
   const goToSignup = () => setGuestView("signup");
-  const goToLanding = () => setGuestView("landing");
+  const goToLanding = () => {
+    if (session) {
+      setSignedInView("landing");
+      return;
+    }
+    setGuestView("landing");
+  };
 
   const handleNavigate = (page) => {
     if (page === "quiz" || page === "schedule" || page === "recommendations") {
@@ -51,7 +60,7 @@ export default function App() {
   };
 
   const handleSignedInNavigate = (page) => {
-    if (page === "quiz" || page === "recommendations") {
+    if (SIGNED_IN_PAGES.includes(page)) {
       setSignedInView(page);
     }
   };
@@ -76,11 +85,31 @@ export default function App() {
   }
 
   if (session) {
+    if (signedInView === "landing") {
+      return (
+        <LandingPage
+          isSignedIn
+          onSignOut={signOut}
+          onNavigate={handleSignedInNavigate}
+        />
+      );
+    }
+
     if (signedInView === "recommendations") {
       return (
         <Recommendations
           onNavigate={handleSignedInNavigate}
-          onBackToHome={() => setSignedInView("quiz")}
+          onBackToHome={goToLanding}
+          onSignOut={signOut}
+        />
+      );
+    }
+
+    if (signedInView === "schedule") {
+      return (
+        <Schedule
+          onNavigate={handleSignedInNavigate}
+          onBackToHome={goToLanding}
           onSignOut={signOut}
         />
       );
@@ -90,6 +119,7 @@ export default function App() {
       <Quiz
         onSignOut={signOut}
         onNavigate={handleSignedInNavigate}
+        onGoHome={goToLanding}
       />
     );
   }

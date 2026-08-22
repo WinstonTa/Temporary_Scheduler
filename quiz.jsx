@@ -102,7 +102,7 @@ function hasAnswer(value) {
   return String(value ?? "").trim().length > 0;
 }
 
-export default function Quiz({ onSignOut, onNavigate }) {
+export default function Quiz({ onSignOut, onNavigate, onGoHome }) {
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [answers, setAnswers] = useState({});
   const [finished, setFinished] = useState(false);
@@ -225,7 +225,7 @@ export default function Quiz({ onSignOut, onNavigate }) {
     <ClassioNav
       activePage="quiz"
       onNavigate={onNavigate}
-      onLogoClick={() => onNavigate?.("quiz")}
+      onLogoClick={onGoHome}
       actionLabel="Sign out"
       onAction={onSignOut}
     />

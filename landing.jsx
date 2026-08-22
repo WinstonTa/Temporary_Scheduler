@@ -1,4 +1,10 @@
-export default function LandingPage({ onNavigate, onLoginClick, onSignupClick }) {
+export default function LandingPage({
+  onNavigate,
+  onLoginClick,
+  onSignupClick,
+  isSignedIn = false,
+  onSignOut,
+}) {
   return (
     <main className="relative flex min-h-screen flex-col bg-gradient-to-br from-zinc-950 via-black to-black text-white overflow-hidden selection:bg-amber-400 selection:text-black">
       
@@ -101,20 +107,32 @@ export default function LandingPage({ onNavigate, onLoginClick, onSignupClick })
 
           {/* Far Right Action Buttons */}
           <div className="flex items-center gap-3">
-            <button
-              type="button"
-              onClick={onLoginClick}
-              className="px-4 py-2.5 text-sm font-medium text-zinc-300 transition hover:text-amber-400 focus:outline-none"
-            >
-              Login
-            </button>
-            <button
-              type="button"
-              onClick={onSignupClick}
-              className="rounded-xl bg-amber-400 px-5 py-2.5 text-sm font-semibold text-black transition hover:bg-amber-300 active:scale-[0.99] focus:outline-none shadow-lg shadow-amber-400/10"
-            >
-              Sign Up
-            </button>
+            {isSignedIn ? (
+              <button
+                type="button"
+                onClick={onSignOut}
+                className="rounded-xl bg-amber-400 px-5 py-2.5 text-sm font-semibold text-black transition hover:bg-amber-300 active:scale-[0.99] focus:outline-none shadow-lg shadow-amber-400/10"
+              >
+                Sign out
+              </button>
+            ) : (
+              <>
+                <button
+                  type="button"
+                  onClick={onLoginClick}
+                  className="px-4 py-2.5 text-sm font-medium text-zinc-300 transition hover:text-amber-400 focus:outline-none"
+                >
+                  Login
+                </button>
+                <button
+                  type="button"
+                  onClick={onSignupClick}
+                  className="rounded-xl bg-amber-400 px-5 py-2.5 text-sm font-semibold text-black transition hover:bg-amber-300 active:scale-[0.99] focus:outline-none shadow-lg shadow-amber-400/10"
+                >
+                  Sign Up
+                </button>
+              </>
+            )}
           </div>
 
         </div>
@@ -147,20 +165,41 @@ export default function LandingPage({ onNavigate, onLoginClick, onSignupClick })
               Discover ideal courses, map your schedule, take diagnostic quizzes, and review instant summaries tailored just for you.
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3">
-              <button
-                type="button"
-                onClick={onSignupClick}
-                className="rounded-xl bg-amber-400 px-6 py-3 text-sm font-semibold text-black transition hover:bg-amber-300 active:scale-[0.99] focus:outline-none shadow-lg shadow-amber-400/10"
-              >
-                Get started
-              </button>
-              <button
-                type="button"
-                onClick={onLoginClick}
-                className="rounded-xl border border-zinc-700 px-6 py-3 text-sm font-semibold text-zinc-200 transition hover:border-amber-400 hover:text-amber-300 focus:outline-none"
-              >
-                Login
-              </button>
+              {isSignedIn ? (
+                <>
+                  <button
+                    type="button"
+                    onClick={() => onNavigate?.("quiz")}
+                    className="rounded-xl bg-amber-400 px-6 py-3 text-sm font-semibold text-black transition hover:bg-amber-300 active:scale-[0.99] focus:outline-none shadow-lg shadow-amber-400/10"
+                  >
+                    Continue to Quiz
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => onNavigate?.("schedule")}
+                    className="rounded-xl border border-zinc-700 px-6 py-3 text-sm font-semibold text-zinc-200 transition hover:border-amber-400 hover:text-amber-300 focus:outline-none"
+                  >
+                    View Schedule
+                  </button>
+                </>
+              ) : (
+                <>
+                  <button
+                    type="button"
+                    onClick={onSignupClick}
+                    className="rounded-xl bg-amber-400 px-6 py-3 text-sm font-semibold text-black transition hover:bg-amber-300 active:scale-[0.99] focus:outline-none shadow-lg shadow-amber-400/10"
+                  >
+                    Get started
+                  </button>
+                  <button
+                    type="button"
+                    onClick={onLoginClick}
+                    className="rounded-xl border border-zinc-700 px-6 py-3 text-sm font-semibold text-zinc-200 transition hover:border-amber-400 hover:text-amber-300 focus:outline-none"
+                  >
+                    Login
+                  </button>
+                </>
+              )}
             </div>
           </div>
 
