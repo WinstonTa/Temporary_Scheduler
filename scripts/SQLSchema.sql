@@ -109,6 +109,8 @@ CREATE TABLE IF NOT EXISTS app_data.quiz_responses (
     created_at      TIMESTAMPTZ DEFAULT now()
 );
 CREATE INDEX IF NOT EXISTS idx_quiz_responses_user ON app_data.quiz_responses(user_id);
+CREATE UNIQUE INDEX IF NOT EXISTS quiz_responses_user_question_uidx
+    ON app_data.quiz_responses (user_id, question_id);
 
 CREATE TABLE IF NOT EXISTS app_data.saved_schedules (
     id              SERIAL PRIMARY KEY,

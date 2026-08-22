@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { appData, supabase } from "./supabase";
 
 const lowerDivisionCourses = [
   "MATH 122",
@@ -51,14 +52,15 @@ const questions = [
   {
     id: "professorTime",
     type: "single",
-    question: "Is the time more important or is the quality of the professor more important",
+    question:
+      "Is the time more important or is the quality of the professor more important",
     options: ["Time", "Professor"],
   },
   {
-  id: "preferredClassTime",
-  type: "text",
-  question: "When do you prefer your classes to be?",
-},
+    id: "preferredClassTime",
+    type: "text",
+    question: "When do you prefer your classes to be?",
+  },
   {
     id: "track",
     type: "single",
@@ -85,15 +87,31 @@ const questions = [
   },
 ];
 
-export default function App() {
+function serializeAnswer(value) {
+  if (Array.isArray(value)) {
+    return JSON.stringify(value);
+  }
+  return String(value ?? "").trim();
+}
+
+function hasAnswer(value) {
+  if (Array.isArray(value)) {
+    return value.length > 0;
+  }
+  return String(value ?? "").trim().length > 0;
+}
+
+export default function Quiz({ onSignOut }) {
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [answers, setAnswers] = useState({});
   const [finished, setFinished] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [submitError, setSubmitError] = useState("");
 
   const question = questions[currentQuestion];
+  const isLastQuestion = currentQuestion === questions.length - 1;
 
-  const progress =
-    ((currentQuestion + 1) / questions.length) * 100;
+  const progress = ((currentQuestion + 1) / questions.length) * 100;
 
   const selectSingleAnswer = (answer) => {
     setAnswers((previous) => ({
@@ -122,17 +140,71 @@ export default function App() {
     }));
   };
 
-  const nextQuestion = () => {
-    if (question.id === "track" && answers.track === "Yes") {
-      finishQuiz();
+  const submitQuiz = async () => {
+    setSubmitting(true);
+    setSubmitError("");
+
+    const {
+      data: { user },
+      error: userError,
+    } = await supabase.auth.getUser();
+
+    if (userError || !user) {
+      setSubmitError("You are not signed in. Please log in again.");
+      setSubmitting(false);
       return;
     }
 
-    if (currentQuestion < questions.length - 1) {
-      setCurrentQuestion(currentQuestion + 1);
-    } else {
-      finishQuiz();
+    const rows = Object.entries(answers)
+      .filter(([, value]) => hasAnswer(value))
+      .map(([question_id, value]) => ({
+        user_id: user.id,
+        question_id,
+        answer_value: serializeAnswer(value),
+      }));
+
+    if (rows.length === 0) {
+      setSubmitError("Please answer the questions before submitting.");
+      setSubmitting(false);
+      return;
     }
+
+    const { error } = await appData()
+      .from("quiz_responses")
+      .upsert(rows, { onConflict: "user_id,question_id" });
+
+    if (error) {
+      setSubmitError(error.message);
+      setSubmitting(false);
+      return;
+    }
+
+    if (answers.year) {
+      const { error: profileError } = await appData()
+        .from("profiles")
+        .update({ class_standing: answers.year })
+        .eq("id", user.id);
+
+      if (profileError) {
+        setSubmitError(
+          `Answers saved, but class standing could not be updated: ${profileError.message}`
+        );
+        setSubmitting(false);
+        setFinished(true);
+        return;
+      }
+    }
+
+    setSubmitting(false);
+    setFinished(true);
+  };
+
+  const nextQuestion = () => {
+    if (!isLastQuestion) {
+      setCurrentQuestion(currentQuestion + 1);
+      return;
+    }
+    submitQuiz();
   };
 
   const previousQuestion = () => {
@@ -141,34 +213,44 @@ export default function App() {
     }
   };
 
-  const finishQuiz = () => {
-    console.log("Quiz complete:", answers);
-    setFinished(true);
-  };
-
   const restartQuiz = () => {
     setCurrentQuestion(0);
     setAnswers({});
     setFinished(false);
+    setSubmitError("");
   };
+
+  const signOutButton = (
+    <button
+      type="button"
+      onClick={onSignOut}
+      className="rounded-lg px-4 py-2 text-sm font-medium text-gray-600 hover:bg-gray-100"
+    >
+      Sign out
+    </button>
+  );
 
   if (finished) {
     return (
       <div className="min-h-screen bg-gray-50 px-6 py-12">
-        <div className="mx-auto max-w-2xl text-center">
-          <div className="rounded-2xl bg-white p-10 shadow-sm">
+        <div className="mx-auto max-w-2xl">
+          <div className="mb-6 flex justify-end">{signOutButton}</div>
+          <div className="rounded-2xl bg-white p-10 text-center shadow-sm">
             <div className="mb-5 text-5xl">✓</div>
 
-            <h1 className="text-3xl font-bold text-gray-900">
-              Quiz Complete
-            </h1>
+            <h1 className="text-3xl font-bold text-gray-900">Quiz Complete</h1>
 
             <p className="mt-3 text-gray-500">
-              Thanks! We have everything we need to help recommend
-              classes for you.
+              Thanks! We have everything we need to help recommend classes for
+              you.
             </p>
 
+            {submitError && (
+              <p className="mt-4 text-sm text-red-600">{submitError}</p>
+            )}
+
             <button
+              type="button"
               onClick={restartQuiz}
               className="mt-8 rounded-xl bg-indigo-600 px-6 py-3 font-semibold text-white hover:bg-indigo-700"
             >
@@ -186,14 +268,14 @@ export default function App() {
     question.type === "multiple"
       ? currentAnswer && currentAnswer.length > 0
       : question.type === "text"
-      ? currentAnswer && currentAnswer.trim().length > 0
-      : Boolean(currentAnswer);
+        ? currentAnswer && currentAnswer.trim().length > 0
+        : Boolean(currentAnswer);
 
   return (
     <div className="min-h-screen bg-gray-50 px-6 py-10 text-gray-900">
       <div className="mx-auto max-w-3xl">
+        <div className="mb-6 flex justify-end">{signOutButton}</div>
 
-        {/* Header */}
         <div className="mb-10 text-center">
           <p className="mb-2 text-sm font-semibold uppercase tracking-wider text-indigo-600">
             Class Finder
@@ -204,12 +286,11 @@ export default function App() {
           </h1>
 
           <p className="mx-auto mt-3 max-w-xl text-gray-500">
-            Tell us about your experience and interests so we can
-            recommend classes and tracks that fit you.
+            Tell us about your experience and interests so we can recommend
+            classes and tracks that fit you.
           </p>
         </div>
 
-        {/* Progress */}
         <div className="mb-8">
           <div className="mb-2 flex justify-between text-sm text-gray-500">
             <span>
@@ -227,14 +308,9 @@ export default function App() {
           </div>
         </div>
 
-        {/* Question */}
         <div className="rounded-2xl bg-white p-8 shadow-sm ring-1 ring-gray-100">
+          <h2 className="mb-7 text-2xl font-semibold">{question.question}</h2>
 
-          <h2 className="mb-7 text-2xl font-semibold">
-            {question.question}
-          </h2>
-
-          {/* SINGLE CHOICE */}
           {question.type === "single" && (
             <div className="space-y-3">
               {question.options.map((option) => {
@@ -243,6 +319,7 @@ export default function App() {
                 return (
                   <button
                     key={option}
+                    type="button"
                     onClick={() => selectSingleAnswer(option)}
                     className={`flex w-full items-center justify-between rounded-xl border-2 p-4 text-left transition ${
                       selected
@@ -269,7 +346,6 @@ export default function App() {
             </div>
           )}
 
-          {/* MULTIPLE CHOICE */}
           {question.type === "multiple" && (
             <>
               <p className="mb-5 text-sm text-gray-500">
@@ -278,12 +354,12 @@ export default function App() {
 
               <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
                 {question.options.map((option) => {
-                  const selected =
-                    currentAnswer?.includes(option);
+                  const selected = currentAnswer?.includes(option);
 
                   return (
                     <button
                       key={option}
+                      type="button"
                       onClick={() => toggleMultipleAnswer(option)}
                       className={`rounded-xl border-2 p-4 font-medium transition ${
                         selected
@@ -311,7 +387,6 @@ export default function App() {
             </>
           )}
 
-          {/* FREE RESPONSE */}
           {question.type === "text" && (
             <textarea
               value={currentAnswer || ""}
@@ -322,35 +397,34 @@ export default function App() {
             />
           )}
 
-          {/* Navigation */}
-          <div className="mt-8 flex items-center justify-between border-t pt-6">
+          {submitError && (
+            <p className="mt-6 text-sm text-red-600">{submitError}</p>
+          )}
 
+          <div className="mt-8 flex items-center justify-between border-t pt-6">
             <button
+              type="button"
               onClick={previousQuestion}
-              disabled={currentQuestion === 0}
+              disabled={currentQuestion === 0 || submitting}
               className="rounded-lg px-5 py-2.5 font-medium text-gray-600 hover:bg-gray-100 disabled:cursor-not-allowed disabled:opacity-30"
             >
               Back
             </button>
 
             <button
+              type="button"
               onClick={nextQuestion}
-              disabled={!canContinue}
+              disabled={!canContinue || submitting}
               className="rounded-xl bg-indigo-600 px-6 py-3 font-semibold text-white transition hover:bg-indigo-700 disabled:cursor-not-allowed disabled:opacity-40"
             >
-              {question.id === "track" &&
-              answers.track === "Yes"
-                ? "Finish Quiz"
-                : currentQuestion === questions.length - 1
-                ? "Finish Quiz"
+              {isLastQuestion
+                ? submitting
+                  ? "Submitting..."
+                  : "Submit Quiz"
                 : "Next"}
             </button>
-
           </div>
         </div>
-
-        <p className="mt-5 text-center text-sm text-gray-400">
-        </p>
       </div>
     </div>
   );
