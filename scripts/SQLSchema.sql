@@ -106,11 +106,10 @@ CREATE TABLE IF NOT EXISTS app_data.quiz_responses (
     user_id         UUID NOT NULL REFERENCES app_data.profiles(id) ON DELETE CASCADE,
     question_id     TEXT NOT NULL,
     answer_value    TEXT NOT NULL,
-    created_at      TIMESTAMPTZ DEFAULT now()
+    created_at      TIMESTAMPTZ DEFAULT now(),
+    UNIQUE (user_id, question_id)
 );
 CREATE INDEX IF NOT EXISTS idx_quiz_responses_user ON app_data.quiz_responses(user_id);
-CREATE UNIQUE INDEX IF NOT EXISTS quiz_responses_user_question_uidx
-    ON app_data.quiz_responses (user_id, question_id);
 
 CREATE TABLE IF NOT EXISTS app_data.saved_schedules (
     id              SERIAL PRIMARY KEY,
