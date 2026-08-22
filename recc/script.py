@@ -1,59 +1,33 @@
-import json
 import os
 import sys
-import time
 from pathlib import Path
 
 from dotenv import load_dotenv
 from supabase import create_client
 
-# #region agent log
-_DEBUG_LOG = Path(__file__).resolve().parent.parent / "debug-509fd1.log"
-
-
-def _dbg(location, message, data, hypothesisId, runId="pre-fix"):
-    try:
-        with open(_DEBUG_LOG, "a", encoding="utf-8") as f:
-            f.write(json.dumps({
-                "sessionId": "509fd1",
-                "location": location,
-                "message": message,
-                "data": data,
-                "timestamp": int(time.time() * 1000),
-                "hypothesisId": hypothesisId,
-                "runId": runId,
-            }) + "\n")
-    except Exception:
-        pass
-# #endregion
-
 ROOT = Path(__file__).resolve().parent.parent
-env_path = ROOT / ".env"
-load_dotenv(env_path)
+load_dotenv(ROOT / ".env")
 
 SUPABASE_URL = os.getenv("SUPABASE_URL")
-SUPABASE_KEY = os.getenv("SUPABASE_KEY") or os.getenv("SUPABASE_SERVICE_ROLE_KEY")
-
-# #region agent log
-_dbg(
-    "recc/script.py:init",
-    "env loaded",
-    {
-        "envExists": env_path.exists(),
-        "hasUrl": bool(SUPABASE_URL),
-        "hasKey": bool(SUPABASE_KEY),
-        "root": str(ROOT),
-    },
-    "D",
-)
-# #endregion
-
-supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
+_SERVICE_KEY = os.getenv("SUPABASE_KEY") or os.getenv("SUPABASE_SERVICE_ROLE_KEY")
+_PUBLISHABLE_KEY = os.getenv("SUPABASE_PUBLISHABLE_KEY")
+SUPABASE_KEY = _SERVICE_KEY or _PUBLISHABLE_KEY
+USING_SERVICE_ROLE = bool(_SERVICE_KEY)
 
 
-def get_quiz_vector(user_id: str):
+def _make_client(access_token: str | None = None):
+    if not SUPABASE_URL or not SUPABASE_KEY:
+        raise ValueError("Supabase URL/key missing from environment")
+    client = create_client(SUPABASE_URL, SUPABASE_KEY)
+    if access_token and not USING_SERVICE_ROLE:
+        client.postgrest.auth(access_token)
+    return client
+
+
+def get_quiz_vector(user_id: str, client=None, access_token: str | None = None):
+    db = client or _make_client(access_token)
     result = (
-        supabase.schema("app_data")
+        db.schema("app_data")
         .table("profiles")
         .select("quiz_vector")
         .eq("id", user_id)
@@ -61,14 +35,6 @@ def get_quiz_vector(user_id: str):
         .data
     )
     vector = result[0]["quiz_vector"] if result else None
-    # #region agent log
-    _dbg(
-        "recc/script.py:get_quiz_vector",
-        "profile quiz_vector lookup",
-        {"hasRow": bool(result), "hasVector": vector is not None, "vectorLen": len(vector) if vector else 0},
-        "E",
-    )
-    # #endregion
     if vector is not None:
         return vector
 
@@ -77,52 +43,22 @@ def get_quiz_vector(user_id: str):
         sys.path.insert(0, scripts_dir)
     try:
         from generate_quiz_vector import generate_quiz_vector
-        generated = generate_quiz_vector(user_id)
-        # #region agent log
-        _dbg(
-            "recc/script.py:get_quiz_vector",
-            "generated missing quiz_vector",
-            {"vectorLen": len(generated) if generated else 0},
-            "E",
-        )
-        # #endregion
-        return generated
+        return generate_quiz_vector(user_id, client=db)
     except Exception as exc:
-        # #region agent log
-        _dbg(
-            "recc/script.py:get_quiz_vector",
-            "quiz_vector generate failed",
-            {"error": type(exc).__name__, "msg": str(exc)},
-            "E",
-        )
-        # #endregion
         raise ValueError("No quiz vector found; complete the quiz first") from exc
 
 
-def get_reccomendations(user_id: str, term: str = None, match_count: int = 10):
-    quiz_vector = get_quiz_vector(user_id)
-    params = {
-        "query_embedding": quiz_vector,
-        "filter_term": term,
-        "match_count": match_count,
-    }
-    # #region agent log
-    _dbg(
-        "recc/script.py:rpc",
-        "calling match_offerings",
-        {"paramKeys": list(params.keys()), "vectorLen": len(quiz_vector) if quiz_vector else 0, "term": term},
-        "D",
-    )
-    # #endregion
-    result = supabase.rpc("match_offerings", params).execute()
-    # #region agent log
-    _dbg(
-        "recc/script.py:rpc",
-        "match_offerings returned",
-        {"count": len(result.data) if result.data is not None else 0},
-        "D",
-    )
-    # #endregion
+def get_reccomendations(user_id: str, term: str = None, match_count: int = 10, access_token: str | None = None):
+    db = _make_client(access_token)
+    quiz_vector = get_quiz_vector(user_id, client=db, access_token=access_token)
+    result = db.rpc(
+        "match_offerings",
+        {
+            "query_embedding": quiz_vector,
+            "filter_term": term,
+            "match_count": match_count,
+        },
+    ).execute()
     return result.data
 
 

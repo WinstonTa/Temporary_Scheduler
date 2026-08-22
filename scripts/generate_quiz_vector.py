@@ -12,9 +12,9 @@ ROOT = Path(__file__).resolve().parent.parent
 load_dotenv(ROOT / ".env")
 
 SUPABASE_URL = os.getenv("SUPABASE_URL")
-SUPABASE_KEY = os.getenv("SUPABASE_KEY")
+SUPABASE_KEY = os.getenv("SUPABASE_KEY") or os.getenv("SUPABASE_PUBLISHABLE_KEY")
 
-supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
+supabase = create_client(SUPABASE_URL, SUPABASE_KEY) if SUPABASE_URL and SUPABASE_KEY else None
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
 def embed_text(text:str) -> list[float]:
@@ -27,10 +27,13 @@ def build_quiz_text(responses:list[dict]) -> str:
 
 
 
-def generate_quiz_vector(user_id:str):
+def generate_quiz_vector(user_id:str, client=None):
     #generates and stores quiz vectors for one student
+    db = client or supabase
+    if db is None:
+        raise ValueError("Supabase client is not configured")
     responses = (
-        supabase.schema("app_data")
+        db.schema("app_data")
         .table("quiz_responses")
         .select("answer_value")
         .eq("user_id",user_id)
@@ -42,7 +45,7 @@ def generate_quiz_vector(user_id:str):
     text = build_quiz_text(responses)
     vector = embed_text(text)
 
-    supabase.schema("app_data").table("profiles").update(
+    db.schema("app_data").table("profiles").update(
         {"quiz_vector":vector}
     ).eq("id",user_id).execute()
 
