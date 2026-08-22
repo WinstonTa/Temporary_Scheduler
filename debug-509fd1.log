@@ -1,0 +1,1 @@
+{"sessionId": "509fd1", "location": "recc/api.py:import", "message": "script import failed", "data": {"error": "ModuleNotFoundError", "msg": "No module named 'supabase'"}, "timestamp": 1787420643151, "hypothesisId": "A", "runId": "pre-fix"}
