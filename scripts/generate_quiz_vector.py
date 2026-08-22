@@ -25,6 +25,8 @@ def build_quiz_text(responses:list[dict]) -> str:
     answers = [r["answer_value"] for r in responses if r.get("answer_value")]
     return " ".join(answers)
 
+
+
 def generate_quiz_vector(user_id:str):
     #generates and stores quiz vectors for one student
     responses = (
