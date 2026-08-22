@@ -1,4 +1,4 @@
-# Temporary Scheduler
+# Classio
 
 CSULB course-planner prototype. The **student app** is the React/Vite UI (login, then the class-finder quiz). Flask still hosts the RateMyProfessors scrape PoC.
 
