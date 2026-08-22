@@ -1,28 +1,45 @@
 # Temporary Scheduler
 
-CSULB course-planner prototype. This repo now has a primitive **account layer** (landing, sign up, log in, sign out) on top of the existing RateMyProfessors scrape PoC.
+CSULB course-planner prototype. The **student app** is the React/Vite UI (login, then the class-finder quiz). Flask still hosts the RateMyProfessors scrape PoC.
 
-## Run the app
+## Env
 
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 copy .env.example .env
+npm install
 ```
 
 Fill `.env`:
 
 - `SUPABASE_URL` — project URL from [API settings](https://supabase.com/dashboard/project/cfwswtlludbqmwmqaqqq/settings/api)
 - `SUPABASE_PUBLISHABLE_KEY` — publishable (or legacy anon) key. This is what the browser uses.
+- `VITE_SUPABASE_URL` — same value as `SUPABASE_URL`. Vite only exposes `VITE_` variables to the React app.
+- `VITE_SUPABASE_PUBLISHABLE_KEY` — same value as `SUPABASE_PUBLISHABLE_KEY`.
 - `SUPABASE_KEY` — secret / service role key. Python loaders only. Never put this in HTML or JS.
 - `GEMINI_API_KEY` — optional, scrape insights only
+
+## Student app (login + quiz)
+
+```bash
+npm run dev
+```
+
+Open `http://127.0.0.1:5173` (use `127.0.0.1`, not `localhost`, so auth redirects stay on one origin).
+
+After a successful email or Google login, the quiz is shown. **Submit Quiz** writes one row per question to `app_data.quiz_responses` for that user and sets `app_data.profiles.class_standing` from the year answer. Retaking the quiz overwrites the same questions.
+
+Email sign-up sends a confirmation link. The user is not logged in until they click it. Google sign-in goes straight to the quiz. A failed password login shows a dialog pointing at Sign Up (Supabase does not say whether the email exists).
+
+## Flask (RMP scrape PoC)
 
 ```bash
 python app.py
 ```
 
-Open `http://127.0.0.1:5000` (use `127.0.0.1`, not `localhost`, so auth redirects stay on one origin).
+Open `http://127.0.0.1:5000`.
 
 | Path | Page |
 | --- | --- |
@@ -33,8 +50,6 @@ Open `http://127.0.0.1:5000` (use `127.0.0.1`, not `localhost`, so auth redirect
 | `/home` | Logged-in page and Sign out |
 | `/rmp` | RateMyProfessors scrape PoC |
 
-Email sign-up sends a confirmation link. The user is not logged in until they click it. Google sign-in goes straight to `/home`. A failed password login shows a dialog pointing at Sign Up (Supabase does not say whether the email exists).
-
 ## Supabase dashboard steps (required)
 
 Project: **TemporaryScheduler** (`cfwswtlludbqmwmqaqqq`).
@@ -43,24 +58,28 @@ Project: **TemporaryScheduler** (`cfwswtlludbqmwmqaqqq`).
 
 In [URL configuration](https://supabase.com/dashboard/project/cfwswtlludbqmwmqaqqq/auth/url-configuration):
 
-- Site URL: `http://127.0.0.1:5000`
-- Redirect URLs: `http://127.0.0.1:5000/**` and `http://localhost:5000/**`
+- Site URL: `http://127.0.0.1:5173` (student app). You can leave Flask at 5000 in Redirect URLs.
+- Redirect URLs must include:
+  - `http://127.0.0.1:5173/**`
+  - `http://localhost:5173/**`
+  - `http://127.0.0.1:5000/**`
+  - `http://localhost:5000/**`
 
 Keep **Confirm email** enabled on [Auth providers](https://supabase.com/dashboard/project/cfwswtlludbqmwmqaqqq/auth/providers). Enable automatic identity linking if the same person might use Google and a password on one email.
 
 ### Google sign-in
 
 1. Create a **Web application** OAuth client in [Google Auth Platform](https://console.cloud.google.com/auth/clients/create).
-2. Authorized JavaScript origins: `http://127.0.0.1:5000`, `http://localhost:5000`.
+2. Authorized JavaScript origins: `http://127.0.0.1:5173`, `http://localhost:5173`, `http://127.0.0.1:5000`, `http://localhost:5000`.
 3. Authorized redirect URI: `https://cfwswtlludbqmwmqaqqq.supabase.co/auth/v1/callback` (copy from the [Google provider page](https://supabase.com/dashboard/project/cfwswtlludbqmwmqaqqq/auth/providers?provider=Google) if it differs).
 4. Consent screen scopes: `openid`, `email`, `profile`. Add yourself as a test user if the app is in testing.
 5. Paste the Client ID and Client Secret into that Supabase Google provider page and enable Google.
 
 ### Exposed schemas
 
-In [API settings](https://supabase.com/dashboard/project/cfwswtlludbqmwmqaqqq/settings/api), **Exposed schemas** must include `app_data` and `raw_data`. If `/home` cannot read the profile row, add them and save.
+In [API settings](https://supabase.com/dashboard/project/cfwswtlludbqmwmqaqqq/settings/api), **Exposed schemas** must include `app_data` and `raw_data`. If the quiz cannot save answers, add them and save.
 
-Auth creates `auth.users`. A trigger (`public.handle_new_user`) inserts `app_data.profiles` with the same UUID. Row-level security lets a signed-in user read only their own profile. Schema SQL is in `scripts/SQLSchema.sql`; incremental auth/RLS is in `scripts/SQL_auth.sql`.
+Auth creates `auth.users`. A trigger (`public.handle_new_user`) inserts `app_data.profiles` with the same UUID. Row-level security lets a signed-in user read only their own profile and quiz rows. Schema SQL is in `scripts/SQLSchema.sql`; incremental auth/RLS is in `scripts/SQL_auth.sql`; quiz upsert support is in `scripts/SQL_quiz.sql`.
 
 ## RateMyProfessors scrape PoC
 
