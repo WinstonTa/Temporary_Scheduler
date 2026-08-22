@@ -11,10 +11,6 @@ from flask import Flask, render_template, request
 ROOT = Path(__file__).resolve().parent
 load_dotenv(ROOT / ".env")
 
-from rmp.analyze import llm_configured  # noqa: E402
-from rmp.pipeline import run_pipeline  # noqa: E402
-from rmp.urls import InvalidProfessorURL  # noqa: E402
-
 app = Flask(__name__)
 
 
@@ -53,6 +49,8 @@ def home():
 
 @app.get("/rmp")
 def rmp_index():
+    from rmp.analyze import llm_configured
+
     return render_template(
         "index.html",
         url="",
@@ -64,6 +62,10 @@ def rmp_index():
 
 @app.post("/rmp")
 def rmp_scrape():
+    from rmp.analyze import llm_configured
+    from rmp.pipeline import run_pipeline
+    from rmp.urls import InvalidProfessorURL
+
     url = (request.form.get("url") or "").strip()
     error = None
     result = None
