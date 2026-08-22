@@ -1,21 +1,23 @@
-import { useState } from "react";
-import Login from "./login.jsx";
-import Signup from "./signup.jsx";
+import Recommendations from "./recommendations.jsx";
 
 export default function App() {
-  const [currentView, setCurrentView] = useState("login");
+  const handleNavigate = (page) => {
+    console.log("Navigating to:", page);
+  };
+
+  const handleBackToHome = () => {
+    console.log("Back to home clicked");
+  };
+
+  const handleLoginClick = () => {
+    console.log("Login clicked");
+  };
 
   return (
-    <div>
-      {currentView === "login" ? (
-        <Login
-          onSwitchToSignup={() => setCurrentView("signup")}
-        />
-      ) : (
-        <Signup
-          onSwitchToLogin={() => setCurrentView("login")}
-        />
-      )}
-    </div>
+    <Recommendations 
+      onNavigate={handleNavigate} 
+      onBackToHome={handleBackToHome} 
+      onLoginClick={handleLoginClick} 
+    />
   );
 }
