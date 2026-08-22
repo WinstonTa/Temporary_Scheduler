@@ -38,8 +38,15 @@ export default function Recommendations({ onNavigate, onBackToHome, onSignOut })
     setError(null);
     try {
       const { data: { user } } = await supabase.auth.getUser();
+      const recsUrl = "http://127.0.0.1:8000/recommend-classes";
+      // #region agent log
+      fetch("http://127.0.0.1:7285/ingest/a8290879-a9ea-4b23-baff-9f7b399a3d67",{method:"POST",headers:{"Content-Type":"application/json","X-Debug-Session-Id":"509fd1"},body:JSON.stringify({sessionId:"509fd1",location:"recommendations.jsx:fetchRecommendations",message:"starting recs fetch",data:{hasUser:!!user,url:recsUrl,origin:window.location.origin},timestamp:Date.now(),hypothesisId:"B",runId:"pre-fix"})}).catch(()=>{});
+      // #endregion
+      if (!user) {
+        throw new Error("You must be signed in to get recommendations");
+      }
 
-      const response = await fetch("http://localhost:8000/recommend-classes", {
+      const response = await fetch(recsUrl, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ user_id: user.id, term: "Fall 2026", match_count: 10 }),
@@ -51,8 +58,12 @@ export default function Recommendations({ onNavigate, onBackToHome, onSignOut })
       }
 
       const result = await response.json();
+      const recs = result.recommendations || result.reccomendations || [];
+      // #region agent log
+      fetch("http://127.0.0.1:7285/ingest/a8290879-a9ea-4b23-baff-9f7b399a3d67",{method:"POST",headers:{"Content-Type":"application/json","X-Debug-Session-Id":"509fd1"},body:JSON.stringify({sessionId:"509fd1",location:"recommendations.jsx:fetchRecommendations",message:"recs fetch ok",data:{httpStatus:response.status,count:recs.length},timestamp:Date.now(),hypothesisId:"B",runId:"pre-fix"})}).catch(()=>{});
+      // #endregion
 
-      const mapped = result.recommendations.map((rec) => ({
+      const mapped = recs.map((rec) => ({
         id: rec.offering_id,
         code: rec.course_code,
         title: rec.course_title,
@@ -66,6 +77,9 @@ export default function Recommendations({ onNavigate, onBackToHome, onSignOut })
       setCourses(mapped);
       setShowRecommendations(true);
     } catch (err) {
+      // #region agent log
+      fetch("http://127.0.0.1:7285/ingest/a8290879-a9ea-4b23-baff-9f7b399a3d67",{method:"POST",headers:{"Content-Type":"application/json","X-Debug-Session-Id":"509fd1"},body:JSON.stringify({sessionId:"509fd1",location:"recommendations.jsx:fetchRecommendations",message:"recs fetch failed",data:{error:String(err && err.message ? err.message : err)},timestamp:Date.now(),hypothesisId:"A",runId:"pre-fix"})}).catch(()=>{});
+      // #endregion
       setError(err.message);
     } finally {
       setLoading(false);
