@@ -7,6 +7,16 @@ import sys
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "recc"))
 
 app = FastAPI()
+
+from fastapi.middleware.cors import CORSMiddleware
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],  # match your actual React dev server port
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 class reccomend_classes(BaseModel):
     user_id:str
     term: str = "Fall 2026"
