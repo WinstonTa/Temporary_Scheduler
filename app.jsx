@@ -1,13 +1,21 @@
 import { useState } from "react";
-import Login from "./Login";
-import Quiz from "./Quiz";
+import Login from "./login.jsx";
+import Signup from "./signup.jsx";
 
 export default function App() {
-  const [user, setUser] = useState(null);
+  const [currentView, setCurrentView] = useState("login");
 
-  if (!user) {
-    return <Login onLogin={setUser} />;
-  }
-
-  return <Quiz user={user} />;
+  return (
+    <div>
+      {currentView === "login" ? (
+        <Login
+          onSwitchToSignup={() => setCurrentView("signup")}
+        />
+      ) : (
+        <Signup
+          onSwitchToLogin={() => setCurrentView("login")}
+        />
+      )}
+    </div>
+  );
 }
