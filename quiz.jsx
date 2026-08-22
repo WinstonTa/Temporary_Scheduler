@@ -31,7 +31,7 @@ const upperDivisionCourses = [
   "CECS 378",
 ];
 
-const questions = [
+const baseQuestions = [
   {
     id: "year",
     type: "single",
@@ -68,6 +68,16 @@ const questions = [
     question: "Have you picked a track?",
     options: ["Yes", "No"],
   },
+];
+
+const chosenTrackQuestion = {
+  id: "chosenTrack",
+  type: "single",
+  question: "What track did you pick?",
+  options: ["Software Engineering", "AI/ML", "Cybersecurity"],
+};
+
+const interestQuestions = [
   {
     id: "security",
     type: "text",
@@ -87,6 +97,16 @@ const questions = [
       "How do you feel about programming, building, and creating products overall?",
   },
 ];
+
+function getQuizPath(answers) {
+  if (answers.track === "Yes") {
+    return [...baseQuestions, chosenTrackQuestion];
+  }
+  if (answers.track === "No") {
+    return [...baseQuestions, ...interestQuestions];
+  }
+  return baseQuestions;
+}
 
 function serializeAnswer(value) {
   if (Array.isArray(value)) {
@@ -109,16 +129,30 @@ export default function Quiz({ onSignOut, onNavigate, onGoHome }) {
   const [submitting, setSubmitting] = useState(false);
   const [submitError, setSubmitError] = useState("");
 
-  const question = questions[currentQuestion];
-  const isLastQuestion = currentQuestion === questions.length - 1;
-
+  const questions = getQuizPath(answers);
+  const question = questions[currentQuestion] ?? questions[questions.length - 1];
+  const isLastQuestion = currentQuestion >= questions.length - 1;
   const progress = ((currentQuestion + 1) / questions.length) * 100;
 
   const selectSingleAnswer = (answer) => {
-    setAnswers((previous) => ({
-      ...previous,
-      [question.id]: answer,
-    }));
+    setAnswers((previous) => {
+      const next = {
+        ...previous,
+        [question.id]: answer,
+      };
+
+      if (question.id === "track") {
+        if (answer === "Yes") {
+          delete next.security;
+          delete next.patterns;
+          delete next.programming;
+        } else {
+          delete next.chosenTrack;
+        }
+      }
+
+      return next;
+    });
   };
 
   const toggleMultipleAnswer = (answer) => {
@@ -156,8 +190,9 @@ export default function Quiz({ onSignOut, onNavigate, onGoHome }) {
       return;
     }
 
+    const pathIds = new Set(getQuizPath(answers).map((item) => item.id));
     const rows = Object.entries(answers)
-      .filter(([, value]) => hasAnswer(value))
+      .filter(([questionId, value]) => pathIds.has(questionId) && hasAnswer(value))
       .map(([question_id, value]) => ({
         user_id: user.id,
         question_id,
@@ -233,27 +268,32 @@ export default function Quiz({ onSignOut, onNavigate, onGoHome }) {
 
   if (finished) {
     return (
-      <div className="min-h-screen bg-gray-50 text-gray-900">
+      <main className="relative flex min-h-screen flex-col bg-gradient-to-br from-zinc-950 via-black to-black text-white">
         {nav}
-        <div className="mx-auto max-w-2xl px-6 py-12">
-          <div className="rounded-2xl bg-white p-10 text-center shadow-sm">
-            <div className="mb-5 text-5xl">✓</div>
-
-            <h1 className="text-3xl font-bold text-gray-900">Quiz Complete</h1>
-
-            <p className="mt-3 text-gray-500">
+        <div className="mx-auto w-full max-w-2xl px-6 py-16" style={{ fontFamily: "'Lexend', sans-serif" }}>
+          <div className="rounded-2xl border border-zinc-800 bg-zinc-950 p-10 text-center shadow-xl">
+            <p className="text-xs font-semibold uppercase tracking-widest text-amber-400">
+              Class Finder
+            </p>
+            <h1
+              className="mt-4 text-5xl font-normal tracking-wide text-amber-300"
+              style={{ fontFamily: "'Caveat', cursive" }}
+            >
+              Quiz Complete
+            </h1>
+            <p className="mt-3 text-sm font-light text-zinc-400">
               Thanks! We have everything we need to help recommend classes for
               you.
             </p>
 
             {submitError && (
-              <p className="mt-4 text-sm text-red-600">{submitError}</p>
+              <p className="mt-4 text-sm text-red-400">{submitError}</p>
             )}
 
             <button
               type="button"
               onClick={() => onNavigate?.("recommendations")}
-              className="mt-8 rounded-xl bg-indigo-600 px-6 py-3 font-semibold text-white hover:bg-indigo-700"
+              className="mt-8 rounded-xl bg-amber-400 px-6 py-3 font-semibold text-black transition hover:bg-amber-300"
             >
               View recommendations
             </button>
@@ -261,13 +301,13 @@ export default function Quiz({ onSignOut, onNavigate, onGoHome }) {
             <button
               type="button"
               onClick={restartQuiz}
-              className="mt-4 rounded-xl px-6 py-3 font-semibold text-gray-600 hover:bg-gray-100"
+              className="mt-4 block w-full rounded-xl px-6 py-3 font-semibold text-zinc-400 transition hover:bg-zinc-900 hover:text-amber-300"
             >
               Retake Quiz
             </button>
           </div>
         </div>
-      </div>
+      </main>
     );
   }
 
@@ -281,44 +321,47 @@ export default function Quiz({ onSignOut, onNavigate, onGoHome }) {
         : Boolean(currentAnswer);
 
   return (
-    <div className="min-h-screen bg-gray-50 text-gray-900">
+    <main className="relative flex min-h-screen flex-col bg-gradient-to-br from-zinc-950 via-black to-black text-white">
       {nav}
-      <div className="mx-auto max-w-3xl px-6 py-10">
-
+      <div
+        className="mx-auto w-full max-w-3xl px-6 py-12"
+        style={{ fontFamily: "'Lexend', sans-serif" }}
+      >
         <div className="mb-10 text-center">
-          <p className="mb-2 text-sm font-semibold uppercase tracking-wider text-indigo-600">
+          <p className="mb-2 text-xs font-semibold uppercase tracking-widest text-amber-400">
             Class Finder
           </p>
-
-          <h1 className="text-4xl font-bold tracking-tight">
+          <h1
+            className="text-5xl font-normal tracking-wide text-amber-300"
+            style={{ fontFamily: "'Caveat', cursive" }}
+          >
             Find the right classes for you
           </h1>
-
-          <p className="mx-auto mt-3 max-w-xl text-gray-500">
+          <p className="mx-auto mt-3 max-w-xl text-sm font-light text-zinc-400">
             Tell us about your experience and interests so we can recommend
             classes and tracks that fit you.
           </p>
         </div>
 
         <div className="mb-8">
-          <div className="mb-2 flex justify-between text-sm text-gray-500">
+          <div className="mb-2 flex justify-between text-xs text-zinc-500">
             <span>
               Question {currentQuestion + 1} of {questions.length}
             </span>
-
             <span>{Math.round(progress)}%</span>
           </div>
-
-          <div className="h-2 overflow-hidden rounded-full bg-gray-200">
+          <div className="h-2 overflow-hidden rounded-full bg-zinc-800">
             <div
-              className="h-full rounded-full bg-indigo-600 transition-all duration-300"
+              className="h-full rounded-full bg-amber-400 transition-all duration-300"
               style={{ width: `${progress}%` }}
             />
           </div>
         </div>
 
-        <div className="rounded-2xl bg-white p-8 shadow-sm ring-1 ring-gray-100">
-          <h2 className="mb-7 text-2xl font-semibold">{question.question}</h2>
+        <div className="rounded-2xl border border-zinc-800 bg-zinc-950 p-8 shadow-xl">
+          <h2 className="mb-7 text-2xl font-normal text-white">
+            {question.question}
+          </h2>
 
           {question.type === "single" && (
             <div className="space-y-3">
@@ -330,23 +373,22 @@ export default function Quiz({ onSignOut, onNavigate, onGoHome }) {
                     key={option}
                     type="button"
                     onClick={() => selectSingleAnswer(option)}
-                    className={`flex w-full items-center justify-between rounded-xl border-2 p-4 text-left transition ${
+                    className={`flex w-full items-center justify-between rounded-xl border p-4 text-left transition ${
                       selected
-                        ? "border-indigo-600 bg-indigo-50 text-indigo-900"
-                        : "border-gray-200 hover:border-indigo-300 hover:bg-gray-50"
+                        ? "border-amber-400 bg-amber-950/40 text-amber-200"
+                        : "border-zinc-800 bg-zinc-900 hover:border-amber-400/60 hover:bg-zinc-900/80"
                     }`}
                   >
                     <span className="font-medium">{option}</span>
-
                     <span
                       className={`flex h-5 w-5 items-center justify-center rounded-full border-2 ${
                         selected
-                          ? "border-indigo-600 bg-indigo-600"
-                          : "border-gray-300"
+                          ? "border-amber-400 bg-amber-400"
+                          : "border-zinc-600"
                       }`}
                     >
                       {selected && (
-                        <span className="h-2 w-2 rounded-full bg-white" />
+                        <span className="h-2 w-2 rounded-full bg-black" />
                       )}
                     </span>
                   </button>
@@ -357,10 +399,7 @@ export default function Quiz({ onSignOut, onNavigate, onGoHome }) {
 
           {question.type === "multiple" && (
             <>
-              <p className="mb-5 text-sm text-gray-500">
-                Select all that apply.
-              </p>
-
+              <p className="mb-5 text-sm text-zinc-500">Select all that apply.</p>
               <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
                 {question.options.map((option) => {
                   const selected = currentAnswer?.includes(option);
@@ -370,23 +409,22 @@ export default function Quiz({ onSignOut, onNavigate, onGoHome }) {
                       key={option}
                       type="button"
                       onClick={() => toggleMultipleAnswer(option)}
-                      className={`rounded-xl border-2 p-4 font-medium transition ${
+                      className={`rounded-xl border p-4 font-medium transition ${
                         selected
-                          ? "border-indigo-600 bg-indigo-50 text-indigo-900"
-                          : "border-gray-200 hover:border-indigo-300 hover:bg-gray-50"
+                          ? "border-amber-400 bg-amber-950/40 text-amber-200"
+                          : "border-zinc-800 bg-zinc-900 hover:border-amber-400/60"
                       }`}
                     >
                       <div className="flex items-center justify-center gap-2">
                         <span
                           className={`flex h-5 w-5 items-center justify-center rounded border ${
                             selected
-                              ? "border-indigo-600 bg-indigo-600 text-white"
-                              : "border-gray-300"
+                              ? "border-amber-400 bg-amber-400 text-black"
+                              : "border-zinc-600"
                           }`}
                         >
                           {selected && "✓"}
                         </span>
-
                         {option}
                       </div>
                     </button>
@@ -402,20 +440,20 @@ export default function Quiz({ onSignOut, onNavigate, onGoHome }) {
               onChange={(e) => updateTextAnswer(e.target.value)}
               placeholder={question.placeholder}
               rows={7}
-              className="w-full resize-none rounded-xl border-2 border-gray-200 p-4 text-gray-900 outline-none transition placeholder:text-gray-400 focus:border-indigo-600 focus:ring-2 focus:ring-indigo-100"
+              className="w-full resize-none rounded-xl border border-zinc-800 bg-zinc-900 p-4 text-white outline-none transition placeholder:text-zinc-600 focus:border-amber-400 focus:ring-1 focus:ring-amber-400"
             />
           )}
 
           {submitError && (
-            <p className="mt-6 text-sm text-red-600">{submitError}</p>
+            <p className="mt-6 text-sm text-red-400">{submitError}</p>
           )}
 
-          <div className="mt-8 flex items-center justify-between border-t pt-6">
+          <div className="mt-8 flex items-center justify-between border-t border-zinc-800 pt-6">
             <button
               type="button"
               onClick={previousQuestion}
               disabled={currentQuestion === 0 || submitting}
-              className="rounded-lg px-5 py-2.5 font-medium text-gray-600 hover:bg-gray-100 disabled:cursor-not-allowed disabled:opacity-30"
+              className="rounded-lg px-5 py-2.5 font-medium text-zinc-400 transition hover:bg-zinc-900 hover:text-amber-300 disabled:cursor-not-allowed disabled:opacity-30"
             >
               Back
             </button>
@@ -424,7 +462,7 @@ export default function Quiz({ onSignOut, onNavigate, onGoHome }) {
               type="button"
               onClick={nextQuestion}
               disabled={!canContinue || submitting}
-              className="rounded-xl bg-indigo-600 px-6 py-3 font-semibold text-white transition hover:bg-indigo-700 disabled:cursor-not-allowed disabled:opacity-40"
+              className="rounded-xl bg-amber-400 px-6 py-3 font-semibold text-black transition hover:bg-amber-300 disabled:cursor-not-allowed disabled:opacity-40"
             >
               {isLastQuestion
                 ? submitting
@@ -435,6 +473,6 @@ export default function Quiz({ onSignOut, onNavigate, onGoHome }) {
           </div>
         </div>
       </div>
-    </div>
+    </main>
   );
 }
