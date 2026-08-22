@@ -13,3 +13,5 @@ output/*
 temporary_venv
 .env
 .env.example
+.env.local
+.env.*.local
