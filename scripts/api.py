@@ -12,10 +12,19 @@ Frontend calls it like:
 
 from fastapi import FastAPI , HTTPException
 from pydantic import BaseModel
-
+from fastapi.middleware.cors import CORSMiddleware
 from generate_quiz_vector import generate_quiz_vector
 
 app = FastAPI()
+
+
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 class QuizVectorRequest(BaseModel):
     user_id:str
