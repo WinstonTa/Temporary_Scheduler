@@ -1,4 +1,4 @@
-export default function LandingPage({ onNavigate, onLoginClick }) {
+export default function LandingPage({ onNavigate, onLoginClick, onSignupClick }) {
   return (
     <main className="relative flex min-h-screen flex-col bg-gradient-to-br from-zinc-950 via-black to-black text-white overflow-hidden selection:bg-amber-400 selection:text-black">
       
@@ -99,13 +99,21 @@ export default function LandingPage({ onNavigate, onLoginClick }) {
             </button>
           </nav>
 
-          {/* Far Right Action Button */}
-          <div className="flex items-center">
+          {/* Far Right Action Buttons */}
+          <div className="flex items-center gap-3">
             <button
+              type="button"
               onClick={onLoginClick}
-              className="rounded-xl bg-amber-400 px-5 py-2.5 text-sm font-semibold text-black transition hover:bg-amber-300 active:scale-[0.99] focus:outline-none shadow-lg shadow-amber-400/10"
+              className="px-4 py-2.5 text-sm font-medium text-zinc-300 transition hover:text-amber-400 focus:outline-none"
             >
               Login
+            </button>
+            <button
+              type="button"
+              onClick={onSignupClick}
+              className="rounded-xl bg-amber-400 px-5 py-2.5 text-sm font-semibold text-black transition hover:bg-amber-300 active:scale-[0.99] focus:outline-none shadow-lg shadow-amber-400/10"
+            >
+              Sign Up
             </button>
           </div>
 
@@ -134,10 +142,26 @@ export default function LandingPage({ onNavigate, onLoginClick }) {
             </h1>
           </div>
 
-          <div className="animate-fade-in-3">
+          <div className="animate-fade-in-3 space-y-8">
             <p className="text-sm md:text-base text-zinc-400 max-w-md mx-auto font-light leading-relaxed">
               Discover ideal courses, map your schedule, take diagnostic quizzes, and review instant summaries tailored just for you.
             </p>
+            <div className="flex flex-wrap items-center justify-center gap-3">
+              <button
+                type="button"
+                onClick={onSignupClick}
+                className="rounded-xl bg-amber-400 px-6 py-3 text-sm font-semibold text-black transition hover:bg-amber-300 active:scale-[0.99] focus:outline-none shadow-lg shadow-amber-400/10"
+              >
+                Get started
+              </button>
+              <button
+                type="button"
+                onClick={onLoginClick}
+                className="rounded-xl border border-zinc-700 px-6 py-3 text-sm font-semibold text-zinc-200 transition hover:border-amber-400 hover:text-amber-300 focus:outline-none"
+              >
+                Login
+              </button>
+            </div>
           </div>
 
         </div>
